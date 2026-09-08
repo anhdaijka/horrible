@@ -11,7 +11,7 @@ characters:
 arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
-status: draft
+status: final
 word-count: 2227
 ---
 
