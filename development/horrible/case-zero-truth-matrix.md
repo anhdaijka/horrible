@@ -1,247 +1,243 @@
-# Case Zero Truth Matrix — “Đơn hàng cho người chưa chết”
+# Case Zero Truth Matrix — `Đơn hàng cho người chưa chết`
 
 Status: accepted development model. Not Story Skills canon yet.
 
-## Objective present-day facts
+> This version supersedes the pre-reset assumption that the shop consciously knows at purchase time that the recipient is alive.
+
+## Objective author-side facts
 
 - Khanh is home on a short break after returning from Japan.
-- During a crowded shop period, he records an order from a normal-looking woman in her 50s–60s.
-- The woman orders several ordinary male paper goods plus one unusually specific personal/custom item: an old-style cassette radio, all `làm cho` a named local man who is still alive.
-- **Advance purchase for a living person is not itself treated as extraordinary.** In real shop life, relatives may prepare paper goods before death when they believe a seriously ill or dying person may not survive. Lan/Khanh therefore initially have ordinary explanations available: hidden illness, recent decline, family advance preparation, a namesake, or a private situation they simply do not know.
-- What later makes the order disturbing is that the intended recipient appears to have been **outwardly healthy and living normally**, with no known serious/terminal illness, no obvious decline, and no family expectation that he was about to die. His relatives are not already preparing funeral goods and later appear unaware of the earlier order.
-- The woman pays cash and says she will return in three days.
-- The three-day return is a **customer-requested deadline**, not a narrator-certified industry-standard lead time. Lan may need to check whether the custom radio can be made in time.
-- Four days later the named man dies after a nighttime fall down stairs at home.
-- His family later comes to Khanh's family shop for ordinary funeral/memorial goods and appears unaware of the earlier order.
-- Shop CCTV contains a woman who strongly resembles the dead man's surviving younger sister.
-- The surviving sister denies coming to the shop.
-- The CCTV purchaser uses her left hand while the surviving sister is known as right-handed.
-- Khanh's original shop record distinguishes **`người đặt`** from **`làm cho ai`**.
-- The name given under `người đặt` later proves to belong to a third sibling who died around thirty years earlier.
-- The `làm cho ai` field identifies the living male victim clearly enough to distinguish him from a namesake.
-- A living person did deliberately reopen the old family secret shortly before the present-day death.
-- That living person's goal was pressure / confession / acknowledgment rather than intentional killing.
-- The living sender can be separated with strong evidence from the shop purchaser.
+- During a crowded shop period, a normal-looking woman in her 50s–60s places a personalized order for several ordinary male paper goods plus one unusually specific custom item: an old cassette radio.
+- The recipient is a named local man who, at that moment in objective story reality, is still alive.
+- **The shop does not know or discuss that fact during the sale.** Given the type of goods and context, the transaction is naturally processed as goods for someone already dead.
+- The purchaser pays for the ordinary goods, leaves them at the shop to collect together with the custom radio, and says she will return in three days.
+- Three days is the customer's requested pickup time, not an industry-standard lead time.
+- Four days after the order, the named man dies unexpectedly during the night after a fall at home.
+- By the next morning/day, a relative from his household comes to bà Lan's shop for ordinary funeral/memorial goods and appears unaware of the earlier custom order.
+- The victim's name/locality matches the still-uncollected tagged order already in the shop.
+- Only at this point does the shop compare dates and discover that the order was placed **before the man died**.
+- The first mundane explanation may then arise: perhaps some relative knew he was gravely ill or expected to die and prepared in advance.
+- Later social evidence weakens that explanation: the victim had appeared outwardly healthy, active and living normally; his household was not expecting his death or preparing a funeral.
+- Shop CCTV later shows a purchaser who strongly resembles the victim's surviving younger sister.
+- The surviving sister denies visiting the shop.
+- The purchaser uses her left hand; the surviving sister is known as right-handed.
+- The shop record separates **purchaser/pickup identity** from **intended recipient identity**.
+- The name supplied as purchaser later proves to belong to a third sibling who died roughly thirty years earlier.
+- A living person deliberately reopens an old family secret shortly before the present-day death.
+- That person's goal is pressure / acknowledgment / confession, not intentional killing.
+- Strong evidence can separate that living sender from the shop purchaser.
 - The present-day death remains plausibly accidental; no required evidence establishes homicide.
-- Khanh does not identify the shop purchaser by the end of the case.
+- Khanh does not identify the shop purchaser by the end of Case Zero unless the author later changes this case specifically.
 
-## Research-grounded order definition
+## Revelation-order lock
 
-The order must not rely on the false assumption that `hàng mã + tên người sống = impossible` or even `mua mã trước khi người đó chết = inherently strange`.
+The story must reveal Case Zero in this order:
 
-For the novel, advance preparation is a **normalizable commercial possibility**: if a family expects someone may not survive an illness or acute decline, buying or arranging goods early can make practical sense. The shop therefore does not react as though the customer has broken a supernatural rule.
+1. **ordinary purchase** — shop assumes goods are for someone already dead;
+2. **later death** of the named recipient;
+3. **date contradiction** — the order predates the death;
+4. **mundane hypothesis** — perhaps someone knew he was gravely ill / prepared early;
+5. **disconfirmation** — he had appeared healthy and his household expected no death;
+6. **purchaser identity problem** grows through CCTV, family history, name and handedness;
+7. old family truth and the living pressure actor explain much of the human layer but not the purchaser cleanly.
 
-The uncanny progression should instead be:
+Do not let the original order scene contain dialogue such as:
 
-1. **ordinary transaction:** a woman orders personalized male paper goods for a living man;
-2. **ordinary hypothesis:** perhaps he is very ill, perhaps the family is preparing ahead, perhaps there is a namesake or a private circumstance;
-3. **disconfirming social reality:** the intended man is known/verified as active, outwardly healthy and behaving normally; his family is not anticipating death;
-4. **retrospective disturbance:** he dies only a few days later, making the earlier order look less like practical preparation and more like knowledge nobody should have had.
+- `ông ấy còn sống à?`
+- `cô đặt trước à?`
+- `ông ấy yếu lắm à?`
+- explanations of advance funeral preparation.
 
-The exact ordinary product list remains flexible until the Chapter 2–3 scene brief. Safe current candidates include:
+Those belong only after the chronology is discovered.
 
-- a male / older-male paper clothing set;
-- ordinary paper shoes or personal accessories;
-- an ordinary amount of paper money / gold-paper stock;
-- the custom old-style cassette radio.
+## Research-grounded order design
 
-These are individual retail goods, not a narrator-certified universal `bộ tang lễ chuẩn`.
+The order must not imply a universal ritual rule.
 
-### Order-record fields
+Safe story design:
 
-For fair-play clarity, the family shop record distinguishes two identities:
+- one ordinary male clothing set / ordinary male paper goods;
+- paper footwear or comparable ordinary item;
+- an ordinary amount of paper money/gold-paper stock;
+- one custom old cassette radio;
+- purchaser/pickup name in the shop's administrative record;
+- recipient name and enough locality/age detail to distinguish the person;
+- pickup date;
+- no narrator claim that full name, lunar age or address are metaphysically required.
 
-**`Người đặt`**
-- the purchaser gives the name later identified as the long-dead third sibling;
-- a useful phone number may be absent or refused because she says she will return herself.
+Advance purchase for a living person is a real-world normalizable possibility when death is expected. That cultural fact matters **later**, after characters discover the order was made while the recipient was alive. It is not purchase-scene knowledge.
 
-**`Làm cho ai`**
-- full name of the living male victim;
-- enough locality/address/identifying detail to distinguish him from another person with the same name.
+## Current draft-only working names after opening reset
 
-### Name / age / address boundary
+These are manuscript proposals, not canon until author approval:
 
-- Full name: keep.
-- `Tuổi âm` / age detail: may be kept because the purchaser voluntarily provides it or has it written on a slip. It is **not** a universal shop or ritual requirement.
-- Address/locality: may be kept as disambiguation, delivery/admin information or purchaser-provided detail. It is **not** presented as a metaphysical rule required for the dead to receive goods.
+- recipient / later victim: `Vũ Văn Cường`, 59;
+- purchaser name supplied at the shop: `Vũ Thị Thoa`;
+- local disambiguation: `xóm Trại` in the fictional hometown.
 
-### Radio boundary
+Old prototype names are rejected/unlocked.
 
-The cassette radio is an unusual personal/custom clue, not a mystical ritual category.
+## Cassette-radio clue
 
-The purchaser describes it specifically enough that the shop or an outside maker can reproduce the model without knowing its family significance. Later evidence can show that its details correspond to an old radio connected to the dead sibling / family history.
+The radio is an unusual personal/custom object, not a mystical ritual category.
 
-At least one living transmission route for those details must remain viable so the radio does not prove Model S by itself.
+Current fair-play physical design:
+
+- old rectangular cassette-radio form;
+- dark body;
+- silver-toned front;
+- round speaker on the left;
+- cassette compartment on the right;
+- two top knobs, one larger;
+- folding handle.
+
+The shop/maker can construct it from the purchaser's description/sketch without knowing why it matters.
+
+Later, the victim's family can recognize those details as connected to old family memory. At least one plausible living transmission route for the design must remain viable so the radio does not prove a ghost by itself.
+
+## Purchaser physical / documentary clues
+
+Current opening-reset design keeps the purchaser physically ordinary.
+
+Useful fair-play clues:
+
+- purchaser name written early but not emphasized;
+- handwritten/sketched cassette-radio design;
+- left-hand use while writing/sketching;
+- order date;
+- pickup date;
+- recipient name/locality;
+- CCTV later;
+- old family photograph;
+- evidence of the living person's separate pressure campaign;
+- grandfather's old note only after most of the case is already understood.
+
+The left-hand clue is supportive, never dispositive.
 
 ## Old family history — accepted underlying model
 
 The family originally had at least three siblings.
 
-A young woman died about thirty years before Case Zero under circumstances involving an accident / preventable tragedy and collective human responsibility.
+A young woman died roughly thirty years before Case Zero in an accident / preventable tragedy involving collective human responsibility.
 
-The present-day male victim did not necessarily cause the death directly. His central wrongdoing was knowing important truth and choosing silence when he had an opportunity to speak.
+The present-day male victim did not necessarily cause her death directly. His central wrongdoing was knowing important truth and choosing silence when he had a meaningful opportunity to speak.
 
-Older family members gradually stopped speaking about the dead woman. Photos and memories were put away rather than supernaturally erased. Younger descendants therefore grew up with an incomplete family story.
+Older relatives gradually stopped talking about the dead woman. Photos and memories were put away rather than supernaturally erased. Younger descendants therefore inherit an incomplete family story.
 
-The surviving younger sister knows some but not all of the old truth. Her memory may contain gaps, simplifications or mistaken interpretations after decades.
+The surviving younger sister knows some but not all of the old truth. Decades of grief and family simplification may distort details without making her deceptive by default.
 
 ## Present victim's final days
 
-Until shortly before the death, the victim should read to ordinary observers as a man living a normal life rather than someone visibly approaching death. He may have routine age-related complaints, but do not introduce a known terminal condition or obvious acute decline that would make the early votive order retrospectively mundane.
+Until shortly before the death, the victim should appear to ordinary observers as a man living normal life, not someone visibly approaching death.
 
-A living person connected to the old tragedy sends or places an old photograph, message, object or similar reminder in the victim's path.
+He may have routine age-related complaints, but no known terminal condition or obvious acute decline should make advance funeral preparation retrospectively expected.
 
-This causes renewed anxiety, insomnia and expectation that the old secret may be exposed. That **new psychological pressure occurs after / around the period of the advance order** and must not be rewritten into a pre-existing serious physical illness that explains why someone would reasonably expect his death.
+A living person connected to the old tragedy sends/places an old photograph, message, object or similar reminder in the victim's path.
 
-On the night of death, the victim moves through the house under stress / fatigue and falls down the stairs.
+This renews anxiety, insomnia and fear that the old secret may surface. That psychological pressure does not become a pre-existing serious physical illness.
 
-The exact immediate trigger for leaving his room may remain unclear.
+The victim later falls down stairs at home during the night. The exact immediate trigger may remain unclear.
 
 ## Testimony classes
 
-### Khanh's mother
+### Bà Lan
 
-Likely reliable on the family's own shop procedure and on why this **specific** order becomes wrong only after later context. She is not an authority on universal Vietnamese ritual rules, identity or supernatural cause.
+Reliable on her own shop routine and social/customer memory; not an authority on universal ritual law or supernatural identity.
 
-Her first reactions should remain mundane: perhaps the man is ill and the family is preparing ahead; perhaps the customer has the wrong person; perhaps there are two people with the same name; perhaps it is a private family matter the shop does not need to know.
-
-The key change is that **Lan should not be alarmed merely because a living person's name appears on an advance paper-goods order**.
+Her ordinary explanation appears only after the chronology is discovered.
 
 ### Surviving sister
 
-Claims she never placed the order. Treat denial as potentially genuine. Grief and historical family trauma complicate reliability without automatically making her deceptive.
+Claims she never placed the order. Treat denial as potentially genuine. Grief and historical trauma complicate reliability without automatically making her deceptive.
 
 ### Older relatives / villagers
 
-May remember that there were once “mấy anh em” and later self-correct. Their silence can be social, shame-based or protective rather than conspiratorial.
+May remember `mấy anh em`, self-correct, avoid a name or preserve incomplete family history. Silence may be shame-based, protective or habitual rather than conspiratorial.
 
-### Living sender
+### Living pressure actor
 
-Eventually admits to deliberately reopening the old issue. Their confession explains part of the present victim's mental state but does not explain the votive order.
-
-## Physical / documentary clues
-
-- original shop order record with separate `người đặt` and `làm cho ai` identities;
-- purchaser name written before the present death;
-- living recipient's identifying details supplied before his death;
-- independent/social evidence that the recipient was outwardly healthy, active and not known to be nearing death at the time of the order;
-- victim family's lack of prior funeral preparation / lack of awareness of the advance order;
-- CCTV footage;
-- left-hand behavior;
-- unusually specific radio-cassette description;
-- old family photograph revealing the forgotten third sibling;
-- evidence of the old reminder / pressure sent to the present victim;
-- grandfather's old note discovered only after most of the case is resolved.
-
-## Fair-play clue rules
-
-The purchaser name should be visible to the reader early without being emphasized.
-
-The novel should let the reader share the family's first mundane explanation. Do **not** announce the order as a supernatural omen at purchase time. The fair-play turn comes later when ordinary evidence removes the expected explanation: the man was not known to be dying, his household was not preparing for death, and the purchaser appears to have acted with inexplicable confidence before the accident.
-
-The existence of a third sibling should be foreshadowed before the direct reveal through small social / visual discrepancies, such as:
-
-- an old photograph composition that seems wrong;
-- a relative saying “mấy anh em” and correcting themselves;
-- an unexplained ritual / memorial detail;
-- someone avoiding a name rather than providing a neat exposition speech.
-
-The left-hand clue is supportive, not dispositive.
-
-The radio-cassette knowledge is disturbing but must retain at least one plausible living transmission route.
-
-Do not claim that full name + lunar age + address are universally required for a votive order. Their presence is evidence about this purchaser / this shop record only.
-
-Do not invent a fixed universal funeral-paper-goods package merely to make the clue list tidy.
+Eventually admits intentionally reopening the old issue. Their admission explains part of the victim's state before death but does not explain the purchaser.
 
 ## Khanh's evolving models
 
-### Model 0 — ordinary advance preparation / mundane mistake
+### Model 0 — expected death / advance preparation / mundane mix-up
 
-The shop initially treats the order as potentially normal: perhaps the named man is seriously ill, perhaps relatives are preparing early, perhaps there is a namesake, customer confusion, or another family-specific explanation.
+This model exists only **after** the order date is compared against the death date.
 
-Status: weakened **not simply because the recipient is alive**, but when Khanh/Lan learn that the intended man is outwardly healthy, active, not known to be in serious decline, and his family is not preparing for his death. It becomes much weaker after he dies unexpectedly only days later.
+Status: weakened when evidence shows the victim had appeared healthy and the household expected no death.
 
-### Model 1 — surviving sister planned the order
+### Model 1 — surviving sister placed the order
 
-The CCTV resemblance and family motive point toward her.
+Supported by CCTV resemblance.
 
-Status: weakened by her denial, handedness mismatch and later evidence.
+Status: weakened by denial, handedness mismatch and later evidence.
 
-### Model 2 — one living revenge / pressure actor did everything
+### Model 2 — one living pressure actor did everything
 
-The person reopening the old secret also placed the order.
+Temporarily attractive as a clean root cause.
 
-Status: initially becomes Khanh's preferred “clean root cause”. Later partially collapses when the living sender is separated from the purchaser.
+Status: collapses partially when the living sender is separated from the purchaser.
 
 ### Model H — human impersonation
 
-A living person with detailed knowledge of the old family tragedy impersonated one of the sisters or deliberately resembled them.
+A living person with detailed knowledge impersonated/resembled one of the sisters.
 
 Status: viable at end.
 
 ### Model S — supernatural appearance
 
-The woman who died around thirty years earlier appeared in the shop and placed the order under her own name.
+The woman who died decades earlier appeared in the shop and used her own name.
 
-Status: viable at end, strongly uncanny but not author-certified.
+Status: viable and strongly uncanny; this case may remain unresolved even though the series no longer requires ambiguity by default.
 
 ### Model P — psychological / identity explanation
 
-The surviving sister did visit under a dissociative / memory / identity condition or later cannot acknowledge the act.
+The surviving sister visited under a dissociative/memory/identity condition and later cannot acknowledge it.
 
-Status: viable but weaker at end.
+Status: viable but weaker.
+
+## Fair-play rules
+
+- Purchaser name should be visible early without clue spotlighting.
+- The reader should discover the **date contradiction before** hearing the expected-death explanation.
+- Healthy/normal victim evidence must arrive only after the expected-death hypothesis exists.
+- The third sibling must be foreshadowed before direct reveal through social/visual discrepancy, not a sudden exposition dump.
+- Do not claim a universal fixed funeral-paper package.
+- Do not claim name + age + address are universally required.
+- Do not make the radio or left-handedness independently prove Model S.
 
 ## What Khanh knows by case end
 
-Khanh knows or has strong reason to believe:
+He has strong reason to believe:
 
-- the advance order was not intrinsically impossible or culturally abnormal;
-- the ordinary explanation that someone was simply preparing for an expected death does not fit the victim's apparent condition and family's behavior at the time;
-- the old third sibling existed;
+- an order associated with the victim existed before the victim died;
+- the usual advance-preparation explanation does not fit the victim's apparent condition and household behavior;
+- a forgotten third sibling existed;
 - a serious old family wrong was buried;
-- the present victim knew more than later generations did;
-- a living person intentionally reopened the old secret;
-- that pressure plausibly contributed to the victim's state before his accidental fall;
-- the living sender does not cleanly explain the votive order;
-- the surviving sister's identity does not cleanly explain the purchaser;
+- the present victim knew more than younger relatives did;
+- a living person intentionally reopened the secret;
+- that pressure plausibly contributed to the victim's state before the accidental fall;
+- that living sender does not cleanly explain the shop purchaser;
+- the surviving sister does not cleanly explain the purchaser;
 - the purchaser's recorded name belongs to the long-dead sibling;
-- grandfather had at least some historical contact with the old matter.
+- grandfather had some historical contact with the old matter.
 
-Khanh does **not** know who the purchaser was.
+He still does not know who the purchaser was.
 
-## What authorities need to know
+## Authorities / institutional boundary
 
-The present death can remain an accident under available evidence. Police / authorities do not need to investigate occult interpretations simply because Khanh finds the timing and purchaser identity disturbing.
-
-This preserves institutional competence and keeps Khanh from functioning as a superior amateur homicide detective.
-
-## What the dead man's family knows
-
-Older generation: more of the old wrong, though accounts conflict.
-
-Younger generation: incomplete history; not automatically entitled to every traumatic detail simply because Khanh uncovered it.
-
-The family decides much of its own handling. Khanh does not become a public-exposé hero.
+The present death can remain an accident under available evidence. Police do not need to investigate occult interpretations simply because Khanh finds the timing and purchaser identity disturbing.
 
 ## Funeral timing boundary
 
-After the nighttime death, family and funeral-service logistics may begin immediately or by the next morning/day. A relative coming to Lan's shop quickly for ordinary funeral/memorial paper goods is plausible in the contemporary Bắc Ninh setting.
+After the nighttime death, family/funeral-service logistics may begin immediately or by the next morning/day. A relative coming quickly to bà Lan's shop for a small ordinary purchase is plausible.
 
-Do not freeze the family into one universal “Northern funeral sequence”. Burial, cremation, funeral-service use, Buddhist-influenced rites and local/family custom must remain specific to the family once that scene is designed.
-
-## Author-level ambiguity rule
-
-At this stage, the author does not have to select H, S or P as final metaphysical truth.
-
-However, all future additions to Case Zero must remain compatible with the evidence unless an explicit author decision supersedes this matrix.
-
-Do not use later macro mythology to retroactively make every clue point to a single supernatural answer.
+Do not freeze the family into a universal Northern funeral sequence. Exact ritual details remain family/locality-specific until separately researched.
 
 ## Grandfather residue
 
-After Case Zero is substantially over, Khanh encounters an old grandfather record with the dead woman's name, place / date and a terse note such as:
+Only after Case Zero is substantially resolved does Khanh encounter an old grandfather record with the dead woman's name/place/date and a terse refusal such as:
 
 > Không nhận lễ.
 
-This confirms only that grandfather once encountered the matter in some form. It does not prove prophecy, supernatural power, guilt or conspiracy.
+This proves only that grandfather encountered the matter in some form. It does not establish prophecy, omniscience, guilt or conspiracy.
