@@ -6,7 +6,7 @@ Status: fresh manuscript draft completed after full opening reset; self-pass com
 
 - file: `chapters/chapter-01.md`
 - status: draft
-- Story Skills count target: 2236 words
+- Story Skills count: 2227 words
 - scenes: 3 draft scene records
 - old prototype prose was not reused
 
