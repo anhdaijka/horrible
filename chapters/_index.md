@@ -9,6 +9,6 @@ story: horrible
 
 | # | Title | POV | Status | Word Count | File |
 |---|---|---|---|---|---|
-| 1 | Bốn ngày trước | Nguyễn Minh Khanh | draft | 2236 | [chapter-01](chapter-01.md) |
+| 1 | Bốn ngày trước | Nguyễn Minh Khanh | draft | 2227 | [chapter-01](chapter-01.md) |
 
-## Total Word Count: 2236
+## Total Word Count: 2227
