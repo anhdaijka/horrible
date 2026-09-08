@@ -14,12 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Apply narrative address and physicality pass
-        run: python .github/apply_address_physicality.py
+      - name: Final narrative address cleanup
+        run: python .github/fix_address_caps.py
       - name: Commit changes
         run: |
           git config user.name "Phùng Quang Anh"
           git config user.email "84665790+anhdaijka@users.noreply.github.com"
-          git add AGENTS.md author/style-bible.md author/session-state.md characters chapters revisions/reviews/repo-address-physicality-audit.md
-          git commit -m "style: lock narrative address and character physicality"
+          git add author/session-state.md chapters
+          git commit -m "revise: normalize narrator honorifics and body cue"
           git push
