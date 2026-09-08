@@ -7,9 +7,6 @@ story: horrible
 
 ## Registry
 
-| # | Title | POV | Status | Word Count | File |
-|---|---|---|---|---|---|
-| 1 | Tiếng chợ | Nguyễn Minh Khanh | final | 2978 | [chapter-01](chapter-01.md) |
-| 2 | Người đặt | Nguyễn Minh Khanh | draft | 2511 | [chapter-02](chapter-02.md) |
+No active manuscript chapters. The previous Chapter 1–2 prototypes were author-rejected and removed from active canon.
 
-## Total Word Count: 5489
+## Total Word Count: 0
