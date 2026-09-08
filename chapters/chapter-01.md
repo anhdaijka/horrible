@@ -15,7 +15,7 @@ mentions:
 arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
 status: final
-word-count: 3063
+word-count: 2978
 ---
 
 # Chương 1: Tiếng chợ

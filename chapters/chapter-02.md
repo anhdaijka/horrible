@@ -14,7 +14,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: draft
-word-count: 2538
+word-count: 2511
 ---
 
 # Chương 2: Người đặt
