@@ -8,15 +8,16 @@ Repository: `anhdaijka/horrible`.
 
 Branch: `main`.
 
-Current phase: **Chapter 1 rewritten + P0 cultural cleanup complete + Nguyễn Ngọc Ngạn horror-craft research added → waiting for Chapter 1 manuscript review through the new craft lens before canonization / Chapter 2 brief.**
+Current phase: **Chapter 1 rewritten, P0 cultural cleanup complete, Nguyễn Ngọc Ngạn craft research applied, and a second craft revision is complete → waiting for author manuscript approval before canonization / Chapter 2 brief.**
 
 A new agent should:
 
 1. read this file;
 2. read `AGENTS.md` if not already loaded;
 3. for prose/revision work, read `author/style-bible.md` plus `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`;
-4. follow the cultural reality gate and the `Next action` below;
-5. load only the specific canon/author/draft/research files needed.
+4. read `revisions/reviews/chapter-01-ngan-craft-audit.md` before making further Chapter 1 changes;
+5. follow the cultural reality gate and the `Next action` below;
+6. load only the specific canon/author/draft/research files needed.
 
 Do **not** reread Discovery 01–15 by default.
 
@@ -27,8 +28,8 @@ Do **not** reread Discovery 01–15 by default.
 - Initial Story Skills canon promotion: approved and complete.
 - `continuity/state.md` remains at `current-chapter: 0`; Chapter 1 is still draft manuscript, not canonized on-page state.
 - Chapter 1 brief: `revisions/plans/chapter-01-brief.md` — approved.
-- Current Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ`, **3355 recorded words**.
-- Review record: `revisions/reviews/chapter-01-initial-review.md`.
+- Current Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ`, **2911 recorded words**.
+- Current craft review: `revisions/reviews/chapter-01-ngan-craft-audit.md`.
 
 Core workflow:
 
@@ -61,6 +62,21 @@ Use it as a **craft lens, not imitation target**. Key transferable mechanisms:
 - past human wrongdoing giving emotional weight without automatically proving supernatural causation.
 
 Important medium distinction: Nguyễn Ngọc Ngạn has said he edits dialogue specifically for audiobook/radio-drama presentation. `Horrible` remains text-first, so do not copy audiobook theatricality or surface phrasing. Learn the underlying social/practical logic instead.
+
+## Chapter 1 second craft revision — applied
+
+Audit: `revisions/reviews/chapter-01-ngan-craft-audit.md`.
+
+Applied without changing plot/canon:
+
+- removed narrator explanations after scenes already demonstrated the point;
+- reduced sitcom-like setup/payoff dialogue chains;
+- grounded Hùng more strongly in repair/errand task logic;
+- kept Mai's logistics agency while reducing friendship exposition;
+- removed premature rationalization around the upstairs sound;
+- replaced the thematic final sentence with concrete continuing market/shop activity.
+
+Do not restore the removed explanatory/thematic prose unless the author explicitly asks.
 
 ## Opening character voice locks
 
@@ -106,36 +122,21 @@ P0 Case Zero refinements are **author-approved and incorporated** into `developm
 
 Do not invent a universal `bộ tang lễ chuẩn` or universal Northern funeral sequence.
 
-## Chapter 1 status
-
-The first prose draft is superseded in Git history.
-
-The rewritten Chapter 1 preserves the approved four-movement structure with relaxed ordinary life before the final mundane disturbance. No Case Zero customer/order appears. No supernatural rule is established. Do not invent the hometown proper name yet.
-
-P0 cultural cleanup is applied: the unsupported `loại năm mươi / loại tám mươi` shop shorthand was removed rather than rationalized into a fake cultural convention.
-
 ## Repository status
 
 `anhdaijka/horrible@main` is the **only active source of truth** for this novel.
 
 The former `anhdaijka/novel-os@story/horrible-development` branch has been deleted after migration. Do not look for or recreate a parallel Horrible branch in `novel-os`.
 
-The dedicated repository was imported as a clean snapshot of the former development branch. Source workflow files were restored after import because GitHub App workflow permissions prevented a direct history-preserving push of `.github/workflows/`.
-
 ## Validation status
 
-Post-migration GitHub Actions on `anhdaijka/horrible`:
-
-- Story Skills schema validation: **PASS**
-- links/backlinks: **PASS**
-- continuity consistency: **PASS**
-- Novel OS stress workflow: **PASS**
+Post-migration / post-revision GitHub Actions on `anhdaijka/horrible` have passed Story Skills schema, links/backlinks and continuity checks. Re-check the latest HEAD after any further manuscript or state edit.
 
 `current-chapter: 0` intentionally remains behind drafted Chapter 1 until manuscript approval.
 
 ## Next action
 
-**Review the current `chapters/chapter-01.md` specifically through the new Nguyễn Ngọc Ngạn craft lens: remove residual explanatory/showcase prose, ensure ordinary social causality carries the scene, and check that each character's practical life remains more important than signaling theme.**
+**Author reads/reviews the current `chapters/chapter-01.md` after the applied craft revision.**
 
 If only local prose issues remain, revise directly within the approved chapter purpose.
 
