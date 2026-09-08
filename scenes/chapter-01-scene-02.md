@@ -10,7 +10,7 @@ characters:
 arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
-status: draft
+status: final
 state-changes: []
 ---
 
@@ -22,4 +22,4 @@ Rewind four days and show the original transaction as ordinary shop business whi
 
 ## Continuity Notes
 
-Draft-only. At order time, the shop naturally assumes the goods are for someone already dead. No character knows or discusses that Vũ Văn Cường is alive.
+On-page canon. At order time, the shop naturally assumes the goods are for someone already dead. No character knows or discusses that Vũ Văn Cường is alive.
