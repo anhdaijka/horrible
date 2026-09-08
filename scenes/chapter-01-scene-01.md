@@ -9,7 +9,7 @@ characters:
   - tran-thi-lan
 arcs-advanced:
   - case-zero-don-hang-cho-nguoi-chua-chet
-status: draft
+status: final
 state-changes: []
 ---
 
@@ -21,4 +21,4 @@ Open after Vũ Văn Cường's death and reveal the chronological contradiction:
 
 ## Continuity Notes
 
-Draft-only. The victim's cause of death, health before death, purchaser identity meaning and supernatural explanation remain unrevealed. The relative who comes to the shop is unaware of the earlier custom order.
+On-page canon. The victim's cause of death, health before death, purchaser identity meaning and supernatural explanation remain unrevealed. The relative who comes to the shop is unaware of the earlier custom order.
