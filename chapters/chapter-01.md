@@ -15,7 +15,7 @@ mentions:
 arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
 status: draft
-word-count: 3355
+word-count: 2911
 ---
 
 # Chương 1: Tiếng chợ
@@ -86,9 +86,11 @@ Khanh mở nắp bát bún. Mẹ đã cho sẵn rau, còn để riêng một mi�
 
 — Mẹ cho con nghỉ phép đi.
 
+Lan đang quay sang lấy hàng cho khách, đáp luôn:
+
 — Công ty cho nghỉ rồi còn gì.
 
-Khanh định nói tiếp nhưng thấy mẹ đã quay sang gọi với một bà ngoài cửa:
+Khanh định nói tiếp nhưng bà đã gọi với ra ngoài:
 
 — Cô vẫn lấy như năm ngoái à? Tôi để riêng cho cô rồi đấy.
 
@@ -96,29 +98,23 @@ Bà khách cười bảo thôi, bớt cho tôi một ít, năm nay ít người.
 
 Bố anh dẹp hộp đồ nghề sang một bên, đi qua lấy ấm nước. Ông dừng cạnh Khanh, nhìn cách con trai buộc thử một bó hàng.
 
-— Lỏng thế kia lát nó tuột hết.
+— Kéo chặt tay vào, lỏng thế lát nó tuột.
 
-— Con chưa buộc mà.
+— Con đang buộc mà.
 
-— Thì buộc đi.
+— Thì bố bảo thế.
 
-— Bố ra Nhật mấy năm chắc cũng quên thôi.
+Khanh siết lại nút dây, giơ bó hàng lên cho bố nhìn.
 
-Hùng cầm cái chén, ngó con trai một cái.
+— Thế này được chưa?
 
-— Bố mà sang được mấy năm thì ở luôn, về làm gì.
+Hùng nhìn qua.
 
-Lan ở ngoài nghe thấy, quay đầu vào:
+— Ừ. Để cái nơ sang bên kia, xách đỡ vướng.
 
-— Ông đi được ba hôm lại đòi về ấy chứ ở luôn.
+Nói xong ông rót chén nước, quay ra hỏi vợ cái bản lề cũ mua ở đâu. Lan bảo không nhớ, ông tự tìm hàng quen mà mua. Hùng uống hết chén nước rồi cầm cái bản lề tháo ra cho vào túi áo, đi ra phía sau lấy chìa khóa xe.
 
-— Bà biết à?
-
-— Tôi còn không biết ông.
-
-Hai người khách trước cửa cùng cười. Hùng cũng cười, rót nước xong đi ra phía sau, coi như câu chuyện kết thúc ở đó.
-
-Khanh ăn xong thì ngồi buộc hàng thật. Tay đã chậm hơn ngày trước nhưng vẫn nhớ cách luồn dây qua giữa bó giấy để khi xách lên không méo. Anh buộc được hai bó, mẹ đi ngang qua giật thử một cái, không nói gì, thế là coi như đạt.
+Khanh ăn xong thì ngồi buộc hàng thật. Tay đã chậm hơn ngày trước nhưng vẫn nhớ cách luồn dây qua giữa bó giấy để khi xách lên không méo. Anh buộc được hai bó, mẹ đi ngang qua giật thử một cái, không nói gì.
 
 Khoảng gần năm rưỡi, khách bắt đầu vào liền hơn. Phần lớn mua mấy thứ rất bình thường với nhà anh nhưng nếu để trong một cửa hàng khác chắc sẽ trông khá lạ: tiền vàng, quần áo giấy, hương, nến, mấy món đồ nhỏ làm bằng giấy bóng. Một bà trung niên tới lấy bộ đồ đã đặt từ hôm trước. Lan lục trong chồng hàng một lúc, lấy ra chiếc áo mã màu tím nhạt rồi còn mở hẳn hai tay áo cho bà khách xem.
 
@@ -128,7 +124,7 @@ Bà kia cầm lên ngắm, vẫn có vẻ chưa yên tâm.
 
 — Rộng nữa được không cô?
 
-— Rộng nữa trông như áo người béo. Cụ nhà chị người có thế này thôi mà.
+— Rộng nữa trông thùng thình lắm. Cụ nhà chị người có thế này thôi mà.
 
 Lan đưa hai tay ước lượng. Bà khách lại bảo nhưng mẹ bà mấy hôm trước về trong mơ, cứ kéo tay áo rồi kêu chật, bà sợ gửi xuống lại không mặc được.
 
@@ -140,11 +136,11 @@ Mẹ anh chẳng có vẻ gì bất ngờ.
 
 — Ừ, cũng cô làm cho.
 
-— Thế thì tôi nhớ rồi. Năm ngoái tay nhỏ thật. Nhưng mà cụ nhà chị lúc sống có hay mặc tay rộng không?
+— Thế thì tôi nhớ rồi. Năm ngoái tay nhỏ thật. Cụ nhà chị lúc sống có hay mặc tay rộng không?
 
-Bà khách nghĩ một lúc, bảo hình như có, vì cụ bị đau cổ tay, ghét áo bó. Lan nghe xong gật gù như vừa tìm ra một lý do đủ dùng.
+Bà khách nghĩ một lúc, bảo hình như có, vì cụ bị đau cổ tay, ghét áo bó. Lan gật đầu.
 
-— Thế thì thôi, lấy cái này được. Chị cứ mang về, nếu vẫn không ưng thì chiều đem lại đây tôi sửa cho. Chứ giờ làm to nữa xấu áo.
+— Thế thì lấy cái này được. Chị cứ mang về, nếu vẫn không ưng thì chiều đem lại đây tôi sửa cho. Chứ giờ làm to nữa xấu áo.
 
 Bà kia trả tiền, còn đứng kể thêm một đoạn về giấc mơ. Đại ý người mẹ đã mất về ngồi ở đầu giường, nói đúng mấy câu rồi đi. Khanh nghe được nửa đầu, nửa sau bị tiếng một người khác ngoài cửa hỏi mua nến át mất. Mẹ anh vừa tính tiền vừa “ừ, thế à” vài tiếng, chẳng rõ có nghe hết không.
 
@@ -162,19 +158,15 @@ Lan đang đếm lại một xấp tiền lẻ.
 
 — Mơ thấy người chết về thử áo ấy.
 
-Mẹ anh nghĩ một chút, rồi nhún vai.
+Mẹ anh ngẩng lên nhìn anh một cái rồi lại cúi xuống xếp tiền.
 
-— Người nhà người ta mất, người ta nhớ thì người ta mơ. Có khi đúng, có khi linh tinh. Mẹ biết làm sao được. Khách người ta muốn tay rộng thì mẹ làm tay rộng thôi.
+— Người nhà người ta mất, người ta nhớ thì người ta mơ. Có khi đúng, có khi linh tinh. Mẹ biết làm sao được. Khách muốn tay rộng thì mẹ làm tay rộng thôi.
 
-Nói xong bà quay sang gọi bố Khanh từ phía sau:
+Bà nhét xấp tiền vào ngăn kéo rồi gọi về phía sau:
 
 — Ông Hùng ơi, lát nhớ mua cho tôi cuộn băng trong loại to nhé, hết rồi đấy.
 
-Câu chuyện về người chết thế là dừng ở đó, không phải vì ai né tránh mà vì trong nhà đang có nhiều thứ khác cần nhớ hơn.
-
-Khanh cúi xuống tiếp tục buộc hàng. Hồi bé anh từng không hiểu nổi cách người lớn có thể kể chuyện ma rồi ngay lập tức quay sang hỏi nhau trưa ăn gì. Khi ấy, với anh, đã nhắc đến người chết thì phần còn lại của buổi sáng đáng lẽ phải thay đổi một chút mới đúng. Nhưng người lớn quanh anh chưa bao giờ thấy cần làm thế.
-
-Mẹ anh còn đang cãi với bố ngoài sau nhà xem nên mua băng dính ở đâu rẻ hơn.
+Hùng đáp vọng ra một tiếng “biết rồi”. Ngoài cửa có người hỏi giá nến. Lan quay sang lấy hàng, Khanh cũng cúi xuống kéo tiếp nút dây đang buộc dở.
 
 ***
 
@@ -200,15 +192,11 @@ Cúp máy xong, cô chìa tay.
 
 — Bút dạ đâu?
 
-— Chào hỏi không có à?
+— Sang mượn bút mà còn gọi tao Việt kiều?
 
-— Sáng giờ tao chào mày ngoài đường hai lần rồi, mày ngủ còn gì.
+— Ừ. Bút đâu?
 
-— Tao mới dậy từ bốn rưỡi.
-
-— Thế càng đáng trách. Bút đâu?
-
-Khanh đặt thùng xuống, còn chưa kịp trả lời thì mẹ anh ở trong đã nói:
+Mẹ anh ở trong nói luôn:
 
 — Ngăn thứ hai ấy Mai, tự lấy đi cháu.
 
@@ -226,39 +214,29 @@ Mai cúi mở đúng ngăn kéo dưới quầy. Cô lục một lúc, lấy cây
 
 Khanh nhìn cô hí hoáy sửa mấy chữ trên thùng.
 
-— Mày vẫn nhớ ngăn nào cơ à?
+— Mày còn nhớ ngăn nào à?
 
-Mai không ngẩng lên.
-
-— Có mỗi cái quầy này từ bé đến giờ cô Lan đổi được mấy thứ đâu.
+— Quầy nhà mày có đổi đâu.
 
 — Tao còn quên.
 
-— Vì mày có ở nhà đâu.
+Mai đậy nắp bút, chuyển sang thùng thứ hai.
 
-Cô nói rất tự nhiên. Khanh nghe xong chỉ “ừ” một tiếng, không phải vì buồn hay chạnh lòng gì, đơn giản là đúng thật.
+— Mày mấy năm có ở nhà đâu.
 
-Mai viết xong một thùng, chuyển sang thùng thứ hai. Một lát sau cô hỏi:
+— Ừ.
 
-— Mày về đến bao giờ?
+Cô viết thêm mấy chữ rồi hỏi:
 
-— Tuần sau lên Hà Nội.
+— Bao giờ lên Hà Nội?
 
-— Nhanh thế?
+— Tuần sau.
 
-— Nghỉ thế là nhiều rồi. Còn đi làm.
+— Thế cũng nhanh.
 
-— Ừ, tao tưởng Việt kiều về phải đi ăn cỗ hết nửa tháng.
+— Nghỉ thế là nhiều rồi. Còn phải đi làm.
 
-— Ai phong Việt kiều cho tao thế?
-
-— Cả chợ.
-
-— Cả chợ nào?
-
-— Từ sáng đến giờ có tao thôi.
-
-Khanh bật cười. Mai cũng cười theo, nhưng đúng lúc đó điện thoại cô rung. Cô nhìn màn hình, nét mặt đổi ngay sang vẻ bực bội rất thật của người vừa biết thêm một việc không nằm trong kế hoạch.
+Mai “ừ” một tiếng, mắt vẫn nhìn xuống thùng hàng. Đúng lúc đó điện thoại cô rung. Cô nhìn màn hình rồi nhíu mày.
 
 — Lại gì nữa đây...
 
@@ -280,19 +258,19 @@ Mai đã xuống bậc cửa. Khanh gọi theo:
 
 — Bút của nhà tao đang trong tay tao mà mày mượn kiểu gì?
 
-Cô quay đầu lại vừa đủ để nói:
+Cô quay đầu lại:
 
-— Thì mày cầm hộ tao đến trưa.
+— Thì giữ hộ tao đến trưa.
 
-Nói xong cô đi luôn, chen vào đám người đang dỡ rau ở ngoài đường.
+Rồi cô đi luôn, chen vào đám người đang dỡ rau ở ngoài đường.
 
-Khanh nhìn cây bút trong tay, nhớ hồi hai đứa còn nhỏ Mai cũng có kiểu mượn đồ như thế. Hồi ấy cô chạy sang quầy lấy kéo, lấy băng dính, xin cốc nước, có hôm chỉ sang ngồi ké vì nhà đang bị mẹ bắt nhặt rau. Không ai trong nhà Khanh từng coi việc Mai tự mở ngăn kéo là chuyện cần hỏi.
+Khanh cầm cây bút, nhớ hồi hai đứa còn đi học Mai cũng hay chạy sang quầy lấy kéo, lấy băng dính, có hôm xin cốc nước rồi ngồi ké một lúc vì bên nhà đang bị mẹ bắt nhặt rau.
 
-Mẹ anh đi ngang, thấy cây bút thì tiện tay lấy luôn.
+Lan đi ngang, thấy cây bút thì chìa tay.
 
 — Đưa đây mẹ viết cái này.
 
-Thế là cái bút cũng chẳng đợi được đến trưa.
+Khanh đưa cho bà. Cái bút vừa được mượn xong lại trở về ngăn kéo nhà anh theo một đường vòng chẳng ai để ý.
 
 ***
 
@@ -306,76 +284,44 @@ Gần tám giờ, chợ bớt một lượt xe lớn nên khoảng trước cử
 
 Khanh đặt túi xuống, đi về phía cầu thang. Vừa bước tới chân cầu thang, trên tầng có tiếng gì đó cọ qua nền gạch, nghe như vật nhẹ bị kéo một đoạn rồi mắc lại.
 
-Anh dừng chân theo phản xạ.
+Anh dừng chân.
 
-Một giây sau Khanh thấy hơi buồn cười vì mình đã dừng. Nhà đầy thùng giấy, túi nilon, đồ kê tạm; cửa sổ trên tầng lại hay để hé. Tiếng đồ đạc xê dịch chẳng có gì lạ. Nhưng anh vẫn đứng dưới đó thêm một chút rồi mới hỏi, giọng cố giữ bình thường:
+— Mẹ có lên trên không?
 
-— Mẹ có lên trên kia không?
+Lan đang cúi ghi sổ.
 
-Lan đang cúi ghi sổ, không ngẩng đầu.
-
-— Mẹ ngồi đây từ nãy giờ còn gì.
+— Không. Lên lấy nhanh hộ mẹ đi, khách đang đợi.
 
 — Bố đâu?
 
 — Đi mua bản lề rồi.
 
-Khanh nhìn lên cầu thang.
+Khanh vẫn nhìn lên cầu thang. Lan ngẩng lên thấy vậy thì bật cười.
 
-Mẹ anh chợt ngẩng lên, hiểu ra nét mặt của con trai trước khi anh kịp nói thêm.
+— Sợ thì bật đèn mà lên, có ai cấm đâu.
 
-— Lại sợ à?
+— Con hỏi xem có ai thôi.
 
-— Ai sợ.
+— Không có ai. Hai bó dây đỏ, trên bàn phòng trong.
 
-Lan bật cười.
+Khanh lẩm bẩm gì đó rồi đi lên.
 
-— Ừ, không sợ. Thế lên lấy hộ mẹ đi.
-
-— Con đang hỏi xem có ai trên đấy thôi.
-
-— Không có ai. Có ma thì bảo nó lấy hai bó xuống luôn càng tốt.
-
-Khanh cau mặt.
-
-— Mẹ nói thế xong ai mà muốn lên nữa.
-
-— Hai mươi bảy tuổi rồi đấy ông tướng ạ.
-
-— Hai mươi bảy thì ma nó né à?
-
-Lần này mẹ anh cười thành tiếng, còn một bà khách đang chọn nến ngoài cửa nghe loáng thoáng cũng quay vào cười theo. Khanh tự nhiên thấy mình trở lại đúng cái vai hồi nhỏ từng ghét nhất: đứa trong nhà sợ ma đến mức ai cũng biết.
-
-Anh lẩm bẩm một câu không rõ tiếng rồi đi lên.
-
-Cầu thang sáng hơn anh tưởng. Trời ngoài kia đã lên hẳn, ánh sáng từ cửa sổ cuối hành lang đổ vào đủ để nhìn thấy mấy thùng hàng mẹ chất sát tường. Khanh vẫn đưa tay bật công tắc đèn khi đi qua. Bật xong anh mới nhận ra, nhưng thôi, cũng chẳng việc gì phải tắt lại ngay.
+Trời ngoài kia đã sáng hẳn. Ánh sáng từ cửa sổ cuối hành lang đổ vào đủ nhìn thấy mấy thùng hàng chất sát tường, nhưng đi ngang công tắc Khanh vẫn bật đèn.
 
 Tiếng cọ lại vang lên khi anh tới gần phòng trong.
 
-Lần này Khanh biết nó phát ra từ bên trái, chỗ mấy tấm carton lớn dựng cạnh cửa sổ. Anh bước vào, nhìn một vòng rồi thấy ngay thủ phạm: cửa sổ hé, gió đẩy một túi nilon treo ở tay nắm chạm vào tấm bìa phía sau ghế; tấm bìa xô xuống nền, mép nó cọ trên gạch mỗi lần túi phồng lên.
+Lần này nghe rõ từ bên trái, chỗ mấy tấm carton lớn dựng cạnh cửa sổ. Khanh bước vào, nhìn một vòng rồi thấy cái túi nilon treo ở tay nắm cửa sổ đang phồng lên theo gió, quệt vào tấm bìa phía sau ghế. Mỗi lần túi căng ra, tấm bìa xô một chút, mép dưới cọ trên nền gạch.
 
-Khanh đứng nhìn đúng hai nhịp gió rồi thở ra bằng mũi.
+Anh kéo tấm bìa dựng lại, lấy một thùng nhỏ chèn dưới chân cho khỏi trượt rồi đi tìm hai bó dây đỏ. Chúng nằm ngay trên cái bàn phía trong, chẳng hiểu sao mẹ lại gọi là “phòng trong” trong khi tầng này có đến hai phòng phía trong.
 
-— Biết ngay.
+Khanh ôm cả hai bó đi xuống.
 
-Nói xong anh tự thấy mình hơi mặt dày, vì dưới nhà mà mẹ hỏi chắc chắn bà sẽ bảo: biết ngay sao còn bật đèn.
+Lan thấy anh đặt hàng lên quầy thì hỏi:
 
-Anh dựng tấm bìa lại, lấy một thùng nhỏ chèn dưới chân cho khỏi trượt, rồi đi tìm hai bó dây đỏ. Chúng nằm ngay trên cái bàn phía trong, chẳng hiểu sao mẹ lại gọi là “phòng trong” trong khi tầng này có đến hai phòng phía trong. Khanh ôm cả hai bó lên, trước khi ra cửa tiện tay tắt đèn.
+— Gì trên đấy thế?
 
-Đi xuống được nửa cầu thang, anh nghe ngoài đường một xe tải nổ máy. Cái lan can cũ rung rất nhẹ theo tiếng động. Chuyện đó ngày bé xảy ra suốt, chỉ là anh đã quên mất.
+— Túi nilon đẩy tấm bìa thôi.
 
-Mẹ thấy anh xuống thì hỏi ngay:
+— Ừ. Tí bảo bố mày kê lại cho chắc. Ra kia lấy hộ mẹ túi nến với.
 
-— Có ai trên ấy không?
-
-Khanh đặt hai bó hàng lên quầy.
-
-— Có. Đông lắm. Con bảo xuống phụ mẹ bán hàng rồi.
-
-Lan cười, đập nhẹ vào tay con trai bằng cuốn sổ.
-
-— Lắm chuyện. Ra kia lấy hộ mẹ túi nến.
-
-Khanh quay ra lấy. Ngoài đường người ta lại đang cãi nhau vì một chiếc xe chắn lối, ở quầy bên cạnh có tiếng gọi một bát phở mang sang, còn Mai không biết đã chạy tới đâu với chuyến hàng giao muộn của cô.
-
-Buổi sáng tiếp tục như thể chẳng có gì đáng phải dừng lại.
+Khanh quay ra lấy. Ngoài ngã tư một chiếc xe tải lại bóp còi xin đường, bên quầy hàng bên cạnh có người gọi một bát phở mang sang. Lan vừa thối tiền cho khách vừa nhắc anh xếp gọn mấy thùng carton vào trong vì lát nữa còn có xe giao hàng tới.
