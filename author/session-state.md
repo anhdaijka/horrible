@@ -8,7 +8,7 @@ Repository: `anhdaijka/horrible`.
 
 Branch: `main`.
 
-Current phase: **Chapter 1 rewritten, P0 cultural cleanup complete, Nguyễn Ngọc Ngạn craft research applied, and a second craft revision is complete → waiting for author manuscript approval before canonization / Chapter 2 brief.**
+Current phase: **Chapter 1 rewritten and craft-revised; P0 cultural cleanup, Nguyễn Ngọc Ngạn craft research, narrative physicality, prose-depth audit, and corrected Case Zero advance-order premise are incorporated → waiting for author manuscript approval before canonization / Chapter 2 brief.**
 
 A new agent should:
 
@@ -16,8 +16,9 @@ A new agent should:
 2. read `AGENTS.md` if not already loaded;
 3. for prose/revision work, read `author/style-bible.md` plus `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`;
 4. read `revisions/reviews/chapter-01-ngan-craft-audit.md` before making further Chapter 1 changes;
-5. follow the cultural reality gate and the `Next action` below;
-6. load only the specific canon/author/draft/research files needed.
+5. use `revisions/reviews/prose-depth-audit.md` as a revision lens, not a paragraph checklist;
+6. follow the cultural reality gate and the `Next action` below;
+7. load only the specific canon/author/draft/research files needed.
 
 Do **not** reread Discovery 01–15 by default.
 
@@ -29,7 +30,10 @@ Do **not** reread Discovery 01–15 by default.
 - `continuity/state.md` remains at `current-chapter: 0`; Chapter 1 is still draft manuscript, not canonized on-page state.
 - Chapter 1 brief: `revisions/plans/chapter-01-brief.md` — approved.
 - Current Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ`, **3063 recorded words**.
-- Current craft review: `revisions/reviews/chapter-01-ngan-craft-audit.md`.
+- Current craft reviews:
+  - `revisions/reviews/chapter-01-ngan-craft-audit.md`
+  - `revisions/reviews/repo-address-physicality-audit.md`
+  - `revisions/reviews/prose-depth-audit.md`
 
 Core workflow:
 
@@ -46,6 +50,21 @@ The author rejected the first Chapter 1 prose style because it felt too compress
 Do **not** reproduce that first-draft voice.
 
 The active style contract is in `author/style-bible.md` and emphasizes natural storytelling, mixed sentence lengths, genuinely ordinary ordinary-life scenes, interruptible dialogue, supporting-character agency, differentiated attention/priorities, and horror only when a trusted normal pattern breaks.
+
+## Prose-depth lenses now active
+
+Audit: `revisions/reviews/prose-depth-audit.md`.
+
+Use only where relevant, without visible technique-showing:
+
+- focalized / free-indirect attention instead of neutral-camera prose or constant thought tags;
+- subtext grounded in Vietnamese kinship, hierarchy, shame, duty, money and social permission;
+- deliberate scene-vs-summary control (`show, don't tell` is not a universal law);
+- negative space / omission with human reasons rather than automatic ominous silence;
+- aftermath and behavioral residue after major fear/moral events;
+- ordinary details that can gain delayed meaning on reread;
+- tonal counterpoint: work, humor, money, grief and horror may coexist;
+- epistemic phrasing that preserves observed vs told vs inferred vs author-certified fact.
 
 ## Nguyễn Ngọc Ngạn craft lens now active
 
@@ -120,13 +139,24 @@ Verified P0 pack:
 - `research/verified/funeral-workflow-bacninh-v1.md`
 - `research/verified/case-zero-order-cultural-audit-v1.md`
 
-P0 Case Zero refinements are **author-approved and incorporated** into `development/horrible/case-zero-truth-matrix.md`:
+### Case Zero advance-order correction — author domain knowledge
+
+The author has direct family experience selling votive-paper goods and corrected an earlier project assumption:
+
+- buying / preparing paper goods before a living person dies is **not inherently rare or uncanny** when relatives already believe the person may not survive serious illness or decline;
+- therefore the Case Zero order must **not** become strange merely because the named recipient is alive;
+- Lan/Khanh initially normalize it through ordinary possibilities: hidden illness, expected death, family preparing early, namesake, or a private circumstance;
+- the real uncanny turn is later evidence that the named man had been outwardly healthy, active and living normally, with no known serious/terminal decline and no family expectation/preparation for his death;
+- he then dies unexpectedly only days after the order, retrospectively making the purchaser's apparent foreknowledge disturbing.
+
+This correction supersedes the older requirement that the order itself be unusually `death/memorial-coded` to generate its horror.
+
+Other P0 refinements remain active:
 
 1. ledger distinguishes `người đặt` and `làm cho ai`;
-2. the order is explicitly death/memorial-coded in purpose/context, because paper goods can also concern living people in other folk practices;
-3. `tuổi âm`/address remain purchaser-provided or shop-admin/disambiguation details, not universal ritual requirements;
-4. three-day return is the purchaser's requested deadline, not an industry-standard lead time;
-5. exact ordinary product list stays flexible until Chapter 2 brief; the old-style cassette radio remains the custom fair-play clue.
+2. `tuổi âm`/address remain purchaser-provided or shop-admin/disambiguation details, not universal ritual requirements;
+3. three-day return is the purchaser's requested deadline, not an industry-standard lead time;
+4. exact ordinary product list stays flexible until Chapter 2 brief; the old-style cassette radio remains the custom fair-play clue.
 
 Do not invent a universal `bộ tang lễ chuẩn` or universal Northern funeral sequence.
 
@@ -154,6 +184,6 @@ If the author approves the manuscript:
 2. update chapter/scene status as appropriate;
 3. advance `continuity/state.md` to chapter 1;
 4. rerun Story Skills checks;
-5. prepare Chapter 2 brief using both the verified cultural guardrails and the approved Case Zero order model.
+5. prepare Chapter 2 brief using the verified cultural guardrails, the corrected advance-order premise, and the active prose-depth lenses.
 
 Do not start Chapter 2 prose before Chapter 1 manuscript/canon state is settled unless the author explicitly asks to work out of order.
