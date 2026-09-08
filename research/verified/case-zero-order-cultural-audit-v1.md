@@ -4,9 +4,27 @@ Status: research-grounded adaptation audit. **Author-approved and incorporated i
 
 Purpose: preserve the mystery/clue design while removing accidental claims that invented shop procedure is a universal Vietnamese ritual rule.
 
-## New P0 finding: `hàng mã for a living person` is not automatically impossible
+## Correction from author domain experience: advance purchase for a living person is not inherently strange
 
-Paper effigies / `hình nhân thế mạng` and related folk practices can concern a living person in cầu an / giải hạn / substitution contexts. Reporting and religious commentary both document the category even while Buddhist voices criticize the belief.
+The author has direct family experience selling votive-paper goods and clarified an important real-world shop pattern:
+
+> buying paper goods before a person dies is not necessarily rare or suspicious when relatives already believe the person may not survive a serious illness or decline.
+
+This **supersedes the earlier adaptation assumption** that Case Zero needed the order to be unusually death/memorial-coded merely because the named recipient was still alive.
+
+For the novel, the correct commercial logic is:
+
+- a living recipient on an advance order can be normalized by illness / expected death / practical family preparation;
+- Lan and Khanh should initially consider exactly those ordinary explanations;
+- the order becomes disturbing only after later context shows the recipient was outwardly healthy, active and not known by his family to be approaching death;
+- the family's later funeral purchase also indicates they were not already quietly preparing through Lan's shop;
+- his unexpected death only days after the order retrospectively changes the meaning of what had first looked potentially normal.
+
+This author-domain correction is **project evidence about shop realism**, not a universal claim that every Vietnamese family or every votive shop behaves identically.
+
+## External-research finding: `hàng mã for a living person` is also not automatically impossible for other reasons
+
+Paper effigies / `hình nhân thế mạng` and related folk practices can concern a living person in cầu an / giải hạn / substitution contexts. Reporting and religious commentary document the category even while Buddhist voices criticize the belief.
 
 Sources:
 - VOV on Phúc Am production, including `hình nhân thế mạng`: https://vov.vn/the-thao/lang-nghe-chi-song-voi-ngay-am-post1163916.vov
@@ -15,9 +33,9 @@ Sources:
 
 Conclusion:
 
-> Case Zero cannot rely on `paper goods + living person's name` alone to mean `funeral order for a living man`.
+> Case Zero cannot rely on `paper goods + living person's name` or `advance purchase before death` alone as the uncanny premise.
 
-The order must be **death/memorial-coded in its stated purpose or product context** while remaining ordinary enough that Lan initially suspects mistaken identity, duplicate name, advance family planning or customer confusion rather than supernatural prediction.
+The stronger premise is **ordinary explanation first, disconfirmation later**.
 
 ## What remains culturally plausible and can be kept
 
@@ -73,21 +91,31 @@ Not verified.
 
 Elaborate modern custom shops advertise longer lead times; a simple radio may be faster, but this should remain story-specific logistics.
 
-## Approved minimal-change version of the order
+## Revised minimal-change version of the order
 
-This preserves almost every existing clue while fixing the cultural logic.
+This preserves the clues while fixing the cultural logic.
 
-### Stated purpose
+### Initial shop meaning
 
-The woman asks for **male paper goods in a memorial/deceased-recipient context for a named recipient**, plus one unusual personal item: an old-style cassette radio.
+The woman asks for ordinary personalized male paper goods `làm cho` a named living man, plus one unusual personal item: an old-style cassette radio.
 
-The prose does not need Lan to use a formal product phrase like `bộ mã giỗ chuẩn`. Natural wording can establish the purpose through context:
+The shop does **not** need to react as though an impossible ritual rule has been violated. A believable first reading is simply:
 
-- she says it is `làm cho` the named man;
-- she speaks as though the goods will be sent/burned for him as a deceased recipient;
-- she selects ordinary male paper clothing/personal goods and asks for the radio.
+- perhaps he is seriously ill and the family is preparing ahead;
+- perhaps his condition has worsened privately;
+- perhaps there is another man with the same name;
+- perhaps the purchaser belongs to another part of the family and Lan does not know their circumstances.
 
-Because the recipient is locally known to be alive, Lan later reacts: either the customer has the wrong person, there are two people with the same name, or something about the order is wrong.
+### Later disconfirmation
+
+Before the death or when the family later comes to the shop, the story establishes that:
+
+- the intended man had been going about ordinary life;
+- there was no known terminal/acute decline that made his death expected;
+- his close family was not already preparing his funeral through Lan's shop;
+- the earlier purchaser was therefore acting with a confidence that no longer has an obvious practical source.
+
+This is the true uncanny turn.
 
 ### Ordinary goods — keep flexible for now
 
@@ -138,7 +166,7 @@ Use the locality/house address because:
 
 Do not tell the reader this is required so `the dead can receive the goods`.
 
-## Approved order-taking choreography
+## Revised order-taking choreography
 
 This is a prose design, not ethnographic transcript:
 
@@ -147,12 +175,13 @@ This is a prose design, not ethnographic transcript:
 3. asks for an old-style cassette radio with very specific physical details;
 4. Khanh asks who the goods are for because he needs to write the custom/pickup note;
 5. she gives/slides over recipient details;
-6. Khanh recognizes nothing immediately because he has been away / local names are ordinary;
-7. for pickup, he asks the purchaser's name and possibly phone;
+6. if Khanh/Lan notices the recipient is alive, the first response is practical rather than supernatural: perhaps he is ill or the family is preparing ahead;
+7. for pickup, Khanh asks the purchaser's name and possibly phone;
 8. she gives the dead sister's name but no useful phone number, saying she will return in three days;
-9. only later Lan notices the recipient is a living local man.
+9. later social/family evidence removes the illness/expected-death explanation;
+10. the man dies unexpectedly four days after the order.
 
-This creates the uncanny through **ordinary commercial friction**, not ritual exposition.
+This creates the uncanny through **ordinary commercial logic collapsing under later evidence**.
 
 ## Why the radio still works as fair-play clue
 
@@ -179,7 +208,8 @@ Recommended rhythm:
 - death occurs at night;
 - by the next morning/day, family/funeral-service logistics are already underway;
 - someone from the family comes to Lan's shop for ordinary funeral/memorial paper goods;
-- Lan recognizes the deceased name/address from the earlier custom order.
+- Lan recognizes the deceased name/address from the earlier custom order;
+- their behavior makes clear this is **new preparation after an unexpected death**, not the continuation of a plan they had already begun before he died.
 
 No need for the victim family to buy an elaborate `complete package`; a practical small purchase is enough to trigger recognition.
 
@@ -189,14 +219,16 @@ The prior Chapter 1 shorthand `loại năm mươi hay loại tám mươi` had no
 
 The dream-about-tight-sleeve scene can remain as family-specific retail/customization texture if the novel does not generalize Lan's behavior into a regional ritual rule.
 
-## Author decisions — approved
+## Author decisions — current
 
-The author approved all five adaptation decisions:
+The author has approved / supplied the following operating decisions:
 
 1. separate `người đặt` versus `làm cho ai` in the shop ledger;
-2. make death/memorial-coded purpose necessary for the order's disturbing meaning;
-3. treat `tuổi âm` and address as purchaser-provided / shop-admin details rather than ritual requirements;
-4. keep the three-day return as a requested deadline, not an industry norm;
-5. leave the exact ordinary product list flexible until the Chapter 2 brief rather than inventing a fixed funeral package.
+2. **supersede the earlier “death/memorial coding makes the living-recipient order disturbing” assumption**;
+3. advance purchase for a living person may be ordinary when death is already expected;
+4. make the real disturbance the later discovery that the recipient had appeared healthy/normal and his family had not expected his death;
+5. treat `tuổi âm` and address as purchaser-provided / shop-admin details rather than ritual requirements;
+6. keep the three-day return as a requested deadline, not an industry norm;
+7. leave the exact ordinary product list flexible until the Chapter 2 brief rather than inventing a fixed funeral package.
 
-These decisions are now incorporated into `development/horrible/case-zero-truth-matrix.md`.
+These decisions are incorporated into `development/horrible/case-zero-truth-matrix.md`.
