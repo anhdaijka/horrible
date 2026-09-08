@@ -7,6 +7,8 @@ story: horrible
 
 ## Registry
 
-No active manuscript chapters. The previous Chapter 1–2 prototypes were author-rejected and removed from active canon.
+| # | Title | POV | Status | Word Count | File |
+|---|---|---|---|---|---|
+| 1 | Bốn ngày trước | Nguyễn Minh Khanh | draft | 2236 | [chapter-01](chapter-01.md) |
 
-## Total Word Count: 0
+## Total Word Count: 2236
