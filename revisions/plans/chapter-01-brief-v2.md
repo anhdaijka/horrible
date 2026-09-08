@@ -1,6 +1,6 @@
 # Chapter 1 Brief v2 — Fresh Opening
 
-Status: **prepared for author review; not yet approved for drafting**.
+Status: **author-approved structure; ready for just-in-time pre-draft grounding, then drafting**.
 
 ## Chapter function
 
@@ -208,7 +208,7 @@ Alternative ending is allowed if it creates equal or stronger forward pressure w
 
 ## Horror test
 
-Before approval, ask:
+Before drafting/review, ask:
 
 1. Would a reader who bought a Vietnamese ghost novel know within the opening pages that the book intends to deliver?
 2. Does the chapter create a compelling question without answering it?
@@ -216,10 +216,12 @@ Before approval, ask:
 4. Does the rewind gain dread from what the reader knows, without characters acting on future knowledge?
 5. Is there at least one image/fact likely to remain in memory after the chapter?
 
-## Approval gate
+## Approval / preparation gate
 
-- [ ] author approves structure
-- [ ] exact opening transaction mechanics grounded with author trade knowledge
-- [ ] fresh purchaser physical baseline selected
-- [ ] names/locality either newly chosen or intentionally left for drafting
-- [ ] only then draft new Chapter 1
+- [x] author approves structure
+- [ ] exact opening transaction mechanics grounded with author trade knowledge / verified research
+- [ ] fresh purchaser physical baseline selected just-in-time
+- [x] names/locality intentionally remain unlocked for fresh drafting
+- [ ] after the two just-in-time preparation items above, draft new Chapter 1 from a blank page
+
+The remaining unchecked items are **writer preparation tasks, not a new author approval gate** unless they require changing this approved structure.
