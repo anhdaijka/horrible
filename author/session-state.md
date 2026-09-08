@@ -7,7 +7,7 @@
 Repository: `anhdaijka/horrible`  
 Branch: `main`
 
-Current phase: **opening reset complete → Chapter 1 v2 structure approved → fresh Chapter 1 `Bốn ngày trước` drafted from blank page + self-pass complete → waiting for author manuscript review.**
+Current phase: **opening reset complete → fresh Chapter 1 `Bốn ngày trước` author-approved and canonized → ready to design Chapter 2 from the chronology contradiction.**
 
 Read first:
 
@@ -16,65 +16,60 @@ Read first:
 3. `author/creative-constitution.md`;
 4. `author/boundaries.md`;
 5. `author/style-bible.md`;
-6. `revisions/plans/chapter-01-brief-v2.md`;
-7. `development/horrible/chapter-01-pre-draft-grounding-v2.md`;
-8. `revisions/reviews/chapter-01-v2-initial-review.md`;
-9. only the Case Zero / cultural research files needed for a requested revision.
+6. `chapters/chapter-01.md`;
+7. `continuity/state.md`;
+8. `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`;
+9. only the Case Zero / cultural research files needed for Chapter 2.
 
 Do not reload Discovery 01–15 or old prototype prose by default.
 
 ## Active manuscript state
 
-- `chapters/chapter-01.md` — **`Bốn ngày trước`** — draft — 2227 Story Skills words.
-- scenes 1.1–1.3 are draft and registered.
-- chapter/scene registries are synchronized.
-- `continuity/state.md` intentionally remains `current-chapter: 0` until author approves/canonizes this fresh Chapter 1.
+- `chapters/chapter-01.md` — **`Bốn ngày trước`** — final — 2227 Story Skills words.
+- scenes 1.1–1.3 are final and registered.
+- `continuity/state.md` is now `current-chapter: 1`.
 - old `Tiếng chợ` / `Người đặt` prototypes remain rejected and recoverable only through Git history; do not reuse them unless author explicitly requests comparison.
 
-## Chapter 1 v2 execution
+## Chapter 1 canon
 
-The approved architecture has been executed:
+The author explicitly approved the fresh opening after the full reset.
 
-1. **after-death hook:** on the morning Vũ Văn Cường dies, a paper cassette radio/custom order made for him is still waiting uncollected in bà Lan's shop;
-2. a household relative comes for ordinary funeral/memorial paper goods and mentions Cường's name/locality;
-3. bà Lan recognizes the tagged custom order and checks the ledger;
-4. the order is dated four days before Cường's death;
-5. chapter rewinds four days to the original sale;
-6. the purchaser is physically ordinary and the shop naturally processes the goods as intended for someone already dead;
-7. no character asks whether Cường is alive or explains advance preparation;
-8. the chapter ends with the tagged order being stored for pickup.
+On-page facts now canon include:
 
-## Draft-only working facts
+- Khanh has recently returned from Japan and is temporarily back home;
+- bà Lan is running the family votive-paper shop during the busy pre-Rằm period;
+- a woman giving the name **Vũ Thị Thoa** orders goods on **mùng 10 tháng Giêng** for **ông Vũ Văn Cường, 59, xóm Trại**;
+- she naturally writes/sketches with her left hand;
+- she requests ordinary male goods plus a specific old-style cassette radio;
+- pickup is requested for **ngày 13** and the custom radio is coordinated with an outside maker;
+- the goods remain uncollected;
+- on the morning of **ngày 14**, a relative reports that ông Cường died during the previous night;
+- the relative appears unaware of the earlier order;
+- bà Lan and Khanh discover that the order predates ông Cường's death by four days.
 
-These are manuscript proposals, **not canon until author approval**:
+These facts are observations only. Chapter 1 does **not** canonize any explanation for the purchaser, advance timing or supernatural cause.
 
-- victim/recipient: `Vũ Văn Cường`, 59;
-- purchaser/pickup name supplied: `Vũ Thị Thoa`;
-- locality shorthand: `xóm Trại` in the fictional hometown;
-- purchaser uses left hand naturally to draw/write;
-- custom radio: dark body, silver front, round speaker left, cassette compartment right, two top knobs, folding handle;
-- order written on mùng 10 tháng Giêng, pickup requested for ngày 13;
-- Cường dies during the night before ngày 14;
-- a relative from his household appears unaware of the earlier order.
+## Leakage / revelation-order lock
 
-Do not treat the purchaser name, handedness or radio design as interpreted clues yet.
-
-## Leakage lock
-
-Chapter 1 currently does **not** reveal:
+The following remain unrevealed after Chapter 1:
 
 - Cường's health at order time;
 - expected-death / grave-illness / advance-purchase hypothesis;
-- cause/mechanism of his death;
-- purchaser resemblance to surviving sister;
+- cause/mechanism of his death beyond the household report that he died during the night;
+- purchaser resemblance to a surviving sister;
 - `Vũ Thị Thoa` belonging to a long-dead sibling;
 - old family tragedy;
 - grandfather connection;
 - final metaphysical model.
 
-The first mundane explanation belongs after characters discover the date contradiction, not inside the original sale.
+Correct forward order:
 
-`development/horrible/case-zero-truth-matrix.md` has been revised to match this approved revelation order.
+1. Chapter 1 establishes the date contradiction.
+2. Only now may bà Lan/Khanh form the ordinary explanation that perhaps the family expected Cường's death and prepared early.
+3. Subsequent social evidence should damage that explanation because he had appeared healthy / his household expected no death.
+4. Only later should purchaser identity become the central impossibility.
+
+Do not retroactively insert the illness/advance-purchase explanation into the original order scene.
 
 ## Creative stance — locked
 
@@ -82,34 +77,20 @@ The first mundane explanation belongs after characters discover the date contrad
 - Realism is the floor, not the ceiling.
 - Ambiguity is optional, not mandatory.
 - Ordinary life supports credibility and contrast; it does not delay genre reward.
-- A narrator may use storyteller authority and retrospective framing to create questions, but must not leak future answers.
+- Narrator may use storyteller authority and retrospective framing to create questions, but must not leak future answers.
 - Real Vietnamese cultural claims remain research-gated.
 - Mai/Khanh remain lifelong strictly platonic childhood friends.
 
-## Self-review already completed
+## Chapter 1 revision rule
 
-See `revisions/reviews/chapter-01-v2-initial-review.md`.
+Chapter 1 is now canon. Do not reopen it for abstract style polishing or theory optimization. Revise only for a concrete continuity/prose problem or explicit author request.
 
-The self-pass already removed narrator reassurance/explanation around:
-
-- the transaction being ordinary;
-- why Khanh remembers the purchaser;
-- why one answer made the transaction easier.
-
-Do not perform another abstract theory pass before author reads the manuscript.
+See `revisions/reviews/chapter-01-v2-initial-review.md` for the completed review record.
 
 ## Next action
 
-**Author reviews `chapters/chapter-01.md` as manuscript.**
+**Prepare Chapter 2 brief from the canonized chronology contradiction.**
 
-If author identifies local prose/shop-authenticity/leakage problems, revise directly within the approved architecture.
+Chapter 2 should not restage the hook. It should move forward from what bà Lan and Khanh now know, allow the first mundane expected-death explanation to arise naturally, and then begin supplying evidence that makes that explanation less comfortable.
 
-If author materially rejects the hook/rewind architecture, redesign only with explicit author direction.
-
-If author approves the manuscript:
-
-1. canonize approved draft-only facts;
-2. mark Chapter 1 + scenes final;
-3. advance `continuity/state.md` to chapter 1;
-4. run Story Skills checks;
-5. prepare Chapter 2 brief beginning from the chronology contradiction and the first ordinary expected-death hypothesis, which later evidence will damage.
+Do not draft Chapter 2 prose before its brief is prepared/reviewed unless the author explicitly asks to skip that step.
