@@ -6,8 +6,9 @@ Status: accepted development model. Not Story Skills canon yet.
 
 - Khanh is home on a short break after returning from Japan.
 - During a crowded shop period, he records an order from a normal-looking woman in her 50s–60s.
-- The order is explicitly handled as paper goods **for a deceased / memorial-type recipient**, even though the named male recipient is still alive.
-- The order contains several ordinary male paper goods plus one unusually specific personal/custom item: an old-style cassette radio.
+- The woman orders several ordinary male paper goods plus one unusually specific personal/custom item: an old-style cassette radio, all `làm cho` a named local man who is still alive.
+- **Advance purchase for a living person is not itself treated as extraordinary.** In real shop life, relatives may prepare paper goods before death when they believe a seriously ill or dying person may not survive. Lan/Khanh therefore initially have ordinary explanations available: hidden illness, recent decline, family advance preparation, a namesake, or a private situation they simply do not know.
+- What later makes the order disturbing is that the intended recipient appears to have been **outwardly healthy and living normally**, with no known serious/terminal illness, no obvious decline, and no family expectation that he was about to die. His relatives are not already preparing funeral goods and later appear unaware of the earlier order.
 - The woman pays cash and says she will return in three days.
 - The three-day return is a **customer-requested deadline**, not a narrator-certified industry-standard lead time. Lan may need to check whether the custom radio can be made in time.
 - Four days later the named man dies after a nighttime fall down stairs at home.
@@ -26,9 +27,16 @@ Status: accepted development model. Not Story Skills canon yet.
 
 ## Research-grounded order definition
 
-The order must not rely on the false assumption that `hàng mã + tên người sống = impossible`, because real Vietnamese folk practices can involve paper effigies or substitution/bản-mệnh concepts concerning living people.
+The order must not rely on the false assumption that `hàng mã + tên người sống = impossible` or even `mua mã trước khi người đó chết = inherently strange`.
 
-What makes this order disturbing is the **death/memorial coding** of the customer's stated purpose and choices. She talks and orders as though the named man is a deceased recipient for whom the goods will be sent / burned / prepared.
+For the novel, advance preparation is a **normalizable commercial possibility**: if a family expects someone may not survive an illness or acute decline, buying or arranging goods early can make practical sense. The shop therefore does not react as though the customer has broken a supernatural rule.
+
+The uncanny progression should instead be:
+
+1. **ordinary transaction:** a woman orders personalized male paper goods for a living man;
+2. **ordinary hypothesis:** perhaps he is very ill, perhaps the family is preparing ahead, perhaps there is a namesake or a private circumstance;
+3. **disconfirming social reality:** the intended man is known/verified as active, outwardly healthy and behaving normally; his family is not anticipating death;
+4. **retrospective disturbance:** he dies only a few days later, making the earlier order look less like practical preparation and more like knowledge nobody should have had.
 
 The exact ordinary product list remains flexible until the Chapter 2–3 scene brief. Safe current candidates include:
 
@@ -79,9 +87,11 @@ The surviving younger sister knows some but not all of the old truth. Her memory
 
 ## Present victim's final days
 
+Until shortly before the death, the victim should read to ordinary observers as a man living a normal life rather than someone visibly approaching death. He may have routine age-related complaints, but do not introduce a known terminal condition or obvious acute decline that would make the early votive order retrospectively mundane.
+
 A living person connected to the old tragedy sends or places an old photograph, message, object or similar reminder in the victim's path.
 
-This causes renewed anxiety, insomnia and expectation that the old secret may be exposed.
+This causes renewed anxiety, insomnia and expectation that the old secret may be exposed. That **new psychological pressure occurs after / around the period of the advance order** and must not be rewritten into a pre-existing serious physical illness that explains why someone would reasonably expect his death.
 
 On the night of death, the victim moves through the house under stress / fatigue and falls down the stairs.
 
@@ -91,9 +101,11 @@ The exact immediate trigger for leaving his room may remain unclear.
 
 ### Khanh's mother
 
-Likely reliable on the family's own shop procedure and on why this **specific** order reads as wrong in context. She is not an authority on universal Vietnamese ritual rules, identity or supernatural cause.
+Likely reliable on the family's own shop procedure and on why this **specific** order becomes wrong only after later context. She is not an authority on universal Vietnamese ritual rules, identity or supernatural cause.
 
-Her first plausible reactions should remain mundane: mistaken person, duplicate name, customer confusion, unusual advance planning, or some family matter she does not know.
+Her first reactions should remain mundane: perhaps the man is ill and the family is preparing ahead; perhaps the customer has the wrong person; perhaps there are two people with the same name; perhaps it is a private family matter the shop does not need to know.
+
+The key change is that **Lan should not be alarmed merely because a living person's name appears on an advance paper-goods order**.
 
 ### Surviving sister
 
@@ -112,6 +124,8 @@ Eventually admits to deliberately reopening the old issue. Their confession expl
 - original shop order record with separate `người đặt` and `làm cho ai` identities;
 - purchaser name written before the present death;
 - living recipient's identifying details supplied before his death;
+- independent/social evidence that the recipient was outwardly healthy, active and not known to be nearing death at the time of the order;
+- victim family's lack of prior funeral preparation / lack of awareness of the advance order;
 - CCTV footage;
 - left-hand behavior;
 - unusually specific radio-cassette description;
@@ -122,6 +136,8 @@ Eventually admits to deliberately reopening the old issue. Their confession expl
 ## Fair-play clue rules
 
 The purchaser name should be visible to the reader early without being emphasized.
+
+The novel should let the reader share the family's first mundane explanation. Do **not** announce the order as a supernatural omen at purchase time. The fair-play turn comes later when ordinary evidence removes the expected explanation: the man was not known to be dying, his household was not preparing for death, and the purchaser appears to have acted with inexplicable confidence before the accident.
 
 The existence of a third sibling should be foreshadowed before the direct reveal through small social / visual discrepancies, such as:
 
@@ -140,11 +156,11 @@ Do not invent a fixed universal funeral-paper-goods package merely to make the c
 
 ## Khanh's evolving models
 
-### Model 0 — mundane mistake
+### Model 0 — ordinary advance preparation / mundane mistake
 
-The order may involve the wrong person, a namesake, customer confusion, unusual advance planning, or another family-specific explanation.
+The shop initially treats the order as potentially normal: perhaps the named man is seriously ill, perhaps relatives are preparing early, perhaps there is a namesake, customer confusion, or another family-specific explanation.
 
-Status: increasingly weakened when Lan confirms the intended living recipient and he dies shortly afterward.
+Status: weakened **not simply because the recipient is alive**, but when Khanh/Lan learn that the intended man is outwardly healthy, active, not known to be in serious decline, and his family is not preparing for his death. It becomes much weaker after he dies unexpectedly only days later.
 
 ### Model 1 — surviving sister planned the order
 
@@ -180,6 +196,8 @@ Status: viable but weaker at end.
 
 Khanh knows or has strong reason to believe:
 
+- the advance order was not intrinsically impossible or culturally abnormal;
+- the ordinary explanation that someone was simply preparing for an expected death does not fit the victim's apparent condition and family's behavior at the time;
 - the old third sibling existed;
 - a serious old family wrong was buried;
 - the present victim knew more than later generations did;
@@ -194,7 +212,7 @@ Khanh does **not** know who the purchaser was.
 
 ## What authorities need to know
 
-The present death can remain an accident under available evidence. Police / authorities do not need to investigate occult interpretations simply because Khanh finds the order disturbing.
+The present death can remain an accident under available evidence. Police / authorities do not need to investigate occult interpretations simply because Khanh finds the timing and purchaser identity disturbing.
 
 This preserves institutional competence and keeps Khanh from functioning as a superior amateur homicide detective.
 
