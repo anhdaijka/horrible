@@ -1,103 +1,130 @@
 # Session State — Horrible
 
-> Handoff cho session mới. Không phải Story Skills canon.
+> Handoff for the next session. Not Story Skills canon.
 
 ## Start here
 
 Repository: `anhdaijka/horrible`  
 Branch: `main`
 
-Current phase: **Opening genre reset after author rejected the current Chapters 1–2 trajectory as too explanatory, too neutralized and insufficiently compelling as a Vietnamese ghost story.**
+Current phase: **full opening reset complete → no active manuscript chapters → fresh Chapter 1 brief v2 prepared for author review.**
 
 Read first:
+
 1. this file;
 2. `AGENTS.md`;
-3. `revisions/reviews/opening-genre-reset-audit.md`;
-4. for prose/revision: `author/style-bible.md` + `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`;
-5. current Chapters 1–2;
-6. only the cultural/case files needed for the reset.
+3. `author/creative-constitution.md`;
+4. `author/boundaries.md`;
+5. `author/style-bible.md`;
+6. `revisions/reviews/opening-prototype-postmortem.md`;
+7. `development/horrible/opening-reset-decisions.md`;
+8. `development/horrible/opening-architecture-v2.md`;
+9. `revisions/plans/chapter-01-brief-v2.md`;
+10. only the specific Case Zero / cultural research files needed.
 
-Do not continue to Chapter 3.
+Do not reload Discovery 01–15 by default.
 
-## Manuscript state
+## Reset status
 
-- Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ` — formally **final / canon / 2978 Story Skills words**, but now under material opening-direction reconsideration.
-- `continuity/state.md`: `current-chapter: 1`.
-- Chapter 2: `chapters/chapter-02.md` — `Người đặt` — **draft / 2511 Story Skills words / NOT APPROVED**.
-- Chapter 2 scenes remain draft.
-- Do not canonize Chapter 2 from the current version.
+The former active opening has been deliberately discarded:
 
-## Author's current diagnosis — binding until reset is resolved
+- old Chapter 1 `Tiếng chợ`: removed from active manuscript;
+- old Chapter 2 `Người đặt`: removed from active manuscript;
+- all seven old scene files: removed;
+- old Chapter 1–2 briefs: removed;
+- old chapter-specific reviews: removed;
+- old Chapter 1 canon diff: removed;
+- chapter registry: empty;
+- scene registry: empty;
+- `continuity/state.md`: reset to `current-chapter: 0`.
 
-The first two chapters currently feel too bland and too constrained by the project's own realism/ambiguity rules. The author does not want cultural respect or real-world plausibility to suppress the pleasure, dread, mystery and supernatural charge expected from a Vietnamese ghost story.
+Git history is the only place to recover the old prose. Do not read or reuse it unless author explicitly requests it.
 
-Specific failure in Chapter 2:
-- the draft leaks the premise by having Khanh/bà Lan immediately understand the order as advance preparation for a **living** possibly ill person;
-- narration then explains why that is normal, effectively briefing the reader on the future twist;
-- this removes the stronger retroactive discovery that the order was made **before the recipient died**.
+## New creative stance — locked
 
-Correct Case Zero information order for the rethink:
-1. the woman places an apparently ordinary votive order;
-2. the shop has no reason to discuss whether the recipient is living or dead and naturally treats it as ordinary death-related business;
-3. later they discover the order predates the recipient's death;
-4. only then does `perhaps the family knew he was gravely ill and prepared early` become the first mundane explanation;
-5. later evidence removes that explanation because the recipient was outwardly healthy / active and his household did not expect his death;
-6. the unexpected death retrospectively turns the order into possible foreknowledge.
+- `Horrible` is a ghost / spiritual horror novel first.
+- **Realism is the floor, not the ceiling.**
+- **Ambiguity is optional, not mandatory.**
+- Fictional ghosts / hauntings may be genuinely real even if their mechanism remains unexplained.
+- Real Vietnamese religious, ritual, funeral and votive-paper claims still require research and respect.
+- Cultural research limits false real-world claims; it does not prohibit fictional supernatural truth.
+- Ordinary life supports credibility, attachment and contrast. It is not a quota to delay horror.
+- Chapter 1 must deliver an unmistakable horror promise / uncanny reward.
+- Narrator may use storyteller authority, retrospective framing and foreshadowing when they create questions rather than leak future explanations.
+- Across the series, case outcomes should vary: confirmed supernatural, human, mixed, ambiguous/unresolved.
 
-## What must be reconsidered
+## Case Zero revelation-order lock
 
-Audit and likely relax/replace:
-- `Normal first. Wrongness later.` when used as a chapter/novel-level suppression rule;
-- the idea that the reader should not feel genre dread until the prose has extensively proved normality;
-- Chapter 2's previous target of `zero felt horror`;
-- default equal-weight supernatural/natural ambiguity;
-- reflexive narrator neutralization and explanation;
-- immediate mundane resolution after uncanny beats.
+Author domain correction remains binding.
 
-Preserve:
-- cultural research gate and respect for living traditions;
-- natural Vietnamese dialogue;
-- social address rules;
-- character agency;
-- physical/body-language baselines;
-- no invented ritual doctrine presented as fact;
-- no chosen-one / battle-supernatural power fantasy;
-- Khanh may check mundane causes because of who he is, but the **novel itself does not need to apologize for being a ghost story**.
+The original order scene must **not** consciously frame itself as `buying in advance for a living man`.
 
-## Supernatural stance to redesign
+Correct story order:
 
-Separate four layers:
-1. **real-world cultural facts** — must be researched;
-2. **character beliefs/testimony** — may conflict or be wrong;
-3. **fictional supernatural events** — may genuinely occur and may be presented strongly or plainly as supernatural when the story benefits;
-4. **cosmology/mechanism** — can remain uncertain, partial and resistant to systemization.
+1. ordinary votive order; shop naturally assumes recipient is deceased;
+2. recipient later dies unexpectedly;
+3. only then does order/date comparison reveal he had still been alive when the order was placed;
+4. only then does the mundane hypothesis arise: perhaps relatives knew he was gravely ill and prepared early;
+5. later social evidence weakens that explanation because he had appeared healthy / household expected no death;
+6. purchaser identity becomes increasingly difficult to explain.
 
-Ambiguity should be case-specific, not the universal default ending.
+See:
+- `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`
+- `development/horrible/opening-reset-decisions.md`
 
-## Current prose contract still worth keeping
+## Prototype-specific data unlocked
 
-- Natural contemporary Northern Vietnamese storytelling.
-- Dialogue is interruptible, socially situated and character-specific.
-- Supporting characters have independent work/agency.
-- Older adults in narrator prose use natural kinship or `ông/bà + tên`; `chị Hạnh`; peers such as Mai may use bare names.
-- First important appearance receives an integrated physical baseline.
-- Body language is evidence against baseline, not a generic fear checklist.
-- Subtext, free-indirect closeness, scene/summary control, negative space, aftermath, delayed meaning and tonal counterpoint remain useful tools.
-- Mai/Khanh remain lifelong strictly platonic childhood friends.
+Do not automatically carry forward:
 
-## Cultural reality gate remains active
+- `Đỗ Thị Hường`;
+- `Đỗ Văn Quang`;
+- `xóm Đình Ngoài`;
+- exact purchaser clothing/body;
+- exact product list;
+- exact old dialogue;
+- exact old scene order;
+- exact chapter titles.
 
-Concrete Vietnamese ritual/votive/funeral/religious claims must be grounded in `research/verified/` or explicitly treated as family/local fiction.
+These were prototype proposals, not locked canon.
 
-This gate protects factual culture; it must **not** be interpreted as a ban on fictional ghosts, hauntings, uncanny experiences or metaphysical danger.
+## New opening architecture
+
+Recommended structure currently prepared:
+
+- controlled retrospective hook after the victim's death;
+- discover that the same name already exists in an earlier shop order;
+- rewind several days to the original ordinary purchase;
+- reader carries dramatic irony while characters do not know the future;
+- Chapter 2 returns to the death/order-date contradiction and only then introduces the expected-death/illness hypothesis;
+- that hypothesis is quickly damaged by evidence that the victim was not expected to die;
+- Chapter 3 shifts focus from chronology to purchaser identity.
+
+This architecture is **working development**, not yet manuscript canon.
+
+## Cultural reality gate
+
+Relevant current research:
+
+- `research/verified/cultural-reality-audit.md`
+- `research/verified/votive-paper-commerce-v1.md`
+- `research/verified/votive-shop-language-ordering-v1.md`
+- `research/verified/funeral-workflow-bacninh-v1.md`
+- `research/verified/case-zero-order-cultural-audit-v1.md`
+- `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md` (content now corrected to v2 interpretation)
+
+## Relationship lock
+
+Mai and Khanh remain lifelong childhood friends, strictly platonic. No romance bait, jealousy, matchmaking or will-they-won't-they trajectory.
 
 ## Next action
 
-**Do not line-edit Chapters 1–2 yet. Redesign the opening genre contract first.**
+**Author reviews `revisions/plans/chapter-01-brief-v2.md`.**
 
-The next substantive pass should:
-1. identify which existing bible/rules are suppressing horror and suspense;
-2. establish an early ghost-story promise without cheap spoilers;
-3. decide how often the novel may present supernatural events as real versus ambiguous/human;
-4. redesign Chapters 1–2 at structural level, including the corrected Case Zero information order;
-5. only then rewrite the opening manuscript.
+Before drafting:
+
+1. approve / revise the new Chapter 1 structure;
+2. use author trade knowledge to ground the exact funeral-shop opening mechanics;
+3. select fresh purchaser physical baseline and any required names/locality;
+4. then draft Chapter 1 from a blank page.
+
+Do not draft new Chapter 1 from old prose fragments.
