@@ -15,7 +15,7 @@ mentions:
 arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
 status: draft
-word-count: 3051
+word-count: 3063
 ---
 
 # Chương 1: Tiếng chợ
@@ -112,11 +112,11 @@ Khanh siết lại nút dây, giơ bó hàng lên cho bố nhìn.
 
 — Ừ. Để cái nơ sang bên kia, xách đỡ vướng.
 
-Nói xong ông rót chén nước, quay ra hỏi vợ cái bản lề cũ mua ở đâu. bà Lan bảo không nhớ, ông tự tìm hàng quen mà mua. ông Hùng uống hết chén nước rồi cầm cái bản lề tháo ra cho vào túi áo, đi ra phía sau lấy chìa khóa xe.
+Nói xong ông rót chén nước, quay ra hỏi vợ cái bản lề cũ mua ở đâu. Bà Lan bảo không nhớ, ông tự tìm hàng quen mà mua. Ông Hùng uống hết chén nước rồi cầm cái bản lề tháo ra cho vào túi áo, đi ra phía sau lấy chìa khóa xe.
 
 Khanh ăn xong thì ngồi buộc hàng thật. Tay đã chậm hơn ngày trước nhưng vẫn nhớ cách luồn dây qua giữa bó giấy để khi xách lên không méo. Anh buộc được hai bó, mẹ đi ngang qua giật thử một cái, không nói gì.
 
-Khoảng gần năm rưỡi, khách bắt đầu vào liền hơn. Phần lớn mua mấy thứ rất bình thường với nhà anh nhưng nếu để trong một cửa hàng khác chắc sẽ trông khá lạ: tiền vàng, quần áo giấy, hương, nến, mấy món đồ nhỏ làm bằng giấy bóng. Một bà trung niên tới lấy bộ đồ đã đặt từ hôm trước. bà Lan lục trong chồng hàng một lúc, lấy ra chiếc áo mã màu tím nhạt rồi còn mở hẳn hai tay áo cho bà khách xem.
+Khoảng gần năm rưỡi, khách bắt đầu vào liền hơn. Phần lớn mua mấy thứ rất bình thường với nhà anh nhưng nếu để trong một cửa hàng khác chắc sẽ trông khá lạ: tiền vàng, quần áo giấy, hương, nến, mấy món đồ nhỏ làm bằng giấy bóng. Một bà trung niên tới lấy bộ đồ đã đặt từ hôm trước. Bà Lan lục trong chồng hàng một lúc, lấy ra chiếc áo mã màu tím nhạt rồi còn mở hẳn hai tay áo cho bà khách xem.
 
 — Tôi làm rộng hơn rồi đấy nhé. Hôm qua chị dặn tôi hai lần rồi.
 
@@ -138,7 +138,7 @@ Mẹ anh chẳng có vẻ gì bất ngờ.
 
 — Thế thì tôi nhớ rồi. Năm ngoái tay nhỏ thật. Cụ nhà chị lúc sống có hay mặc tay rộng không?
 
-Bà khách nghĩ một lúc, bảo hình như có, vì cụ bị đau cổ tay, ghét áo bó. bà Lan gật đầu.
+Bà khách nghĩ một lúc, bảo hình như có, vì cụ bị đau cổ tay, ghét áo bó. Bà Lan gật đầu.
 
 — Thế thì lấy cái này được. Chị cứ mang về, nếu vẫn không ưng thì chiều đem lại đây tôi sửa cho. Chứ giờ làm to nữa xấu áo.
 
@@ -166,7 +166,7 @@ Bà nhét xấp tiền vào ngăn kéo rồi gọi về phía sau:
 
 — Ông Hùng ơi, lát nhớ mua cho tôi cuộn băng trong loại to nhé, hết rồi đấy.
 
-Ông Hùng đáp vọng ra một tiếng “biết rồi”. Ngoài cửa có người hỏi giá nến. bà Lan quay sang lấy hàng, Khanh cũng cúi xuống kéo tiếp nút dây đang buộc dở.
+Ông Hùng đáp vọng ra một tiếng “biết rồi”. Ngoài cửa có người hỏi giá nến. Bà Lan quay sang lấy hàng, Khanh cũng cúi xuống kéo tiếp nút dây đang buộc dở.
 
 ***
 
@@ -284,7 +284,7 @@ Gần tám giờ, chợ bớt một lượt xe lớn nên khoảng trước cử
 
 Khanh đặt túi xuống, đi về phía cầu thang. Vừa bước tới chân cầu thang, trên tầng có tiếng gì đó cọ qua nền gạch, nghe như vật nhẹ bị kéo một đoạn rồi mắc lại.
 
-Anh dừng chân.
+Bàn chân anh đã đặt lên bậc đầu tiên nhưng vẫn giữ nguyên ở đó.
 
 — Mẹ có lên trên không?
 
@@ -296,7 +296,7 @@ Bà Lan đang cúi ghi sổ.
 
 — Đi mua bản lề rồi.
 
-Khanh vẫn nhìn lên cầu thang. bà Lan ngẩng lên thấy vậy thì bật cười.
+Khanh vẫn nhìn lên cầu thang. Bà Lan ngẩng lên thấy vậy thì bật cười.
 
 — Sợ thì bật đèn mà lên, có ai cấm đâu.
 
@@ -324,4 +324,4 @@ Bà Lan thấy anh đặt hàng lên quầy thì hỏi:
 
 — Ừ. Tí bảo bố mày kê lại cho chắc. Ra kia lấy hộ mẹ túi nến với.
 
-Khanh quay ra lấy. Ngoài ngã tư một chiếc xe tải lại bóp còi xin đường, bên quầy hàng bên cạnh có người gọi một bát phở mang sang. bà Lan vừa thối tiền cho khách vừa nhắc anh xếp gọn mấy thùng carton vào trong vì lát nữa còn có xe giao hàng tới.
+Khanh quay ra lấy. Ngoài ngã tư một chiếc xe tải lại bóp còi xin đường, bên quầy hàng bên cạnh có người gọi một bát phở mang sang. Bà Lan vừa thối tiền cho khách vừa nhắc anh xếp gọn mấy thùng carton vào trong vì lát nữa còn có xe giao hàng tới.

@@ -28,7 +28,7 @@ Do **not** reread Discovery 01–15 by default.
 - Initial Story Skills canon promotion: approved and complete.
 - `continuity/state.md` remains at `current-chapter: 0`; Chapter 1 is still draft manuscript, not canonized on-page state.
 - Chapter 1 brief: `revisions/plans/chapter-01-brief.md` — approved.
-- Current Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ`, **3051 recorded words**.
+- Current Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ`, **3063 recorded words**.
 - Current craft review: `revisions/reviews/chapter-01-ngan-craft-audit.md`.
 
 Core workflow:
