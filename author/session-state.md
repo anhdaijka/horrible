@@ -4,186 +4,93 @@
 
 ## Start here
 
-Repository: `anhdaijka/horrible`.
+Repository: `anhdaijka/horrible`  
+Branch: `main`
 
-Branch: `main`.
+Current phase: **Chapter 1 is author-approved canon → Chapter 2 brief prepared and waiting for author review/approval.**
 
-Current phase: **Chapter 1 rewritten and craft-revised; P0 cultural cleanup, Nguyễn Ngọc Ngạn craft research, narrative physicality, prose-depth audit, and corrected Case Zero advance-order premise are incorporated → waiting for author manuscript approval before canonization / Chapter 2 brief.**
+Start a new session by reading:
+1. this file;
+2. `AGENTS.md`;
+3. for prose: `author/style-bible.md` and `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`;
+4. only the specific canon/research/case files needed for the current task.
 
-A new agent should:
+Do not reload Discovery 01–15 by default.
 
-1. read this file;
-2. read `AGENTS.md` if not already loaded;
-3. for prose/revision work, read `author/style-bible.md` plus `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`;
-4. read `revisions/reviews/chapter-01-ngan-craft-audit.md` before making further Chapter 1 changes;
-5. use `revisions/reviews/prose-depth-audit.md` as a revision lens, not a paragraph checklist;
-6. follow the cultural reality gate and the `Next action` below;
-7. load only the specific canon/author/draft/research files needed.
+## Current manuscript state
 
-Do **not** reread Discovery 01–15 by default.
+- Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ` — **final / canon / 3063 words**.
+- Chapter 1 accepted canon diff: `revisions/canon/chapter-01-canon-diff.md`.
+- `continuity/state.md`: `current-chapter: 1`.
+- Chapter 2 brief: `revisions/plans/chapter-02-brief.md` — **awaiting author approval**.
 
-## Current project state
+## Active prose contract
 
-- Discovery 01–15: accepted development truth.
-- Pre-Draft Lock: complete.
-- Initial Story Skills canon promotion: approved and complete.
-- `continuity/state.md` remains at `current-chapter: 0`; Chapter 1 is still draft manuscript, not canonized on-page state.
-- Chapter 1 brief: `revisions/plans/chapter-01-brief.md` — approved.
-- Current Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ`, **3063 recorded words**.
-- Current craft reviews:
-  - `revisions/reviews/chapter-01-ngan-craft-audit.md`
-  - `revisions/reviews/repo-address-physicality-audit.md`
-  - `revisions/reviews/prose-depth-audit.md`
+- Natural Vietnamese storytelling over visible craft.
+- Ordinary life must genuinely feel ordinary before wrongness appears.
+- Dialogue is interruptible, socially situated and character-specific; avoid television-like ping-pong.
+- Supporting characters have independent agency/work.
+- Narrator social address follows Vietnamese relation/age: older adults use natural kinship or `ông/bà + tên`; `chị Hạnh`; peers such as Mai may use bare given name.
+- First important appearance gets a small integrated physical anchor.
+- Body language is read against each character's ordinary baseline; show deviation before explaining fear/wrongness.
+- Use subtext/social permission, free-indirect closeness, scene-vs-summary control, negative space, aftermath/residue, delayed meaning and tonal counterpoint as lenses — not mandatory tricks in every scene.
+- `observed ≠ interpretation ≠ canon` must also be respected in prose wording.
 
-Core workflow:
+## Opening relationship lock
 
-> Plan until the next irreversible mistake is prevented. Draft before planning starts replacing discovery.
+Mai and Khanh are lifelong childhood friends and strictly platonic. Neither has had nor will develop romantic feelings for the other. No romance bait, jealousy, matchmaking or will-they-won't-they framing.
 
-> Prose is also research.
+## Cultural reality gate
 
-For small mechanical/line fixes that preserve plan and canon, apply them directly. Pause for approval only for material plot/canon/timeline/relationship/world-rule changes or major structural redirection.
+Concrete Vietnamese ritual/religious/votive/funeral claims must be checked against `research/verified/` rather than invented because they sound plausible.
 
-## Major voice correction now active
-
-The author rejected the first Chapter 1 prose style because it felt too compressed, overly crafted, television-like in dialogue, insufficiently differentiated by character, and ominous before the story had earned unease.
-
-Do **not** reproduce that first-draft voice.
-
-The active style contract is in `author/style-bible.md` and emphasizes natural storytelling, mixed sentence lengths, genuinely ordinary ordinary-life scenes, interruptible dialogue, supporting-character agency, differentiated attention/priorities, and horror only when a trusted normal pattern breaks.
-
-## Prose-depth lenses now active
-
-Audit: `revisions/reviews/prose-depth-audit.md`.
-
-Use only where relevant, without visible technique-showing:
-
-- focalized / free-indirect attention instead of neutral-camera prose or constant thought tags;
-- subtext grounded in Vietnamese kinship, hierarchy, shame, duty, money and social permission;
-- deliberate scene-vs-summary control (`show, don't tell` is not a universal law);
-- negative space / omission with human reasons rather than automatic ominous silence;
-- aftermath and behavioral residue after major fear/moral events;
-- ordinary details that can gain delayed meaning on reread;
-- tonal counterpoint: work, humor, money, grief and horror may coexist;
-- epistemic phrasing that preserves observed vs told vs inferred vs author-certified fact.
-
-## Nguyễn Ngọc Ngạn craft lens now active
-
-Research note: `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`.
-
-Use it as a **craft lens, not imitation target**. Key transferable mechanisms:
-
-- narrative clarity and event/social causality over visible sentence artistry;
-- patient accumulation of ordinary logistics, family, work, money and local routine before the uncanny;
-- supporting characters with their own practical motives and skepticism;
-- horror entering through a routine the reader already understands;
-- anomaly escalating by repeated failure of ordinary explanations;
-- oral/testimonial credibility as a source of suspense;
-- past human wrongdoing giving emotional weight without automatically proving supernatural causation.
-
-Important medium distinction: Nguyễn Ngọc Ngạn has said he edits dialogue specifically for audiobook/radio-drama presentation. `Horrible` remains text-first, so do not copy audiobook theatricality or surface phrasing. Learn the underlying social/practical logic instead.
-
-## Chapter 1 second craft revision — applied
-
-Audit: `revisions/reviews/chapter-01-ngan-craft-audit.md`.
-
-Applied without changing plot/canon:
-
-- removed narrator explanations after scenes already demonstrated the point;
-- reduced sitcom-like setup/payoff dialogue chains;
-- grounded Hùng more strongly in repair/errand task logic;
-- kept Mai's logistics agency while reducing friendship exposition;
-- removed premature rationalization around the upstairs sound;
-- replaced the thematic final sentence with concrete continuing market/shop activity.
-
-Do not restore the removed explanatory/thematic prose unless the author explicitly asks.
-
-## Narrative address + physicality gate now active
-
-The author requires Vietnamese narrator address to respect age/social relation. In manuscript prose, older adults are not bare names: use natural kinship (`mẹ anh`, `bố anh`) or `ông/bà + tên`; for Khanh's older sister use `chị Hạnh`. Metadata/planning identifiers may remain bare names.
-
-Opening canon character files now carry `Physical presence` and `Body-language baseline`. Before any future recurring character's first real prose appearance, establish equivalent anchors just in time rather than improvising them in the chapter.
-
-Use body language as evidence against an established baseline. Especially in horror, show the familiar body behaving slightly wrong before narrator interpretation. Do not reduce fear to generic heartbeat/breath/trembling language.
-
-## Opening character voice locks
-
-**Khanh** — not permanently analytical. At home he may be sleepy, petty, amused, embarrassed or childish. Engineer reasoning becomes prominent only when something genuinely does not fit.
-
-**Lan** — shop-first attention. Strange stories coexist with customers, prices, errands and gossip. She does not deliver polished statements about belief.
-
-**Hùng** — action-first but not a stock terse father. His own practical tasks shape when/how he speaks and when he leaves a conversation.
-
-**Mai** — independent logistics work drives her entrances/exits and interruptions. She is Khanh's lifelong childhood friend and strictly platonic. Neither has had or will have romantic feelings for the other. No romance bait, jealousy or matchmaking.
-
-## Stable creative contract
-
-- Horror/spiritual experience first; mystery second.
-- Mystery must sharpen the horror, never sterilize it.
-- Everyday Vietnamese life remains active between cases.
-- Culture is not supernatural evidence.
-- Folklore/testimony/belief are not automatic cosmology canon.
-- Khanh has no confirmed supernatural power.
-- Cast follows life topology, not plot convenience.
-- No fixed ghost-hunting team or universal lore expert.
-- Grandfather is fallible and not the hidden answer to the universe.
-
-## Cultural reality gate now active
-
-The author requires real-world Vietnamese cultural/religious/ritual/commercial detail to be researched rather than invented for plot convenience.
-
-Verified P0 pack:
-
+Current P0 pack:
 - `research/verified/cultural-reality-audit.md`
 - `research/verified/votive-paper-commerce-v1.md`
 - `research/verified/votive-shop-language-ordering-v1.md`
 - `research/verified/funeral-workflow-bacninh-v1.md`
 - `research/verified/case-zero-order-cultural-audit-v1.md`
 
-### Case Zero advance-order correction — author domain knowledge
+## Case Zero correction now locked
 
-The author has direct family experience selling votive-paper goods and corrected an earlier project assumption:
+Author has direct family trade experience with votive-paper retail and corrected the premise:
 
-- buying / preparing paper goods before a living person dies is **not inherently rare or uncanny** when relatives already believe the person may not survive serious illness or decline;
-- therefore the Case Zero order must **not** become strange merely because the named recipient is alive;
-- Lan/Khanh initially normalize it through ordinary possibilities: hidden illness, expected death, family preparing early, namesake, or a private circumstance;
-- the real uncanny turn is later evidence that the named man had been outwardly healthy, active and living normally, with no known serious/terminal decline and no family expectation/preparation for his death;
-- he then dies unexpectedly only days after the order, retrospectively making the purchaser's apparent foreknowledge disturbing.
+**Buying paper goods in advance for a living person is not inherently rare or uncanny.** Families may prepare when they believe somebody is unlikely to survive.
 
-This correction supersedes the older requirement that the order itself be unusually `death/memorial-coded` to generate its horror.
+Therefore the family initially normalizes the mysterious woman's order with a mundane explanation: the recipient may be seriously ill and relatives may be preparing ahead.
 
-Other P0 refinements remain active:
+The real wrongness appears later when they establish that the intended recipient was **apparently healthy, living normally, and not known by his family to be near death** — followed by his unexpected fatal stair fall four days after the order.
 
-1. ledger distinguishes `người đặt` and `làm cho ai`;
-2. `tuổi âm`/address remain purchaser-provided or shop-admin/disambiguation details, not universal ritual requirements;
-3. three-day return is the purchaser's requested deadline, not an industry-standard lead time;
-4. exact ordinary product list stays flexible until Chapter 2 brief; the old-style cassette radio remains the custom fair-play clue.
+Case Zero truth source: `development/horrible/case-zero-truth-matrix.md`.
 
-Do not invent a universal `bộ tang lễ chuẩn` or universal Northern funeral sequence.
+Do not restore the earlier premise that `hàng mã + living recipient` is itself the anomaly.
+
+## Chapter 2 brief intent
+
+Working title: `Người đặt`.
+
+The order scene should be deliberately ordinary:
+- no ghost-coded appearance;
+- purchaser age 50–60 remains only an observer estimate;
+- left-hand behavior is shown naturally and not highlighted;
+- ledger separates `người đặt` and `làm cho ai`;
+- old-style cassette radio is memorable as a custom work problem, not a mystical object;
+- three-day return is the purchaser's requested deadline, not an industry rule;
+- no universal funeral-paper-goods package;
+- the family leaves the scene believing a normal serious-illness/advance-preparation explanation is plausible.
+
+Default: save confirmation that the recipient is healthy for a later beat (likely Chapter 3) so the earlier ordinary scene changes meaning retroactively.
 
 ## Repository status
 
-`anhdaijka/horrible@main` is the **only active source of truth** for this novel.
-
-The former `anhdaijka/novel-os@story/horrible-development` branch has been deleted after migration. Do not look for or recreate a parallel Horrible branch in `novel-os`.
-
-## Validation status
-
-Post-migration / post-revision GitHub Actions on `anhdaijka/horrible` have passed Story Skills schema, links/backlinks and continuity checks. Re-check the latest HEAD after any further manuscript or state edit.
-
-`current-chapter: 0` intentionally remains behind drafted Chapter 1 until manuscript approval.
+`anhdaijka/horrible@main` is the only active source of truth. The old `novel-os@story/horrible-development` branch was deleted.
 
 ## Next action
 
-**Author reads/reviews the current `chapters/chapter-01.md` after the applied craft revision.**
+**Author reviews/approves or adjusts `revisions/plans/chapter-02-brief.md`.**
 
-If only local prose issues remain, revise directly within the approved chapter purpose.
-
-If the author approves the manuscript:
-
-1. prepare/apply the on-page canon diff;
-2. update chapter/scene status as appropriate;
-3. advance `continuity/state.md` to chapter 1;
-4. rerun Story Skills checks;
-5. prepare Chapter 2 brief using the verified cultural guardrails, the corrected advance-order premise, and the active prose-depth lenses.
-
-Do not start Chapter 2 prose before Chapter 1 manuscript/canon state is settled unless the author explicitly asks to work out of order.
+After approval:
+1. create Chapter 2/scene records;
+2. draft Chapter 2 using the cultural + prose gates above;
+3. review prose/continuity;
+4. do not reveal the healthy-recipient contradiction too early unless the approved brief changes.
