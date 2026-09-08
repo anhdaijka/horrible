@@ -15,7 +15,7 @@ The manuscript and craft rules had strong dialogue/agency guidance but still all
 - Chapter 1 first real appearances of bà Lan, ông Hùng and Mai were given integrated observable anchors;
 - Khanh receives a small early physical anchor without a mirror/exposition paragraph;
 - the final upstairs hesitation now uses a visible stopped movement rather than abstract reaction language;
-- Chapter 1 word count synchronized to **3051**.
+- Chapter 1 word count synchronized to **3063**.
 
 ## Scope rule for future cast
 
