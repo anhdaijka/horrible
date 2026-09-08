@@ -1,424 +1,489 @@
-# Style Bible — Horrible
+# Style Bible — Horrible v2
 
-## Language
+> Author-approved after the opening reset. Supersedes the earlier style system that over-constrained horror through excessive normalization and ambiguity.
 
-Vietnamese.
+## 1. Language and register
 
-Use contemporary Vietnamese with a neutral-to-Northern register and natural Northern social texture. Do not force dialect spelling. Let locality come through syntax, address terms, habits, shared references, work, food, errands and what people leave unsaid.
+Write in contemporary Vietnamese with a natural Northern register and Kinh Bắc / former Bắc Ninh–Bắc Giang social texture.
 
-## Vietnamese narrative address / xưng hô
+Do not force dialect spelling. Locality should come through:
 
-Narration must respect Vietnamese social distance instead of borrowing the bare-name convention of internal story files.
+- cách xưng hô;
+- nhịp nói;
+- chợ, nghề, đường sá, đồ ăn, việc nhà;
+- quan hệ họ hàng / hàng xóm;
+- những thứ người địa phương mặc nhiên biết mà không cần giải thích.
 
-In close Khanh POV, prefer the relationship term that would naturally organize his perception: `mẹ anh`, `bố anh`, `chị Hạnh`, and similar kinship/social forms. When the narrator uses the personal name of an adult clearly belonging to an older generation, attach the appropriate address term: `bà Lan`, `ông Hùng`, `ông Nhân`, `bà Thủy` — not bare `Lan`, `Hùng`, `Nhân`, `Thủy`.
+Natural storytelling outranks visible literary technique.
 
-For someone older but still in a nearby generation, use the socially natural `anh/chị + tên` when Khanh would do so. Same-age childhood friends and peers may use the bare given name when the relationship supports it, as with `Mai`.
+## 2. Narrator social address / xưng hô
 
-This is a **manuscript narration rule**, not a metadata rule. Character headings, YAML, registries, planning documents and internal canon references may use bare canonical names for precision. Dialogue follows the speaker's actual relationship to the person, not the narrator rule.
+Narration follows Vietnamese social distance.
 
-Do not switch arbitrarily between `Lan` and `bà Lan` or `Hùng` and `ông Hùng` inside prose. Once social framing is established, keep it natural and consistent.
+In Khanh-close POV:
 
-## POV
+- `mẹ anh` / `bà Lan`;
+- `bố anh` / `ông Hùng`;
+- `chị Hạnh`;
+- older-generation adults use natural kinship or `ông/bà + tên`;
+- nearby older generation may use `anh/chị + tên`;
+- same-age peers such as Mai may use bare given names when natural.
 
-Third-person limited, primarily and closely centered on Khanh.
+Do not use bare `Lan`, `Hùng`, `Nhân`, `Thủy` in manuscript narration merely because metadata does.
 
-One consciousness per scene. No casual head-hopping.
+This rule does not apply mechanically to YAML, registries or planning documents.
 
-Documents, recordings, messages, testimony, oral retellings and other embedded artifacts may widen the information surface without turning the main narration omniscient.
+## 3. POV
 
-## Narrative stance
+Primary mode: close third-person limited through Khanh.
 
-Use natural Vietnamese narrative flow. Do not mechanically avoid or mechanically insert `đã`; aspect and time should follow ordinary Vietnamese usage.
+One active consciousness per scene unless an explicitly designed interlude or embedded testimony uses another frame.
 
-The prose should feel like somebody is telling a compelling story about real people, not like a language specialist demonstrating sentence control.
+The narrator may possess **storyteller authority** without becoming omniscient about private thoughts.
 
-## Core prose identity
+The narrator may:
 
-The ordinary world must be genuinely ordinary before anything becomes wrong.
+- foreshadow consequence;
+- frame a detail as something later remembered;
+- let the reader become uneasy before Khanh;
+- compress unimportant time;
+- withhold a reveal fairly;
+- linger on an ordinary detail because the story knows it will matter.
 
-The reader should be allowed to relax into food, work, family irritation, market chatter, boredom, errands, jokes and familiar routines. Do not preload every domestic scene with ominous wording, suspicious pauses or symbolic detail merely because the novel is horror.
+The narrator must not spoil future logic by explaining what characters do not yet know.
 
-The frightening effect comes when one detail that belongs to everyday life no longer behaves as expected.
+## 4. Genre promise
 
-Core rules:
+This is a ghost / spiritual horror novel.
 
-- **Normal first. Wrongness later.**
-- **Describe the wrongness before naming the horror.**
-- **Concrete first, interpretation second.**
-- **Fear lives in interruption of a pattern the reader already trusts.**
-- **The dead should feel like former people before they feel like supernatural objects.**
-- **If the reader already feels that something is wrong before the story has earned it, the scene is probably over-written.**
+Do not make the reader wait through multiple chapters of neutral realism before receiving horror.
 
-## Sentence rhythm
+Chapter 1 must provide a real horror reward or unmistakable supernatural promise.
 
-Natural rhythm matters more than visible craft.
+A chapter opening should usually offer at least one of:
 
-Do not default to stacks of short declarative sentences, sentence fragments or one-line paragraphs. Short sentences are useful only when the scene has earned compression.
+- a question;
+- a disturbing fact;
+- a human problem with pressure;
+- a strange image;
+- an oral story worth hearing;
+- a consequence already in motion.
 
-Ordinary scenes should usually breathe through mixed sentence lengths and fuller paragraphs. A paragraph may carry action, observation and a small aside together if that is how the thought naturally moves.
+Not every chapter must begin scary, but early pages must generate forward pull.
 
-Avoid the pattern:
+## 5. Ordinary life is contrast, not quota
 
-> Statement.
-> Short statement.
-> Sensory fragment.
-> Interpretive sentence.
-> Dramatic fragment.
+Meals, work, market noise, family jokes, deliveries, customers and errands make the world believable.
 
-when normal prose would simply say the thing in one or two flowing sentences.
+Use them when they deepen:
 
-Do not turn every mundane observation into a crafted image, motif or aphorism. Some details are allowed to be merely useful, funny, inconvenient or familiar.
+- attachment;
+- character;
+- social texture;
+- causality;
+- suspense;
+- contrast;
+- later recontextualization.
 
-## Narrative distance
+If a mundane beat only proves that life is mundane, summarize or cut it.
 
-Stay close enough to register Khanh's habits, embarrassment, memories, bodily fear and contradictions, but do not narrate every perception as analysis.
+Do not spend thousands of words earning permission for the story to become horror.
 
-At home, Khanh is first a son, brother and old friend. He does not continuously observe his family like a researcher returning to a field site.
+## 6. Horror may be direct
 
-His engineering mindset should become especially visible when something genuinely fails to fit. It should not tint every breakfast, joke or family errand with root-cause language.
+The prose is allowed to be frightening on purpose.
 
-## Description
+Allowed tools include:
 
-A place should feel inhabited before it becomes atmospheric.
+- darkness;
+- silence;
+- cold;
+- footsteps;
+- a face in the wrong place;
+- repetition;
+- a voice from someone dead;
+- an impossible body posture;
+- an object behaving wrongly;
+- a smell connected to death;
+- an empty room;
+- ritual imagery;
+- a sudden sound;
+- gore when earned.
 
-Prefer concrete domestic and social detail: people stepping around boxes, somebody calling from the next room, an unpaid bill under a cup, a customer who changes an order twice, a market worker blocking the doorway, old furniture moved for storage, the smell of breakfast mixed with shop stock.
+No device is banned simply because it is common in horror.
 
-Do not make details ominous merely by isolating them. Fluorescent lights, incense, old stairs, shutters, rain, empty rooms and market noise are not inherently horror imagery.
+The real prohibition is **generic use without specificity**.
 
-Use sensory detail according to what the POV character would actually notice while doing something.
+A dark staircase is weak if it is only dark because this is horror. It can be strong if the reader knows who normally uses it, what sound those steps make, and what is now wrong.
 
-## First appearance — physical anchor
+## 7. Suspense vs leakage
 
-A recurring or scene-important character should not arrive as a floating name and dialogue tag.
+Foreshadowing creates a question.
 
-On the first **real on-page appearance** (not a passing phone/video mention), give the reader roughly 2–4 observable anchors integrated into action. Useful anchors include:
+Leakage answers the question before the story earns it.
+
+Bad leakage:
+
+- narrator explains that a living recipient might be gravely ill before anyone has reason to know the order was made while he lived;
+- narrator reassures the reader that a strange customer is ordinary;
+- characters verbalize the future twist's natural explanation before the twist exists.
+
+Good suspense:
+
+- a date on a receipt is shown without explanation;
+- a name is recorded and forgotten;
+- the narrator says Khanh would later remember a particular gesture, without saying why;
+- a storyteller opens with the consequence and makes us ask how it happened.
+
+Information must arrive in the order characters could plausibly encounter it unless a deliberate narrative frame clearly gives the reader more.
+
+## 8. Storyteller authority and oral-horror cadence
+
+The prose may sometimes sound like a confident person telling you a story they know is worth hearing.
+
+This allows:
+
+- selective setup;
+- controlled digression;
+- retrospective framing;
+- ominous transition;
+- social context that makes the event believable;
+- withholding one crucial fact until the right moment.
+
+Do not imitate any named storyteller's exact wording or signature mannerisms.
+
+The transferable quality is **narrative trust**: the reader feels the storyteller knows where this is going.
+
+## 9. Scene pressure
+
+Every scene should have pressure even when it has no supernatural event.
+
+Pressure may come from:
+
+- time;
+- money;
+- embarrassment;
+- secrecy;
+- family hierarchy;
+- work;
+- illness;
+- grief;
+- a promise;
+- somebody waiting;
+- a disturbing unanswered question.
+
+A scene without horror can still be compelling if somebody wants something and something resists them.
+
+## 10. Character first appearance
+
+Recurring or scene-important characters should not enter as floating names.
+
+On first real appearance, integrate roughly 2–4 memorable anchors while the person is doing something:
 
 - approximate build / age impression;
-- hair, clothing, hands or a work-worn detail;
-- posture, gait, spatial habit or how the person handles objects;
-- one task-specific physical behavior that belongs to their ordinary life.
+- hair / clothing / work-worn detail;
+- hands;
+- gait / posture;
+- spatial habit;
+- a task-specific motion.
 
-Do not stop the scene for a police-sketch paragraph. Description should arrive while the person is already doing something. Do not list every permanent trait, and do not repeat the full description on later entrances. Re-description should usually notice what changed, what the POV needs now, or what becomes newly strange.
+Do not write police-sketch paragraphs.
 
-The purpose is not decorative portraiture. A stable physical baseline gives horror something concrete to disturb later.
+Physical description should create a baseline that later horror can disturb.
 
-## Body language / show-don't-tell
+## 11. Body language
 
-Body language is a primary evidence channel for fear, grief, concealment, exhaustion, social pressure and uncanny wrongness.
+Fear, grief, concealment and uncanny mismatch should often be visible in bodies before narrator labels them.
 
-Before writing a dramatic deviation, know the character's ordinary physical baseline. The strongest signal is often **a familiar person failing to move like themselves**, not a generic fear adjective.
+Read behavior against **that person's normal baseline**.
 
-Prefer observable changes such as:
+Examples:
 
-- a hand pausing over a task it normally completes automatically;
-- grip strength changing, an object being held too long, or a simple action repeated;
-- weight shifting toward/away from a door, person or sound;
-- gaze failing to land where conversation expects it to land;
-- speech timing changing while the face or hands continue another task;
-- someone habitually in motion becoming still, or a still person becoming purposelessly busy;
-- spatial mistakes: standing in the wrong place, not yielding familiar space, turning the body before the head, staying too close or too far away.
+- a hand stops halfway through an automatic task;
+- somebody repeats a familiar motion incorrectly;
+- a person who is always busy becomes still;
+- gaze lands beside rather than on the speaker;
+- someone fails to yield familiar space;
+- head and body turn with the wrong timing;
+- a person keeps holding an object after the practical reason is gone.
 
-Do not assign universal meanings (`crossed arms = defensive`, `looking away = lying`). Read physical behavior against **that character's baseline, context, fatigue, work and relationships**.
+Do not use universal body-language equations such as `looking away = lying`.
 
-For horror escalation, let the body carry intensity in stages. Small anomalies should begin small. Severe reactions — shaking, vomiting, collapse, loss of coordination, screaming — require earned severity and should not become stock punctuation.
+## 12. Frightening bodies / apparitions
 
-For possession-like or apparition-adjacent scenes, describe the mismatch before any interpretation: a known gesture with the wrong timing, familiar posture in an impossible context, a body completing a habit while attention seems elsewhere. Do not let narrator labels replace observation.
+When depicting something supernatural, start with **observable wrongness**, but do not be afraid to let it become clearly impossible.
 
-Do not give each character one permanent fear tic and repeat it mechanically. Maintain a palette of plausible physical responses.
+Possible escalation:
 
-## Focalized attention / free-indirect interiority
+1. familiar;
+2. slightly mistimed;
+3. physically difficult to explain;
+4. impossible;
+5. consequence.
 
-The narration is not a neutral camera, but it also should not tag every thought with `Khanh nghĩ`, `Khanh nhận ra`, `anh cảm thấy`.
+A ghost does not always need pale skin, white clothing or hollow eyes.
 
-Let description sometimes inherit Khanh's priorities, irritation, memory, assumptions or private wording without stopping to announce that this is thought. The reader can feel his mind through **what receives attention and how it is phrased**.
+Sometimes the frightening part is that it looks exactly like a normal person who should not be there.
 
-Use this selectively. If every object becomes commentary on Khanh's psychology, the prose becomes mannered again.
+## 13. Dialogue
 
-## Subtext and social permission
+Dialogue should sound like people who already have lives and relationships.
 
-People often talk about one thing while negotiating another.
+People may:
 
-In family/community scenes, ask what this person is socially allowed to say to this other person given age, kinship, status, debt, shame, reputation, work hierarchy and history. A character may answer the practical question while declining the emotional one, joke where a direct challenge would be rude, or change subject because saying the true thing would create a social consequence.
+- interrupt;
+- answer only part of a question;
+- continue doing another task;
+- repeat themselves;
+- misunderstand small things;
+- change topic;
+- refuse to answer;
+- talk too much when nervous;
+- become unusually formal under pressure;
+- use social hierarchy to avoid saying the real thing.
 
-Do not make everybody cryptic. Subtext should arise from **human constraint**, not authorial secrecy.
+Avoid television-like ping-pong where every line is equally polished.
 
-## Show vs tell / scene vs summary
+Voice comes from what a person wants, fears, notices, avoids and assumes — not catchphrases.
 
-`Show, don't tell` is a tool, not a law.
+## 14. Subtext and social permission
 
-Use scene-level showing when the reader needs to interpret body language, uncertainty, moral choice, relationship pressure or an uncanny event in real time.
+Vietnamese family/community life has strong social permissions.
 
-Use telling / summary when compressing:
+Ask:
 
-- repeated errands or shop routines;
-- travel and waiting;
-- repeated questioning that adds no new social turn;
-- stretches of ordinary work;
-- background history whose dramatic scene would steal weight from the present.
+- Can this person say this directly to this other person?
+- What would it cost socially?
+- What do they call one another when angry, frightened or ashamed?
+- Who is entitled to ask?
+- Who can refuse?
 
-Strategic summary gives scale and protects the important scenes from novel-length bloat. Do not dramatize every fact merely to prove literary seriousness.
+Silence or avoidance should come from human reasons, not because the author wants to seem mysterious.
 
-## Negative space / selective omission
+## 15. Free-indirect interiority
 
-What is not said can matter, but omission needs a human reason.
+Do not overuse `Khanh nghĩ`, `Khanh nhận ra`, `anh cảm thấy`.
 
-Useful negative space includes:
+Let the narration inherit his irritation, assumptions, memory and attention when useful.
 
-- a name an older relative consistently avoids;
-- a question answered only halfway;
-- a topic changed because a customer enters;
-- a family member who uses a relationship term instead of a personal name;
-- somebody who knows the answer but does not think Khanh has the right to ask;
-- a mundane detail everyone assumes and therefore never explains.
+But do not turn every object into psychological symbolism.
 
-Silence is not automatically ominous. Avoid turning every pause into foreshadowing.
+Khanh can be wrong.
 
-## Aftermath / behavioral residue
+## 16. Show, tell, scene, summary
 
-A frightening, shameful or morally difficult event should sometimes survive the scene through changed routine rather than explanatory monologue.
+Use scene when the reader needs to experience:
 
-Possible residue:
+- fear;
+- uncertainty;
+- social pressure;
+- a moral choice;
+- a reveal;
+- a disturbing physical event.
 
-- taking another route;
-- leaving a light on;
-- not touching or moving an object that used to be ordinary;
-- sleeping somewhere else without announcing why;
-- checking a lock twice;
-- answering a familiar question differently;
-- becoming irritated by a sound that previously meant nothing;
-- a shop/family habit subtly changing after an event.
+Use summary for:
 
-Not every scare needs residue, but major experiences should not evaporate when the chapter ends.
+- routine errands;
+- travel;
+- repeated questioning;
+- ordinary work with no new pressure;
+- background history that would dilute the present scene.
 
-## Delayed meaning / recontextualized detail
+`Show, don't tell` is not a command to dramatize everything.
 
-Re-reading value should come from ordinary details acquiring a second meaning later.
+## 17. Explanation discipline
 
-A handwriting habit, a radio knob, a photograph crop, a way of folding paper, an address term, a route through the market, a repeated sentence or a practical object may return after the reader has learned something new.
+Do not explain meaning after the scene has already shown it.
 
-On first appearance, do **not** announce that the detail is symbolic or important. Let later context perform the transformation.
+Common failure patterns to cut:
 
-## Tonal counterpoint / simultaneous life
+- `Điều đó khiến Khanh hiểu rằng...` after obvious action;
+- `Không có gì đáng ngờ...`;
+- paragraphs explaining why a character is not afraid;
+- narrator providing every plausible mundane interpretation immediately;
+- thematic summary at the end of a scene.
 
-Horror gains depth when it remains embedded in life rather than occupying a sealed `scary scene`.
+Trust the reader.
 
-Allow simultaneous tones where natural:
+## 18. Horror escalation
 
-- grief beside price negotiation;
-- ritual beside parking/logistics trouble;
-- fear while somebody is hungry or late for work;
-- family resentment inside ordinary hospitality;
-- an uncanny clue arriving while a phone keeps ringing;
-- humor surviving beside genuine distress without mocking it.
+A strong scare often has several distinct stages:
 
-Do not use counterpoint as a gimmick. The point is that life usually refuses to organize itself by genre.
+### Anticipation
+The reader expects something but does not know its form.
 
-## Epistemic texture in prose
+### Recognition
+Something familiar returns — a voice, name, face, routine, object.
 
-Preserve the difference between observation, testimony, inference and narrator-certified fact through ordinary wording.
+### Violation
+One fact makes recognition impossible or wrong.
 
-`Ông ấy bảo...`, `Khanh nhớ là...`, `trông như...`, `có vẻ...`, `anh không chắc...` are not hedging clutter when uncertainty is genuinely part of the evidence.
+### Reaction
+The body/social situation responds.
 
-Do not let a confident sentence accidentally promote hearsay or interpretation into world truth.
+### Consequence
+The event changes what can happen next.
 
-## Dialogue — naturalness first
+### Residue
+The fear remains in routine, memory, relationship or behavior.
 
-Dialogue must sound like people who already know one another, not actors delivering clean television lines and not characters explaining themselves for the reader.
+Do not make every scare a jump followed by immediate explanation.
 
-Real conversation is often incomplete. People:
+## 19. Delayed meaning
 
-- answer only the useful part of a question;
-- continue doing another task while speaking;
-- interrupt or are interrupted by customers, phones, family and work;
-- refer to shared history without explaining it;
-- repeat themselves when distracted;
-- change topic without transition;
-- misunderstand small things and do not always repair the misunderstanding;
-- use filler, address terms and contextual shorthand naturally;
-- sometimes do not answer at all.
+Important details may look unimportant at first.
 
-Do not make every exchange a neat setup/payoff pair. Avoid ping-pong dialogue in which each line is equally polished, equally short and equally witty.
+Good candidates:
 
-A character's voice is not a catchphrase or vocabulary gimmick. It comes from what that person notices, wants, avoids, assumes, interrupts and considers worth saying.
+- date;
+- handwriting;
+- way of holding a pen;
+- route;
+- address term;
+- old photograph;
+- exact object design;
+- a phrase;
+- a family habit.
 
-## Character agency in scenes
+Do not spotlight them as clues on first appearance.
 
-Every recurring character enters a scene with a life already in progress.
+Later information should make the earlier scene **more disturbing on reread**.
 
-Before using a supporting character, know what they are doing or trying to get done independent of Khanh. They should not appear only to give him information, demonstrate a trait, tell a ghost story or react to his observation.
+## 20. Chapter endings
 
-A character is allowed to:
+Do not end every chapter with a gothic one-liner.
 
-- be too busy for Khanh;
-- care about a different problem;
-- give an answer he does not find useful;
-- leave before the scene feels narratively complete;
-- remember something incorrectly;
-- decline to participate;
-- change the practical direction of a scene.
+But a chapter should usually leave forward pressure:
 
-If removing Khanh would cause a supporting character to have no reason to be present, reconsider the scene.
+- a disturbing new fact;
+- a decision;
+- a recognition;
+- a threat;
+- an unanswered question;
+- an emotional cost;
+- an image that changes meaning.
 
-## Opening-family voice calibration
+An ordinary ending is allowed only if the unresolved pressure remains alive.
 
-### Lan
+## 21. Supernatural truth vs character belief
 
-Lan runs a shop. Her attention moves between customer, stock, price, order, family and gossip without separating them into thematic categories. She may tell a strange story because something on the counter reminds her of it, then abandon the story when a customer arrives.
+Keep separate:
 
-She does not routinely formulate polished statements about belief. Her uncertainty should appear through ordinary phrases, corrections, shrugging, changing versions, or simply moving on.
+- what happened;
+- what Khanh observed;
+- what somebody told him;
+- what a practitioner believes;
+- what folklore calls it;
+- what the author knows is true.
 
-### Hùng
+But do not flatten this into permanent ambiguity.
 
-Hùng is quiet, but `quiet` must not mean every line is a clipped solemn sentence. He speaks when something practical catches his attention, may answer sideways, mutter from the thing he is fixing, or make a dry observation and continue working.
+The author may decide a ghost is real.
 
-His agency usually appears through action: repairing, carrying, checking, going somewhere, deciding something is not worth discussing.
+The reader may receive stronger confirmation than Khanh.
 
-### Mai
+A real supernatural event may still have an unknown mechanism.
 
-Mai and Khanh are lifelong platonic childhood friends. Their familiarity should feel unperformed: unfinished sentences, old references, borrowing things without ceremony, arguing over memories, being distracted by other work.
+## 22. Cultural reality gate
 
-Mai is not waiting for Khanh's story to happen. Logistics, drivers, suppliers and family business can pull her out of a scene at any moment.
+Concrete claims about real Vietnamese practices must be grounded in `research/verified/` or clearly framed as local/family/character belief.
 
-No romantic subtext, jealousy, matchmaking or will-they-won't-they framing between them.
+This includes:
 
-### Khanh
+- vàng mã / hàng mã;
+- funerals;
+- giỗ / 49 / 100 days;
+- ancestor altars;
+- Buddhism;
+- Đạo Mẫu / Thờ Mẫu;
+- ritual specialists;
+- taboos;
+- đình / đền / chùa / phủ / miếu;
+- named folklore traditions.
 
-Khanh does not need to sound intelligent in every paragraph. He can be sleepy, lazy, amused, irritated, wrong, distracted or childish around family.
+Research protects real culture from fake facts.
 
-His analytical strength should become more distinctive precisely because it is not always switched on.
+It does **not** limit what fictional ghosts may do unless the story falsely attributes that fictional rule to a real religion or tradition.
 
-## Oral-story quality
+## 23. Humor and tonal counterpoint
 
-The author values the high-level strengths of intimate Vietnamese oral ghost storytelling: patient everyday setup, plainspoken social detail, recognizable human behavior, family and neighborhood texture, moral ambiguity, and a supernatural intrusion that feels stronger because the storyteller did not strain to make the setup scary.
+People can laugh during bad days, argue over money at funerals, answer work calls while frightened and worry about food in the middle of grief.
 
-Use those craft qualities without imitating any named storyteller's exact prose voice, phrasing or signature mannerisms.
+Use this to keep people alive.
 
-An embedded ghost story may wander through apparently irrelevant but human details if those details make the teller and setting believable. Oral stories do not need to be compressed into efficient plot delivery.
+Do not use humor to puncture every horror beat.
 
-## Horror language
+Sometimes a frightening moment needs to remain frightening.
 
-Horror is not a permanent filter over the prose.
+## 24. Prose rhythm
 
-For much of a chapter, the language may be warm, funny, practical or even banal. When wrongness arrives, change as little as necessary. One ordinary fact becoming impossible is often stronger than several paragraphs announcing dread.
+Use mixed sentence lengths.
 
-Do not automatically use:
+Avoid automatic stacks of short declaratives and fragments.
 
-- sudden silence;
-- cold air;
-- dark stairwells;
-- isolated sound effects on separate lines;
-- heartbeat description;
-- breath stopping;
-- ominous lighting;
-- `không có gì cả` reassurance;
-- a sequence of rational explanations after every noise.
+Also avoid endlessly smooth mid-length prose that never changes pressure.
 
-These devices are allowed when genuinely specific to the event, but they must not become house style.
+Rhythm should respond to scene state:
 
-Khanh's childhood fear can appear through behavior: postponing a trip upstairs, calling to someone without admitting why, turning on a light he did not need, becoming irritated at himself, or hurrying a task. It does not always require a physiological checklist.
+- social scenes can breathe;
+- anticipation may stretch;
+- recognition may narrow;
+- panic can compress;
+- aftermath may slow again.
 
-## Embedded folklore / testimony
+Short sentences are allowed when earned.
 
-Stories told by other people are a major horror and cultural channel, not decoration.
+## 25. Descriptive intensity
 
-A teller may exaggerate, misremember, combine stories, repeat hearsay, sincerely believe something false or genuinely report something supernatural. A told story is testimony, not automatic world truth.
+Description has permission to become lyrical, grotesque or highly sensory at high-value moments.
 
-Not every oral story needs payoff, investigation or relevance to Khanh.
+Do not make every paragraph plain merely to avoid showing off.
 
-If an oral story later crosses into the main plot, its claims must pass through the normal evidence framework before becoming author-canon fact.
+The rule is not `never be literary`.
 
-## Cultural voice and respect
+The rule is:
 
-The novel may help readers encounter the richness, beauty, contradiction and darker social edges of Vietnamese Buddhism, Đạo Mẫu / Thờ Mẫu, ancestor practices, votive-paper culture, funeral and memorial practice and Northern Vietnamese folklore.
+> **style must serve perception, fear, memory or emotional force.**
 
-Do not turn living traditions into interchangeable magic systems or scary décor.
+A memorable horror image is worth more than five paragraphs of tasteful neutrality.
 
-The darker side belongs to specific people, incentives, institutions and situations — fraud, pressure, commercialization, fear, stigma, overconfidence or mistaken belief — not to a claim that a religion or tradition is inherently sinister.
+## 26. Case variety
 
-## Mystery language
+Do not force every case through the same epistemic template.
 
-Investigation is structural support, not the prose identity of the novel.
+Some stories should end with:
 
-Avoid repeated clue → interview → timeline → reveal rhythm. Investigation should remain embedded in homes, shops, workplaces, funerals, meals, messages, gossip, obligations and relationships.
+- `Yes, something supernatural happened.`
+- `No, this was human.`
+- `Both human wrongdoing and something else were present.`
+- `We still cannot know.`
 
-**Mystery must sharpen the horror, never sterilize it.**
+The reader must not be able to predict the metaphysical answer from house style alone.
 
-## Humor
+## 27. Opening reset rules
 
-Humor is necessary because normal life must be worth believing in.
+The discarded Chapter 1–2 prototypes failed because they:
 
-Prefer accidental humor, old familiarity, family irritation, local observation and workplace dryness over written punchlines. Do not turn characters into quip machines.
+- over-normalized the opening;
+- treated lack of horror as sophistication;
+- explained ordinary hypotheses before the story earned the questions;
+- used mundane resolution at the end of Chapter 1 as an anti-promise;
+- leaked Case Zero's timeline by letting characters know too early that the recipient was living;
+- let style rules suppress the pleasures of a Vietnamese ghost story.
 
-## Emotional writing
+Do not salvage scenes or dialogue from those prototypes by default.
 
-Prefer routine, objects, food, habits, unfinished gestures and people failing to say the exact thing over emotional explanation after every beat.
+Rewrite the opening from a blank page.
 
-Do not make every memory meaningful at the moment it appears. Ordinary memories can gain meaning later.
+## Final test before approving prose
 
-## Technical prose
+Ask:
 
-Use accurate technical language only when work actually matters. Khanh's profession should make him specific, not turn the narration into a technical metaphor generator.
-
-## Recurring motifs
-
-Motifs are available, not mandatory:
-
-- paper and ash
-- names written on paper
-- records left by absent or dead people
-- practical light: shop bulbs, phone screens, office fluorescence
-- market noise and familiar sound patterns
-- thresholds between public bustle and private rooms
-- ordinary systems retaining traces of absent people
-
-Never insert a motif merely because the chapter has gone several pages without one.
-
-## Chapter presentation
-
-Numbered chapters with optional short titles.
-
-Vary endings. Many chapters may simply stop after a changed ordinary action, a conversation ending, a task completed, an unresolved thought or a quiet discrepancy. Do not manufacture a horror button at every chapter end.
-
-## Avoid
-
-- generic AI abstraction
-- prose that visibly tries to sound literary
-- stacks of short sentences used as default rhythm
-- excessive one-line paragraphs
-- dialogue that sounds rehearsed, televised or written for exposition
-- identical dialogue rhythm across characters
-- supporting characters who exist only to serve Khanh's scene purpose
-- redundant emotional explanation
-- repetitive `không phải X, mà là Y` rhetoric
-- mechanical rhetorical triads
-- ending every scene with a quotable sentence
-- random metaphors unrelated to lived context
-- melodramatic mystical NPC speech
-- constant fear adjectives or physiological checklists
-- generic Western haunted-house language
-- over-explaining familiar Vietnamese culture to Vietnamese characters/readers
-- treating every oral ghost story as literal canon
-- reducing folklore to a monster/power catalogue
-- dramatizing routine information that should simply be summarized
-- making every silence or omission ominous
-- using subtext as an excuse for deliberately confusing dialogue
-- letting major horror experiences vanish with no later behavioral residue when residue would naturally remain
-
-## Revision test
-
-When reviewing prose, ask:
-
-1. Would this scene still feel natural if the reader did not know the book was horror?
-2. Can I identify the speaker from what they care about and how they respond, not just from dialogue tags?
-3. Does every supporting character have something to do besides serve Khanh?
-4. Are short sentences being used for effect, or merely because the writer likes control?
-5. Did the prose announce unease before any actual pattern was broken?
-6. Can one crafted sentence be replaced by a plainer, more human one without losing meaning?
-7. Is the scene dramatizing something that summary could handle better?
-8. Is the real interpersonal issue present underneath the literal dialogue without everyone stating it aloud?
-9. Does a meaningful silence/omission have a human/social reason?
-10. After a major event, has behavior changed where it naturally should?
-11. Could an ordinary detail acquire new meaning later without being highlighted now?
-12. Is the narration preserving what is observed versus inferred versus merely told?
-
-If the answer exposes artificiality, prefer naturalness over elegance.
+1. **Would a horror reader want to continue?**
+2. **What question or image is pulling them forward?**
+3. **Did the narrator accidentally explain a future reveal?**
+4. **Are characters behaving from what they know now?**
+5. **Is ordinary life increasing stakes or merely consuming pages?**
+6. **Is there at least one memorable emotional, uncanny or frightening element?**
+7. **Does the scene sound Vietnamese in relationship and social texture, not merely in nouns?**
+8. **If the supernatural is real here, did the prose allow it to be real?**
