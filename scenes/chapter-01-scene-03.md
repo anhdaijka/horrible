@@ -9,7 +9,7 @@ characters:
   - tran-thi-lan
 arcs-advanced:
   - case-zero-don-hang-cho-nguoi-chua-chet
-status: draft
+status: final
 state-changes: []
 ---
 
@@ -21,4 +21,4 @@ Close the rewind on ordinary supplier coordination and the tagged custom order b
 
 ## Continuity Notes
 
-Draft-only. The order is scheduled for pickup on the thirteenth day of the first lunar month and remains uncollected when the later death connection is discovered.
+On-page canon. The order is scheduled for pickup on the thirteenth day of the first lunar month and remains uncollected when the later death connection is discovered.
