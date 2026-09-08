@@ -1,75 +1,57 @@
 # Chapter 1 Craft Audit — oral Vietnamese horror / Nguyễn Ngọc Ngạn lens
 
-Status: **revision authorized by author; no plot/canon change**.
+Status: **audit complete; revision applied; no plot/canon change**.
 
 Reference lens: `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`.
 
 This audit does not seek to imitate Nguyễn Ngọc Ngạn's wording or audiobook performance. It uses the transferable craft mechanisms: clear social causality, patient ordinary logistics, unforced narration, independent supporting-character motives, and wrongness entering a routine the reader already understands.
 
-## What already works
+## What already worked before revision
 
-- The pre-dawn market is concrete enough to establish an ordinary sound pattern before the final upstairs disturbance.
-- Lan's shop work competes successfully with ghost-related customer talk; belief is not presented as a lecture or cosmology.
-- Hùng has a real repair/errand thread independent of Khanh.
-- Mai enters through logistics work, is interrupted by drivers, and leaves because her own delivery problem matters more than finishing a scene with Khanh.
-- The chapter does not contain Case Zero, an apparition, or a supernatural proof.
-- The final noise receives a mundane explanation, keeping Chapter 1 as a homecoming chapter rather than a hidden horror set-piece.
+- The pre-dawn market was concrete enough to establish an ordinary sound pattern before the final upstairs disturbance.
+- Lan's shop work competed successfully with ghost-related customer talk; belief was not presented as a lecture or cosmology.
+- Hùng had a real repair/errand thread independent of Khanh.
+- Mai entered through logistics work, was interrupted by drivers, and left because her own delivery problem mattered more than finishing a scene with Khanh.
+- The chapter contained no Case Zero trigger, apparition, or supernatural proof.
+- The final noise received a mundane explanation, keeping Chapter 1 as a homecoming chapter rather than a hidden horror set-piece.
 
-## Remaining craft problems
+## Problems found and applied interventions
 
-### 1. Narrator explains a thematic point after the scene has already demonstrated it
+### 1. Narrator explained themes after behavior had already demonstrated them
 
-Examples include explanatory conclusions around:
+Removed/reduced explanatory conclusions around:
 
-- why the conversation about the dead stops;
-- why adults can move from ghost talk to ordinary errands;
-- why Mai's blunt comment does not hurt Khanh;
-- why her access to the family drawer proves long friendship;
-- why the morning ending should be read as ordinary.
+- why ghost talk stops;
+- how adults move immediately back to errands;
+- how Khanh interprets Mai's bluntness;
+- why Mai's access to the shop proves childhood familiarity;
+- why the final morning should be understood as ordinary.
 
-Problem: these sentences make the writer visible. They interpret the scene after behavior has already supplied the evidence.
+The revised manuscript trusts adjacency instead: ghost story → tape errand / new customer; Mai opens drawer → Lan permits it; upstairs noise → practical explanation → more shop work.
 
-Revision: delete or reduce the explanation. Trust adjacency: ghost story → tape errand; Mai opens drawer → Lan permits it; upstairs noise → normal work resumes.
+### 2. Dialogue sometimes formed clean setup/payoff chains
 
-### 2. Some dialogue still forms clean setup/payoff chains
+Reduced several symmetrical banter sequences. Work now terminates conversation more often than a punchline does.
 
-The early family banter and parts of Khanh–Mai's exchange contain several consecutive lines where each speaker answers the previous line neatly and lands a small joke.
+### 3. Hùng briefly sounded like a dry-comedy mechanism
 
-Problem: even good jokes become television-like when the exchange is too symmetrical. Real family/shop talk is more likely to be interrupted, half-answered, redirected to a task, or allowed to die without a punchline.
+Removed the Japan joke chain around the bundle. Hùng now comments on how Khanh ties the goods, checks the hinge, drinks water, asks about the replacement part, then leaves to buy it. His voice comes from task logic rather than a prepared line.
 
-Revision: keep one useful joke, remove the need for every line to top the previous one. Let work terminate dialogue.
+### 4. Mai's scene paused to explain the friendship
 
-### 3. Hùng's voice is partly carried by punchlines rather than task logic
+Kept one concrete childhood memory but removed the larger interpretive paragraph. The current scene relies on her knowing the drawer, borrowing the pen without ceremony, Lan's easy permission, and her work interruption.
 
-His repair thread is good, but the Japan exchange briefly turns him into a dry-comedy delivery mechanism.
+### 5. The upstairs beat rationalized too early
 
-Revision: make his humor emerge while checking the hinge / drinking water / leaving to buy parts, then let the task end the exchange.
+Removed the paragraph that immediately listed harmless explanations for the sound. Khanh simply pauses, asks who is upstairs, gets lightly teased, turns on the light, and discovers the moving bag/cardboard cause.
 
-### 4. Mai's agency is strong, but the scene occasionally pauses to explain the friendship
+### 6. The final sentence acted as a thematic button
 
-Her logistics interruption is one of the strongest parts of the chapter. The weaker layer comes immediately after, when narration explains why her behavior means childhood familiarity.
+Removed the sentence explaining that the morning continued normally. The chapter now ends with actual normal activity: traffic, food being ordered next door, Lan making change, incoming stock, and Khanh being given another shop task.
 
-Revision: keep one concrete childhood memory or household habit, but do not summarize the relationship's meaning. The canon file already carries the durable relationship rule; prose only needs lived evidence.
+## Preserved boundaries
 
-### 5. The final upstairs beat rationalizes too early and too completely
-
-Khanh hears a sound, then the narration quickly lists why the sound is probably harmless before he even asks Lan.
-
-Problem: this is a form of writer management. It simultaneously tries to reassure the reader and prove Khanh is rational, which gives the sound more narrative importance than it deserves.
-
-Revision: let his body pause, let him ask a practical question, let Lan tease him lightly, and then let him discover the mundane cause. No physiological fear checklist and no essay defending his rationality.
-
-### 6. Final sentence behaves like an authored thematic button
-
-`Buổi sáng tiếp tục như thể chẳng có gì đáng phải dừng lại.` states the intended effect rather than simply letting the morning continue.
-
-Revision: end on an ordinary task / customer / traffic action. The chapter should stop because life keeps moving, not because the narrator explains that life keeps moving.
-
-## Revision rule
-
-Preserve:
-
-- four-movement Chapter 1 structure;
+- approved four-movement Chapter 1 structure;
 - existing canon and character relationships;
 - shop/funeral cultural guardrails;
 - no Case Zero trigger;
@@ -77,4 +59,12 @@ Preserve:
 - childhood fear as a human trait;
 - Khanh–Mai strictly platonic.
 
-Change only execution: narration visibility, dialogue naturalness, paragraph rhythm, and ordinary-life continuity.
+## Current manuscript assessment
+
+The revision is intentionally plainer and shorter than the previous version. The reduction is not an attempt to make prose compressed; it removes interpretation and rehearsed dialogue while leaving the ordinary logistics intact.
+
+Current file: `chapters/chapter-01.md`.
+
+Current recorded word count: **2911**.
+
+Next gate: **author manuscript review**. If accepted, canonize Chapter 1 and proceed to Chapter 2 brief. If the author still feels voice artificiality, diagnose the specific surviving passages rather than rewriting the entire chapter by default.
