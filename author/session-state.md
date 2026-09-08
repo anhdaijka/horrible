@@ -8,14 +8,15 @@ Repository: `anhdaijka/horrible`.
 
 Branch: `main`.
 
-Current phase: **Chapter 1 rewritten + P0 cultural cleanup complete → waiting for Chapter 1 manuscript approval before canonization / Chapter 2 brief.**
+Current phase: **Chapter 1 rewritten + P0 cultural cleanup complete + Nguyễn Ngọc Ngạn horror-craft research added → waiting for Chapter 1 manuscript review through the new craft lens before canonization / Chapter 2 brief.**
 
 A new agent should:
 
 1. read this file;
 2. read `AGENTS.md` if not already loaded;
-3. follow its cultural reality gate and the `Next action` below;
-4. load only the specific canon/author/draft/research files needed.
+3. for prose/revision work, read `author/style-bible.md` plus `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`;
+4. follow the cultural reality gate and the `Next action` below;
+5. load only the specific canon/author/draft/research files needed.
 
 Do **not** reread Discovery 01–15 by default.
 
@@ -44,6 +45,22 @@ The author rejected the first Chapter 1 prose style because it felt too compress
 Do **not** reproduce that first-draft voice.
 
 The active style contract is in `author/style-bible.md` and emphasizes natural storytelling, mixed sentence lengths, genuinely ordinary ordinary-life scenes, interruptible dialogue, supporting-character agency, differentiated attention/priorities, and horror only when a trusted normal pattern breaks.
+
+## Nguyễn Ngọc Ngạn craft lens now active
+
+Research note: `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`.
+
+Use it as a **craft lens, not imitation target**. Key transferable mechanisms:
+
+- narrative clarity and event/social causality over visible sentence artistry;
+- patient accumulation of ordinary logistics, family, work, money and local routine before the uncanny;
+- supporting characters with their own practical motives and skepticism;
+- horror entering through a routine the reader already understands;
+- anomaly escalating by repeated failure of ordinary explanations;
+- oral/testimonial credibility as a source of suspense;
+- past human wrongdoing giving emotional weight without automatically proving supernatural causation.
+
+Important medium distinction: Nguyễn Ngọc Ngạn has said he edits dialogue specifically for audiobook/radio-drama presentation. `Horrible` remains text-first, so do not copy audiobook theatricality or surface phrasing. Learn the underlying social/practical logic instead.
 
 ## Opening character voice locks
 
@@ -97,11 +114,11 @@ The rewritten Chapter 1 preserves the approved four-movement structure with rela
 
 P0 cultural cleanup is applied: the unsupported `loại năm mươi / loại tám mươi` shop shorthand was removed rather than rationalized into a fake cultural convention.
 
-## Repository migration status
+## Repository status
 
-Active development now lives in this private repository: `anhdaijka/horrible@main`.
+`anhdaijka/horrible@main` is the **only active source of truth** for this novel.
 
-The former `anhdaijka/novel-os@story/horrible-development` workspace is retained only as backup/reference and its session-state redirects agents here. Do not create parallel canon between the two repositories.
+The former `anhdaijka/novel-os@story/horrible-development` branch has been deleted after migration. Do not look for or recreate a parallel Horrible branch in `novel-os`.
 
 The dedicated repository was imported as a clean snapshot of the former development branch. Source workflow files were restored after import because GitHub App workflow permissions prevented a direct history-preserving push of `.github/workflows/`.
 
@@ -118,7 +135,9 @@ Post-migration GitHub Actions on `anhdaijka/horrible`:
 
 ## Next action
 
-**Have the author read/review the current rewritten `chapters/chapter-01.md`.**
+**Review the current `chapters/chapter-01.md` specifically through the new Nguyễn Ngọc Ngạn craft lens: remove residual explanatory/showcase prose, ensure ordinary social causality carries the scene, and check that each character's practical life remains more important than signaling theme.**
+
+If only local prose issues remain, revise directly within the approved chapter purpose.
 
 If the author approves the manuscript:
 
@@ -126,8 +145,6 @@ If the author approves the manuscript:
 2. update chapter/scene status as appropriate;
 3. advance `continuity/state.md` to chapter 1;
 4. rerun Story Skills checks;
-5. prepare Chapter 2 brief using the verified shop/funeral guardrails and the approved Case Zero order model.
-
-If local prose issues remain, revise directly within the approved chapter purpose.
+5. prepare Chapter 2 brief using both the verified cultural guardrails and the approved Case Zero order model.
 
 Do not start Chapter 2 prose before Chapter 1 manuscript/canon state is settled unless the author explicitly asks to work out of order.
