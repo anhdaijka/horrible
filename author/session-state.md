@@ -97,9 +97,22 @@ The rewritten Chapter 1 preserves the approved four-movement structure with rela
 
 P0 cultural cleanup is applied: the unsupported `loại năm mươi / loại tám mươi` shop shorthand was removed rather than rationalized into a fake cultural convention.
 
+## Repository migration status
+
+Active development now lives in this private repository: `anhdaijka/horrible@main`.
+
+The former `anhdaijka/novel-os@story/horrible-development` workspace is retained only as backup/reference and its session-state redirects agents here. Do not create parallel canon between the two repositories.
+
+The dedicated repository was imported as a clean snapshot of the former development branch. Source workflow files were restored after import because GitHub App workflow permissions prevented a direct history-preserving push of `.github/workflows/`.
+
 ## Validation status
 
-A fresh Story Skills run is required after the latest Chapter 1 cultural cleanup / word-count update.
+Post-migration GitHub Actions on `anhdaijka/horrible`:
+
+- Story Skills schema validation: **PASS**
+- links/backlinks: **PASS**
+- continuity consistency: **PASS**
+- Novel OS stress workflow: **PASS**
 
 `current-chapter: 0` intentionally remains behind drafted Chapter 1 until manuscript approval.
 
