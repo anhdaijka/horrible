@@ -7,7 +7,7 @@
 Repository: `anhdaijka/horrible`  
 Branch: `main`
 
-Current phase: **full opening reset complete → no active manuscript chapters → fresh Chapter 1 brief v2 prepared for author review.**
+Current phase: **full opening reset complete → no active manuscript chapters → fresh Chapter 1 brief v2 author-approved → ready for just-in-time grounding and fresh drafting.**
 
 Read first:
 
@@ -87,19 +87,22 @@ Do not automatically carry forward:
 
 These were prototype proposals, not locked canon.
 
-## New opening architecture
+## New opening architecture — approved
 
-Recommended structure currently prepared:
+Chapter 1 brief v2 is author-approved.
+
+Approved structure:
 
 - controlled retrospective hook after the victim's death;
 - discover that the same name already exists in an earlier shop order;
 - rewind several days to the original ordinary purchase;
 - reader carries dramatic irony while characters do not know the future;
-- Chapter 2 returns to the death/order-date contradiction and only then introduces the expected-death/illness hypothesis;
-- that hypothesis is quickly damaged by evidence that the victim was not expected to die;
-- Chapter 3 shifts focus from chronology to purchaser identity.
+- the shop originally assumes the goods are for someone already dead;
+- no advance-purchase / serious-illness explanation is introduced in the original order scene;
+- Chapter 1 must create a clear Vietnamese ghost-story promise without leaking later identity or health clues;
+- characterization of Khanh / bà Lan / household emerges through the active story rather than a separate family-introduction chapter.
 
-This architecture is **working development**, not yet manuscript canon.
+The working title remains unlocked. `Bốn ngày trước` is only a candidate.
 
 ## Cultural reality gate
 
@@ -118,13 +121,16 @@ Mai and Khanh remain lifelong childhood friends, strictly platonic. No romance b
 
 ## Next action
 
-**Author reviews `revisions/plans/chapter-01-brief-v2.md`.**
+**Prepare and draft the new Chapter 1 from a blank page under the approved brief.**
 
-Before drafting:
+Execution order:
 
-1. approve / revise the new Chapter 1 structure;
-2. use author trade knowledge to ground the exact funeral-shop opening mechanics;
-3. select fresh purchaser physical baseline and any required names/locality;
-4. then draft Chapter 1 from a blank page.
+1. ground the exact funeral-shop opening transaction mechanics using verified research and the author's already-supplied family trade correction;
+2. establish a fresh purchaser physical/body-language baseline just-in-time;
+3. keep names/locality fresh and unlocked unless a durable choice is needed in the manuscript;
+4. create new Chapter 1 + scene records as draft state;
+5. draft without reading or reusing prose from the discarded prototypes;
+6. run a leakage/spoiler/genre-promise/prose review plus Story Skills checks;
+7. return the new manuscript for author review before canonization.
 
-Do not draft new Chapter 1 from old prose fragments.
+The two preparation items above are writer tasks, not a new author approval gate unless they require changing the approved structure.
