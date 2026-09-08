@@ -7,13 +7,14 @@
 Repository: `anhdaijka/horrible`  
 Branch: `main`
 
-Current phase: **Chapter 1 is author-approved canon → Chapter 2 brief prepared and waiting for author review/approval.**
+Current phase: **Chapter 1 is author-approved canon → Chapter 2 brief is author-approved → ready to draft Chapter 2 `Người đặt`.**
 
 Start a new session by reading:
 1. this file;
 2. `AGENTS.md`;
 3. for prose: `author/style-bible.md` and `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md`;
-4. only the specific canon/research/case files needed for the current task.
+4. `revisions/plans/chapter-02-brief.md`;
+5. only the specific canon/research/case files needed for the current task.
 
 Do not reload Discovery 01–15 by default.
 
@@ -22,7 +23,7 @@ Do not reload Discovery 01–15 by default.
 - Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ` — **final / canon / 3063 words**.
 - Chapter 1 accepted canon diff: `revisions/canon/chapter-01-canon-diff.md`.
 - `continuity/state.md`: `current-chapter: 1`.
-- Chapter 2 brief: `revisions/plans/chapter-02-brief.md` — **awaiting author approval**.
+- Chapter 2 brief: `revisions/plans/chapter-02-brief.md` — **author-approved**.
 
 ## Active prose contract
 
@@ -65,11 +66,11 @@ Case Zero truth source: `development/horrible/case-zero-truth-matrix.md`.
 
 Do not restore the earlier premise that `hàng mã + living recipient` is itself the anomaly.
 
-## Chapter 2 brief intent
+## Chapter 2 approved intent
 
 Working title: `Người đặt`.
 
-The order scene should be deliberately ordinary:
+The order scene is deliberately ordinary:
 - no ghost-coded appearance;
 - purchaser age 50–60 remains only an observer estimate;
 - left-hand behavior is shown naturally and not highlighted;
@@ -79,7 +80,7 @@ The order scene should be deliberately ordinary:
 - no universal funeral-paper-goods package;
 - the family leaves the scene believing a normal serious-illness/advance-preparation explanation is plausible.
 
-Default: save confirmation that the recipient is healthy for a later beat (likely Chapter 3) so the earlier ordinary scene changes meaning retroactively.
+Default approved structure: save confirmation that the recipient is healthy for a later beat (likely Chapter 3) so the earlier ordinary scene changes meaning retroactively.
 
 ## Repository status
 
@@ -87,10 +88,11 @@ Default: save confirmation that the recipient is healthy for a later beat (likel
 
 ## Next action
 
-**Author reviews/approves or adjusts `revisions/plans/chapter-02-brief.md`.**
+**Draft Chapter 2 `Người đặt` from the approved brief.**
 
-After approval:
-1. create Chapter 2/scene records;
-2. draft Chapter 2 using the cultural + prose gates above;
-3. review prose/continuity;
-4. do not reveal the healthy-recipient contradiction too early unless the approved brief changes.
+Execution order:
+1. load the approved brief plus the minimum required cultural/case/style context;
+2. create Chapter 2 and its scene records as draft state;
+3. write the manuscript without revealing the healthy-recipient contradiction;
+4. run prose/continuity review and Story Skills checks;
+5. return the Chapter 2 draft for author manuscript review before canonization.
