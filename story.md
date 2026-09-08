@@ -6,8 +6,8 @@ sub-genre: spiritual-mystery
 setting-era: contemporary
 status: in-progress
 themes:
-  - truth-and-uncertainty
   - memory-and-the-dead
+  - truth-and-uncertainty
   - responsibility-for-knowing
   - family-and-unfinished-things
 pov: third-person-limited
@@ -18,22 +18,31 @@ tense: present
 
 ## Synopsis
 
-Nguyễn Minh Khanh, a 27-year-old software engineer recently returned from several years of onsite work in Japan, comes home to Northern Vietnam for a short break before resuming his ordinary career in Hanoi. His family runs a long-established votive-paper shop beside a busy market crossroads, and his late grandfather was once widely known locally for divination, ritual and matters people loosely called `việc âm`.
+Nguyễn Minh Khanh, 27, is a software engineer recently returned from several years of onsite work in Japan. Before returning to his ordinary career in Hanoi, he spends a short period at his family home in Northern Vietnam, where his parents run a long-established votive-paper shop beside a busy market crossroads.
 
-Strange incidents begin reaching Khanh through ordinary life: customers, relatives, work systems, local social networks, memories and coincidences that resist clean explanation. He is neither a ghost hunter nor a medium. He checks mundane causes first, but gradually learns that understanding more does not always produce closure — and that knowing something may create a responsibility even when certainty is impossible.
+The shop, his family, old neighborhood stories and the reputation of his late grandfather gradually place Khanh close to incidents involving the dead — some genuinely supernatural, some human, some mixed, and some never fully resolved.
+
+Khanh is neither a ghost hunter nor a chosen medium. He checks ordinary causes because that is who he is. The novel, however, is not required to share his doubt every time.
 
 ## Story Contract
 
-- Horror and spiritual experience come first; mystery gives them structure rather than replacing them.
-- Everyday Vietnamese life remains active between uncanny events.
+- **This is a ghost / spiritual horror novel first.**
+- Chapter 1 must give the reader an unmistakable horror promise or a genuine uncanny reward.
+- Everyday Vietnamese life provides credibility, attachment and contrast; it must not delay the genre promise merely to prove realism.
+- Real Vietnamese religious, ritual, funeral, ancestor and votive-paper details require research and cultural specificity.
+- Fictional supernatural events are allowed to be genuinely real even when their mechanism remains unknown.
+- Ambiguity is optional, not mandatory.
+- Across the series, metaphysical outcomes must vary: confirmed supernatural, human, mixed and unresolved.
+- Mystery gives structure to horror; it must not repeatedly explain the horror away.
 - The dead are not automatically evil, truthful, benevolent or omniscient.
-- Culture, religion, folklore, testimony, dreams and practitioner interpretation are not automatic supernatural proof.
-- Some events may remain unresolved or deliberately ambiguous.
-- Khanh remains a working software engineer with no confirmed supernatural power.
-- Grandfather is a gateway into history and pattern, not the hidden answer to the universe.
+- Khanh remains a working software engineer without a confirmed chosen-one role or combat power system.
+- Grandfather is a gateway into history and local spiritual experience, not the final answer to the universe.
+- Oral ghost stories told by ordinary people are a core narrative channel and may frighten the reader before Khanh can verify anything.
 
 ## Volume 1
 
 Working thematic title: **Những chuyện tưởng đã kết thúc**.
 
-The opening volume contains two full mysteries plus one shorter non-investigative haunting. Its ending reveals a recurring pattern in grandfather's old refusal notes, not a prophecy, conspiracy or final cosmology.
+The previous Chapter 1–2 opening prototype has been discarded from active canon. Volume 1 is being re-opened from Chapter 1 under the revised horror-first contract.
+
+Case Zero remains a development concept, but its opening presentation must be redesigned from scratch so that information is revealed in story order rather than leaked through explanatory narration.
