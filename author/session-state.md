@@ -7,7 +7,7 @@
 Repository: `anhdaijka/horrible`  
 Branch: `main`
 
-Current phase: **full opening reset complete → no active manuscript chapters → fresh Chapter 1 brief v2 author-approved → ready for just-in-time grounding and fresh drafting.**
+Current phase: **opening reset complete → Chapter 1 v2 structure approved → fresh Chapter 1 `Bốn ngày trước` drafted from blank page + self-pass complete → waiting for author manuscript review.**
 
 Read first:
 
@@ -16,121 +16,100 @@ Read first:
 3. `author/creative-constitution.md`;
 4. `author/boundaries.md`;
 5. `author/style-bible.md`;
-6. `revisions/reviews/opening-prototype-postmortem.md`;
-7. `development/horrible/opening-reset-decisions.md`;
-8. `development/horrible/opening-architecture-v2.md`;
-9. `revisions/plans/chapter-01-brief-v2.md`;
-10. only the specific Case Zero / cultural research files needed.
+6. `revisions/plans/chapter-01-brief-v2.md`;
+7. `development/horrible/chapter-01-pre-draft-grounding-v2.md`;
+8. `revisions/reviews/chapter-01-v2-initial-review.md`;
+9. only the Case Zero / cultural research files needed for a requested revision.
 
-Do not reload Discovery 01–15 by default.
+Do not reload Discovery 01–15 or old prototype prose by default.
 
-## Reset status
+## Active manuscript state
 
-The former active opening has been deliberately discarded:
+- `chapters/chapter-01.md` — **`Bốn ngày trước`** — draft — 2236 Story Skills words.
+- scenes 1.1–1.3 are draft and registered.
+- chapter/scene registries are synchronized.
+- `continuity/state.md` intentionally remains `current-chapter: 0` until author approves/canonizes this fresh Chapter 1.
+- old `Tiếng chợ` / `Người đặt` prototypes remain rejected and recoverable only through Git history; do not reuse them unless author explicitly requests comparison.
 
-- old Chapter 1 `Tiếng chợ`: removed from active manuscript;
-- old Chapter 2 `Người đặt`: removed from active manuscript;
-- all seven old scene files: removed;
-- old Chapter 1–2 briefs: removed;
-- old chapter-specific reviews: removed;
-- old Chapter 1 canon diff: removed;
-- chapter registry: empty;
-- scene registry: empty;
-- `continuity/state.md`: reset to `current-chapter: 0`.
+## Chapter 1 v2 execution
 
-Git history is the only place to recover the old prose. Do not read or reuse it unless author explicitly requests it.
+The approved architecture has been executed:
 
-## New creative stance — locked
+1. **after-death hook:** on the morning Vũ Văn Cường dies, a paper cassette radio/custom order made for him is still waiting uncollected in bà Lan's shop;
+2. a household relative comes for ordinary funeral/memorial paper goods and mentions Cường's name/locality;
+3. bà Lan recognizes the tagged custom order and checks the ledger;
+4. the order is dated four days before Cường's death;
+5. chapter rewinds four days to the original sale;
+6. the purchaser is physically ordinary and the shop naturally processes the goods as intended for someone already dead;
+7. no character asks whether Cường is alive or explains advance preparation;
+8. the chapter ends with the tagged order being stored for pickup.
 
-- `Horrible` is a ghost / spiritual horror novel first.
-- **Realism is the floor, not the ceiling.**
-- **Ambiguity is optional, not mandatory.**
-- Fictional ghosts / hauntings may be genuinely real even if their mechanism remains unexplained.
-- Real Vietnamese religious, ritual, funeral and votive-paper claims still require research and respect.
-- Cultural research limits false real-world claims; it does not prohibit fictional supernatural truth.
-- Ordinary life supports credibility, attachment and contrast. It is not a quota to delay horror.
-- Chapter 1 must deliver an unmistakable horror promise / uncanny reward.
-- Narrator may use storyteller authority, retrospective framing and foreshadowing when they create questions rather than leak future explanations.
-- Across the series, case outcomes should vary: confirmed supernatural, human, mixed, ambiguous/unresolved.
+## Draft-only working facts
 
-## Case Zero revelation-order lock
+These are manuscript proposals, **not canon until author approval**:
 
-Author domain correction remains binding.
+- victim/recipient: `Vũ Văn Cường`, 59;
+- purchaser/pickup name supplied: `Vũ Thị Thoa`;
+- locality shorthand: `xóm Trại` in the fictional hometown;
+- purchaser uses left hand naturally to draw/write;
+- custom radio: dark body, silver front, round speaker left, cassette compartment right, two top knobs, folding handle;
+- order written on mùng 10 tháng Giêng, pickup requested for ngày 13;
+- Cường dies during the night before ngày 14;
+- a relative from his household appears unaware of the earlier order.
 
-The original order scene must **not** consciously frame itself as `buying in advance for a living man`.
+Do not treat the purchaser name, handedness or radio design as interpreted clues yet.
 
-Correct story order:
+## Leakage lock
 
-1. ordinary votive order; shop naturally assumes recipient is deceased;
-2. recipient later dies unexpectedly;
-3. only then does order/date comparison reveal he had still been alive when the order was placed;
-4. only then does the mundane hypothesis arise: perhaps relatives knew he was gravely ill and prepared early;
-5. later social evidence weakens that explanation because he had appeared healthy / household expected no death;
-6. purchaser identity becomes increasingly difficult to explain.
+Chapter 1 currently does **not** reveal:
 
-See:
-- `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`
-- `development/horrible/opening-reset-decisions.md`
+- Cường's health at order time;
+- expected-death / grave-illness / advance-purchase hypothesis;
+- cause/mechanism of his death;
+- purchaser resemblance to surviving sister;
+- `Vũ Thị Thoa` belonging to a long-dead sibling;
+- old family tragedy;
+- grandfather connection;
+- final metaphysical model.
 
-## Prototype-specific data unlocked
+The first mundane explanation belongs after characters discover the date contradiction, not inside the original sale.
 
-Do not automatically carry forward:
+`development/horrible/case-zero-truth-matrix.md` has been revised to match this approved revelation order.
 
-- `Đỗ Thị Hường`;
-- `Đỗ Văn Quang`;
-- `xóm Đình Ngoài`;
-- exact purchaser clothing/body;
-- exact product list;
-- exact old dialogue;
-- exact old scene order;
-- exact chapter titles.
+## Creative stance — locked
 
-These were prototype proposals, not locked canon.
+- `Horrible` is ghost / spiritual horror first.
+- Realism is the floor, not the ceiling.
+- Ambiguity is optional, not mandatory.
+- Ordinary life supports credibility and contrast; it does not delay genre reward.
+- A narrator may use storyteller authority and retrospective framing to create questions, but must not leak future answers.
+- Real Vietnamese cultural claims remain research-gated.
+- Mai/Khanh remain lifelong strictly platonic childhood friends.
 
-## New opening architecture — approved
+## Self-review already completed
 
-Chapter 1 brief v2 is author-approved.
+See `revisions/reviews/chapter-01-v2-initial-review.md`.
 
-Approved structure:
+The self-pass already removed narrator reassurance/explanation around:
 
-- controlled retrospective hook after the victim's death;
-- discover that the same name already exists in an earlier shop order;
-- rewind several days to the original ordinary purchase;
-- reader carries dramatic irony while characters do not know the future;
-- the shop originally assumes the goods are for someone already dead;
-- no advance-purchase / serious-illness explanation is introduced in the original order scene;
-- Chapter 1 must create a clear Vietnamese ghost-story promise without leaking later identity or health clues;
-- characterization of Khanh / bà Lan / household emerges through the active story rather than a separate family-introduction chapter.
+- the transaction being ordinary;
+- why Khanh remembers the purchaser;
+- why one answer made the transaction easier.
 
-The working title remains unlocked. `Bốn ngày trước` is only a candidate.
-
-## Cultural reality gate
-
-Relevant current research:
-
-- `research/verified/cultural-reality-audit.md`
-- `research/verified/votive-paper-commerce-v1.md`
-- `research/verified/votive-shop-language-ordering-v1.md`
-- `research/verified/funeral-workflow-bacninh-v1.md`
-- `research/verified/case-zero-order-cultural-audit-v1.md`
-- `research/verified/nguyen-ngoc-ngan-horror-craft-v1.md` (content now corrected to v2 interpretation)
-
-## Relationship lock
-
-Mai and Khanh remain lifelong childhood friends, strictly platonic. No romance bait, jealousy, matchmaking or will-they-won't-they trajectory.
+Do not perform another abstract theory pass before author reads the manuscript.
 
 ## Next action
 
-**Prepare and draft the new Chapter 1 from a blank page under the approved brief.**
+**Author reviews `chapters/chapter-01.md` as manuscript.**
 
-Execution order:
+If author identifies local prose/shop-authenticity/leakage problems, revise directly within the approved architecture.
 
-1. ground the exact funeral-shop opening transaction mechanics using verified research and the author's already-supplied family trade correction;
-2. establish a fresh purchaser physical/body-language baseline just-in-time;
-3. keep names/locality fresh and unlocked unless a durable choice is needed in the manuscript;
-4. create new Chapter 1 + scene records as draft state;
-5. draft without reading or reusing prose from the discarded prototypes;
-6. run a leakage/spoiler/genre-promise/prose review plus Story Skills checks;
-7. return the new manuscript for author review before canonization.
+If author materially rejects the hook/rewind architecture, redesign only with explicit author direction.
 
-The two preparation items above are writer tasks, not a new author approval gate unless they require changing the approved structure.
+If author approves the manuscript:
+
+1. canonize approved draft-only facts;
+2. mark Chapter 1 + scenes final;
+3. advance `continuity/state.md` to chapter 1;
+4. run Story Skills checks;
+5. prepare Chapter 2 brief beginning from the chronology contradiction and the first ordinary expected-death hypothesis, which later evidence will damage.
