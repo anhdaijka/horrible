@@ -25,7 +25,7 @@ Do not reload Discovery 01–15 or old prototype prose by default.
 
 ## Active manuscript state
 
-- `chapters/chapter-01.md` — **`Bốn ngày trước`** — draft — 2236 Story Skills words.
+- `chapters/chapter-01.md` — **`Bốn ngày trước`** — draft — 2227 Story Skills words.
 - scenes 1.1–1.3 are draft and registered.
 - chapter/scene registries are synchronized.
 - `continuity/state.md` intentionally remains `current-chapter: 0` until author approves/canonizes this fresh Chapter 1.
