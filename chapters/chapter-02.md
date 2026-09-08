@@ -14,7 +14,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: draft
-word-count: 0
+word-count: 2538
 ---
 
 # Chương 2: Người đặt
@@ -71,7 +71,7 @@ Bà Lan đang bận, nghe tới lần thứ ba mới nói vọng sang:
 
 — Đôi dép đổi được. Cô xem bộ nào vừa mắt thì lấy, không phải đi cùng một bộ đâu.
 
-Người phụ nữ chọn một bộ màu sẫm, thêm đôi dép và bảo lấy cho bà một ít tiền vàng loại nhà vẫn bán. Không có gì trong mấy thứ đó khiến Khanh phải để ý. Anh gom sang một bên, định lấy túi thì bà khách nói:
+Người phụ nữ chọn một bộ màu sẫm, thêm đôi dép và bảo lấy cho bà một ít tiền vàng loại nhà vẫn bán. Anh gom sang một bên, định lấy túi thì bà khách nói:
 
 — Còn một cái nữa. Nhà cháu có làm đài được không?
 
@@ -205,7 +205,7 @@ Khanh chỉ vào dòng mình vừa thêm.
 
 — Đây ạ.
 
-Bà gật đầu, xách túi đi ra. Ngoài đường có một xe chở rau đang lùi vào, bà đứng chờ nó qua rồi mới sang bên kia ngã tư. Khanh nhìn theo đúng lúc đó chỉ vì chiếc xe chắn hết lối, chứ chẳng có gì ở bà khiến anh phải nhìn thêm.
+Bà gật đầu, xách túi đi ra. Ngoài đường có một xe chở rau đang lùi vào; bà đứng chờ nó qua rồi mới sang bên kia ngã tư. Khanh kéo số hàng vừa chọn vào phía trong quầy, tìm một túi lớn để để riêng.
 
 ***
 
@@ -291,7 +291,7 @@ Cúp máy, bà đặt điện thoại xuống.
 
 — Thì lát mẹ nhắn chốt.
 
-Khanh gật đầu. Với anh, cái đơn lúc này còn giống một bài toán đặt hàng hơn bất cứ thứ gì khác: một món đồ lỗi thời, mô tả bằng mấy nét bút, thời hạn ngắn, khách lại không để số điện thoại. Phiền vừa đủ để nhớ, chứ chưa tới mức đáng bận tâm.
+Khanh gấp mảnh giấy vẽ cái đài lại, kẹp vào đúng trang sổ vừa ghi. Trong đầu anh vẫn chỉ vướng chuyện ba hôm có kịp làm hay không; còn ông Quang ốm thế nào thì anh chẳng biết, cũng không có lý do gì phải biết.
 
 Ông Hùng đã đi ra sau từ lúc nào. Một lát sau ông quay lại, đặt trước mặt Khanh túi ốc vít.
 
