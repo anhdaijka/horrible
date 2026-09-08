@@ -1,7 +1,7 @@
 ---
 type: continuity-state
 story: horrible
-current-chapter: 1
+current-chapter: 0
 character-state: []
 object-state: []
 knowledge-state: []
@@ -9,15 +9,10 @@ knowledge-state: []
 
 # Continuity State
 
-Chapter 1 — `Tiếng chợ` is author-approved on-page canon.
+No manuscript chapter is currently active canon.
 
-Durable state established by Chapter 1:
+The previously approved `Tiếng chợ` Chapter 1 and the Chapter 2 `Người đặt` draft were later **author-rejected as opening prototypes** during a full genre-direction reset. Their on-page events no longer establish continuity.
 
-- Khanh has been home for roughly three days after returning from Japan and expects to return to Hanoi work in about a week.
-- His childhood fear of ghosts can still surface physically, but no supernatural sensitivity or power is established.
-- Bà Lan and ông Hùng's ordinary shop/household physical and behavioral baselines are now on-page.
-- Mai is on-page as Khanh's lifelong childhood friend with an independent logistics/food-supply work life; the relationship remains strictly platonic.
-- The family votive-paper shop and market crossroads are established as normal lived spaces before Case Zero begins.
-- The upstairs sound in Chapter 1 has a mundane explanation. No haunting is established.
+Pre-manuscript project canon still lives in `story.md`, `author/`, `characters/`, `worldbuilding/`, `plot/` and approved development files.
 
-Detailed accepted diff: `revisions/canon/chapter-01-canon-diff.md`.
+The next manuscript chapter will be a new Chapter 1 designed from a blank page under the revised horror-first constitution.
