@@ -10,7 +10,7 @@ characters:
 mentions: []
 arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
-status: draft
+status: final
 state-changes: []
 ---
 
