@@ -77,6 +77,18 @@ Do not promote a lower layer upward merely because it makes the scene easier to 
 
 For the current gap map, read `research/verified/cultural-reality-audit.md`. For shop scenes, also read `research/verified/votive-paper-commerce-v1.md`.
 
+## Prose social-address + physicality gate — Horrible
+
+Before drafting a character's first real manuscript appearance:
+
+1. check the relevant character file for `Narrative reference`, `Physical presence` and `Body-language baseline`;
+2. if those anchors do not exist and the detail will be durable, establish them before prose instead of improvising a different body every chapter;
+3. integrate only the few physical details the POV would notice while the character is acting;
+4. for older adults in manuscript narration, use Vietnamese social address (`ông/bà + tên`, or natural kinship terms such as `mẹ anh`, `bố anh`) rather than bare given names;
+5. use body-language deviation from baseline as evidence before explaining fear, trauma, concealment or uncanny wrongness.
+
+Internal YAML, registries and planning shorthand may keep bare canonical names. Do not apply manuscript honorifics mechanically to metadata.
+
 ## Drafting boundary
 
 The writer may invent wording, gesture, micro-action, sensory realization, and dialogue execution inside an approved scene plan.

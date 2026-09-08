@@ -29,6 +29,24 @@ Fast, practical, confident and used to making small operational decisions while 
 
 She is a practical half-believer: strange stories do not automatically impress her because night drivers, warehouses and markets generate enough mundane weirdness already. That does not mean she always dismisses them.
 
+## Narrative reference
+
+Mai is Khanh's same-age childhood friend, so bare `Mai` is natural in close-third narration. Do not promote her to formal `cô Mai` merely because another character might address her that way.
+
+## Physical presence
+
+Mai is 27, medium height with a compact, active build shaped more by constant movement than by deliberate exercise. Her dark hair is usually tied or clipped out of the way for work. She dresses for roads, warehouses and the market rather than presentation: practical outer layer, trousers and shoes she can move quickly in.
+
+A phone is often in her hand or immediately reachable, but it should not become a prop she performs in every scene.
+
+## Body-language baseline
+
+Mai rarely gives one conversation her whole body when work is active. Her eyes may check the road or a vehicle while she listens, she points people into position without ceremony, and she moves as though she already knows which gap in the market traffic she will use.
+
+Work pressure makes that movement more directional and speech less padded. A useful uncanny/fear deviation would be the opposite of her baseline: failing to scan an obvious practical problem, stopping in the middle of motion without a reason, letting a phone ring unheard, or yielding space in a way Khanh has never seen her do.
+
+Do not repeat these as formula; use the baseline to judge what would actually feel wrong.
+
 ## Agency
 
 Mai is not waiting for Khanh's plot. Her family business has drivers to coordinate, deliveries to correct, suppliers to chase, damaged stock, route problems and people calling her at inconvenient times.

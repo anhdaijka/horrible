@@ -35,6 +35,24 @@ That analytical mode is not permanently switched on. Around family and old frien
 
 Khanh has no confirmed supernatural ability. His body still remembers the intense fear of ghosts he had as a child even when his adult reasoning stays controlled.
 
+## Narrative reference
+
+In close-third narration, `Khanh` / `anh` are natural. His age and POV role do not require an honorific.
+
+## Physical presence
+
+Khanh is 27, medium-tall with a lean-to-average desk-worker build rather than an athletic one. His black hair is cut short but falls untidily when he has just woken or stopped caring about presentation. At home he defaults to plain, comfortable clothes and often looks less composed than his work persona suggests.
+
+His hands are long-fingered and kept practical rather than styled; when relaxed at home he tends to sit or lean without much concern for posture.
+
+## Body-language baseline
+
+At home Khanh is physically loose, sometimes slouched or lazy. When genuine technical attention switches on, he tends to become more still: eyes stay on the source of a mismatch and his movements become deliberate.
+
+Fear or uncertainty should not always become visible panic. Useful deviations include delaying one step longer than necessary, turning on a light he does not need, gripping an object too hard, choosing not to put his back to a space, moving through a task faster than usual, or becoming irritated because he notices himself hesitating.
+
+Do not reuse one of these as a signature tic in every scene.
+
 ## Agency
 
 Khanh has an ordinary life he wants to return to: work, independence, Hanoi routine and a sense that the Japan chapter of his life can settle into something manageable.

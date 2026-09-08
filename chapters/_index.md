@@ -9,6 +9,6 @@ story: horrible
 
 | # | Title | POV | Status | Word Count | File |
 |---|---|---|---|---|---|
-| 1 | Tiếng chợ | Nguyễn Minh Khanh | draft | 2911 | [chapter-01](chapter-01.md) |
+| 1 | Tiếng chợ | Nguyễn Minh Khanh | draft | 3051 | [chapter-01](chapter-01.md) |
 
-## Total Word Count: 2911
+## Total Word Count: 3051

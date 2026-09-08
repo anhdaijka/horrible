@@ -32,6 +32,24 @@ Practical, quick and socially observant. She believes many spiritual experiences
 
 Lan is not present in scenes to explain the spiritual world to Khanh. She has a shop to run, customers to remember, stock to move, prices to settle and family errands to assign.
 
+## Narrative reference
+
+In Khanh-centered manuscript narration, prefer `mẹ anh` / `mẹ Khanh` when the relationship is foregrounded. When using her name, write `bà Lan`, never bare `Lan`. Internal canon/planning files may still use `Lan` as a precise identifier.
+
+## Physical presence
+
+Bà Lan is 55, slightly small in build but sturdy from years of standing, lifting stock and working a cramped shop counter. Her dark hair shows silver at the temples and is usually twisted or clipped/bundled out of the way while she works.
+
+Her hands are one of the easiest ways to recognize her: dry from paper, string, adhesive and washing; nails kept short; movements quick and economical around bags, notes, change and stock.
+
+## Body-language baseline
+
+Her ordinary baseline is multitasking motion. She can keep a conversation going while counting money, folding paper, reaching for stock or watching the doorway.
+
+Because that motion is normal, unease can register strongly when an automatic sequence breaks: counting the same notes twice, leaving a hand resting on a bag, forgetting the next shop action, looking past a waiting customer, or becoming unusually still before answering.
+
+Do not translate every worry into trembling. For bà Lan, interruption of practiced shop rhythm is often more revealing.
+
 ## Agency
 
 Her default priority is whatever the shop or household actually needs at that moment. She may interrupt a story to sell something, forget to finish a point, send Khanh to do a task, change subject because another customer has arrived, or decide a question is not worth answering.

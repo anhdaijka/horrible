@@ -28,7 +28,7 @@ Do **not** reread Discovery 01–15 by default.
 - Initial Story Skills canon promotion: approved and complete.
 - `continuity/state.md` remains at `current-chapter: 0`; Chapter 1 is still draft manuscript, not canonized on-page state.
 - Chapter 1 brief: `revisions/plans/chapter-01-brief.md` — approved.
-- Current Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ`, **2911 recorded words**.
+- Current Chapter 1: `chapters/chapter-01.md` — `Tiếng chợ`, **3051 recorded words**.
 - Current craft review: `revisions/reviews/chapter-01-ngan-craft-audit.md`.
 
 Core workflow:
@@ -77,6 +77,14 @@ Applied without changing plot/canon:
 - replaced the thematic final sentence with concrete continuing market/shop activity.
 
 Do not restore the removed explanatory/thematic prose unless the author explicitly asks.
+
+## Narrative address + physicality gate now active
+
+The author requires Vietnamese narrator address to respect age/social relation. In manuscript prose, older adults are not bare names: use natural kinship (`mẹ anh`, `bố anh`) or `ông/bà + tên`; for Khanh's older sister use `chị Hạnh`. Metadata/planning identifiers may remain bare names.
+
+Opening canon character files now carry `Physical presence` and `Body-language baseline`. Before any future recurring character's first real prose appearance, establish equivalent anchors just in time rather than improvising them in the chapter.
+
+Use body language as evidence against an established baseline. Especially in horror, show the familiar body behaving slightly wrong before narrator interpretation. Do not reduce fear to generic heartbeat/breath/trembling language.
 
 ## Opening character voice locks
 

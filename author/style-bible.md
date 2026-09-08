@@ -6,6 +6,18 @@ Vietnamese.
 
 Use contemporary Vietnamese with a neutral-to-Northern register and natural Northern social texture. Do not force dialect spelling. Let locality come through syntax, address terms, habits, shared references, work, food, errands and what people leave unsaid.
 
+## Vietnamese narrative address / xưng hô
+
+Narration must respect Vietnamese social distance instead of borrowing the bare-name convention of internal story files.
+
+In close Khanh POV, prefer the relationship term that would naturally organize his perception: `mẹ anh`, `bố anh`, `chị Hạnh`, and similar kinship/social forms. When the narrator uses the personal name of an adult clearly belonging to an older generation, attach the appropriate address term: `bà Lan`, `ông Hùng`, `ông Nhân`, `bà Thủy` — not bare `Lan`, `Hùng`, `Nhân`, `Thủy`.
+
+For someone older but still in a nearby generation, use the socially natural `anh/chị + tên` when Khanh would do so. Same-age childhood friends and peers may use the bare given name when the relationship supports it, as with `Mai`.
+
+This is a **manuscript narration rule**, not a metadata rule. Character headings, YAML, registries, planning documents and internal canon references may use bare canonical names for precision. Dialogue follows the speaker's actual relationship to the person, not the narrator rule.
+
+Do not switch arbitrarily between `Lan` and `bà Lan` or `Hùng` and `ông Hùng` inside prose. Once social framing is established, keep it natural and consistent.
+
 ## POV
 
 Third-person limited, primarily and closely centered on Khanh.
@@ -74,6 +86,45 @@ Prefer concrete domestic and social detail: people stepping around boxes, somebo
 Do not make details ominous merely by isolating them. Fluorescent lights, incense, old stairs, shutters, rain, empty rooms and market noise are not inherently horror imagery.
 
 Use sensory detail according to what the POV character would actually notice while doing something.
+
+## First appearance — physical anchor
+
+A recurring or scene-important character should not arrive as a floating name and dialogue tag.
+
+On the first **real on-page appearance** (not a passing phone/video mention), give the reader roughly 2–4 observable anchors integrated into action. Useful anchors include:
+
+- approximate build / age impression;
+- hair, clothing, hands or a work-worn detail;
+- posture, gait, spatial habit or how the person handles objects;
+- one task-specific physical behavior that belongs to their ordinary life.
+
+Do not stop the scene for a police-sketch paragraph. Description should arrive while the person is already doing something. Do not list every permanent trait, and do not repeat the full description on later entrances. Re-description should usually notice what changed, what the POV needs now, or what becomes newly strange.
+
+The purpose is not decorative portraiture. A stable physical baseline gives horror something concrete to disturb later.
+
+## Body language / show-don't-tell
+
+Body language is a primary evidence channel for fear, grief, concealment, exhaustion, social pressure and uncanny wrongness.
+
+Before writing a dramatic deviation, know the character's ordinary physical baseline. The strongest signal is often **a familiar person failing to move like themselves**, not a generic fear adjective.
+
+Prefer observable changes such as:
+
+- a hand pausing over a task it normally completes automatically;
+- grip strength changing, an object being held too long, or a simple action repeated;
+- weight shifting toward/away from a door, person or sound;
+- gaze failing to land where conversation expects it to land;
+- speech timing changing while the face or hands continue another task;
+- someone habitually in motion becoming still, or a still person becoming purposelessly busy;
+- spatial mistakes: standing in the wrong place, not yielding familiar space, turning the body before the head, staying too close or too far away.
+
+Do not assign universal meanings (`crossed arms = defensive`, `looking away = lying`). Read physical behavior against **that character's baseline, context, fatigue, work and relationships**.
+
+For horror escalation, let the body carry intensity in stages. Small anomalies should begin small. Severe reactions — shaking, vomiting, collapse, loss of coordination, screaming — require earned severity and should not become stock punctuation.
+
+For possession-like or apparition-adjacent scenes, describe the mismatch before any interpretation: a known gesture with the wrong timing, familiar posture in an impossible context, a body completing a habit while attention seems elsewhere. Do not let narrator labels replace observation.
+
+Do not give each character one permanent fear tic and repeat it mechanically. Maintain a palette of plausible physical responses.
 
 ## Dialogue — naturalness first
 
