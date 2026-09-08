@@ -12,7 +12,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: draft
-word-count: 0
+word-count: 2236
 ---
 
 # Chương 1: Bốn ngày trước
@@ -151,7 +151,7 @@ Khanh cười, thôi tranh luận.
 
 Khoảng gần chín giờ, người phụ nữ sau này ghi tên là Vũ Thị Thoa bước vào.
 
-Khanh nhớ bà vì cái đài, chứ lúc ấy chẳng có lý do gì để nhớ khuôn mặt.
+Khanh nhớ bà trước hết vì cái đài.
 
 Bà trông chừng ngoài năm mươi, người tầm thước, hai vai hơi xuôi. Tóc cắt ngắn đến gáy, chỗ sát tai đã lẫn khá nhiều sợi bạc. Bà mặc áo chần bông sẫm màu, quần đen, đôi giày đi chợ đế còn dính một lớp đất ẩm mỏng. Chiếc làn nhựa giả mây treo ở khuỷu tay phải; trong làn có mấy bó rau, một túi thuốc và một túi nilon đựng thứ gì đó màu đỏ.
 
@@ -173,8 +173,6 @@ Người phụ nữ nghĩ một chút.
 
 Bà Lan kéo xuống hai túi cho bà xem. Người phụ nữ chọn một bộ màu trầm, hỏi thêm đôi dép. Sau đó bà lấy hai xấp tiền vàng theo loại bà Lan đưa, không mặc cả, cũng không hỏi nhiều về mẫu mã.
 
-Đến đấy thì đơn hàng vẫn chẳng khác mấy khách trước.
-
 Người phụ nữ nhìn lên những món đồ giấy treo phía trong, hỏi:
 
 — Nhà chị có đài cassette không?
@@ -187,7 +185,7 @@ Bà Lan ngước lên.
 
 — Giờ nhà tôi không có sẵn. Muốn thì phải đặt người làm.
 
-Người phụ nữ gật đầu ngay, như thể bà đã tính đến chuyện đó.
+Người phụ nữ gật đầu.
 
 — Đặt được thì chị đặt cho tôi một cái.
 
@@ -280,8 +278,6 @@ Người phụ nữ gật đầu.
 — Nếu cái đài không kịp thì sao cô?
 
 — Tôi qua rồi tính.
-
-Câu trả lời làm Khanh thấy nhẹ việc. Anh không cần xin số điện thoại, cũng không phải giải thích thêm.
 
 Bà Lan quay lại đúng lúc ấy, cầm tờ giấy vẽ chiếc đài lên xem lần nữa.
 
