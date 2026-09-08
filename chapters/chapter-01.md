@@ -12,7 +12,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: draft
-word-count: 2236
+word-count: 2227
 ---
 
 # Chương 1: Bốn ngày trước
