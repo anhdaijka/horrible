@@ -7,7 +7,7 @@
 - POV: Nguyễn Minh Khanh
 - Primary location: family votive-paper shop / immediate market frontage
 - Arc(s): Volume 1 opening; Case Zero inciting order
-- Status: **awaiting author approval**
+- Status: **author-approved**
 
 ## Purpose
 
@@ -158,4 +158,4 @@ Do not invent:
 
 ## Author approval
 
-- [ ] plan approved
+- [x] plan approved
