@@ -126,6 +126,101 @@ For possession-like or apparition-adjacent scenes, describe the mismatch before 
 
 Do not give each character one permanent fear tic and repeat it mechanically. Maintain a palette of plausible physical responses.
 
+## Focalized attention / free-indirect interiority
+
+The narration is not a neutral camera, but it also should not tag every thought with `Khanh nghĩ`, `Khanh nhận ra`, `anh cảm thấy`.
+
+Let description sometimes inherit Khanh's priorities, irritation, memory, assumptions or private wording without stopping to announce that this is thought. The reader can feel his mind through **what receives attention and how it is phrased**.
+
+Use this selectively. If every object becomes commentary on Khanh's psychology, the prose becomes mannered again.
+
+## Subtext and social permission
+
+People often talk about one thing while negotiating another.
+
+In family/community scenes, ask what this person is socially allowed to say to this other person given age, kinship, status, debt, shame, reputation, work hierarchy and history. A character may answer the practical question while declining the emotional one, joke where a direct challenge would be rude, or change subject because saying the true thing would create a social consequence.
+
+Do not make everybody cryptic. Subtext should arise from **human constraint**, not authorial secrecy.
+
+## Show vs tell / scene vs summary
+
+`Show, don't tell` is a tool, not a law.
+
+Use scene-level showing when the reader needs to interpret body language, uncertainty, moral choice, relationship pressure or an uncanny event in real time.
+
+Use telling / summary when compressing:
+
+- repeated errands or shop routines;
+- travel and waiting;
+- repeated questioning that adds no new social turn;
+- stretches of ordinary work;
+- background history whose dramatic scene would steal weight from the present.
+
+Strategic summary gives scale and protects the important scenes from novel-length bloat. Do not dramatize every fact merely to prove literary seriousness.
+
+## Negative space / selective omission
+
+What is not said can matter, but omission needs a human reason.
+
+Useful negative space includes:
+
+- a name an older relative consistently avoids;
+- a question answered only halfway;
+- a topic changed because a customer enters;
+- a family member who uses a relationship term instead of a personal name;
+- somebody who knows the answer but does not think Khanh has the right to ask;
+- a mundane detail everyone assumes and therefore never explains.
+
+Silence is not automatically ominous. Avoid turning every pause into foreshadowing.
+
+## Aftermath / behavioral residue
+
+A frightening, shameful or morally difficult event should sometimes survive the scene through changed routine rather than explanatory monologue.
+
+Possible residue:
+
+- taking another route;
+- leaving a light on;
+- not touching or moving an object that used to be ordinary;
+- sleeping somewhere else without announcing why;
+- checking a lock twice;
+- answering a familiar question differently;
+- becoming irritated by a sound that previously meant nothing;
+- a shop/family habit subtly changing after an event.
+
+Not every scare needs residue, but major experiences should not evaporate when the chapter ends.
+
+## Delayed meaning / recontextualized detail
+
+Re-reading value should come from ordinary details acquiring a second meaning later.
+
+A handwriting habit, a radio knob, a photograph crop, a way of folding paper, an address term, a route through the market, a repeated sentence or a practical object may return after the reader has learned something new.
+
+On first appearance, do **not** announce that the detail is symbolic or important. Let later context perform the transformation.
+
+## Tonal counterpoint / simultaneous life
+
+Horror gains depth when it remains embedded in life rather than occupying a sealed `scary scene`.
+
+Allow simultaneous tones where natural:
+
+- grief beside price negotiation;
+- ritual beside parking/logistics trouble;
+- fear while somebody is hungry or late for work;
+- family resentment inside ordinary hospitality;
+- an uncanny clue arriving while a phone keeps ringing;
+- humor surviving beside genuine distress without mocking it.
+
+Do not use counterpoint as a gimmick. The point is that life usually refuses to organize itself by genre.
+
+## Epistemic texture in prose
+
+Preserve the difference between observation, testimony, inference and narrator-certified fact through ordinary wording.
+
+`Ông ấy bảo...`, `Khanh nhớ là...`, `trông như...`, `có vẻ...`, `anh không chắc...` are not hedging clutter when uncertainty is genuinely part of the evidence.
+
+Do not let a confident sentence accidentally promote hearsay or interpretation into world truth.
+
 ## Dialogue — naturalness first
 
 Dialogue must sound like people who already know one another, not actors delivering clean television lines and not characters explaining themselves for the reader.
@@ -304,6 +399,10 @@ Vary endings. Many chapters may simply stop after a changed ordinary action, a c
 - over-explaining familiar Vietnamese culture to Vietnamese characters/readers
 - treating every oral ghost story as literal canon
 - reducing folklore to a monster/power catalogue
+- dramatizing routine information that should simply be summarized
+- making every silence or omission ominous
+- using subtext as an excuse for deliberately confusing dialogue
+- letting major horror experiences vanish with no later behavioral residue when residue would naturally remain
 
 ## Revision test
 
@@ -315,5 +414,11 @@ When reviewing prose, ask:
 4. Are short sentences being used for effect, or merely because the writer likes control?
 5. Did the prose announce unease before any actual pattern was broken?
 6. Can one crafted sentence be replaced by a plainer, more human one without losing meaning?
+7. Is the scene dramatizing something that summary could handle better?
+8. Is the real interpersonal issue present underneath the literal dialogue without everyone stating it aloud?
+9. Does a meaningful silence/omission have a human/social reason?
+10. After a major event, has behavior changed where it naturally should?
+11. Could an ordinary detail acquire new meaning later without being highlighted now?
+12. Is the narration preserving what is observed versus inferred versus merely told?
 
 If the answer exposes artificiality, prefer naturalness over elegance.
