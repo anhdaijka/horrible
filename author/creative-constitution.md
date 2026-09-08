@@ -1,149 +1,279 @@
 # Creative Constitution — Horrible
 
-> Branch scope: `main`. These are accepted project-level creative decisions. Story Skills canon has not been initialized for the novel yet.
+> Author-approved creative constitution after the opening reset. This supersedes the earlier `normal-first / ambiguity-preferred` interpretation that produced the discarded Chapter 1–2 prototypes.
 
 ## Premise
 
-A long-running Northern Vietnam horror / spiritual / mystery novel centered on Khanh, a 27-year-old software engineer returning from several years of onsite work in Japan. He comes home for a short break before resuming work at a Vietnam–Japan technology company in Hanoi. His family runs a long-established votive-paper shop near a busy market crossroads, and his deceased grandfather was once widely known in the region for divination, ritual and other work people loosely called “việc âm”.
+`Horrible` is a long-running Northern Vietnamese **ghost / spiritual horror novel** with mystery structure, contemporary life and cultural realism.
 
-Khanh is not a ghost hunter, medium or chosen one. Strange cases reach him through ordinary life: family, customers, work, friends, local social networks and coincidences he cannot comfortably dismiss.
+Nguyễn Minh Khanh, 27, is a software engineer recently returned from several years of onsite work in Japan. His family runs a long-established votive-paper shop beside a busy market crossroads. His late grandfather was once known locally for divination, ritual and matters people loosely called `việc âm`.
 
-## Reader promise
+Khanh is not a ghost hunter, medium, chosen heir or supernatural fighter. Strange things reach him through ordinary life — family, customers, work, friends, local stories, funerals, old records, coincidences and encounters that may or may not ask to be investigated.
 
-- Everyday Vietnamese life first; the uncanny lives underneath it.
-- Horror and spirituality are primary. Mystery gives shape and consequence to the horror rather than replacing it.
-- Slow-burn dread, grief, memory, hidden wrongdoing, moral ambiguity and supernatural residue.
-- Fair clues and causal discipline when investigation matters.
-- Re-reading should reveal foreshadowing and earlier details acquiring new meaning.
-- Some cases resolve, some only partially resolve, some remain deliberately ambiguous, and some may later prove to have been closed wrongly.
-- Readers should also encounter complete or partial ghost stories told by other people — customers, relatives, practitioners, colleagues, market contacts and strangers — so the novel preserves an oral-horror life beyond Khanh's formal investigations.
-- The series should give readers meaningful contact with the beauty, complexity, contradictions and darker human edges of Vietnamese Buddhist life, Đạo Mẫu / Thờ Mẫu, ancestor practice, folk belief, ritual culture, funeral/memorial life and Northern Vietnamese ghost lore without reducing living traditions to horror props.
+## Primary reader promise
 
-## Genre / subgenre contract
+The reader must never wonder for long whether they accidentally opened a slice-of-life novel.
 
-Primary: horror, supernatural / spiritual horror, folk-adjacent horror.
+`Horrible` promises **actual ghost-story pleasure**:
 
-Strong secondary: mystery / investigation, crime, psychological horror, family and social drama.
+- dread;
+- anticipation;
+- uncanny recognition;
+- frightening images or situations that stay in memory;
+- stories of the dead returning, watching, asking, warning, deceiving or simply being present;
+- the pleasure of hearing a Vietnamese ghost story that sounds as though it could have been told by somebody's relative, neighbor, customer or friend;
+- mystery that makes the haunting deeper rather than explaining the haunting away.
 
-Setting language: contemporary Northern Vietnam, with a strong Kinh Bắc / former Bắc Ninh–Bắc Giang cultural and commercial texture; exact hometown may remain fictionalized while real higher-level places can be used.
+The ordinary world makes the supernatural **credible and consequential**. It is not a barrier the story must clear before horror is allowed to begin.
 
-The novel is **not** detective fiction plus supernatural garnish. Investigation is only one engine among oral ghost stories, direct uncanny experience, cultural/religious life, grief, family memory, legends and unresolved encounters.
+### Opening rule
 
-## Thematic north star
+The opening must deliver a clear genre promise in Chapter 1.
 
-The dead do not automatically become monsters, saints or omniscient witnesses. They may return through love, unfinished obligations, resentment, hidden truth, distorted memory or needs the living do not understand.
+That promise does not require a jumpscare, gore or full Case Zero reveal. It may be:
 
-The deeper question is often not “How do we get rid of the ghost?” but “What is the dead person trying to communicate — and can that communication be trusted?”
+- a direct uncanny event;
+- a short embedded ghost story with real bite;
+- a remembered incident Khanh still cannot settle;
+- an impossible observation;
+- an ominous fact framed by the storyteller before its meaning is known.
 
-A long-range macro thesis is:
+But Chapter 1 must give a horror reader something they came for.
 
-> Có những sự thật người sống cố chôn đi nhưng chúng không nhất thiết biến mất. Chúng quay lại qua ký ức, lời kể, giấc mơ, dấu vết, hành vi của người sống — và đôi khi qua những thứ không ai chắc là gì.
+## Horror / realism relationship
+
+**Realism is the floor, not the ceiling.**
+
+Research real Vietnamese religion, ritual, funerals, ancestor practices, votive-paper trade, folk belief and social life carefully. Do not invent cultural facts merely because they serve a scene.
+
+That requirement does **not** restrict fictional supernatural events to realism.
+
+A ghost may genuinely appear. A dead person may genuinely return. A dream may sometimes contain information that cannot be explained naturally. A house may genuinely be haunted. A human body may genuinely behave in an impossible way.
+
+The novel does not need to apologize for those events by supplying a mundane escape hatch every time.
+
+Separate these questions:
+
+1. **What is true about real Vietnamese culture?** → research it.
+2. **What do characters believe?** → may be right, wrong, mixed, local or contradictory.
+3. **What supernatural event actually happens in this fictional world?** → the author may confirm it, imply it, leave it ambiguous or reveal it as human.
+4. **Why/how does the supernatural work?** → may remain unknown even when the event itself is real.
+
+A ghost can be real without the novel becoming an RPG cosmology.
+
+## Supernatural epistemology — revised
+
+Ambiguity is **one possible ending**, not the religion of the novel.
+
+Across the series, cases should vary:
+
+- confirmed or effectively confirmed supernatural;
+- strongly implied supernatural with an unresolved mechanism;
+- genuinely ambiguous;
+- human wrongdoing mistaken for haunting;
+- mixed cases where a human mechanism coexists with supernatural residue.
+
+Do not repeat the same `natural model viable / supernatural model viable` ending so often that the reader learns there will never be an answer.
+
+Khanh's uncertainty and the author's truth are different layers. Khanh may resist a conclusion even when the reader has seen more than he has.
+
+## Storyteller authority
+
+The narrator is allowed to tell a ghost story.
+
+This means the prose may:
+
+- frame a fact as something Khanh would remember later;
+- foreshadow consequence without revealing mechanism;
+- linger on a detail because the storyteller knows it will matter;
+- let the reader become uneasy before the POV character does;
+- withhold information for suspense when the withholding is fair;
+- compress ordinary time aggressively when nothing interesting is happening.
+
+This is not permission for spoiler leakage or narrator lectures.
+
+The narrator should create **questions**, not answer future questions prematurely.
+
+## Core horror engine
+
+A reliable sequence is:
+
+**promise → attachment → intrusion → resistance → escalation → consequence → residue**
+
+Not every chapter needs the full sequence, but the series should repeatedly deliver it.
+
+### Promise
+
+Give the reader a disturbing question, image, fact or story worth following.
+
+### Attachment
+
+Make the people, place or routine matter enough that violation has weight.
+
+### Intrusion
+
+Allow something impossible, taboo, dead, misplaced or deeply wrong to enter.
+
+### Resistance
+
+Characters may deny, rationalize, hide, pray, investigate, flee, joke, ask elders, call police or simply continue working.
+
+### Escalation
+
+New information should make the earlier event more disturbing rather than merely more complicated.
+
+### Consequence
+
+Somebody pays emotionally, socially, physically, morally or spiritually.
+
+### Residue
+
+The story should leave a trace after the immediate event is over.
+
+## Ordinary life
+
+Everyday Vietnamese life remains essential because it gives the horror texture:
+
+- shop work;
+- meals;
+- market gossip;
+- family hierarchy;
+- money;
+- funerals;
+- traffic;
+- work deadlines;
+- phones;
+- neighborhood relationships;
+- humor;
+- embarrassment;
+- obligations that continue even when somebody is terrified.
+
+But ordinary life is **not filler and not a quota**.
+
+If a mundane scene does not deepen attachment, character, culture, causality, suspense or contrast, summarize or cut it.
+
+## Oral Vietnamese ghost-story layer
+
+This is a major part of the novel's identity, not decoration.
+
+Characters may tell complete or partial stories that are frightening in their own right. These stories can arrive through:
+
+- family meals;
+- shop customers;
+- wakes and funerals;
+- drivers and workers;
+- practitioners;
+- old people remembering local events;
+- colleagues;
+- voice messages;
+- neighborhood gossip.
+
+The teller may exaggerate, misremember, lie, combine versions or report something genuinely supernatural.
+
+An embedded ghost story is testimony, not automatic universe law — but it is still allowed to **scare the reader immediately** without waiting for Khanh to verify it.
+
+## Mystery relationship
+
+Mystery is structural support.
+
+- Horror first, mystery second.
+- Investigation should increase dread, not drain it.
+- A solved human mechanism does not automatically erase supernatural residue.
+- A confirmed ghost does not eliminate the need for causal discipline around human actions.
+- Fair clues matter when a reveal depends on them.
+- The reader should sometimes know more than Khanh and sometimes less.
+
+## The dead
+
+The dead are former people before they are horror objects.
+
+They may be loving, resentful, confused, manipulative, protective, repetitive, ashamed, hungry for attention, unable to communicate clearly or motivated by something the living misunderstand.
+
+They are not automatically:
+
+- evil;
+- benevolent;
+- omniscient;
+- morally correct;
+- reliable witnesses.
 
 ## Emotional north star
 
-Fear should coexist with tenderness, grief, nostalgia and ordinary affection. A dead person was once somebody who ate, argued, loved, failed, gave a child a snack, waited for someone to come home, or left something unsaid.
+Fear should coexist with grief, tenderness, disgust, nostalgia, guilt, humor and ordinary affection.
+
+The best hauntings should leave the reader with more than a mechanism. A frightening dead person should still feel like someone who once ate at a table, wore a particular shirt, waited for a child to come home, argued about money or left something unfinished.
 
 ## Cultural / folkloric purpose
 
-`Horrible` should function partly as a portal into Vietnamese spiritual and folk-cultural worlds.
+`Horrible` should give meaningful contact with Vietnamese spiritual and folk-cultural worlds without turning them into interchangeable fantasy systems.
 
-It may celebrate:
+It may portray:
 
-- devotion, ritual beauty, music, color, memory, community and care;
-- everyday Buddhist and folk-religious life;
-- Đạo Mẫu / Thờ Mẫu as a living practice rather than a fantasy system;
-- ancestor relations, memorial customs, votive-paper culture and local oral history;
-- folklore concepts of ghosts, spirits, resentful dead, wandering presences and other supernatural categories.
+- Buddhist life;
+- Đạo Mẫu / Thờ Mẫu;
+- ancestor practice;
+- votive-paper culture;
+- funerals and memorials;
+- local oral beliefs;
+- practitioners and ritual specialists;
+- regional ghost lore;
+- disagreement among believers themselves.
 
-It may also explore darker edges:
+Real practice must be researched. Fictional supernatural events may exceed real-world evidence, but the novel must not falsely attribute invented rules to a living religion or tradition.
 
-- exploitation and commercial incentive;
-- social pressure and fear;
-- fraud or performance;
-- superstition used as control;
-- sincere but mistaken belief causing harm;
-- stigma, family secrecy and people hiding behind spiritual authority.
+## Khanh
 
-Those darker elements belong to specific people and situations, not to a blanket claim that Buddhism, Đạo Mẫu or Vietnamese folk belief is inherently sinister.
+Khanh remains:
 
-## Oral-storytelling layer
+- a working software engineer;
+- intelligent but not permanently analytical;
+- skeptical enough to check ordinary explanations;
+- physically capable of fear;
+- without a confirmed inherited supernatural power at the opening;
+- somebody whose exposure grows through life and relationships, not because the universe announces him as chosen.
 
-Stories told by characters other than Khanh are a legitimate independent horror layer.
+His skepticism must not function as an authorial brake on horror. He can be wrong.
 
-A told ghost story is **testimony**, not objective canon. The teller may exaggerate, misremember, combine stories, repeat hearsay, hide details, believe something false or report something genuinely supernatural.
-
-Because of that, embedded stories may contain folklore rules, dramatic claims or frightening entities that do not automatically become rules of the main universe.
-
-Not every embedded story needs to become a case or receive a payoff. Some exist to scare, entertain, preserve cultural texture, reveal worldview or widen the supernatural horizon.
-
-If a story later crosses into the main plot, its claims must be re-evaluated through the normal evidence/author-status framework before becoming canon.
-
-## Narrative philosophy
-
-- Horror first, mystery second.
-- Mystery must sharpen the horror, never sterilize it.
-- Solving the mechanism does not necessarily solve the haunting.
-- Life supplies the analogy; evidence supplies the answer.
-- Unexplained does not automatically mean supernatural.
-- Belief, testimony, memory and dream are evidence classes, not objective truth.
-- Authority may increase confidence; it never converts interpretation into objective truth.
-- The living can misunderstand the dead. The dead may misunderstand, omit, manipulate or lie.
-- Supernatural experiences may sometimes feel real to Khanh without the narrative publishing a clean fantasy taxonomy.
-- Not every supernatural event is a clue. Some exist for grief, dread, atmosphere, character or unresolved mystery.
-- Not every case must be solvable. Unresolved for characters must not mean underdesigned by the author.
-- Oral ghost stories are allowed to be looser, more exaggerated and more openly folkloric than the main close-third narration because they belong to the teller's epistemic frame.
-
-## Long-series direction
-
-- Structure the project in Volumes with different thematic questions rather than one endless chain of cases.
-- The macro mystery is a pattern, not a single final boss.
-- Only a minority of cases need genuine macro connection. Independent cases and false pattern matches keep the world large.
-- Grandfather's old records and his occasional refusals to take certain matters are a gateway into the macro pattern, not proof that he understood everything.
-- Escalate through depth: isolated anomaly → pattern → conflicting testimony → historical repetition → identity uncertainty → uncertainty about who or what is communicating.
-- Do not escalate through default supernatural power levels, bloodline destiny or combat.
-- Japan may return later through ordinary work life rather than a supernatural quest.
-- Do not confirm that Khanh is a supernatural magnet; attention, network effects and selection bias remain viable explanations.
-- A mature series may leave metaphysical questions incomplete while still making the supernatural strongly plausible.
-
-## Worldview
-
-The project is compatible with a genuinely supernatural world, but avoids over-defining cosmology. Multiple explanatory models may remain simultaneously viable.
-
-Phenomena such as possession, corpse reanimation folklore, apparitions, dreams, omens and non-human entities may be explored, but ambiguity is preferred over a confirmed bestiary or power system.
-
-Named folklore categories normally begin as cultural/character interpretations rather than author-certified species.
-
-## Moral direction
-
-Khanh begins fairly practical and skeptical of people who constantly take on other people's burdens. His long development moves toward helping when he genuinely can, taking responsibility for what he knows, and doing good without treating virtue as a supernatural points system.
-
-“Accumulating merit” is a language and ethical orientation available to characters, not a guaranteed physics engine of reward and punishment.
-
-His three long arcs are:
+Long arcs remain:
 
 1. wanting answers → accepting responsibility for what he knows;
-2. dismissing other people's burdens → helping when he can without guaranteed reward;
-3. demanding closure → living honestly with uncertainty.
+2. reluctance to carry other people's burdens → helping when he genuinely can;
+3. demanding closure → living honestly with uncertainty where uncertainty truly remains.
+
+## Grandfather
+
+Grandfather is a gateway into history, local reputation, records and moral choices. He is not the hidden answer to the universe.
+
+His knowledge can be impressive without being complete. His refusals may matter. His records may be wrong, cryptic, practical or morally motivated.
+
+## Long-series variety
+
+Avoid a single repeated case formula.
+
+Possible structures include:
+
+- direct haunting;
+- oral story that later becomes relevant;
+- mystery with confirmed supernatural core;
+- apparent haunting revealed as human crime;
+- family secret with supernatural aftermath;
+- workplace technological anomaly;
+- ritual/cultural situation where the frightening part is not what characters initially believe;
+- short encounter that Khanh never investigates.
+
+Escalate through **depth, consequence and strangeness**, not power levels.
 
 ## Non-negotiables
 
-- Khanh remains a working software engineer with a real ordinary life.
-- He is not automatically a medium, exorcist, chosen heir or supernatural combatant.
-- Do not let investigation become dominant procedural fiction.
-- Do not make every case solvable.
+- This is a ghost/spiritual horror novel, not a realism exercise embarrassed by ghosts.
+- Every volume must deliver memorable supernatural/horror experiences.
+- Chapter 1 must clearly promise the genre.
+- Do not make every case ambiguous.
 - Do not make every case supernatural.
 - Do not make every ghost malicious.
 - Do not make skepticism stupid or spirituality automatically correct.
-- Do not make grandfather the hidden answer to the entire universe.
-- Keep family, work, humor, mundane obligations and social drama alive between cases.
-- Keep substantial horror/spiritual content outside formal investigation arcs.
-- Treat living Vietnamese religious/spiritual traditions with research, specificity and respect.
-- Do not automatically convert folklore categories into fixed author-canon monster species.
-
-## Deliberate departures from convention
-
-- No default “monster of the week” structure.
-- No required team of ghost hunters.
-- No automatic escalation toward demon kings, bloodline powers or magical combat.
-- No requirement that a case conclude with a culprit arrest or metaphysical explanation.
-- No requirement that every scary story told inside the novel be verified, solved or connected to the macro plot.
+- Do not turn Khanh into a chosen-one combat protagonist.
+- Do not make grandfather the master explanation.
+- Do not let investigation dominate the novel.
+- Preserve Vietnamese ordinary life, humor and social texture because they make the horror hurt more.
+- Research living traditions carefully; never use research caution as an excuse to make the fictional supernatural timid.
