@@ -1,0 +1,36 @@
+name: Novel OS stress
+
+on:
+  push:
+    paths:
+      - 'scripts/**'
+      - 'examples/phase3-lifecycle/**'
+      - 'evals/**'
+      - 'config/upstreams.json'
+      - 'package.json'
+      - '.github/workflows/novel-os-stress.yml'
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'examples/phase3-lifecycle/**'
+      - 'evals/**'
+      - 'config/upstreams.json'
+      - 'package.json'
+      - '.github/workflows/novel-os-stress.yml'
+  workflow_dispatch:
+
+jobs:
+  lifecycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install pinned skills locally
+        run: npm run bootstrap -- --clean
+      - name: Run mechanical stress fixture
+        run: npm run stress:test
+      - name: Run full authoring lifecycle fixture
+        run: npm run lifecycle:test
