@@ -89,6 +89,18 @@ If a mundane beat only proves that life is mundane, summarize or cut it.
 
 Do not spend thousands of words earning permission for the story to become horror.
 
+## 5.1. Spatial transitions & nostalgic grounding (SOLID narrative movement)
+
+Transitions between physical locations (e.g., walking from the market to a funeral in an alley) must not be treated as rushed mechanical connectors. They are critical pacing buffers and emotional amplifiers.
+
+Apply SOLID principles to narrative transit scenes:
+
+- **Single Responsibility (Pacing & Emotional State):** A walking transit beat has one job: ground the character's sensory transition, decelerate a rushed plot beat, and prepare the psychological threshold before entering a scene of dread.
+- **Open/Closed (Sensory Resonance, Closed Mystery):** Expand sensory and temporal texture (hometown changes, rustic mud and brick roads, childhood nostalgia) without leaking or altering established investigation locks.
+- **Liskov Substitution (POV Character Consistency):** Nostalgic reflections must strictly match the character's lived baseline (e.g., Khanh's sensory contrast between 3 years of sterile Tokyo concrete/subways and the uneven baked bricks of his hometown lane).
+- **Interface Segregation (No Clutter / Anti-Detail Bloat):** Do not dump trivia or incidental scenery for the sake of word count. Select 2–3 sharp, emotionally charged anchors (e.g., the old wooden plank bridge over the ditch, an old neighbor's living presence vs their sudden death) that directly serve the thematic contrast.
+- **Dependency Inversion (Contrast-Driven Dread):** The horror of death or supernatural anomaly should not rely on narrator lecturing; it must emerge from the visceral destruction of a warm, living childhood memory colliding with a cold, grotesque reality.
+
 ## 6. Horror may be direct
 
 The prose is allowed to be frightening on purpose.
@@ -224,6 +236,14 @@ Possible escalation:
 A ghost does not always need pale skin, white clothing or hollow eyes.
 
 Sometimes the frightening part is that it looks exactly like a normal person who should not be there.
+
+### 12.1 Miêu tả cái chết: Ma mị, quái đản, khó giải thích (Eerie, Grotesque & Inexplicable Deaths)
+
+Khi miêu tả một cái chết hoặc hiện trường người chết, **tuyệt đối không miêu tả nhẹ tay hay biến nó thành một vụ tai nạn cơ học bằng phẳng, đơn điệu**. Phải dám đặc tả **kinh dị trực diện, quái đản và ghê rợn (visceral & grotesque body horror)**:
+
+- **Thương tổn thể xác ghê rợn, dị dạng (Grotesque Trauma):** Không ngần ngại đặc tả những chấn thương quái dị gây sốc thị giác: cổ bị bẻ gập/trẹo ngược hẳn ra phía sau hoặc sang bên theo góc bất khả thi; đốt sống cổ đâm lòi cả đầu xương trắng hếu rách toạc lớp da thịt đẫm máu; mắt trợn trừng lồi hẳn ra ngoài hốc mắt, tròng trắng dã vằn tia máu đỏ sọc; mười đầu ngón tay bật tung móng trơ cả đầu xương dính bết bột vôi tường; máu và bọt mép trào ộc ra nhưng hai hàm răng vẫn cắn chặt ken két hoặc khóe môi nhếch lên thành nụ cười méo xệch đông cứng.
+- **Nghịch lý vật lý & Cơ học quái đản:** Cú ngã hoặc tai nạn xảy ra ở địa hình không thể ngã (bậc thang thấp, quen thuộc 30 năm), vết thương tạo cảm giác như nạn nhân bị một sức mạnh vô hình vặn xoắn, bẻ gãy, dìm nát hoặc kéo giật tuột xuống chứ không phải rơi tự do; xác lạnh buốt như ngâm đáy giếng dù vừa mới tắt thở vài giây.
+- **Tương phản với tiếng cười gượng gạo (Folk Macabre Banter):** Đặt cạnh cảnh tượng ghê rợn đẫm máu ấy là những câu bông đùa tếu táo nửa đùa nửa thật của người đời ("khéo ma dắt bẻ cổ", "dưới âm đòi nợ"). Sự tếu táo đặt cạnh hiện trường vỡ xương lòi mắt tạo ra một sự rùng mình tột bực, đậm chất truyện ma dân gian man rợ và chân thực.
 
 ## 13. Dialogue
 
@@ -414,6 +434,16 @@ Use this to keep people alive.
 Do not use humor to puncture every horror beat.
 
 Sometimes a frightening moment needs to remain frightening.
+
+### 23.1 Sắc thái bông đùa nửa thật (Folk Gallows Humor & Banter)
+
+Trong khẩu ngữ làng quê và chợ búa miền Bắc, khi đối diện với cái chết bất đắc kỳ tử hoặc tai ương kỳ quặc, người đời rất hay chêm vào những câu **bông đùa nửa thật**:
+
+- *"Khéo ma dắt đi chứ ngã thế nào được"*, *"Dưới ấy chắc có ả nào đẹp quá gọi hồn đi sớm"*, *"Vội đi tìm cạ đánh cờ dưới âm"*, *"Chắc đi gặp người yêu cũ..."*
+- Bản chất của kiểu bông đùa này:
+  1. Là **cơ chế tự vệ tâm lý** trước nỗi kinh sợ quá lớn của người trần mắt thịt;
+  2. Tạo ra **sự tương phản rợn người**: khi câu đùa tếu táo buông xuống giữa lúc thi thể đang mở trừng trừng mắt nhìn hoặc méo miệng cười lạnh, sự ma quái không hề bị xua tan mà càng trở nên ám ảnh, quái đản và chân thực đến gai người;
+  3. Giữ cho câu chuyện có phong vị dân gian sống động, vừa sợ vừa tò mò, đúng chất truyền miệng của người Việt.
 
 ## 24. Prose rhythm
 

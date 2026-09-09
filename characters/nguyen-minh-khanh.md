@@ -12,6 +12,8 @@ relationships:
     type: older-sister
   - character: hoang-ngoc-mai
     type: childhood-friend
+  - character: le-van-thang
+    type: high-school-classmate
 locations:
   - family-votive-shop
   - market-crossroads
@@ -66,6 +68,10 @@ He can make wrong assumptions, lose interest, postpone checking something, or de
 Hoàng Ngọc Mai is Khanh's friend from childhood. They grew up around the same market/home environment and have the ease, teasing and unfinished conversational rhythm of people who have known each other since they were children.
 
 Their relationship is strictly platonic. Neither has had romantic feelings for the other, and their relationship must not develop into romance. Do not use jealousy, will-they-won't-they framing, parental matchmaking jokes, romantic subtext or romance bait between them.
+
+## Relationship with Thắng
+
+Lê Văn Thắng is Khanh's classmate from their district high school days. Their dynamic is informal, direct and grounded in adolescent shared memories. Thắng's early marriage, local blue-collar career and cheerful, teasing nature serve as an unpretentious social anchor for Khanh when reconnecting with village life after years abroad in Japan.
 
 ## Long arc
 

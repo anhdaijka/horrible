@@ -197,6 +197,13 @@ They are not automatically:
 - morally correct;
 - reliable witnesses.
 
+### Depicting death: eerie, grotesque, inexplicable, and shaded with folk dark humor
+
+Khi miêu tả một cái chết hay hiện trường người chết:
+- **Tuyệt đối không miêu tả nhẹ tay hay biến cái chết thành tai nạn bằng phẳng:** Không né tránh đặc tả thương tổn thể xác quái dị, ghê rợn trực diện (trẹo gãy cổ, đốt sống đâm lòi qua da, mắt trợn trừng lồi hẳn ra ngoài tròng trắng dã, móng tay bứt toác dính vôi tường...).
+- **Chi tiết ma mị & nghịch lý cơ học:** Nạn nhân như bị một sức mạnh vô hình bẻ quặt, giằng xé, kéo tuột xuống; tư thế chết phi tự nhiên; thi thể lạnh ngắt như ngâm đáy giếng; nụ cười đông cứng kỳ quặc trên khuôn mặt đẫm máu.
+- **Sắc thái bông đùa nửa thật:** Lời tếu táo đen tối, bỡn cợt cay đắng của xóm làng (ma dắt, quỷ đòi nợ) đặt cạnh sự thật đẫm máu làm bật lên nỗi khiếp đảm tột bực của truyện ma Bắc Bộ.
+
 ## Emotional north star
 
 Fear should coexist with grief, tenderness, disgust, nostalgia, guilt, humor and ordinary affection.
