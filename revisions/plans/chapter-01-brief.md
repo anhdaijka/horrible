@@ -1,43 +1,82 @@
 # Chapter 1 Brief — Đơn hàng đoạt mệnh (Sáng mười bốn)
 
-**Trạng thái:** Đã duyệt theo cấu trúc In Medias Res (D-050 Master Plan, Reconciled).
+**Trạng thái:** Đã duyệt theo cấu trúc In Medias Res (D-050/D-051, reconciled); active prose đã qua independent review pass.
 **Giai đoạn:** Act I - The Anomaly & The Midnight Terror.
 **POV:** Nguyễn Minh Khanh (Limited 3rd Person).
 **Thời gian:** Sáng ngày 14 tháng Giêng (ngày cận Rằm, Decision 03 A).
-**Không gian:** Cửa hàng vàng mã của bà Lan (mẹ Khanh) tại ngã tư chợ huyện. Khí hậu nồm ẩm đặc quánh, mưa phùn mù mịt.
+**Không gian:** Cửa hàng vàng mã của bà Lan tại ngã tư chợ huyện; nồm ẩm, mưa phùn, cao điểm khách sắm Rằm.
 
 ---
 
-## 1. Mục đích của Chương (Chapter Goals)
-- **Thiết lập Genre Promise ngay lập tức:** Đưa độc giả thẳng vào trung tâm của sự kiện kinh dị tâm linh. Không làm mất thời gian qua những chương bình đạm, mở màn bằng cú va chạm nảy lửa giữa cái chết thảm khốc và một đơn hàng vàng mã đặt trước.
-- **Thiết lập nhân vật:** Khanh (kỹ sư IT 27 tuổi vừa từ Tokyo về làm việc từ xa) và bà Lan (người mẹ buôn bán vàng mã tháo vát, nhiều kinh nghiệm đời sống nhưng kính sợ luật tục tâm linh).
-- **Cú nổ nhận thức (The Cold Dread Hook):** Chiếc đài cassette bằng giấy bồi và bộ đồ mã đặt đích danh cho ông Vũ Văn Cường từ sáng mùng 10 (bốn ngày trước khi ông chết). Lan Anh (con gái ông Cường) đến mua đồ tang, bàng hoàng khi biết đơn hàng đã được đặt trước lúc bố còn sống khỏe mạnh.
-- **Bảo lưu thông tin (Leakage Lock - Decision 01 B):** Lan Anh khẳng định mùng 10 bố vẫn lái xe đi đánh cờ và trong họ không có ai tên Vũ Thị Thoa. Tuyệt đối cắt bỏ chi tiết chết đuối đầm sen / 30 năm trước ở Chương 1 để bảo lưu cho Chương 2 và Chương 4.
-- **Gieo mầm điềm gở (Taboo & Cursed Item):** Chiếc đài giấy bị bỏ lại quầy. Bà Lan thắp hương khấn vái vì phạm đại kỵ "đồ đoạt mệnh" trong nghề mã. Dị tượng vật lý lạnh buốt đọng sương và bản phác thảo 13 bậc thang có chữ "Đêm 13".
+## 1. Mục đích chương
+
+- **Genre promise:** đưa độc giả thẳng vào nghịch lý kinh dị: một đơn hàng vàng mã cho ông Vũ Văn Cường đã được đặt từ mùng 10, trong khi ông chỉ chết đột ngột đêm 13.
+- **Thiết lập Khanh:** kỹ sư IT 27 tuổi vừa từ Tokyo về, đang làm việc từ xa; bình thường lười/đời thường nhưng chuyển sang trạng thái chú ý khi dữ kiện không khớp.
+- **Thiết lập bà Lan:** chủ tiệm tháo vát, trí nhớ xã hội tốt; nỗi bất an nên hiện trước hết qua sự đứt nhịp công việc quen thuộc, không phải run rẩy liên tục.
+- **Leakage lock:** Ch.1 được biết tên tự xưng `Vũ Thị Thoa`, nhưng tuyệt đối chưa reveal người này là ai, diện mạo ra sao, dùng tay nào, liên hệ với Thủy/Cường, đã chết năm 1996 hay lịch sử chiếc đài Tiệp.
+- **Forward hook:** chiếc đài giấy bị bỏ lại; vệt lạnh cục bộ + bản phác thảo 13 bậc / `Đêm 13`; Khanh quyết định kiểm tra CCTV mùng 10.
+- **Cultural framing:** advance order tự thân không phải điều cấm kỵ phổ quát. `Đồ đoạt mệnh` chỉ được trình bày như lời kiêng/kể của bà Lan/các cụ, không phải narrator-certified ritual law.
 
 ---
 
-## 2. Diễn biến cốt lõi (Core Sequence)
+## 2. Core Sequence
 
-**Cảnh 1: Sáng áp Rằm và chiếc đài trên nóc tủ (Scene 1.1)**
-- Sáng ngày 14 tháng Giêng. Mưa phùn rả rích, hơi nước bốc lên từ nền gạch men xám, cửa hàng đông nghẹt người mua đồ cúng Rằm.
-- Khanh ngồi ở góc quầy kính phụ mẹ, chiếc ThinkPad đặt kẹt giữa những cọc tiền thiếc.
-- Trên nóc tủ kính gian trong có một gói nilon đen kèm mẩu giấy `Vũ Văn Cường - Xóm Trại - Lấy 14`, bên cạnh là chiếc đài cassette bằng giấy bồi dán giấy bóng bạc vừa được thợ mã giao sang sáng nay.
+### Cảnh 1 — Sáng áp Rằm
 
-**Cảnh 2: Khách mua đồ tang và hung tin xóm Trại (Scene 1.2)**
-- Một cô gái trẻ (Lan Anh, tầm 26–27 tuổi, con gái ông Cường) ướt sũng nước mưa, mắt sưng húp, hớt hải lao vào tiệm hỏi mua gấp một lượng lớn đồ tang (vải liệm, áo xô, khăn tang, tiền vàng khâm liệm).
-- Bà Lan hỏi han chia buồn. Lan Anh nức nở kể: bố cô — ông Vũ Văn Cường ở xóm Trại — vừa ngã cầu thang chết đột ngột vào nửa đêm hôm qua (khoảng 23h đêm 13).
-- Người khách cạnh quầy xì xào tin đồn từ Facebook huyện (nghi trộm đột nhập, công an về khám nghiệm). Lan Anh chỉ biết khóc giục lấy đồ khâm liệm.
+- Sáng 14 tháng Giêng, cửa hàng đông khách, nồm ẩm mưa phùn.
+- Khanh ngồi làm việc từ xa trên ThinkPad, phụ mẹ giữa lúc cao điểm bán hàng.
+- Trên nóc tủ có bọc hàng custom cho `Vũ Văn Cường — 59 tuổi — Xóm Trại`, hẹn lấy **chiều 14**; chiếc đài cassette giấy vừa được thợ giao trong buổi sáng.
+- **Object lock:** order slip và sketch là **một tờ giấy**: mặt trước ghi order; mặt sau có sketch chiếc đài, 13 bậc thang và `Đêm 13`.
 
-**Cảnh 3: Cú sốc bọc giấy báo và sự tháo chạy (Scene 1.3)**
-- Nghe tên `Vũ Văn Cường - Xóm Trại`, bà Lan bàng hoàng, bảo Khanh lấy bọc đồ trên nóc tủ xuống kiểm tra. Mẩu giấy nháp ghi rõ tên Cường và dòng hẹn lấy ngày 14.
-- Bà Lan hỏi: *"Thế nhà cô có ai dặn đi đặt trước cái đài này không? Hôm sáng mùng mười có bà ra đây đặt, ghi rõ tên bố cô với địa chỉ xóm Trại..."*
-- Lan Anh bàng hoàng khẳng định: *"Mùng mười?... Bố cháu đêm qua mới mất! Sáng mùng mười bố cháu vẫn còn lái xe đi đánh cờ đầu ngõ... Họ hàng nhà cháu không ai tên Thoa cả!"*
-- Lan Anh kinh hãi nghĩ có kẻ trù ẻo đặt đồ đoạt mệnh hại bố mình, từ chối nhận đài, ném tiền lại quầy rồi ôm đồ tang phóng xe máy bỏ chạy vào màn mưa.
-- Chiếc đài giấy nằm trơ trọi. Bà Lan thắp nhang bàn thờ Thần Tài, run rẩy nói về đại kỵ **đồ đoạt mệnh** (giữ lại qua đêm Rằm sẽ rước vong vào nhà). Khanh quan sát thấy vệt sương đọng buốt rát quanh chân đài giấy và chữ "Đêm 13" ở bậc thang thứ 13 trên bản vẽ tay trái.
+### Cảnh 2 — Hung tin xóm Trại
+
+- Lan Anh, 26–27 tuổi, con gái ông Cường, chạy xe đến mua gấp đồ tang sau khi bố chết đột ngột gần nửa đêm 13 vì ngã cầu thang theo lời gia đình.
+- Một khách quen nhận ra Lan Anh tự nhiên trong đối thoại, tránh POV narrator biết tên cô trước Khanh.
+- Tin đồn xã hội cho biết có công an về xóm Trại; Ch.1 chưa xác nhận cơ chế cái chết.
+- Khi nghe tên `Vũ Văn Cường — Xóm Trại`, nhịp bán hàng của bà Lan đứt lại; bà nhớ ra đơn custom mùng 10.
+
+### Cảnh 3 — Đơn đặt trước
+
+- Khanh lấy bọc hàng xuống; order slip ghi chính xác `Vũ Văn Cường — 59 tuổi — Xóm Trại — Lấy: Chiều 14`.
+- Bà Lan cho biết sáng mùng 10 có một phụ nữ đặt đơn, tự xưng **Vũ Thị Thoa**.
+- Lan Anh khẳng định mùng 10 bố vẫn đi xe ra đầu ngõ đánh cờ, tối ăn cơm ở nhà; nhà/họ hàng gần không có ai tên Thoa.
+- Không reveal Thoa đã chết, đầm sen, 1996 hoặc radio thật.
+- Lan Anh từ chối chiếc radio custom, trả tiền cho đồ tang rồi rời đi.
+- Bà Lan kể lời kiêng `đồ đoạt mệnh` dưới dạng belief/hearsay, không khẳng định như luật nghề khách quan.
+- Khanh kiểm tra chiếc đài: mặt kính sát chân đài lạnh hơn vùng xung quanh, có sương mỏng.
+- Khanh lật mặt sau chính order slip và thấy sketch 13 bậc + `Đêm 13`.
+- **Không suy luận handwriting = thuận tay trái trong Ch.1.** Handedness chỉ trở thành bằng chứng khi CCTV Ch.2 cho thấy hành động viết/vẽ bằng tay trái.
 
 ---
 
 ## 3. Cầu nối sang Chương 2
-- Sự bỏ chạy của Lan Anh và điềm gở của chiếc đài giấy thôi thúc Khanh: Cậu quyết định mở đầu ghi Dahua bám bụi trên xà nhà trích xuất camera giám sát sáng mùng 10 để tìm ra danh tính người phụ nữ bí ẩn.
 
+Khanh nhìn camera Dahua hướng xuống quầy và hỏi bà Lan người phụ nữ đến khoảng mấy giờ. Chương 2 mở bằng việc truy xuất CCTV mùng 10.
+
+Ch.2 không được chỉ replay lại thông tin Ch.1. Giá trị mới phải đến từ **diện mạo người đặt + hành vi tay trái + camera behavior**, rồi tạo ra impossibility mới khi đối chiếu với Thủy.
+
+---
+
+## 4. Explicit Reveal Locks after Chapter 1
+
+Still hidden:
+
+- purchaser appearance / resemblance to Thủy;
+- proof of left-hand writing;
+- Thủy's left-wrist deformity;
+- Thoa as long-dead sibling;
+- 1996 lotus-pond death/murder;
+- Czech cassette radio history;
+- human suspect network;
+- talisman mechanism;
+- objective supernatural identity/cause.
+
+---
+
+## 5. Research dependencies
+
+- `research/verified/case-zero-order-cultural-audit-v1.md`
+- `research/verified/votive-shop-language-ordering-v1.md`
+- `research/verified/funeral-workflow-bacninh-v1.md`
+
+Use verified trade/funeral plausibility; treat exact shop shorthand and local taboo language as family-specific unless separately verified.
