@@ -13,7 +13,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: draft
-word-count: 2574
+word-count: 2268
 ---
 
 # Chương 2: Bàn tay trái
@@ -318,7 +318,7 @@ Khanh replay đoạn 09:11:03.
 
 Lần thứ hai, ánh mắt ấy không khác lần đầu.
 
-Không có glitch. Không có khung hình nhảy. Khuôn mặt cũng không thay đổi.
+Hình không giật, cũng không méo. Khuôn mặt bà ta không thay đổi.
 
 Chỉ là một người phụ nữ đứng ở cửa tiệm và nhìn thẳng vào đúng vị trí chiếc camera trong bốn giây.
 
@@ -342,7 +342,7 @@ Bà đi được hai bậc thì Khanh hỏi:
 
 Bà quay lại.
 
-— Chắc có. Hồi trước cô ấy hay đặt đồ giỗ hộ nhà bác bên xóm Trại.
+— Chắc có.
 
 — Gọi thử đi.
 
@@ -368,11 +368,7 @@ Bà Lan khịt mũi.
 
 Bà xuống nhà.
 
-Khanh lưu lại mốc giờ vào điện thoại, rồi đóng playback. Anh không chụp màn hình người phụ nữ. Chưa cần.
-
-Dưới quầy, chiếc radio giấy vẫn nằm đúng chỗ cũ.
-
-Vệt sương quanh chân nó đã tan gần hết.
+Khanh ghi mốc giờ vào điện thoại rồi đóng playback.
 
 Bà Lan lục danh bạ một lúc mới tìm thấy số.
 
@@ -498,43 +494,31 @@ Giọng cô nhỏ hẳn.
 
 — Người ra đặt hàng tự xưng thế.
 
-— Đặt hàng gì?
+Một khoảng lặng.
 
-— Đồ mã cho anh Cường. Còn đặt riêng một cái đài cassette.
+— Không.
 
-Không có tiếng đáp.
+— Không gì?
 
-Bà Lan gọi lại:
+— Không phải.
 
-— Thủy?
+Giọng cô Thủy bỗng gấp lên.
 
-— Chị Lan.
+— Chị nhìn nhầm rồi. Không phải em. Em lên xe đây.
 
-Giọng bên kia bỗng gấp.
+— Thủy, khoan—
 
-— Chị đừng động vào cái đài ấy.
-
-Bà Lan đứng thẳng người.
-
-— Sao?
-
-— Đừng đưa cho ai. Đừng đốt. Đừng...
-
-Câu cuối bị cắt giữa chừng.
-
-Màn hình điện thoại trở về tên liên hệ.
-
-Cuộc gọi kết thúc.
+Cuộc gọi tắt.
 
 Bà Lan nhìn máy.
 
 — Nó cúp à?
 
-Khanh bước tới, cầm điện thoại lên. Sóng vẫn đủ. Không có thông báo mất kết nối.
+Khanh cầm điện thoại lên. Sóng vẫn đủ.
 
 — Chắc cô ấy cúp.
 
-Bà Lan lập tức gọi lại.
+Bà Lan gọi lại.
 
 Không ai nghe.
 
@@ -585,7 +569,5 @@ Ngoài cửa có khách gọi mua hương.
 Bà Lan quay ra ngay.
 
 Khanh đứng lại cạnh quầy, tờ giấy vẫn trong tay.
-
-Trên mặt sau, mười ba bậc thang nghiêng xuống một góc.
 
 Trên gác, người đàn bà mùng mười vẫn còn nhìn vào camera.
