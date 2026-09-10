@@ -13,278 +13,444 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: draft
-word-count: 3907
+word-count: 2127
 ---
 
 # Chương 1: Đơn hàng đoạt mệnh
 
-Sáng ngày mười bốn tháng Giêng, cái nồm ẩm của đồng bằng Bắc Bộ sau Tết dính nhớp vào da thịt như một lớp hồ loãng.
+Sáng ngày mười bốn tháng Giêng, cái nồm sau Tết dính vào da thịt như một lớp hồ loãng.
 
-Mưa phùn rả rích giăng một màn sương đùng đục quanh ngã tư chợ huyện. Mặt đường nhựa loang lổ những vũng bùn đen ngòm do bánh xe tải chở hàng cày xới suốt từ sáng sớm. Trong gian nhà mặt phố của gia đình Khanh, nền gạch hoa men xám đổ mồ hôi nhơm nhớp. Từng dòng người đi chợ mua sắm đồ cúng Rằm chen chúc bước vào, để lại những vệt chân nâu nham nhở kéo dài từ ngoài hiên vào tận chân quầy thu ngân bằng kính.
+Mưa phùn giăng đục ngã tư chợ huyện. Nền gạch hoa trong gian nhà mặt phố của gia đình Khanh đổ mồ hôi, khách đi chợ ra vào kéo theo những vệt bùn từ ngoài thềm đến sát quầy kính.
 
-Trong tiệm sực lên thứ mùi đặc quánh của ngày cận Rằm: mùi giấy bổi ẩm xốp xếp thành từng đống cao lút đầu người, mùi keo dán nấu từ bột sắn pha hồ nếp lên men chua nồng, mùi giấy tiền ngũ sắc nồng nặc phẩm màu, và cay gắt nhất là thứ khói nhang bài, hương trầm từ chiếc đỉnh đồng cúng Thần Tài góc nhà thốc thẳng ra cửa.
+Trong tiệm sực mùi giấy bổi ẩm, hồ dán chua và phẩm màu. Khói nhang ở góc thờ Thần Tài quẩn vào đống hàng chất cao quá đầu người. Tiền vàng, quần áo giấy, xe giấy chen nhau từ chân tường lên tận mấy thanh xà.
 
-Hàng mã mùa này chất la liệt từ sàn lên đến xà ngang. Hàng chục cỗ mũ ngựa ngũ phương xếp chen chúc bên cạnh những hình nhân thế mạng khoác áo thụng đỏ mắt vẽ bằng mực tàu đen nhánh; góc tường chất đầy những cọc tiền thiếc, tiền xu và xấp giấy bản bó lạt giang; trên cao là ô tô giấy, máy bay và nhà lầu dán giấy bóng kính sặc sỡ. 
+Khanh ngồi ở đầu quầy, nhét chiếc ThinkPad cũ vào khoảng trống giữa hai thùng các-tông.
 
-Khanh ngồi nép ở góc quầy kính, kéo chiếc ThinkPad cũ vào khoảng trống hiếm hoi giữa hai thùng các-tông đựng tiền vàng. Ba tuần trước còn ngồi trong văn phòng kín ở Tokyo điều hòa chạy êm ru, giờ quanh anh là tiếng còi xe tải gầm rú ngoài quốc lộ và tiếng rồ ga của những chiếc xe máy thồ chuối xanh, bưởi thờ đi áp Rằm. Ngón tay anh lướt trên bàn phím gõ nốt mấy dòng lệnh cho ca trực từ xa, tai đeo hờ một bên tai nghe chống ồn, nhưng quạt tản nhiệt của máy cứ rít lên từng hồi đẩy luồng khí nóng phả vào mu bàn tay dính nhớp mồ hôi nồm.
+Ba tuần trước anh còn ở Tokyo, ngồi trong văn phòng kín nghe tiếng điều hòa. Bây giờ ngoài cửa là còi xe tải, tiếng xe máy chở chuối xanh với bưởi thờ chen nhau qua ngã tư; trong nhà, quạt laptop rít sát mu bàn tay.
 
-Phía đầu quầy bên kia, mẹ anh đứng thoăn thoắt giữa đống túi nilon. Mái tóc hoa râm búi chặt sau gáy bằng chiếc kẹp nhựa đen, hai bàn tay khô ráp loang lổ phẩm màu đỏ vàng không lúc nào ngơi: giật túi hàng, bốc tiền vàng, kéo ngăn kéo gỗ đếm tiền thối kêu lách cách.
+Anh đeo hờ một bên tai nghe, gõ nốt mấy dòng cho ca trực từ xa.
 
-— Khanh! Bỏ cái máy tính xuống, ra bê hộ mẹ hai bó nẹp tre xếp gọn vào góc tường kìa! Khách người ta đứng tràn cả ra thềm rồi kia kìa! — Bà Lan gọi với vào, giọng khàn nhưng đanh gọn.
+— Khanh! Cất hộ mẹ hai bó nẹp tre kia vào góc. Khách đứng ra tận thềm rồi kìa.
 
-Khanh thở dài một nhịp rồi đứng dậy:
+Mẹ anh vẫn cúi đầu đếm tiền. Hai bàn tay khô, móng cắt sát, thoăn thoắt mở túi, lấy hàng, trả tiền thừa.
 
-— Con bảo mẹ thuê thêm một người bốc vác mấy ngày Rằm này mà mẹ không nghe. Người ta về nghỉ phép chứ có phải về làm cửu vạn đâu mẹ.
+Khanh tháo tai nghe.
 
-— Thuê với mướn cái gì, tiền kiếm được có mấy đồng mà đòi thuê người ngoài! — Bà Lan quắc mắt nhìn anh, nhưng bàn tay vẫn thoăn thoắt nhét xấp giấy tiền vào túi nilon cho một người khách quen. — Mày đi Nhật ba năm trời, chân tay mềm như cọng bún rồi đấy. Vận động một tí cho nó giãn gân cốt ra!
+— Con bảo mẹ thuê thêm người mấy hôm Rằm mà mẹ không nghe. Con về nghỉ chứ có phải về làm cửu vạn đâu.
 
-Khanh cười trừ, lách người qua khe quầy hẹp, cúi xuống ôm hai bó nẹp tre đã vót nhẵn xếp vào góc cột. Đúng lúc anh vừa phủi bụi tre dính trên áo nỉ thì một chiếc xe máy Dream cũ thắng gấp ngoài thềm gạch.
+— Thuê vào rồi tiền lãi đưa hết cho người ta à?
 
-Tiếng chân chống xe quẹt mạnh xuống nền bê tông nghe một tiếng *xoèn xoẹt* chói tai.
+Bà Lan nhét túi hàng cho khách, lúc ấy mới liếc con.
 
-Một cô gái trẻ hớt hải lao vào cửa hàng.
+— Đi Nhật ba năm, chân tay mềm hết rồi đấy.
 
-Cô gái trạc tuổi Khanh hoặc non hơn vài tuổi, mặc chiếc áo khoác gió mỏng màu xanh rêu ướt sũng nước mưa, vạt áo bết chặt vào người. Đầu cô không đội mũ, mái tóc dài ướt rượt dính chặt vào hai bên thái dương. Đôi mắt đỏ hoe, mi mắt sưng mọng, viền mắt cay xè bết dính nước mưa pha lẫn mồ hôi. Hơi thở cô dồn dập, đứt quãng như vừa phóng xe bạt mạng qua một chặng đường dài.
+Khanh cười, đứng dậy.
 
-Cô bước hụt chân qua bậc tam cấp, đôi dép lê trượt trên nền gạch hoa nhớp nháp, suýt chúi người về phía trước.
+Anh vừa dựng xong hai bó nẹp vào chân cột thì ngoài thềm có tiếng phanh xe gấp. Một chiếc Dream cũ dừng xộc trước cửa.
 
-Bà Lan đang đếm tiền lẻ thối cho khách, ngón tay khựng lại giữa chừng:
+Cô gái bước vào gần như ngay sau đó.
 
-— Kìa cháu! Đi đứng làm sao thế, khéo ngã bây giờ! Có việc gì thế con?
+Áo khoác gió xanh rêu của cô ướt sẫm, tóc dính vào hai bên thái dương. Cô bước hụt qua bậc cửa, bàn tay quờ được mép quầy kính mới khỏi ngã.
 
-Cô gái níu chặt lấy mép quầy kính, mười đầu ngón tay bóp mạnh đến trắng bệch:
+Bà Lan đang trả tiền thừa cho khách, tay dừng lại.
 
-— Cô ơi... bán cho cháu bộ quần áo ma với bộ sắp lễ tang sự thôi... Lấy nhanh giúp cháu với!...
+— Kìa cháu. Từ từ thôi. Có việc gì thế?
 
-Hai người khách đang đứng chọn thếp tiền bên cạnh ngoái đầu lại nhìn. Tiếng người xôn xao ngoài cửa dường như chùng xuống một nhịp.
+Cô gái vẫn vịn quầy.
 
-Bà Lan buông xấp tiền vàng xuống mặt bàn gỗ:
+— Cô lấy giúp cháu ít đồ tang với đồ khâm liệm. Nhà cháu cần gấp.
 
-— Chết nỗi, nhà có người mất hả con? Khổ quá, đầu năm đầu tháng thế này... Ai mất thế cháu?
+Giọng cô khàn. Hai mắt sưng, không biết vì khóc từ đêm hay vì cả đêm chưa ngủ.
 
-Cô gái quệt ngang mu bàn tay ướt sũng lên má, nấc từng hồi:
+Bà Lan đặt xấp tiền xuống.
 
-— Bố cháu... Bố cháu ngã cầu thang đêm qua... Nhà cháu đang giục khâm liệm, cô lấy gấp cho cháu với...
+— Nhà có người mất à con?
 
-Khanh đang đứng tựa lưng vào cột nhà, nghe đến hai chữ "ngã cầu thang" thì ngước mắt nhìn sang.
+Cô gái gật đầu.
 
-— Khổ thân... — Bà Lan thở dài, với tay lấy cuộn vải xô trắng dưới gầm quầy. — Sống nay chết mai, chẳng ai học được chữ ngờ... Thế bố cháu tên là gì, bao nhiêu tuổi để cô ghi tên vào đồ lễ?
+— Bố cháu. Đêm qua bố cháu ngã cầu thang.
 
-Cô gái quệt nước mắt, giọng khàn đặc:
+Bà Lan khẽ chép miệng.
 
-— Bố cháu là Vũ Văn Cường, năm mươi chín tuổi, ở bên xóm Trại...
+— Khổ quá. Tên bố cháu là gì? Bao nhiêu tuổi, ở đâu, cô ghi ra không lát đông khách lại nhầm.
 
-Một bà khách mặc áo mưa tiện lợi màu xanh đứng chọn tiền vàng bên cạnh bỗng ngoái đầu sang, giọng oang oang:
+— Vũ Văn Cường. Năm mươi chín tuổi. Xóm Trại ạ.
 
-— Cường mộc ở ngõ chùa đấy hả cháu? Thảo nào trưa nay tôi đi qua thấy xe công an đỗ kín cổng, chăng cả dây nhựa từ đầu ngõ...
+Một bà khách đang lựa tiền vàng bên cạnh quay hẳn sang.
 
-Lan Anh cúi gập mặt, ngón tay bấu chặt vào mép quầy kính run bần bật. Cô không buồn đáp lại mà chỉ giục bà Lan:
+— Ơ, Lan Anh đấy à? Cường mộc ở ngõ chùa là bố cháu à?
 
-— Nhà cháu đang bối rối lắm... Cô lấy nhanh đồ giúp cháu với...
+Cô gái nhìn bà, gật đầu.
 
-Bà Lan đang thò tay xuống ngăn kéo lấy kéo cắt vải xô, bỗng bàn tay bà khựng lại giữa chừng.
+— Vâng.
 
-Bà ngẩng đầu lên, đôi lông mày hoa râm nhíu chặt lại. Bà nhìn thẳng vào khuôn mặt đẫm nước mưa của cô gái:
+— Sáng nay tôi thấy trên cái nhóm huyện người ta đăng có công an về. Bảo ngã cầu thang hay trộm cắp gì đấy, loạn cả lên.
 
-— Cháu vừa bảo bố cháu tên gì cơ?
+Lan Anh cúi xuống.
 
-— Dạ... Vũ Văn Cường, năm mươi chín tuổi, ở bên xóm Trại ạ...
+— Nhà cháu đang rối lắm. Cô lấy giúp cháu nhanh một tí.
 
-Chiếc kéo cắt vải trong tay bà Lan buông rơi đánh *cạch* một tiếng khô khốc xuống mặt quầy kính. Bà nhìn sững cô gái:
+Bà Lan vừa cúi tìm túi hàng thì tay dừng giữa ngăn kéo.
 
-— Bố cháu... mất đêm qua thật à? Hay là mất từ hôm nào rồi?
+Bà ngẩng lên.
 
-Lan Anh trố mắt, mặt nghệt ra:
+— Khoan. Cháu vừa bảo bố cháu tên gì?
 
-— Dạ?... Bố cháu vừa mất đêm qua cô ơi! Đêm qua ngã cầu thang, sáng nay họ hàng mới họp lại lo hậu sự... Sao cô lại hỏi thế ạ?
+Lan Anh nhìn bà.
 
-Bà Lan đứng chết trân sau quầy. Bàn tay dính phẩm đỏ của bà vỗ nhẹ lên mặt kính theo một nhịp cuống cuồng, miệng lẩm bẩm:
+— Vũ Văn Cường ạ.
 
-— Lạ nhỉ... Cách đây mấy hôm... tầm mùng mười... rõ ràng có người đến đặt một bọc đồ tang ghi tên Vũ Văn Cường ở xóm Trại...
+— Xóm Trại?
 
-Bà quay phắt sang Khanh:
+— Vâng.
 
-— Khanh! Mày trèo lên cái ghế đẩu ngó hộ mẹ lên góc trong cùng trên nóc tủ kính xem nào!
+Bà Lan để nguyên bàn tay trong ngăn kéo một lúc.
 
-Khanh ngớ người:
+Khách trước mặt bà chìa tiền ra, bà cũng không cầm.
 
-— Ngó cái gì hả mẹ?
+— Mất đêm qua thật à cháu?
 
-— Cái bọc túi nilon đen to tướng buộc dây thun đỏ với bọc giấy báo người ta chở sang gửi trưa nay ấy! Trưa nay lúc mày đang ngồi máy tính thì thợ làm mã chở sang giao, mẹ bảo quẳng tạm lên nóc tủ kính gian trong. Lên xem mẩu giấy cài ngoài túi có ghi tên ông Cường ở xóm trại hay không, nhanh lên!
+— Vâng.
 
-Khanh thấy mẹ giục gắt gao thì vội kéo chiếc ghế đẩu gỗ lại sát tủ kính. Chân ghế cập kênh trên nền gạch men ướt nồm. Anh bước lên ghế, vươn người nhìn vào góc tối sát tường vôi ẩm ướt trên nóc tủ.
+— Chắc chứ?
 
-Ở đó, lọt thỏm giữa mấy bó nan tre và cọc giấy bản tồn kho bám bụi xám, quả nhiên có một bọc túi nilon đen to và một bọc được bọc kỹ bằng nhiều lớp giấy báo cũ đã ngả màu ố vàng.
+Lan Anh cau mặt.
 
-Khanh đưa tay lôi bọc túi nilon đen ra trước.
+— Bố cháu mất lúc gần nửa đêm. Sáng nay cả nhà mới lo hậu sự. Sao cô hỏi thế?
 
-Dưới ánh sáng lờ nhờ hắt lên từ quầy, một mẩu giấy nháp trắng xé vội cài dưới sợi dây thun đỏ đập thẳng vào mắt anh. Mẩu giấy đã quăn góc, nhưng những nét mực bi xanh hằn sâu cày xước cả thớ giấy vẫn hiện lên rõ mồn một:
+Bà Lan quay sang Khanh.
 
-**VŨ VĂN CƯỜNG — 59 TUỔI — XÓM TRẠI.**  
+— Lấy cái ghế cho mẹ.
+
+— Làm gì ạ?
+
+— Trên nóc tủ gian trong. Có bọc nilon đen buộc chun đỏ, cạnh nó là gói giấy báo. Thợ mã vừa giao lúc sáng.
+
+Bà giục:
+
+— Lấy xuống đây.
+
+Khanh nhìn mẹ thêm một nhịp rồi kéo ghế đẩu lại.
+
+Một chân ghế cập kênh trên nền gạch ẩm. Anh giữ mép tủ, bước lên.
+
+Trên nóc tủ có đúng hai bọc bà vừa tả, lọt giữa mấy bó nan tre và giấy bản phủ bụi.
+
+Khanh kéo túi nilon đen ra trước.
+
+Một mẩu giấy nháp cài dưới sợi chun đỏ. Giấy quăn vì ẩm, nét bi xanh ấn sâu xuống thớ giấy.
+
+**VŨ VĂN CƯỜNG — 59 TUỔI — XÓM TRẠI**  
 *Lấy: Chiều 14.*
 
-Khanh sững người trên chiếc ghế đẩu. Gáy anh giật thót một cái, sống lưng ớn lạnh khi hai mắt dán chặt vào từng nét chữ nắn nót nghiêng sang phải.
+Khanh đọc lại.
 
-Vũ Văn Cường. Năm mươi chín tuổi. Xóm Trại. Hẹn lấy: Chiều mười bốn.
+Tên.
 
-Hôm nay chính là ngày mười bốn tháng Giêng.
+Tuổi.
 
-— Có phải tên ấy không con? — Tiếng bà Lan gọi với lên từ dưới quầy.
+Xóm.
 
-Khanh nuốt nước bọt, giọng anh khô khốc:
+Không lệch một chữ.
 
-— Đúng... đúng tên Vũ Văn Cường, năm mươi chín tuổi, xóm Trại mẹ ạ...
+— Đúng không? — bà Lan hỏi từ dưới.
 
-Bà Lan sững sờ, đôi mắt mở to nhìn chằm chằm vào chiếc bọc trên tay Khanh:
+— Đúng.
 
-— Đưa... đưa xuống đây mẹ xem nào!
+Bà không hỏi lại.
 
-Khanh ôm bọc túi nilon đen cùng gói bọc giấy báo bước xuống ghế. Anh đặt cả hai thứ lên mặt quầy kính, ngay trước mặt Lan Anh.
+— Mang xuống.
 
-Mẩu giấy nháp trắng cài ngoài miệng túi quay mặt ra phía trước. Dưới ánh đèn tuýp huỳnh quang trắng lóa, dòng chữ *Vũ Văn Cường — 59 tuổi — Xóm Trại* đập thẳng vào mắt cô gái.
+Khanh cầm cả túi lẫn gói giấy báo bước xuống ghế, đặt lên quầy.
 
-Bà Lan nhìn Lan Anh, giọng run lên:
+Lan Anh nhìn mẩu giấy.
 
-— Này cháu... Thế trong nhà... có ai dặn đi đặt trước bọc đồ tang này không?
+Lần này cô không giục nữa.
 
-Lan Anh ngơ ngác nhìn mẩu giấy nháp, rồi nhìn bà Lan, lắc đầu quầy quậy:
+Bà Lan hỏi:
 
-— Đặt trước cái gì cơ cô? Bố cháu vừa mới mất đêm qua... Sáng nay nhà cháu mới nháo nhào lo hậu sự, cháu còn chưa kịp in cáo phó, họ hàng còn chưa tới đủ... Ai... ai mà đi đặt trước được hả cô? Cô nhầm với ai rồi chứ!
+— Nhà cháu có ai đặt trước chỗ này không?
 
-— Nhầm làm sao được! — Bà Lan lật mặt sau của mẩu giấy nháp, chỉ ngón tay run run vào vệt mực bi dí sát trước mặt cô gái. — Sáng mùng mười người ta đến tận đây đặt tiền cọc, bảo gửi nhờ đến ngày mười bốn ra lấy... Mày nhìn xem, người ta tự tay viết chữ người đặt đây này!
+— Đặt trước?
 
-Lồng ngực Khanh thắt lại một nhịp.
+— Ừ.
 
-Bốn ngày trước.
+— Không.
 
-Lúc có người đứng ở cửa hàng này viết giấy đặt đồ tang cho một người tên là Vũ Văn Cường... thì ông Cường ở xóm Trại vẫn đang sống.
+Lan Anh lắc đầu.
 
-Lan Anh nhìn trân trân vào mẩu giấy nháp, khuôn mặt cô trắng bệch ra:
+— Bố cháu mới mất đêm qua. Nhà cháu sáng nay mới cuống lên chạy đồ. Ai đặt trước được?
 
-— Không thể nào... Mùng mười bố cháu vẫn còn đi xe máy ra đầu ngõ đánh cờ... Vẫn ngồi ăn cơm tối với cả nhà! Ai lại đi đặt đồ tang cho người đang sống sờ sờ hả cô?!
+— Sáng mùng mười có người đến đây đặt.
 
-— Chuyện người khuất núi ai dám đem ra đùa cợt với cháu làm gì! — Bà Lan biến sắc. Bà thò tay giật đứt sợi dây chun buộc quanh bọc giấy báo cũ đặt bên cạnh.
+Lan Anh ngẩng phắt lên.
 
-Từng lớp giấy báo ố vàng được lột ra.
+— Mùng mười?
 
-Một món đồ bằng giấy bồi lộ ra dưới ánh đèn huỳnh quang.
+— Mùng mười.
 
-Một chiếc đài cassette bằng giấy bồi.
+— Cô có nhầm không?
 
-Chiếc đài có tỷ lệ to hơn một gang tay, thân sơn đen tuyền, mặt trước dán một lớp giấy bóng tráng nhôm màu bạc sáng loáng. Phía bên trái là một màng loa đan bằng nan tre tỉ mỉ như mắt cáo; bên phải là khay chứa băng cassette khoét rỗng, bên trong điểm hai bánh xe giấy tròn xoe; trên nóc có hai chiếc núm xoay bằng gỗ tiện và một chiếc quai xách bằng dây thép mỏng bọc giấy gập sát vào lưng máy.
+— Mẹ cô nhớ đơn này. — Bà Lan nói. — Đồ thường thì chẳng nói làm gì, nhưng người ta còn đặt thêm một thứ phải gửi thợ làm riêng.
 
-Một chiếc đài cassette kiểu cổ lỗ sĩ từ những năm chín mươi.
+Lan Anh nhìn tờ giấy thêm lần nữa.
 
-Kẹp ở mép khay băng là một tờ giấy nháp phác thảo hình dáng chiếc đài với những nét vẽ tay dứt khoát, sắc sảo.
+— Mùng mười bố cháu còn đi xe ra đầu ngõ đánh cờ. Tối vẫn ăn cơm ở nhà.
 
-Vừa nhìn thấy chiếc đài cassette ấy, Lan Anh khựng người lại. Hai chân cô loạng choạng lùi nửa bước như bị hụt hơi. Đôi mắt dán chặt vào lớp giấy tráng nhôm màu bạc và hai bánh xe giấy tròn xoe trong khay băng rỗng, hai bàn tay bấu chặt lấy mép quầy kính đến mức các khớp ngón tay trắng bệch:
+Không ai nói gì.
 
-— Cái... cái này... — Lan Anh lắp bắp, giọng nghẹn ứ nơi cuống họng. — Sao... sao lại có người đặt cái thứ này ở đây?...
+Bà khách đứng cạnh thôi lựa tiền vàng từ lúc nào. Bà nhìn bà Lan, rồi nhìn Lan Anh, nhưng không chen thêm câu nào.
 
-Bà Lan nhướng mắt lên, giọng gặng lại:
+Bà Lan kéo gói giấy báo về phía mình.
 
-— Sao thế cháu? Cháu biết người đặt à? Người đến đây đặt ghi tên là Vũ Thị Thoa, có phải người nhà cháu không?
+— Đây.
 
-Lan Anh giật bắn người, bả vai nảy lên một nhịp cứng đờ.
+Bà tháo chun, bóc lớp giấy ngoài.
 
-Cô lảo đảo lùi lại hai bước, lưng va mạnh vào cánh cửa kính khiến những dải tiền vàng treo trên tường rung lên sột soạt:
+Một chiếc đài cassette bằng giấy bồi hiện ra trên quầy.
 
-— Không... không thể nào... — Lan Anh ôm chặt lấy hai bên thái dương, ngón tay bấu vào mớ tóc ướt bết, hơi thở dồn dập trong cuống họng. — Nhà cháu làm gì có ai tên là Thoa! Bố cháu họ Vũ nhưng trong họ ngoài làng không một ai tên như thế cả! Cô đùa cháu phải không?!
+Nó chỉ lớn hơn một gang tay. Thân đài đen, mặt trước dán giấy bạc; một bên là màng loa đan bằng nan tre, bên kia là khay cassette rỗng với hai bánh xe giấy. Trên nóc còn có hai núm xoay nhỏ và một chiếc quai gập xuống sau lưng.
 
-— Chuyện ma chay ai dám đùa! — Bà Lan biến sắc, tay bám chặt vào mép quầy. — Người ta ghi rành rành tên người nhận là bố cháu đây!
+Loại đài kiểu cũ, thứ Khanh nhớ hồi bé nhà nào cũng từng có một cái na ná.
 
-Lan Anh nhìn chằm chằm vào chiếc đài cassette bằng giấy bồi trên mặt quầy kính, toàn thân co rúm lại. Cô giật lùi thêm một bước, gót dép va vào két bia rỗng dưới chân cột đánh *keng* một tiếng chát chúa. Hai vai cô run bần bật, lồng ngực phập phồng sau lớp áo gió sũng nước:
+Lan Anh nhìn chiếc đài.
 
-— Mùng mười bố cháu vẫn còn sống... Vẫn đi xe máy ra đầu ngõ đánh cờ... Đứa nào... đứa nào đi đặt thứ này trù ẻo bố tao?!
+— Cái này cũng đặt cho bố cháu?
 
-Khanh bước vòng qua quầy:
+— Ừ.
 
-— Bạn bình tĩnh đã...
+— Bố cháu có dùng loại này đâu.
 
-Nhưng mũi giày Khanh vừa chạm xuống nền gạch thì Lan Anh đã thụt lùi lại, hai tay xua loạn xạ ra phía trước:
+Bà Lan nhíu mày.
 
-— Đừng! Đừng có dí vào người tôi!
+— Cái ấy cô không biết. Người đặt mang mẫu đến, dặn thợ làm giống.
 
-Tiếng the thé rít qua kẽ răng run rẩy. 
+Lan Anh quay sang.
 
-Cô nhìn chằm chằm vào chiếc đài giấy bồi nằm trơ khấc, lắc đầu quầy quậy:
+— Ai đặt?
 
-— Tôi không lấy!... Nhà tôi không ai đặt thứ này cả!... Đừng có đưa cho tôi!
+Bà Lan không trả lời ngay.
 
-Nói rồi, Lan Anh chộp lấy cuộn vải xô trắng trên bàn, móc từ túi áo khoác ra một nắm tiền nhàu nát ném toẹt xuống mặt kính. 
+Bà vẫn nhìn chiếc đài, ngón tay cái miết đi miết lại mép tờ giấy báo vừa bóc.
 
-Mấy tờ tiền ướt sũng dính bết vào mặt kính cạnh mẩu giấy nháp. Lan Anh không đợi thối lại tiền, cũng không nhìn lại chiếc đài lấy nửa giây. Cô quay ngoắt người, đôi dép lê trượt lảo đảo qua bậc tam cấp ướt nồm rồi cắm đầu chạy thốc ra màn mưa.
+— Mẹ nhớ bà ấy tự xưng tên Thoa.
 
-Tiếng đạp nổ xe Dream rồ lên cuống cuồng ngoài thềm gạch. Bánh xe xé nước mưa lao vụt qua vũng bùn trước cửa, tiếng pô xe rồ ga ngắt quãng rồi chìm nghỉm vào dòng xe cộ ngã tư chợ.
+Lan Anh chờ.
 
-Trong tiệm chỉ còn tiếng nước mưa từ mái tôn rỉ nhỏ giọt *tõm... tõm...* xuống rãnh nước trước hiên. Gió luồn qua khe cửa cuốn, làm mấy dây tiền vàng treo trên tường cọ vào nhau sột soạt.
+— Vũ Thị Thoa.
 
-Mấy tờ tiền nát Lan Anh ném lại dính bết vào những vệt nước mưa trên mặt quầy kính. Chiếc đài cassette bằng giấy bồi vẫn nằm trơ trọi ở đó, lớp giấy bóng tráng nhôm màu bạc phản chiếu ánh đèn huỳnh quang chập chờn thành một vệt xám lạnh. Mẩu giấy nháp trắng ghi dòng chữ *Vũ Văn Cường — 59 tuổi — Xóm Trại* cài ngoài miệng túi nilon nằm im lìm.
+Cô im vài giây.
 
-Bà Lan sụp xuống chiếc ghế đẩu gỗ sau quầy, hai đầu gối run lẩy bẩy chạm vào nhau. Bà run run bốc ba nén nhang bài, quẹt que diêm thứ nhất gió lùa tắt ngấm, que thứ hai gãy đôi, đến que thứ ba đốm lửa mới bén vào đầu que nhang.
+— Ai cơ?
 
-Khói nhang thốc lên cay sè sống mũi. Bà chắp hai tay vái lấy vái để lên bàn thờ Thần Tài trong góc tường:
+— Vũ Thị Thoa. Có phải người nhà cháu không?
 
-— Nam mô A Di Đà Phật... oan gia trái chủ phương nào... sống khôn thác thiêng... nhà con buôn bán kiếm miếng cơm chứ có biết gì đâu...
+— Không.
 
-Khanh bước lại gần quầy, vịn tay vào mép kính:
+Lan Anh đáp quá nhanh, rồi tự lắc đầu.
 
-— Mẹ...
+— Nhà cháu không có ai tên Thoa cả. Họ hàng gần cũng không.
 
-Bà Lan quay lại nhìn con trai, môi bà xám ngắt, không còn một giọt máu. Giọng bà thì thào, đứt quãng như thể sợ người ngoài ngõ nghe thấy:
+— Thế cô cũng chịu.
 
-— Đồ đặt trước... Trong nghề này sợ nhất là thứ đồ ma đặt trước con ơi... Người đang sống sờ sờ mà có đứa đến sắm đồ tang... ấy là điềm đòi mạng.
+— Cô có nhớ mặt không?
 
-Bà liếc nhìn chiếc đài giấy nằm trơ khấc trên quầy, vai co rụt lại như vừa chạm phải thanh sắt nung. Không đợi con trai kịp gặng hỏi, bà quay ngoắt người, lập cập bước thụt lùi về phía gian trong. Tiếng dép xốp loẹt xoẹt gấp gáp trên nền gạch rồi ngưng bặt khi bà sụp gối xuống manh chiếu cói trước bàn thờ gia tiên. Hai bàn tay bà run lẩy bẩy chắp chặt trước ngực, đầu cúi gục sát đất, miệng lầm rầm khấn vái liên hồi, những câu lạy vội vã đứt quãng chìm dần trong tiếng mưa phùn ngoài mái hiên.
+— Mang máng. Hôm ấy đông khách.
 
-Gian tiệm phía trước chỉ còn lại một mình Khanh.
+Bà Lan nhìn lại tờ phiếu.
 
-Mùi khói nhang bài từ gian trong tỏa ra ngột ngạt, cay xè sống mũi, hòa lẫn với mùi ẩm nồm dớp dính của đống giấy bồi chất quanh góc nhà.
+— Nhưng tên thì cô nhớ. Cái đài này lạ nên cô nhớ.
 
-Khanh thở dài một hơi thật khẽ, đưa tay gom mấy tờ tiền nát mà Lan Anh ném lại trên quầy kính. Tiền ướt sũng dính bết vào mặt kính, anh phải dùng đầu móng tay cạy từng mép giấy bạc.
+Lan Anh kéo tay khỏi mép quầy.
 
-Ngay cạnh xấp tiền là mẩu giấy nháp biên nhận.
+Ánh mắt cô chạy từ tên bố trên mẩu giấy sang chiếc đài giấy.
 
-Khanh nhặt mẩu giấy lên. Mặt giấy thô ráp, quăn queo vì hơi ẩm. Dòng chữ *Vũ Văn Cường — 59 tuổi — Xóm Trại* được viết bằng một nét mực bi màu xanh gai góc, ngòi bút tì mạnh đến mức hằn sâu thành những đường rãnh nổi cộm sang tận mặt sau. Thói quen tì lực lệch về phía bên trái của một người thuận tay trái.
+— Mùng mười bố cháu vẫn đang sống.
 
-Khanh toan kẹp tờ giấy vào quyển sổ cái, nhưng khi ngón tay lật sang mặt sau để nhìn lại hình vẽ phác thảo chiếc đài, anh bỗng sững lại.
+Không ai đáp.
 
-Ánh đèn huỳnh quang sáng trắng rọi xiên qua mặt kính, chiếc đài cassette bằng giấy bồi nằm im lìm cách tay anh chưa đầy một gang.
+— Mà có người đến đây đặt đồ cho bố cháu.
 
-Mặt quầy kính xung quanh đều dớp dính hơi ẩm nồm, nhưng viền kính sát chân đế chiếc đài lại đọng một vệt sương mờ lạnh ngắt. 
+Giọng cô nhỏ hơn lúc mới vào.
 
-Khanh vô tình quẹt mu bàn tay qua. 
+Rồi cô nhìn bà Lan.
 
-Mặt kính buốt rát như kim châm. 
+— Người ta đặt thế này để làm gì?
 
-Anh rụt tay lại, nhìn chiếc đài rỗng tuếch làm bằng nan tre dán giấy bổi. Trong tiệm nồng ngột mùi khói nhang, nhưng hơi lạnh tỏa ra từ khối giấy trước mặt lại buốt đến gai người. 
+— Cô có biết đâu.
 
-Khanh nuốt khan, ánh mắt dời khỏi chiếc đài, nhìn xuống mẩu giấy nháp trên tay.
+— Ai mà biết tên bố cháu, biết tuổi, biết cả xóm...
 
-Dưới ánh đèn tuýp, bức phác thảo chiếc đài cassette hiện lên rõ mồn một. Người đàn bà bí ẩn hôm mùng mười đã vẽ chiếc đài rất cẩn thận: quai xách cong cong, hai vòng tròn loa đan nan hoa, và ở giữa là một khay băng hình chữ nhật. 
+Câu nói bỏ dở.
 
-Nhưng lúc này, khi nhìn thật sát mép giấy gấp nếp ở góc dưới, Khanh mới nhận ra những nét vẽ phụ mà ban nãy anh bỏ qua.
+Lan Anh nhìn chiếc đài một lần nữa rồi đẩy nó ra xa.
 
-Dưới chân đế của chiếc đài, người đàn bà không vẽ một đường thẳng làm mặt bàn. Bằng những nét bút bi giật cục, sắc nhọn, người đó đã vẽ một chuỗi bậc thang dốc đứng, từng bậc gãy khúc nối tiếp nhau đâm chéo xuống góc tờ giấy. 
+— Cháu không lấy cái này.
 
-Ở bậc thang thứ mười ba, đầu ngòi bút bi bị xoay tròn, ấn lõm xuống mặt giấy thành một dấu chấm đen ngòm, toét mực. 
+— Có ai bắt cháu lấy đâu.
 
-Ngay bên cạnh dấu chấm toét mực ấy, một dòng chữ nhỏ li ti viết bằng tay trái nằm lẩn khuất dưới mép quăn:
+— Cô đừng đưa về nhà cháu.
+
+Bà Lan gật đầu.
+
+— Ừ.
+
+Lan Anh thò tay vào túi áo, lấy ra một nắm tiền đã ướt mềm vì mưa.
+
+— Cô tính chỗ đồ tang giúp cháu.
+
+Bà Lan còn chưa đếm xong, cô đã ôm túi hàng lên.
+
+— Thừa thiếu mai cháu quay lại.
+
+— Kìa, từ từ đã—
+
+Nhưng Lan Anh đã bước ra cửa.
+
+Chiếc Dream nổ máy ngoài thềm. Bánh sau quét nước khỏi một vũng bùn rồi lao vào dòng xe ở ngã tư.
+
+Trong tiệm im đi một lúc.
+
+Hai người khách còn lại nhìn nhau. Một người đặt tiền lên quầy, người kia kéo tay bà ta, cả hai cầm túi hàng đi luôn.
+
+Ngăn kéo tiền trước mặt bà Lan vẫn mở.
+
+Khanh nhìn mẹ.
+
+Bình thường bà không bao giờ để ngăn kéo mở quá vài giây.
+
+Bà Lan như lúc ấy mới nhớ ra, đẩy nó vào. Cánh gỗ va một tiếng nhẹ.
+
+Rồi bà lấy ba nén nhang.
+
+Khanh hỏi:
+
+— Mẹ làm gì đấy?
+
+— Thắp cho yên.
+
+— Yên cái gì?
+
+Bà Lan không đáp. Bà châm nhang, cắm vào bát rồi chắp tay. Mấy câu khấn chỉ còn là tiếng lầm rầm trong cổ.
+
+Khanh đứng đợi.
+
+Một lúc sau bà mới nói:
+
+— Mẹ nghe các cụ ngày trước gọi loại này là đồ đoạt mệnh.
+
+— Loại nào?
+
+Bà Lan hất cằm về phía chiếc đài.
+
+— Đồ người ta đặt cho một người lúc còn sống. Đến khi người ấy chết, nhà lại không nhận.
+
+Khanh nhìn chiếc đài.
+
+— Thì sao?
+
+— Thì người ta kiêng.
+
+— Kiêng thế nào?
+
+Bà Lan bực mình quay sang.
+
+— Mẹ có bảo mẹ biết thật giả đâu.
+
+Bà hạ giọng.
+
+— Các cụ dọa đồ ấy thành đồ vô chủ. Để lỳ qua Rằm trong nhà thì chẳng khác nào giữ cửa cho vong vào.
+
+Khanh suýt hỏi thêm, nhưng bà đã cầm hộp diêm đi vào gian trong.
+
+— Mẹ vào thắp cho các cụ nén hương. Mày đứng ngoài trông hàng.
+
+Lần đầu tiên từ sáng, bà bỏ quầy mà không kiểm lại tiền.
+
+Gian phía trước còn mình Khanh.
+
+Mưa vẫn rây ngoài mái hiên. Khách qua đường nói chuyện sát cửa rồi mất hút vào tiếng xe.
+
+Chiếc đài cassette nằm giữa mặt kính.
+
+Một món đồ bằng nan tre, giấy bồi, hồ dán.
+
+Khanh gom mấy tờ tiền Lan Anh để lại. Tiền ướt bám xuống kính, phải cạy từng mép lên.
+
+Mẩu phiếu đặt hàng nằm bên cạnh.
+
+Anh cầm nó.
+
+Mặt giấy thô, chỗ ngòi bi đi qua hằn thành rãnh nhỏ. Khanh vuốt ngón cái lên dòng tên Vũ Văn Cường rồi lật tờ giấy.
+
+Mặt sau là bản phác thảo chiếc đài.
+
+Anh dừng lại.
+
+Quai xách. Mặt loa. Khay băng. Hai núm xoay.
+
+Người đặt đã vẽ đủ để thợ nhìn vào mà làm.
+
+Khanh đặt tờ giấy xuống bên cạnh chiếc đài.
+
+Mu bàn tay anh chạm phải mặt kính.
+
+Anh rụt lại.
+
+Lạnh.
+
+Không phải cái mát ẩm của nền nhà ngày nồm.
+
+Khanh đặt hai đầu ngón tay xuống chỗ kính cách chiếc đài một gang. Vẫn dính ẩm, nhưng bình thường.
+
+Anh dịch tay vào sát chân đài.
+
+Lạnh hơn hẳn.
+
+Một lớp sương mỏng bám quanh mép giấy bồi.
+
+Khanh ngồi im vài giây.
+
+Từ gian trong vọng ra tiếng mẹ anh khấn rất nhỏ.
+
+Anh kéo mẩu giấy lại.
+
+Ở góc dưới bản vẽ có một nếp gấp. Khanh vuốt nó ra.
+
+Dưới chân chiếc đài còn vài nét bút mà lúc trước bị mép giấy che mất.
+
+Những bậc thang.
+
+Một bậc.
+
+Hai.
+
+Ba.
+
+Các nét đi xiên xuống góc tờ giấy, càng xuống càng sít lại.
+
+Khanh đếm đến mười ba.
+
+Ở bậc cuối, ngòi bi đã bị ấn xuống lâu đến mức mực tụ thành một chấm đen.
+
+Bên cạnh có hai chữ rất nhỏ.
 
 *Đêm 13.*
 
-Khanh đứng bất động bên quầy kính. 
+Khanh nhìn hai chữ ấy.
 
-Đầu ngón tay cái của anh vô thức miết qua vết lõm toét mực ở bậc thang thứ mười ba. Mép giấy ráp và lạnh ngắt. 
+Lan Anh vừa nói bố cô mất gần nửa đêm hôm qua.
 
-Dưới gian trong, tiếng bà Lan khấn vái vẫn lầm rầm, đứt quãng giữa mùi trầm hương đặc quánh. 
+Anh đặt tờ giấy xuống.
 
-Khanh ngước mắt nhìn lên thanh xà lim gian trước.
+Trên xà phía trước cửa hàng, chiếc camera Dahua hình bán cầu phủ một lớp bụi giấy, ống kính chĩa thẳng xuống khu vực quầy.
 
-Ở đó, lẩn giữa những cuộn dây thép và bó nan tre gác ngang, chiếc camera an ninh Dahua hình bán cầu bám một lớp bụi giấy xám xịt. Đèn led hồng ngoại màu đỏ li ti ở góc mắt kính vẫn đang nhấp nháy một nhịp chậm rãi, hướng thẳng xuống mặt quầy thu ngân.
+Mùng mười mới bốn ngày trước.
 
-Đầu ghi hai terabyte gắn trên gác lửng lưu trữ đủ ba mươi ngày, chưa từng sót một khung hình.
+Khanh nhìn vào gian trong.
 
-Khanh siết chặt mẩu giấy nháp trong lòng bàn tay, quay đầu nhìn về phía bàn thờ gia tiên. Giọng anh trầm xuống, khô khốc và dứt khoát:
+— Mẹ.
 
-— Mẹ... Sáng mùng mười, người đàn bà ấy đến đây vào lúc mấy giờ?
+Tiếng khấn dừng lại.
+
+— Sáng mùng mười, bà ấy đến khoảng mấy giờ?
