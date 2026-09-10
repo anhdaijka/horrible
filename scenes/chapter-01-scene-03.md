@@ -19,13 +19,15 @@ state-changes: []
 
 ## Purpose
 
-Bà Lan nghe tên ông Cường xóm Trại thì ngờ vực, hỏi lại ngày mất xem ông Cường mất đêm qua hay mất từ hôm nào (vì bà nhớ mang máng có đơn hàng đặt từ sáng mùng 10). Lan Anh khẳng định bố vừa mất đêm qua. Để chắc ăn, bà Lan bảo Khanh trèo lên nóc tủ lấy bọc đồ xuống kiểm tra mẩu giấy cài ngoài túi. Lần đầu tiên mẩu giấy nháp ghi tên `Vũ Văn Cường — 59 tuổi — Xóm Trại` xuất hiện trước độc giả và nhân vật. Bà Lan bóc lớp giấy báo bọc món đồ đặt riêng: chiếc đài cassette bằng giấy bồi và bản vẽ tay trái lộ diện. Lan Anh bàng hoàng khẳng định mùng 10 bố vẫn sống khỏe mạnh, trong họ ngoài làng không một ai tên là Vũ Thị Thoa, kinh hãi cho rằng có kẻ trù ẻo đặt đồ đoạt mệnh hại bố mình rồi quăng tiền tháo chạy. Bà Lan hoảng hốt thắp hương trước bàn thờ Thần Tài, hé lộ đại kỵ "Đồ đoạt mệnh" trong nghề mã. Khanh quan sát thấy vệt sương buốt lạnh quanh chân đài giấy và bản phác thảo 13 bậc thang có chữ "Đêm 13", hướng ánh mắt lên camera Dahua trên xà nhà, thiết lập hook điều tra cho Chương 2.
+Bà Lan nghe tên ông Cường xóm Trại thì nhớ ra đơn custom mùng 10 và bảo Khanh lấy bọc hàng trên nóc tủ xuống. Order slip ghi đúng `Vũ Văn Cường — 59 tuổi — Xóm Trại — Lấy: Chiều 14`. Bà Lan nhớ người đặt tự xưng `Vũ Thị Thoa`; Lan Anh khẳng định mùng 10 bố vẫn sống bình thường và nhà/họ hàng gần không có ai tên Thoa. Cô từ chối nhận chiếc radio custom rồi rời đi. Bà Lan kể lời kiêng `đồ đoạt mệnh` dưới dạng belief/hearsay của người xưa. Khi ở lại quầy, Khanh phát hiện cold-condensation anomaly quanh chiếc radio và lật mặt sau **chính order slip** để thấy sketch 13 bậc cùng chữ `Đêm 13`. Anh nhìn camera Dahua và quyết định kiểm tra footage mùng 10, tạo forward hook sang Chapter 2.
 
 ## Continuity Notes
 
-- Manh mối được hé lộ từng tầng tự nhiên thông qua hành động bóc gỡ và kiểm chứng.
-- Đơn hàng được đặt vào sáng mùng 10 tháng Giêng bởi người xưng tên Vũ Thị Thoa cho ông Vũ Văn Cường (khi ông Cường vẫn sống khỏe mạnh).
-- Lan Anh chỉ buột miệng nói trong sợ hãi: mùng 10 bố vẫn sống và gia đình không có ai tên Thoa; tuyệt đối chưa biết hoặc chưa tiết lộ vụ án 1996 hay danh tính sâu xa của Thoa (bảo lưu cho Ch.2 và Ch.4).
-- Đại kỵ nghề mã: "Đồ đoạt mệnh" vô chủ bị kẹp giữa âm và dương, giữ qua đêm Rằm sẽ rước vong người chết oan vào ngụ cư.
-- Dị tượng vật lý: Vệt sương đọng buốt rát quanh chân đài giấy; bản vẽ tay trái 13 bậc thang dốc đứng kết thúc bằng vết mực toét lõm ghi "Đêm 13".
-- Forward hook: Khanh hỏi mẹ mốc thời gian sáng mùng 10 để chuẩn bị trích xuất CCTV Dahua.
+- Order được đặt sáng mùng 10 cho Cường; active pickup field là **chiều 14**.
+- Purchaser self-identification available in Ch.1: `Vũ Thị Thoa` according to bà Lan's memory/order record.
+- Lan Anh chỉ biết date contradiction + unknown name. Không reveal Thoa đã chết, quan hệ với Cường/Thủy, đầm sen 1996 hay radio Tiệp thật.
+- **Object identity:** receipt/order slip + radio sketch = một tờ giấy; front = order data, reverse = sketch + 13 steps + `Đêm 13`.
+- **Handedness lock:** Ch.1 không được gọi đây là `bản vẽ tay trái` và Khanh không được suy luận tay thuận từ lực/nét bút. First proof of left-hand writing comes from CCTV Ch.2.
+- `Đồ đoạt mệnh` = character/local inherited belief, not verified universal ritual or industry rule.
+- Dị tượng vật lý: localized cold / thin condensation around paper radio; no explanatory supernatural mechanism yet.
+- Forward hook: Khanh hỏi bà Lan người phụ nữ đến khoảng mấy giờ để truy xuất CCTV.
