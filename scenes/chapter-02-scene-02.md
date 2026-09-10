@@ -10,8 +10,12 @@ characters:
 arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
-status: planned
-state-changes: []
+status: draft
+state-changes:
+  - purchaser-face-revealed
+  - purchaser-left-hand-observed
+  - purchaser-resembles-vu-thi-thuy
+  - purchaser-camera-stare-observed
 ---
 
 # Người đàn bà trong camera
@@ -19,19 +23,19 @@ state-changes: []
 ## Purpose
 CCTV cung cấp thông tin mà Ch.1 không thể có: diện mạo người đặt, hành vi tay trái và ánh nhìn vào camera. Không kể lại toàn bộ cuộc mua bán.
 
-## Reveal order
-1. Footage cho thấy người phụ nữ bước vào bình thường.
-2. Bà Lan xác nhận đây là người tự xưng Thoa.
-3. Khi nhìn rõ mặt, bà Lan nhận ra/nghi người này giống cô Vũ Thị Thủy.
-4. Camera trực tiếp cho thấy bà ta giữ đồ bằng tay phải và viết/vẽ bằng tay trái rất tự nhiên.
-5. Khanh đối chiếu tờ phiếu thật ở hiện tại.
-6. Trước khi rời cửa, người phụ nữ dừng và nhìn thẳng lên camera khoảng bốn giây.
+## Drafted reveal order
+1. Footage cho thấy người phụ nữ bước vào quầy bình thường.
+2. Bà Lan xác nhận đây là người đã tự xưng Thoa.
+3. Bà Lan nhận ra người này rất giống cô Vũ Thị Thủy, em ông Cường.
+4. Camera trực tiếp cho thấy người phụ nữ giữ giỏ bằng tay phải và dùng tay trái viết/vẽ thuần thục.
+5. Khanh đối chiếu tờ phiếu thật ở hiện tại; handedness giờ là visual evidence, không còn inference từ handwriting.
+6. Trước khi rời cửa, người phụ nữ nhìn thẳng lên camera từ `09:11:03` đến khoảng `09:11:07`.
 
 ## Horror guard
-Ánh nhìn phải yên, có chủ ý và kéo dài hơi quá mức xã hội bình thường. Không đổi mặt, cười ma, glitch, mất hình, tiếng giật mình hay narrator xác nhận ma.
+Ánh nhìn yên và có chủ ý. Không đổi mặt, cười ma, glitch, mất hình, tiếng giật mình hay narrator xác nhận ma.
 
 ## Information lock
-Forbidden: Thoa chết năm 1996, quan hệ chị em, đầm sen, radio Tiệp thật, supernatural identity.
+Vẫn cấm reveal: Thoa chết năm 1996, quan hệ chị em, đầm sen, radio Tiệp thật, murder, talisman hoặc objective ghost identity.
 
 ## Exit
-Tên/mặt/tay không còn là lời nhớ mơ hồ: camera đã cho thấy một người có khuôn mặt giống Thủy nhưng dùng tay trái.
+Camera đã chứng minh một người có khuôn mặt giống Thủy đã viết/vẽ bằng tay trái trong cửa hàng mùng 10.
