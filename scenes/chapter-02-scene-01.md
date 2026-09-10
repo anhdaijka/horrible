@@ -10,8 +10,9 @@ characters:
 arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
-status: planned
-state-changes: []
+status: draft
+state-changes:
+  - chapter-02-cctv-footage-located
 ---
 
 # Mở đầu ghi
@@ -21,10 +22,11 @@ Nối trực tiếp cuối Ch.1. Khanh dùng đầu ghi Dahua như một thiết
 
 ## Information lock
 - Allowed: khung giờ bà Lan nhớ, thao tác tua playback, footage tồn tại.
-- Forbidden: mặt người đặt, handedness, Thủy resemblance, lịch sử Thoa.
+- Forbidden: lịch sử Thoa, supernatural explanation.
 
-## Pressure
-Bà Lan vẫn phải trông hàng dưới nhà; Khanh không có không gian điều tra tách biệt khỏi đời sống cửa tiệm.
+## Drafted outcome
+- Khanh lùi playback về mùng 10 và tìm thấy người phụ nữ bước vào khung hình khoảng `09:08:41`.
+- Bà Lan lên gác xem cùng sau khi vẫn phải xử lý khách dưới nhà.
 
 ## Exit
-Khanh tìm được đoạn footage khoảng `09:08:41` mùng 10 và gọi mẹ lên/xem cùng.
+Footage đã được tìm thấy; scene chuyển sang quan sát người đặt.
