@@ -9,50 +9,102 @@ knowledge-state: []
 
 # Continuity State
 
-Current manuscript draft: **Chapter 1 — `Đơn hàng đoạt mệnh`** (active draft, author-reviewed baseline).
-Act I Architecture: Chapters 1–5 under D-050 Master Plan.
+Current manuscript draft: **Chapter 1 — `Đơn hàng đoạt mệnh`** (active draft, independent-review revision committed).
+Act I Architecture: Chapters 1–5 under D-050/D-051 reconciled plan.
 
 ## On-page canon established in Chapter 1 (`Đơn hàng đoạt mệnh`)
 
-- **Thời điểm & không gian:** Sáng ngày 14 tháng Giêng (ngày áp Rằm, thời tiết nồm ẩm mưa phùn đặc trưng đồng bằng Bắc Bộ). Cửa hàng vàng mã ngã tư chợ huyện của gia đình Khanh đông đúc, tấp nập khách sắm đồ cúng Rằm.
-- **Nhân vật tại tiệm:** Nguyễn Minh Khanh (27 tuổi, kỹ sư phần mềm vừa từ Tokyo về nước chưa đầy ba tuần, đang làm việc từ xa trên laptop ThinkPad) và bà Trần Thị Lan (55 tuổi, tháo vát, sắc sảo, chủ cửa hàng).
-- **Vật phẩm hiện diện:** Trên nóc tủ kính gian trong có chiếc đài cassette bằng giấy bồi dán giấy tráng nhôm màu bạc (thợ uốn nan giao sáng nay) bên cạnh bọc đồ nilon đen cài mẩu giấy nháp: `VŨ VĂN CƯỜNG — 59 TUỔI — XÓM TRẠI — LẤY: CHIỀU 14`. Mặt sau mẩu giấy là bản vẽ phác thảo đài cassette cùng cầu thang dốc đứng 13 bậc bằng mực bi xanh nét thanh mảnh tay trái.
-- **Cú sốc tang sự:** Lan Anh (26–27 tuổi, con gái ông Cường, xóm Trại) ướt sũng nước mưa, mắt sưng húp, hớt hải chạy xe máy vào tiệm mua gấp đồ khâm liệm (vải liệm, áo xô, khăn tang, tiền âm phủ). Lan Anh bàng hoàng, đau đớn báo tin bố vừa ngã cầu thang mất đột ngột vào khoảng 23h đêm hôm trước (đêm 13).
-- **Tin đồn xã hội:** Một người khách cạnh quầy xì xào tin đồn từ nhóm Facebook "Hóng biến huyện": ông Cường ngã cầu thang chết bất đắc kỳ tử, nghi trộm đột nhập, công an xã huyện về phong tỏa khám nghiệm hiện trường.
-- **Nghịch lý thời gian (The Advance Order):** Bà Lan chết lặng khi nghe tên `Vũ Văn Cường - Xóm Trại`, liền bảo Khanh lấy bọc đồ xuống quầy và tiết lộ đơn hàng này đã được một người phụ nữ đến đặt từ **sáng mùng 10 tháng Giêng** (bốn ngày trước khi ông Cường chết).
-- **Phản ứng của Lan Anh (Leakage Lock - Decision 01 B):** Lan Anh kinh hoàng khẳng định sáng mùng 10 bố cô vẫn khỏe mạnh lái xe đi đánh cờ đầu làng, cả nhà không ai đi đặt trước đồ cúng, và trong họ ngoài làng tuyệt đối không có ai tên là **Vũ Thị Thoa**. Lan Anh hoảng loạn gào khóc, nghi có kẻ trù ẻo đặt đồ đoạt mệnh hại bố mình, quăng tiền lại rồi phóng xe bỏ chạy trong mưa. (Tuyệt đối chưa hé lộ chi tiết chết đuối đầm sen hay vụ án 30 năm trước ở chương 1).
-- **Đại kỵ nghề mã:** Bà Lan run rẩy thắp hương bàn thờ Thần Tài, cảnh báo đại kỵ **đồ đoạt mệnh** trong nghề mã: đồ cúng đặt cho người sống bị tang quyến chối từ, vô chủ mắc kẹt giữa âm và dương, nếu giữ qua đêm Rằm sẽ rước vong người chết oan vào ngụ cư.
-- **Dị tượng vật lý & Forward Hook:** Khanh kiểm tra chiếc đài giấy, cảm nhận vệt sương đọng buốt rát bất thường quanh chân đài và dòng chữ "Đêm 13" ở bậc thang thứ 13 trên bản phác thảo tay trái. Khanh hướng ánh mắt lên camera giám sát Dahua bám bụi trên xà nhà, quyết định trích xuất băng ghi hình sáng mùng 10 để truy tìm danh tính người đặt hàng bí ẩn.
+- **Thời điểm & không gian:** Sáng ngày 14 tháng Giêng, ngày áp Rằm; nồm ẩm, mưa phùn. Cửa hàng vàng mã ngã tư chợ huyện của gia đình Khanh đông khách.
+- **Nhân vật tại tiệm:** Nguyễn Minh Khanh (27, kỹ sư phần mềm vừa từ Tokyo về, đang làm việc từ xa trên ThinkPad), bà Trần Thị Lan (55, chủ cửa hàng), Lan Anh (26–27, con gái ông Cường) và khách mua hàng.
+- **Vật phẩm custom:** Trên nóc tủ kính có bọc hàng cho `VŨ VĂN CƯỜNG — 59 TUỔI — XÓM TRẠI — LẤY: CHIỀU 14` và chiếc đài cassette giấy vừa được thợ giao sáng 14.
+- **Order-slip identity lock:** Mẩu giấy nháp là **một evidence object duy nhất**. Mặt trước ghi order; mặt sau là sketch chiếc cassette cùng cầu thang 13 bậc và chữ `Đêm 13`. Không tách receipt và sketch thành hai tờ.
+- **Cú sốc tang sự:** Lan Anh đến mua đồ tang và báo bố cô, ông Vũ Văn Cường, đã chết gần nửa đêm 13 sau một vụ ngã cầu thang theo lời gia đình. Ch.1 chưa xác nhận cơ chế/cause beyond this household report.
+- **Tin đồn xã hội:** Khách quen nói sáng 14 đã thấy thông tin trong nhóm huyện về việc công an xuống xóm Trại; nội dung chính xác của điều tra vẫn chưa được canon hóa trong Ch.1.
+- **Nghịch lý thời gian:** Bà Lan nhớ đơn custom đã được đặt từ **sáng mùng 10**. Lan Anh khẳng định hôm đó Cường vẫn đi xe ra đầu ngõ đánh cờ và tối ăn cơm ở nhà.
+- **Tên người đặt:** Bà Lan nhớ người phụ nữ tự xưng **Vũ Thị Thoa**. Lan Anh nói nhà/họ hàng gần không có ai tên Thoa.
+- **Leakage lock:** Ch.1 **không** biết diện mạo người đặt, không biết người đó dùng tay nào, không biết Thoa là ai, không biết Thoa đã chết năm 1996, không biết đầm sen hay chiếc radio Tiệp thật.
+- **Phản ứng của Lan Anh:** Cô từ chối nhận chiếc radio custom, trả tiền cho đồ tang và rời đi. Phản ứng được neo vào date contradiction + unknown purchaser name, không phải recognition of old family history.
+- **`Đồ đoạt mệnh` belief status:** Bà Lan kể đây là lời kiêng/cách gọi các cụ ngày trước truyền lại: đồ đặt cho người lúc còn sống rồi bị tang quyến chối nhận có thể thành đồ vô chủ, giữ qua Rằm thì bị coi là không lành. Đây là **character/local belief**, không phải verified universal ritual/trade law.
+- **Dị tượng vật lý:** Khanh so sánh trực tiếp mặt kính và nhận thấy vùng sát chân chiếc radio giấy lạnh hơn rõ rệt, có lớp sương mỏng. Đây là observed anomaly; Ch.1 không giải thích cơ chế.
+- **Forward Hook:** Khanh thấy `Đêm 13` ở bậc thứ 13 trên mặt sau order slip, liên hệ với lời Lan Anh rằng Cường chết gần nửa đêm 13, rồi nhìn camera Dahua hướng xuống quầy và hỏi bà Lan thời điểm người phụ nữ tới mùng 10.
+- **Handedness lock:** Không được suy luận `handwriting = left-handed` từ bản vẽ trong Ch.1. Bằng chứng tay trái chỉ xuất hiện khi CCTV Ch.2 trực tiếp ghi lại hành vi viết/vẽ bằng tay trái.
+
+## Object state after Chapter 1
+
+| Object | State / location | Knowledge carried |
+|---|---|---|
+| Custom paper cassette radio | Trên quầy cửa hàng bà Lan, bị Lan Anh từ chối nhận | Custom item tied administratively to Cường; localized cold anomaly |
+| Order slip + sketch | Một tờ giấy tại quầy / trong tay Khanh cuối Ch.1 | Front: Cường, 59, Xóm Trại, lấy chiều 14. Reverse: radio sketch, 13 steps, `Đêm 13` |
+| CCTV Dahua / recorder | Camera nhìn xuống quầy; footage mùng 10 chưa được xem on-page | Potential record of purchaser; not yet evidence to Khanh/reader |
+
+## Knowledge state at end of Chapter 1
+
+### Khanh knows / observes
+- Cường died near midnight 13 according to Lan Anh.
+- An order for Cường exists from mùng 10.
+- Lan Anh says Cường was living normally on mùng 10 and family did not place the order.
+- Purchaser self-identified as `Vũ Thị Thoa` according to bà Lan; Lan Anh does not recognize the name as family.
+- Paper radio has localized cold condensation.
+- Reverse of order slip contains 13 steps + `Đêm 13`.
+- Shop CCTV may contain footage from mùng 10.
+
+### Reader may infer but text has not confirmed
+- Someone may have anticipated Cường's death.
+- The order may be malicious, staged or supernatural.
+- `Đêm 13` may correspond to the death timing.
+
+### Still hidden
+- purchaser face / Thủy resemblance;
+- left-hand behavior;
+- Thủy's hand deformity and alibi;
+- Thoa's identity/history/death;
+- original Czech radio;
+- 1996 murder;
+- human suspect network;
+- talisman mechanism;
+- objective supernatural explanation.
 
 ## Canon structure for upcoming chapters (Act I: Chapters 2–5)
 
 ### Chapter 2: `Bàn tay trái` (Planned)
-- **CCTV Lookback (Mùng 10):** Khanh mở đầu ghi Dahua trên gác lửng, trích xuất đoạn băng lúc `09:08:41` ngày mùng 10 tháng Giêng.
-- **Đặc điểm nhân dạng:** Người phụ nữ mặc áo bông chần tím than, khăn len xám, đi dép tổ ong mang vóc dáng và gương mặt giống hệt **cô Vũ Thị Thủy** (em gái ông Cường).
-- **Manh mối bất khả thi (Bàn tay trái):** Đoạn băng ghi lại cảnh người phụ nữ cầm giỏ bằng tay phải và dùng **tay trái** viết tên Thoa, vẽ chiếc đài cassette và 13 bậc thang một cách thuần thục (Decision 04 A: kết hợp video Dahua và trí nhớ/sổ ghi của bà Lan về người phụ nữ tự xưng tên Thoa).
-- **Ánh nhìn 4 giây:** Lúc `09:11:03`, trước khi bước ra cửa, người phụ nữ dừng lại ở bậc thềm, từ từ ngửa cổ 45 độ nhìn trừng trừng vào mắt camera Dahua suốt 4 giây với ánh mắt vô hồn rợn người.
-- **Airtight Alibi & Phản ứng thất thanh:** Bà Lan gọi điện cho cô Thủy. Thủy đang ở bến xe Yên Phong đón xe về chịu tang; có dữ liệu vân tay chấm công nhà máy từ 7h-17h ngày mùng 10; cổ tay trái của Thủy bị tật khoèo biến dạng từ năm 12 tuổi không thể cầm bút. Khi nghe nhắc đến cái tên **Vũ Thị Thoa**, Thủy nghẹn thở rồi gào thét kinh hãi tột cùng trước khi cúp máy.
+- **Narrative frame:** Story present remains morning 14; Khanh accesses shop CCTV. Footage event time is **09:08:41 mùng 10**.
+- **CCTV Lookback:** Video shows the purchaser's appearance for the first time.
+- **Đặc điểm nhân dạng:** Người phụ nữ mặc áo bông chần tím than, khăn len xám, đi dép tổ ong, mang vóc dáng/gương mặt giống **cô Vũ Thị Thủy**.
+- **Manh mối tay trái:** Camera trực tiếp cho thấy người phụ nữ cầm giỏ bằng tay phải và dùng **tay trái** viết/vẽ thuần thục. Đây là first visual proof of handedness.
+- **Name mechanism:** Tên `Thoa` được nối với footage thông qua trí nhớ/sổ/order record của bà Lan; camera tự thân không "đọc" danh tính.
+- **Ánh nhìn 4 giây:** Lúc `09:11:03`, người phụ nữ nhìn vào camera suốt khoảng 4 giây; execution phải tránh cheap theatrical phantom effect.
+- **Alibi / contradiction:** Bà Lan gọi Thủy; Thủy ở Yên Phong với dữ liệu chấm công mùng 10. Tay trái Thủy bị tật khoèo, không thể viết/vẽ như người trong footage. Không reveal 1996 history yet.
 
 ### Chapter 3: `Rạp tang xóm Trại` (Planned)
-- **Động cơ đến đám tang:** Áp lực taboo đồ đoạt mệnh giáp Rằm; bà Lan cử Khanh mang phong bì phúng viếng và tìm cách gửi hóa chiếc đài cassette theo quan tài ông Cường trước giờ đóng nắp.
-- **Hiện trường rạp tang:** Khanh đến xóm Trại đầu giờ chiều 14; rắc vôi bột trắng quanh bậu cửa để át mùi máu; gặp bạn học cũ Lê Văn Thắng.
-- **Xác nhận thương tích cơ học:** Khanh quan sát thi thể ông Cường: đốt sống cổ vặn ngược gần 180 độ, hai thanh nẹp gỗ cuốn vải đỏ giữ cố định đầu; móng tay cào tường bật máu; dấu hiệu trùng tang kinh hãi.
-- **Chạm trán cô Thủy thật:** Cô Thủy đi xe ôm về đến nơi. Khanh tận mắt thấy cánh tay trái của Thủy teo quắp, cứng đờ, xác nhận sự bất khả thi sinh học của thực thể trên CCTV.
-- **Thủ tục pháp lý / Miễn mổ tử thi (Decision 05 A):** Trưởng họ Vũ Cổn cùng Lan Anh làm đơn cam kết xin từ chối giải phẫu tử thi ("để người chết được toàn thây nhập quan đúng giờ hoàng đạo"). Thiếu úy Đặng Việt Long bàn giao thi thể theo quy định nhưng ngầm lưu tâm các dấu hiệu bất thường.
+- **Thời gian:** Đầu giờ chiều 14.
+- **Động cơ:** Áp lực từ chiếc radio bị chối nhận và lời kiêng của bà Lan; Khanh đi phúng viếng / tìm cách xử lý món đồ mà không biến mình thành procedural detective.
+- **Hiện trường:** Khanh quan sát thương tích bất thường của Cường; chi tiết phải tuân approved body-horror plan nhưng không biến Khanh thành pháp y.
+- **Thủy thật:** Khanh tận mắt thấy cánh tay trái Thủy teo quắp, củng cố physical impossibility của footage.
+- **Thủ tục pháp lý:** Trưởng họ Vũ Cổn + Lan Anh xin không giải phẫu tử thi theo author Decision 05 A; Officer Long giữ vai trò procedural authority.
 
 ### Chapter 4: `Băng từ rỗng` (Planned)
-- **Bí mật gia tộc 30 năm:** Bà Lan thu thập lời kể từ bà cụ 84 tuổi ở quán nước chè đầu làng: Năm 1996, họ Vũ có người con gái thứ ba tên **Vũ Thị Thoa** (sinh năm 1976), thuận tay trái, chết đuối bí ẩn ở đầm sen năm 20 tuổi; ông bố Nho học nghiêm khắc coi là điềm gở nên chôn vội, đốt sạch di vật, xóa tên khỏi gia phả và cấm nhắc tên; di vật duy nhất biến mất là chiếc đài cassette Tiệp Tiệp Khắc vỏ đen mặt bạc.
-- **Manh mối tần số:** Khanh đối chiếu bản vẽ tay trái thấy ghi tần số `FM 102.5 MHz` có chấm đỏ.
-- **Dị tượng âm thanh:** Hoàng hôn buông xuống, chiếc đài giấy tại tiệm bỗng phát ra tiếng xèo xèo rè rè của sợi băng từ rỗng cọ sát đầu từ; nắp hộc băng tự bật mở (*TÁCH!*) nghiêng 15 độ.
-- **Cuộc gọi hoảng loạn:** Cô Thủy gọi từ buồng ngủ xóm Trại, gào khóc rằng anh Cường vừa hiện về đòi chiếc đài Tiệp và có bàn tay đang cào cửa sổ phòng cô.
+- **Thời gian:** Sẩm tối 14.
+- **Historical reveal:** Bà cụ 84 tuổi ở quán nước chè kể về Vũ Thị Thoa, người con gái thuận tay trái chết ở đầm sen năm 1996, bị xóa khỏi ký ức gia đình; chiếc radio Tiệp Khắc thật biến mất.
+- **Radio clue:** Khanh đối chiếu các chi tiết bản vẽ/tần số theo approved plan.
+- **Supernatural escalation:** Paper radio phát tape hiss / nắp bật mở only if execution remains causally specific rather than acoustic cheap shot.
+- **Thủy call:** Cuộc gọi hoảng loạn mở đường cho Ch.5.
 
 ### Chapter 5: `Đêm áp Rằm` (Planned)
-- **Xâm nhập lúc 19:30:** Khanh và bà Lan phóng xe trong sương muối đến xóm Trại. Toàn (con rể ông Cường) nằm ngủ gục ngoài hiên. Phá cửa buồng ngủ thấy cô Thủy ngất lịm bên tách trà vỡ.
-- **Manh mối bậu cửa sổ:** Cành xoan gõ lách cách ngoài gió, nhưng trên bậu cửa sổ vôi trắng in rõ vệt bùn đầm sen hình **bàn tay trái** nồng nặc mùi bùn thối rữa.
-- **Tin nhắn Zalo 38 giây (19:18 Queue Delivery):** Điện thoại ông Cường được người nhà cắm sạc trên bàn thờ bắt lại Wi-Fi, đẩy tin nhắn thoại Zalo gửi lúc 22:54 đêm 13 đến máy Thủy. File âm thanh ghi lại tiếng đài cassette ngoài đầm, tiếng Cường van xin hoảng loạn (*"Thủy ơi cứu anh... chuyện năm ấy ở đầm sen..."*), tiếng bước chân ướt lết, tiếng cào móng tay trên tay vịn cầu thang, và tiếng xương cổ gãy *RẮC!*.
-- **Hook kết Act I:** Chiếc túi nilon bọc đài giấy phồng lên sột soạt; cô Thủy tỉnh lại chỉ tay run rẩy: *"Nó... nó ngồi... trên nóc đài..."*.
+- **Thời gian:** 19:30 tối 14.
+- Khanh và bà Lan đến buồng ngủ xóm Trại.
+- Bậu cửa sổ có evidence bùn / bàn tay trái theo D-050.
+- Zalo voice message 38 giây: authored at 22:54 đêm 13, delivered later after phone reconnects; timeline must remain technically coherent.
+- Audio escalates knowledge about Cường's death without granting Khanh impossible forensic certainty.
 
-### Chapters 6–7: Forward Arcs (D-050 Master Model)
-- **Chapter 6 (`Rạn nứt đồng lõa`):** Thế chân vạc nghi phạm và lòng tham trần tục: Đinh Công Toàn lén bỏ thuốc an thần bị Lan Anh phát hiện đốt phi tang; Thầy Bình và bùa cọc tre trấn yểm; Đào Văn Sang (cò đất) kích động tranh chấp đất.
-- **Chapter 7 (`Gốc gạo bờ đầm`):** Cuộc chạy đua trước giờ máy xúc san lấp đầm sen; khai quật cọc tre yểm bùa 30 năm và chiếc đài cassette Tiệp Khắc thật bị chôn giấu dưới bùn.
-- **Leakage gates:** Thực thể mùng 10 trên CCTV camera vẫn là bí ẩn siêu nhiên chưa thể giải thích; kết luận chính thức của công an vẫn là ngã cầu thang do đột quỵ/tai nạn sinh hoạt.
+## Chapters 6–7: Forward arcs
+
+- **Chapter 6 — `Rạn nứt đồng lõa`:** mở rộng human suspect network: Đinh Công Toàn/thuốc an thần, Thầy Bình/bùa cọc tre, Cò đất Sang. Mystery remains dual-layer; Khanh does not become a police interrogator.
+- **Chapter 7 — `Gốc gạo bờ đầm`:** race against pond excavation / road work; talisman and original cassette evidence emerge according to D-050.
+
+## Global continuity guards
+
+- Objective chronology and narrative presentation order must remain distinct. CCTV mùng 10 in Ch.2 is recorded-past playback, not a chronology error.
+- `Chiều 14` is the active pickup date for the Ch.1 custom order unless a newer author decision explicitly changes it.
+- No Chapter 1 source may label the purchaser or sketch as left-handed based on handwriting alone.
+- Thoa's 1996 identity/history remains locked until its planned reveal.
+- Real cultural claims must map to `research/verified/`; character belief is not objective cultural fact.
