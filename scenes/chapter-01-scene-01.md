@@ -1,5 +1,5 @@
 ---
-title: Tên trên gói hàng
+title: Cửa hàng sáng ngày áp Rằm
 chapter: chapter-01
 scene: 1
 pov: nguyen-minh-khanh
@@ -8,17 +8,20 @@ characters:
   - nguyen-minh-khanh
   - tran-thi-lan
 arcs-advanced:
+  - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
-status: final
+status: draft
 state-changes: []
 ---
 
-# Tên trên gói hàng
+# Cửa hàng sáng ngày áp Rằm
 
 ## Purpose
 
-Open after Vũ Văn Cường's death and reveal the chronological contradiction: a custom votive order bearing his name already exists in the shop and was recorded four days earlier.
+Thiết lập không khí nồm ẩm đặc quánh sáng ngày 14 tháng Giêng, cảnh tượng mua bán tấp nập tại cửa hàng vàng mã ngã tư chợ huyện của gia đình Khanh. Giới thiệu nhân vật Khanh (27 tuổi, kỹ sư IT vừa từ Nhật về làm việc từ xa) và bà Lan (55 tuổi, người mẹ buôn bán tháo vát, sắc sảo). Hàng hóa chất đống bộn bề, hoàn toàn tự nhiên, không hề spotlight hay để lộ bất kỳ manh mối nào về đơn hàng của ông Cường.
 
 ## Continuity Notes
 
-On-page canon. The victim's cause of death, health before death, purchaser identity meaning and supernatural explanation remain unrevealed. The relative who comes to the shop is unaware of the earlier custom order.
+- Thời gian: Sáng ngày 14 tháng Giêng (ngày cận Rằm).
+- Khanh đang ngồi gõ code trên laptop ThinkPad ở góc quầy kính, bị mẹ sai vặt bê đồ.
+- Tiệm hàng mã chật chội, nhộn nhịp, đón khách từ nhiều xã lân cận.

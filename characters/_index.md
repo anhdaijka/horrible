@@ -7,7 +7,9 @@ story: horrible
 
 | Name | Role | Status | File |
 |---|---|---|---|
+| Đặng Văn Bình | supporting | alive | [dang-van-binh](dang-van-binh.md) |
 | Hoàng Ngọc Mai | supporting | alive | [hoang-ngoc-mai](hoang-ngoc-mai.md) |
+| Lê Đức Tuấn | supporting | alive | [le-duc-tuan](le-duc-tuan.md) |
 | Lê Văn Thắng | minor | alive | [le-van-thang](le-van-thang.md) |
 | Nguyễn Minh Hạnh | supporting | alive | [nguyen-minh-hanh](nguyen-minh-hanh.md) |
 | Nguyễn Minh Khanh | protagonist | alive | [nguyen-minh-khanh](nguyen-minh-khanh.md) |

@@ -31,7 +31,7 @@ Trạng thái: **Đã được tác giả thẩm duyệt và chính thức CANON
   - Âm thanh cơ học không thể lý giải: **tiếng rào rào, xèo xèo của sợi băng từ cassette rỗng cọ sát vào đầu từ (`magnetic tape hiss`)** phát ra rành rọt từ chính hộc băng giấy bồi rỗng tuếch!
   - Cửa hộc băng giấy tự động bật hé mở một góc 15 độ (*TÁCH!*) như có ngón tay vừa ấn nút *Eject*.
 - **Cú nổ cao trào kết chương (Climax Hook):**
-  - Chiếc điện thoại đổ chuông vang dội: Tiếng khóc nấc the thé, hoảng loạn tột cùng của cô Thủy qua loa ngoài: Tin nhắn thoại Zalo lúc nửa đêm của ông Cường bảo *"con Thoa nó về đòi lại cái đài Tiệp rồi... nó đang đứng ngoài cửa sổ buồng em... nó cào bằng tay tr..."* kèm tiếng đồ sứ vỡ toang và tiếng tút dài lạnh ngắt.
+  - Chiếc điện thoại đổ chuông vang dội: Tiếng khóc nấc the thé, hoảng loạn tột cùng của cô Thủy qua loa ngoài gào lên *"anh Cường vừa nói với em... anh ấy bảo con Thoa... con Thoa nó về rồi... Đúng ba mươi năm nó về đòi lại cái đài Tiệp... nó cào cửa... nó cào bằng tay tr..."* kèm tiếng đồ sứ vỡ toang và tiếng tút dài lạnh ngắt, gieo rắc nỗi kinh hoàng tột độ rằng xác chết ông Cường đã hiện hồn hoặc sống lại nói rành rành với cô Thủy.
 
 ---
 
@@ -40,7 +40,7 @@ Trạng thái: **Đã được tác giả thẩm duyệt và chính thức CANON
 - **Tâm lý Khanh:** Giữ vững chất kỹ sư phân tích logic nhưng bất lực trước dữ liệu thực nghiệm; phản xạ tự nhiên của một chàng trai sợ ma khi giật thót người lùi lại va cột nhà ngã ghế.
 - **Tâm lý bà Lan:** Bản lĩnh một phụ nữ buôn mã lâu năm, biết dò hỏi đúng người đúng lúc (cụ bà 84 tuổi), nhưng khi sự việc gắn kết với người chết 30 năm trước thì run rẩy, tụng kinh lần tràng hạt tìm chỗ dựa tinh thần.
 - **Kỷ luật thông tin (Leakage Guard):**
-  - PASS: Tuyệt đối chưa mở nội dung đầy đủ của tin nhắn thoại hay biến nó thành tài liệu điều tra án mạng công khai.
+  - PASS: Tuyệt đối chưa để lộ việc có tin nhắn thoại hay cách thức liên lạc ở chương 5, giữ sự ma mị và áp lực tâm lý nghẹt thở.
   - PASS: Không giải thích bản chất siêu nhiên của hồn ma hay vội vàng đưa sổ tay ông nội ra hóa giải.
   - PASS: Giữ trọn vẹn điểm nhìn ngôi thứ ba giới hạn theo sát Khanh.
 

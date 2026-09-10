@@ -383,3 +383,63 @@ Decisions below were explicitly accepted during discovery. Future agents must no
 - **Implications:** Synergizes detective reality (infrastructure works, unearthing physical relic) with Northern folk dread (30-year talisman decay, grandfather's moral integrity). Preserves anti-jumpscare discipline and re-read value.
 - **Supersedes:** none
 
+### D-048 — Case Zero Deep Master Architecture: Tri-Layer Sin, False Victimization, and Supernatural Retribution
+
+- **Date:** 2026-09-10
+- **Status:** accepted development decision
+- **Decision:** Establish the deep multi-layered narrative architecture of Case Zero combining historical human crime, living greed/revenge, and authentic supernatural vengeance ("Direction D"):
+  1. *Historical Crime & Murder Tape (1996):* Vũ Thị Thoa's drowning was not an accidental tragedy, but a collective family crime. During a violent quarrel over forced marriage and money, Thoa was pushed and held down in the lotus pond mud. Her Czech cassette radio, running on record mode (`REC`) on the bank, captured the confrontation, family curses, and Thoa's dying cries. Cường hid the radio rather than burning it, using it as leverage against the family while sealing it beneath the pond with a 30-year bamboo talisman.
+  2. *Living Conspirator & Inheritance Greed (2026):* Surviving sister Vũ Thị Thủy was an accomplice who spent 30 years exploited as an unmarried garment worker while Cường enjoyed the estate. In early 2026, when the road project turns the family land into multi-billion-dong real estate and Cường attempts to cut Thủy out of the inheritance, Thủy unleashes a revenge campaign. Weaponizing Cường's guilt and fear of Thoa's ghost, Thủy stalks Cường, plays tape recordings by the pond at night, and sends the slashed photo threat to drive Cường into a stroke/breakdown and claim the land.
+  3. *Supernatural Retribution ("Kẻ mượn ma bị ma nuốt chửng"):* Thủy's scheme unintentionally triggers real cosmic and spiritual retribution. Coinciding with the rotting 30-year talisman and the excavator disturbing the pond bed, Thoa's genuine ghost awakens with terrifying wrath. On the stairs on the night of the 13th, while Thủy planned to merely scare Cường, Thoa's spirit actually manifests and snaps Cường's neck 180 degrees (*RẮC!*). In Chapter 5-6, Thủy stages the phone call and seizure to manufacture a spiritual alibi, but is horrified to realize Thoa's ghost has physically followed the paper radio into the room and now targets Thủy as the surviving murderer.
+  4. *Fair-Play Detective Clues for Khanh:* Khanh detects subtle human inconsistencies in Thủy's behavior and timeline (bus ticket times, dried pond mud on her sandals, typewriter/handwriting style), while being confronted by undeniable supernatural facts that shatter mundane reductionism (the left-handed Dahua CCTV entity, the dry paper radio's mechanical tape hiss, the high-window pond mud handprint, the mid-air broken neck on the recording).
+- **Implications:** Elevates Case Zero into a profound tragedy of Northern rural moral decay and greed colliding with relentless spiritual judgment. Solves the risk of simple ghost proceduralism by making the human conspirator's own trap turn against her.
+- **Supersedes:** Any prior assumption that cô Thủy was an entirely passive, innocent victim or that Cường's death was a pure accidental trip without human provocation.
+
+### D-049 — Case Zero 12-Chapter Slow-Burn Architecture & Multi-Suspect Web
+
+- **Date:** 2026-09-10
+- **Status:** accepted development decision
+- **Decision:** Expand Case Zero (`Đơn hàng cho người chưa chết`) from an 8-chapter brief arc into a comprehensive 12-chapter slow-burn spiritual mystery novella (Chapters 1–12, ~48,000–50,000 words total):
+  1. *The 3-Stage Pendulum Swings (Cơ chế con lắc nhận thức):*
+     - Chapters 1–6 (Established): Supernatural anomaly & escalating dread (order for living man, CCTV left hand, tape hiss, broken vertebrae, 38-second Zalo recording).
+     - Chapters 7–9 (The Mundane Trap): Misdirection into human foul play and multi-party conspiracy. Cô Thủy does not confess immediately but deflects blame; Khanh uncovers son-in-law Lê Đức Tuấn's high-dose sedative tampering and forged land contract; Thầy cúng Bình's hasty coffin nail sealing is questioned. Readers are led to believe the death was purely human crime (drugging + intimidation $\rightarrow$ fatal staircase trip).
+     - Chapter 10 (Collapse of the Mundane): Forensic audio waveform analysis reveals the neck fracture occurred in mid-air near the ceiling before any impact; Thủy's portable speaker has been dead for weeks; the paper radio stirs; Thoa's genuine ghost has been active from the start.
+     - Chapters 11–12 (Climax & Resolution): Midnight excavation of the rotting 30-year bamboo talisman and Czech cassette under the kapok tree; the 1996 murder tape plays aloud; spiritual retribution strikes; dawn funeral double burning; discovery of grandfather's ledger note `Không nhận lễ`.
+  2. *Dual-Meaning Clues (Thủ pháp hai tầng ý nghĩa):* Crucial dialogues and physical evidence ("nó về đòi nợ", black mud smears, sedative blister packs, broken fourth iron nail) operate with valid forensic/human interpretations alongside chilling supernatural reality.
+  3. *Expanded Cast & Sub-suspects:* Formally integrate Lê Đức Tuấn (son-in-law, debt-ridden, sedative tampering, land fraud) and Thầy cúng Đặng Văn Bình (local ritual specialist, apprentice of 1996 heterodox master, hasty nail sealing) into Case Zero canon.
+- **Implications:** Transforms Case Zero into a masterclass in psychological dread and fair-play mystery, ensuring readers are completely disoriented ("xoay như chong chóng") before the inescapable spiritual horror is unleashed.
+- **Supersedes:** Any prior plan to resolve Case Zero in 8 or fewer chapters.
+
+### D-050 — Case Zero Reboot: 3-Way Suspect Dynamic & Folk Horror Dual Reality
+
+- **Date:** 2026-09-10
+- **Status:** accepted development decision
+- **Decision:** Reboot Case Zero from Chapter 1 to establish a much deeper, more complex "Master Blueprint". Key structural changes:
+  1. *The Fourth Accomplice (Ông Cổn):* The 1996 drowning was sanctioned by the powerful Trưởng họ Vũ Cổn ("Dìm nó cho khuất mắt"), shifting the crime from isolated family violence to systemic village complicity.
+  2. *The Police Cover-Up:* Cường's death is initially ruled a "burglary gone wrong / accidental fall" by police. The family, led by Ông Cổn, forces a rapid burial without an autopsy to hide the 1996 history, avoiding a premature detective tribunal.
+  3. *The 3-Way Suspect Dynamic:* Thủy creates a fake alibi at Yên Phong; Tuấn (who drugged Cường) panics and is protected by his wife Lan Anh who secretly burns the evidence (The Loyalty Trap); Thầy Bình has a secret meeting with Cường and lies to police.
+  4. *The Breather & The Gossip Network:* Khanh stays in the village (remote work). A neighbor buying "đồ giỗ" tells a distorted ghost story about the 1996 drowning, providing the "cọc tre" clue.
+  5. *Dual Reality Investigation:* Khanh uses IT logic (Zalo logs, cell towers, audio filtering) to dismantle the human alibis, while Thoa's ghost simultaneously inflicts psychological supernatural punishment (mud, offline cassette static) on the perpetrators.
+  6. *4-Act Structure (16-20 Chapters):* Replaces the 12-chapter rush with a much slower, multi-layered "onion-peeling" narrative.
+- **Implications:** Forces a complete restart of drafting from Chapter 1. Makes the human layer vastly more complex and morally gray (e.g., Lan Anh protecting her criminal husband) so that the eventual supernatural intrusion is far more terrifying.
+- **Supersedes:** D-048 and D-049 regarding the exact suspect mechanics, the length (12 chapters), and the immediate post-death behavior of the family.
+
+### D-051 — Case Zero Canon Reconciliation: Opening Reveal Gates, Restructured Chapter Progression, and Administrative Procedures
+
+- **Date:** 2026-09-11
+- **Status:** accepted development decision
+- **Decision:** Formally record and reconcile the 5 author decisions resolving the Case Zero opening structure and lore consistency:
+  1. *Opening Reveal Lock (Decision 01 B):* In Chapter 1, Lan Anh's panic is strictly confined to the chronological impossibility of the advance order (Cường was healthy and riding his scooter on mùng 10) and that no one in the family is named Thoa. The revelations regarding the 1996 lotus pond drowning and the 30-year missing Czech cassette radio are removed from Chapter 1 and reserved for Chapter 2 (CCTV) and Chapter 4 (tea stall).
+  2. *Restructured Chapter Progression (Decision 02 A):* Case Zero chapter sequence is formally aligned so Chapter 2 is the CCTV lookback:
+     - Chapter 1: `Đơn hàng đoạt mệnh` (Sáng 14 Giêng: Lan Anh đến tiệm, đơn hàng người sống, bản phác thảo 13 bậc thang).
+     - Chapter 2: `Bàn tay trái` (CCTV lookback mùng 10: Gương mặt cô Thủy, bàn tay trái vẽ đài, ánh nhìn 4 giây vào camera, cuộc gọi bến xe Yên Phong).
+     - Chapter 3: `Rạp tang xóm Trại` (Chiều 14 Giêng: Khanh đi đám tang, quan sát thương tích gãy cổ, cô Thủy thật bị tật khoèo tay trái, thủ tục miễn mổ tử thi).
+     - Chapter 4: `Băng từ rỗng` (Sẩm tối 14 Giêng: Bà cụ 84 tuổi kể vụ án đầm sen 1996, đài giấy tự phát tiếng xèo xèo sợi băng rỗng, nắp bật mở, Thủy gọi điện thất thanh).
+     - Chapter 5: `Đêm áp Rằm` (19:30 tối 14 Giêng: buồng ngủ xóm Trại, vệt bùn bàn tay trái trên bậu cửa sổ, giải mã tin nhắn Zalo 38 giây kẹt hàng đợi offline từ 22:54 đêm 13).
+     - Chapters 6+: Triển khai các nhánh D-050 (Toàn/Tuấn và thuốc an thần, Thầy Bình và bùa cọc tre, Cò đất Sang, khai quật đầm sen).
+  3. *Chapter 1 Time Baseline (Decision 03 A):* Chapter 1 opening timestamp is anchored to "Sáng ngày mười bốn tháng Giêng" (Morning of 14 Giêng) rather than dusk, establishing an airtight 24-hour sequence leading to the afternoon wake (Ch.3) and 19:30 bedroom breach (Ch.5).
+  4. *Name Recognition Mechanism (Decision 04 A):* In Chapter 2, the identification of the name "Thoa" on CCTV is achieved through the dual evidence of Dahua video footage and bà Lan's memory/written ledger note of the customer self-identifying as Thoa.
+  5. *Autopsy Waiver Procedure (Decision 05 A):* Trưởng họ Vũ Cổn and Lan Anh formally sign an administrative waiver/commitment requesting no forensic autopsy to preserve the body for the auspicious encoffining hour; Officer Đặng Việt Long hands over the body per procedure while harboring quiet suspicions.
+- **Implications:** Guarantees strict narrative fair play, prevents premature lore leaks, aligns forensic timeline with rural ritual timetable, and establishes a seamless foundation for drafting Chapter 2.
+- **Supersedes:** Any prior ambiguity in opening timeline, chapter sequence, or premature reveal in early drafts.
+

@@ -1,259 +1,77 @@
 # Case Zero Truth Matrix — `Đơn hàng cho người chưa chết`
 
-Status: accepted development model. Not Story Skills canon yet.
+Status: accepted development model (D-050 Final Master Plan). Not Story Skills canon yet.
 
-> This version supersedes the pre-reset assumption that the shop consciously knows at purchase time that the recipient is alive.
+> This version completely supersedes D-048 and D-049, introducing a complex 3-way suspect dynamic, the "Loyalty Trap" (evidence destruction by family), the community memory network, and the "Fourth Accomplice" Patriarch.
 
-## Objective author-side facts
+## Objective Author-Side Facts (The Core Hook)
 
-- Khanh is home on a short break after returning from Japan.
-- During a crowded shop period, a normal-looking woman in her 50s–60s places a personalized order for several ordinary male paper goods plus one unusually specific custom item: an old cassette radio.
-- The recipient is a named local man who, at that moment in objective story reality, is still alive.
-- **The shop does not know or discuss that fact during the sale.** Given the type of goods and context, the transaction is naturally processed as goods for someone already dead.
-- The purchaser pays for the ordinary goods, leaves them at the shop to collect together with the custom radio, and says she will return in three days.
-- Three days is the customer's requested pickup time, not an industry-standard lead time.
-- Four days after the order, the named man dies unexpectedly during the night after a fall at home.
-- By the next morning/day, a relative from his household comes to bà Lan's shop for ordinary funeral/memorial goods and appears unaware of the earlier custom order.
-- The victim's name/locality matches the still-uncollected tagged order already in the shop.
-- Only at this point does the shop compare dates and discover that the order was placed **before the man died**.
-- The first mundane explanation may then arise: perhaps some relative knew he was gravely ill or expected to die and prepared in advance.
-- Later social evidence weakens that explanation: the victim had appeared outwardly healthy, active and living normally; his household was not expecting his death or preparing a funeral.
-- Shop CCTV later shows a purchaser who strongly resembles the victim's surviving younger sister.
-- The surviving sister denies visiting the shop.
-- The purchaser uses her left hand; the surviving sister is known as right-handed.
-- The shop record separates **purchaser/pickup identity** from **intended recipient identity**.
-- The name supplied as purchaser later proves to belong to a third sibling who died roughly thirty years earlier.
-- A living person deliberately reopens an old family secret shortly before the present-day death.
-- That person's goal is pressure / acknowledgment / confession, not intentional killing.
-- Strong evidence can separate that living sender from the shop purchaser.
-- The present-day death remains plausibly accidental; no required evidence establishes homicide.
-- Khanh does not identify the shop purchaser by the end of Case Zero unless the author later changes this case specifically.
+- Khanh is home on a short break after returning from Japan, working remotely. His family's votive shop is located at a busy regional crossroads.
+- **Day 1 (Mùng 10):** A normal-looking woman places a personalized order for an unusually specific custom item: a Czech cassette radio. The recipient is Vũ Văn Cường - Xóm Trại (a village 5km away). The shop assumes he is dead.
+- **Day 4 (Đêm 13):** Cường dies unexpectedly during the night after a fall at home. Khanh's family knows nothing.
+- **Day 5 (Ngày 14 - The Cold Dread):** Cường's daughter (Lan Anh) comes to the shop to buy funeral goods. The shop presents the custom radio ordered 4 days ago. Terrified by the radio's design (it matches the 1996 murder evidence), Lan Anh runs away without taking it.
+- **The Investigation Hook:** Keeping a rejected "đồ mã vong" is a strict taboo. Bà Lan forces Khanh to travel to Xóm Trại to dispose of the cursed radio. Before leaving, Khanh matches the radio's sketch to a terrifying entry in his late grandfather's 1996 ledger (`Không nhận lễ`).
+- Recognized at Xóm Trại as "cháu đích tôn thầy Kính", Khanh is granted access to the family. He uses CCTV and OSINT to find that the purchaser strongly resembles the victim's surviving younger sister (Thủy). However, the purchaser is left-handed; Thủy is right-handed and has a deformed wrist.
+- The name supplied as purchaser belongs to a third sibling (Vũ Thị Thoa) who died roughly thirty years earlier (1996).
 
-## Revelation-order lock
+## The 1996 Truth & The Patriarch's Complicity (The Fourth Accomplice)
 
-The story must reveal Case Zero in this order:
+- In summer 1996, Thoa died not from an accident, but through a **collective family crime**. During a violent confrontation by the lotus pond over Thoa resisting an arranged marriage to fund Cường's house construction, the father, Cường, and Thủy clashed with her. Thoa was pushed down and drowned in the pond mud.
+- **The Patriarch's Sanction:** Trưởng họ Vũ Cổn (the most respected village elder) witnessed the drowning. Instead of saving her, he pronounced: *"Gia môn bất hạnh, dìm nó cho khuất mắt, coi như nó chưa từng sinh ra"* (Family disgrace, drown her to hide the shame). He orchestrated the hasty burial and erased her from the genealogy.
+- Thoa's prized foreign **Czech cassette radio** captured the fatal dispute on tape. Cường stole it and used it to blackmail Thủy for decades.
+- The family hired a heterodox ritual specialist to bury the radio with a 30-year bamboo water-talisman (*cọc tre trấn thủy*) to pin Thoa's soul in the mud. (Khanh's grandfather refused to do this ritual, writing `Không nhận lễ` in his ledger).
 
-1. **ordinary purchase** — shop assumes goods are for someone already dead;
-2. **later death** of the named recipient;
-3. **date contradiction** — the order predates the death;
-4. **mundane hypothesis** — perhaps someone knew he was gravely ill / prepared early;
-5. **disconfirmation** — he had appeared healthy and his household expected no death;
-6. **purchaser identity problem** grows through CCTV, family history, name and handedness;
-7. old family truth and the living pressure actor explain much of the human layer but not the purchaser cleanly.
+## The 2026 Dual Triggers
 
-Do not let the original order scene contain dialogue such as:
+1. **Physical:** An urbanization project in early 2026 sends excavators to the lotus pond. The 30-year bamboo talisman rots, and the real cassette radio is about to be unearthed.
+2. **Supernatural Expiration:** Deprived of the binding, Thoa's spirit rises with terrifying immediacy.
 
-- `ông ấy còn sống à?`
-- `cô đặt trước à?`
-- `ông ấy yếu lắm à?`
-- explanations of advance funeral preparation.
+## The 3-Way Suspect Dynamic (The Mundane Trap)
 
-Those belong only after the chronology is discovered.
+In the present day, three living people act highly suspiciously, creating a perfect smokescreen of human crime that masks the supernatural reality.
 
-## Research-grounded order design
+### 1. Cô Thủy (The Fake Alibi & The Ghost Scare)
+- **Action:** Knowing the pond is being dug up, Thủy launched a revenge/intimidation campaign against Cường to force him to give up the multi-billion dong land before the tape is found. On the night of the 13th, she secretly went to the pond and played tape hiss sounds to scare Cường.
+- **The Cover-up:** When Cường actually died (snapping his neck), Thủy was terrified of being framed for murder or burglary. She frantically created a fake alibi at her Yên Phong garment factory (having someone clock in for her, faking sick).
+- **The Debunking (Via Long):** Khanh does not interrogate Thủy or travel to Yên Phong. Khanh provides the CCTV discrepancy to **Công an Đặng Việt Long**. Officer Long officially investigates the factory, busts the alibi, and shares this procedural intel with Khanh.
 
-The order must not imply a universal ritual rule.
+### 2. Đinh Công Toàn (The Son-in-Law) & The Loyalty Trap
+- **Action:** Toàn is drowning in gangster debt. On the night of the 13th, he slipped a high dose of sedatives into Cường's wine to knock him out so Toàn could steal the land deed. When Cường died, Toàn panicked and used the "burglary" theory to hide his tracks.
+- **The Loyalty Trap (Lan Anh):** Toàn's wife (Cường's daughter, Lan Anh) finds the half-empty blister pack of sedatives and Toàn's muddy shoes. Caught between justice for her father and protecting her child's father, Lan Anh actively destroys the evidence by burning the pills in the votive fire (*hóa vàng*). Khanh catches her doing this, forcing an intense moral conflict.
 
-Safe story design:
+### 3. Thầy cúng Bình (The Secret Keeper)
+- **Action:** The night before the murder, Thầy Bình had a tense, secret meeting with Cường in the yard (regarding the rotting talisman). Bà Mùi (Cường's wife) saw this.
+- **The Cover-up:** When police interrogate Thầy Bình, he provides an ironclad alibi (he was performing a ritual in another village) and lies about the nature of the meeting. This signals he has an occult agenda and knows the 1996 truth.
 
-- one ordinary male clothing set / ordinary male paper goods;
-- paper footwear or comparable ordinary item;
-- an ordinary amount of paper money/gold-paper stock;
-- one custom old cassette radio;
-- purchaser/pickup name in the shop's administrative record;
-- recipient name and enough locality/age detail to distinguish the person;
-- pickup date;
-- no narrator claim that full name, lunar age or address are metaphysically required.
+### 4. Đào Văn Sang (Cò đất)
+- **Action:** Sang is an opportunist. He intentionally stoked Toàn's panic over his debt and Thủy's hatred over the inheritance to force a cheap land sale.
+- **The Cover-up:** He does not know about the 1996 murder or the current plot. However, his actions provide the perfect human motive for the crime, acting as a massive red herring for Khanh's investigation.
 
-Advance purchase for a living person is a real-world normalizable possibility when death is expected. That cultural fact matters **later**, after characters discover the order was made while the recipient was alive. It is not purchase-scene knowledge.
+## Authorities & The Burglary Cover-Up
 
-## Current draft-only working names after opening reset
+- Because of the strange noises (caused by Thủy's scare tactics), the initial consensus is that a **burglar** broke in, causing Cường to flee and fall.
+- **Police Investigation:** Local police (Officer Đặng Việt Long) investigate, find no forced entry, and officially rule it a tragic **Accidental Fall** caused by panic.
+- **The Patriarch's Interference:** Ông Cổn uses his authority to force the family to accept this ruling and bury Cường immediately without an autopsy, terrified that a deeper investigation might unearth the 1996 crime.
 
-These are manuscript proposals, not canon until author approval:
+## The Community Memory Network & The Breather
 
-- recipient / later victim: `Vũ Văn Cường`, 59;
-- purchaser name supplied at the shop: `Vũ Thị Thoa`;
-- local disambiguation: `xóm Trại` in the fictional hometown.
+- Khanh does not investigate like a traditional detective. The investigation occurs during a **Breather** period in the village.
+- The truth of 1996 is fragmented among the village elders.
+- **The "Giỗ" Clue (1-2 Chương Phụ):** A neighbor (Bà Lụa) buying votive paper at Bà Lan's shop for a death anniversary casually recounts a standalone, distorted ghost story/memory of Thoa's death ("nghe tiếng khóc nhưng nhà bảo theo trai", "ông thầy pháp lạ mặt"). This drops the crucial "cọc tre" clue directly into Khanh's lap organically, without him having to interrogate anyone.
+- **Confirmation Bias:** Bà Mùi (Cường's wife) constantly cries that Cường was paranoid about "nó về đòi nợ". She interprets the death entirely through superstition, adding noise to Khanh's logical investigation.
 
-Old prototype names are rejected/unlocked.
+## Dual Reality: Logic vs. Folk Horror
 
-## Cassette-radio clue
+- **The Networked Investigation:** Khanh is an IT engineer, not an omniscient detective. He relies strictly on digital data (Zalo logs, audio filtering, CCTV). 
+  - For police interrogations and alibi busting (Thủy's factory, Thầy Bình's lies), he relies on updates from **Công an Đặng Việt Long**.
+  - For underworld gossip and character motives (Toàn's debt, Sang's manipulation), he relies on intel gathered by his logistics friend, **Hoàng Ngọc Mai**.
+- **Parallel Supernatural Punishment:** While Khanh hunts human culprits (via data and proxies), Thoa's ghost actively dismantles their sanity. Thủy sees pond mud bleeding from her sewing machine; Toàn hears cassette static playing from his offline smartphone.
+- **The Collapse (Act IV):** Khanh's human-murder theory (Model H1) is completely shattered by undeniable physical/supernatural anomalies: the forensic audio proves Cường's neck snapped *before* he hit the ground; the muddy handprints are impossible; and the 30-year talisman is unearthed.
 
-The radio is an unusual personal/custom object, not a mystical ritual category.
+## What Khanh Knows By Case End
 
-Current fair-play physical design:
-
-- old rectangular cassette-radio form;
-- dark body;
-- silver-toned front;
-- round speaker on the left;
-- cassette compartment on the right;
-- two top knobs, one larger;
-- folding handle.
-
-The shop/maker can construct it from the purchaser's description/sketch without knowing why it matters.
-
-Later, the victim's family can recognize those details as connected to old family memory. At least one plausible living transmission route for the design must remain viable so the radio does not prove a ghost by itself.
-
-## Purchaser physical / documentary clues
-
-Current opening-reset design keeps the purchaser physically ordinary.
-
-Useful fair-play clues:
-
-- purchaser name written early but not emphasized;
-- handwritten/sketched cassette-radio design;
-- left-hand use while writing/sketching;
-- order date;
-- pickup date;
-- recipient name/locality;
-- CCTV later;
-- old family photograph;
-- evidence of the living person's separate pressure campaign;
-- grandfather's old note only after most of the case is already understood.
-
-The left-hand clue is supportive, never dispositive.
-
-## Old family history — accepted underlying model
-
-The family originally had at least three siblings.
-
-A young woman died roughly thirty years before Case Zero in an accident / preventable tragedy involving collective human responsibility.
-
-The present-day male victim did not necessarily cause her death directly. His central wrongdoing was knowing important truth and choosing silence when he had a meaningful opportunity to speak.
-
-Older relatives gradually stopped talking about the dead woman. Photos and memories were put away rather than supernaturally erased. Younger descendants therefore inherit an incomplete family story.
-
-The surviving younger sister knows some but not all of the old truth. Decades of grief and family simplification may distort details without making her deceptive by default.
-
-## Present victim's final days
-
-Until shortly before the death, the victim should appear to ordinary observers as a man living normal life, not someone visibly approaching death.
-
-He may have routine age-related complaints, but no known terminal condition or obvious acute decline should make advance funeral preparation retrospectively expected.
-
-A living person connected to the old tragedy sends/places an old photograph, message, object or similar reminder in the victim's path.
-
-This renews anxiety, insomnia and fear that the old secret may surface. That psychological pressure does not become a pre-existing serious physical illness.
-
-The victim later falls down stairs at home during the night. The exact immediate trigger may remain unclear.
-
-## The 30-Year Catalyst: Dual-Layer Mechanism (Approved Master Model)
-
-Why does Thoa's spirit / the crisis return after exactly thirty years (1996 $\rightarrow$ 2026), and not earlier? The story resolves this through an airtight dual-layer synergy (Physical/Detective + Folk Spiritual):
-
-### 1. Physical / Environmental Trigger (Động thổ san lấp đầm sen xóm Trại)
-- **Urbanization project (Early 2026):** Right after Lunar New Year 2026, the district begins a rural infrastructure project to concrete the inter-communal road and box-culvert the canal system bordering xóm Trại.
-- **Threat of physical exposure:** The stagnant lotus pond where Thoa drowned in summer 1996 is slated to be drained and partially filled. Survey stakes are driven into the muddy ground directly outside the rear bedroom window of ông Cường's home, and excavators begin exploratory digging.
-- **The hidden relic endangered:** The real Czech cassette radio—concealed by ông Cường thirty years ago near the pond edge—is about to be dredged up or paved over by concrete.
-- **Living pressure actor catalyst:** The living third party (who knows the 1996 truth) sees the construction equipment arriving, realizes the physical evidence is about to be unearthed, and launches an urgent intimidation campaign demanding ông Cường confess before the machines uncover the site.
-
-### 2. Folk Spiritual Expiration & Grandfather's Refusal (Đáo hạn bùa yểm cọc tre & "Không nhận lễ")
-- **Grandfather's refusal (1996):** Following Thoa's drowning in 1996, the patriarchal Vũ family panicked over potential *trùng tang* and spiritual retribution. They approached Khanh's grandfather (the most respected practitioner in Chợ Bến) with heavy offerings, asking him to perform an occult sealing ritual to bind the drowned girl's soul and keep the family safe. Grandfather perceived the family's cruel complicity and moral guilt, refused to participate in suppressing an unjustly dead soul, and entered a terse note into his private ledger: `Vũ Thị Thoa (xóm Trại) — Không nhận lễ.`
-- **Heterodox water-binding talisman (*Phép trấn thủy cọc tre*):** Turned away by grandfather, the family hired a shadowy ritual specialist from another area to pin down the spirit. The specialist buried Thoa's prized Czech cassette radio (the vital anchor of her spirit) beside a green bamboo stake carved with cinnabar talismans driven deep into the anaerobic pond mud to "lock" her grievance beneath the water.
-- **The 30-Year folk expiration:** In Northern folk occult belief, a raw bamboo stake in mud lasts roughly three decades (one human generation / 30 years) before the bamboo decomposes and the cinnabar ink dissolves. 
-- **The double trigger:** In the winter of 2026, as the 30-year talisman rots away, the excavator claws through the pond bed. Deprived of her watery resting place, erased from the family ancestral altar, and unbound from the rotting talisman, Thoa's spirit rises with terrifying immediacy to reclaim her stolen cassette radio and exact retribution before the site is buried under asphalt forever.
-
-## Testimony classes
-
-### Bà Lan
-
-Reliable on her own shop routine and social/customer memory; not an authority on universal ritual law or supernatural identity.
-
-Her ordinary explanation appears only after the chronology is discovered.
-
-### Surviving sister
-
-Claims she never placed the order. Treat denial as potentially genuine. Grief and historical trauma complicate reliability without automatically making her deceptive.
-
-### Older relatives / villagers
-
-May remember `mấy anh em`, self-correct, avoid a name or preserve incomplete family history. Silence may be shame-based, protective or habitual rather than conspiratorial.
-
-### Living pressure actor
-
-Eventually admits intentionally reopening the old issue. Their admission explains part of the victim's state before death but does not explain the purchaser.
-
-## Khanh's evolving models
-
-### Model 0 — expected death / advance preparation / mundane mix-up
-
-This model exists only **after** the order date is compared against the death date.
-
-Status: weakened when evidence shows the victim had appeared healthy and the household expected no death.
-
-### Model 1 — surviving sister placed the order
-
-Supported by CCTV resemblance.
-
-Status: weakened by denial, handedness mismatch and later evidence.
-
-### Model 2 — one living pressure actor did everything
-
-Temporarily attractive as a clean root cause.
-
-Status: collapses partially when the living sender is separated from the purchaser.
-
-### Model H — human impersonation
-
-A living person with detailed knowledge impersonated/resembled one of the sisters.
-
-Status: viable at end.
-
-### Model S — supernatural appearance
-
-The woman who died decades earlier appeared in the shop and used her own name.
-
-Status: viable and strongly uncanny; this case may remain unresolved even though the series no longer requires ambiguity by default.
-
-### Model P — psychological / identity explanation
-
-The surviving sister visited under a dissociative/memory/identity condition and later cannot acknowledge it.
-
-Status: viable but weaker.
-
-## Fair-play rules
-
-- Purchaser name should be visible early without clue spotlighting.
-- The reader should discover the **date contradiction before** hearing the expected-death explanation.
-- Healthy/normal victim evidence must arrive only after the expected-death hypothesis exists.
-- The third sibling must be foreshadowed before direct reveal through social/visual discrepancy, not a sudden exposition dump.
-- Do not claim a universal fixed funeral-paper package.
-- Do not claim name + age + address are universally required.
-- Do not make the radio or left-handedness independently prove Model S.
-
-## What Khanh knows by case end
-
-He has strong reason to believe:
-
-- an order associated with the victim existed before the victim died;
-- the usual advance-preparation explanation does not fit the victim's apparent condition and household behavior;
-- a forgotten third sibling existed;
-- a serious old family wrong was buried;
-- the present victim knew more than younger relatives did;
-- a living person intentionally reopened the secret;
-- that pressure plausibly contributed to the victim's state before the accidental fall;
-- that living sender does not cleanly explain the shop purchaser;
-- the surviving sister does not cleanly explain the purchaser;
-- the purchaser's recorded name belongs to the long-dead sibling;
-- grandfather had some historical contact with the old matter.
-
-He still does not know who the purchaser was.
-
-## Authorities / institutional boundary
-
-The present death can remain an accident under available evidence. Police do not need to investigate occult interpretations simply because Khanh finds the timing and purchaser identity disturbing.
-
-## Funeral timing boundary
-
-After the nighttime death, family/funeral-service logistics may begin immediately or by the next morning/day. A relative coming quickly to bà Lan's shop for a small ordinary purchase is plausible.
-
-Do not freeze the family into a universal Northern funeral sequence. Exact ritual details remain family/locality-specific until separately researched.
-
-## Grandfather residue
-
-Only after Case Zero is substantially resolved does Khanh encounter an old grandfather record with the dead woman's name/place/date and a terse refusal such as:
-
-> Không nhận lễ.
-
-This proves only that grandfather encountered the matter in some form. It does not establish prophecy, omniscience, guilt or conspiracy.
+- The shop purchaser was the supernatural manifestation of Vũ Thị Thoa.
+- Toàn and Thủy are guilty of severe crimes (drugging, intimidation, fake alibis) but did *not* physically kill Cường.
+- Thoa's ghost killed Cường and is now targeting Thủy and Ông Cổn.
+- The village patriarch system is fundamentally corrupt and complicit in murder.
+- Grandfather encountered the tragedy in 1996 but refused to participate in the evil sealing ritual.

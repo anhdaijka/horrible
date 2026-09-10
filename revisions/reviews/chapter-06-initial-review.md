@@ -1,16 +1,16 @@
 # Chapter 6 Review — `Đêm áp Rằm`
 
-Trạng thái: **Bản thảo hoàn thành (6.139 từ); sẵn sàng trình duyệt để canonize.**
+Trạng thái: **Đã được tác giả thẩm duyệt và chính thức CANONIZE vào tác phẩm.**
 
 ---
 
 ## 1. Thông số chương
 - **File:** `chapters/chapter-06.md`
 - **Tiêu đề:** `Đêm áp Rằm`
-- **Số từ:** 6.139 từ
-- **Trạng thái:** Draft / Ready for Review
+- **Số từ:** 5.395 từ
+- **Trạng thái:** Final
 - **Điểm nhìn:** Ngôi thứ ba giới hạn theo sát Nguyễn Minh Khanh (Limited 3rd POV)
-- **Cảnh:** Gồm 3 cảnh đã đăng ký (`scenes/chapter-06-scene-01.md`, `scenes/chapter-06-scene-02.md`, `scenes/chapter-06-scene-03.md`).
+- **Cảnh:** Gồm 3 cảnh đã đăng ký (`scenes/chapter-06-scene-01.md`, `scenes/chapter-06-scene-02.md`, `scenes/chapter-06-scene-03.md`) — đều đạt trạng thái `final`.
 
 ---
 
@@ -34,11 +34,12 @@ Trạng thái: **Bản thảo hoàn thành (6.139 từ); sẵn sàng trình duy�
 - **Manh mối Logic kép tại cửa sổ buồng ngủ (Section 31):**
   - *Giải thích âm thanh vật lý:* Một cành xoan già gãy dở ngoài vườn bị gió bấc quật lách cách vào chấn song gỗ (giải thích tiếng gõ cửa đều đặn mà cô Thủy hoảng loạn nghe thấy).
   - *Bằng chứng siêu nhiên không thể chối cãi:* Trên bậu cửa sổ quét vôi tróc lở in hằn **hai vệt bùn đen ướt sũng hình một bàn tay trái mảnh khảnh**, rỉ nước đầm sen tanh nồng mùi bùn rêu 30 năm trước.
-- **Hạt nhân Trinh thám — Tin nhắn thoại Zalo 0:38 lúc nửa đêm của ông Cường (Detective Core):**
-  - Khanh giải mã bằng tư duy kỹ sư: tin nhắn gửi lúc 22:54 đêm 13 (khoảng 10-15 phút trước khi ông Cường ngã cầu thang chết).
+- **Hạt nhân Trinh thám — Tin nhắn thoại Zalo 0:38 của ông Cường (Detective Core):**
+  - Màn hình Zalo của cô Thủy hiển thị tin nhắn thoại 0:38 nhận lúc **19:18 — Hôm nay**, tạo cú sốc kinh hoàng tột độ (người đã chết đêm qua sao vừa gửi tin nhắn?).
+  - Khanh giải mã bằng tư duy phản biện IT: Chi tiết tin nhắn ghi rõ `Gửi: 22:54 (13/01) — Nhận: 19:18 (14/01)`. Cơ chế hàng đợi ngoại tuyến (offline unsent queue): điện thoại ông Cường kẹt tin nhắn sau cú ngã, tối nay người nhà cắm sạc trên bàn thờ nên máy tự kích hoạt đồng bộ qua Wi-Fi đẩy tin đi lúc 19:18, khiến cô Thủy vừa mở nghe đã ngất lịm!
   - Bản ghi âm 38 giây mở ra tầng kinh dị thính giác buốt óc: tiếng băng từ xèo xèo trôi bài hát năm xưa của Thoa ngoài bờ đầm sen cũ.
-  - Lời thì thào nghẹn thở của ông Cường hé lộ uẩn khúc 30 năm trước: *"Chuyện năm ấy ở đầm sen không giấu được nữa đâu... Cái đài năm xưa tao giấu ở..."*.
-  - Âm thanh xâm nhập thực tế ghi lại cái chết bất đắc kỳ tử: tiếng kéo lê ướt (*bạch... bạch...*), móng tay cào rít trên tay vịn cầu thang gỗ (*kẹttt... kẹttt...*), tiếng hít thở nghẹn tắc, tiếng rơi lăn lông lốc xuống cầu thang và tắt lịm ở giây thứ 38.
+  - Lời thì thào nghẹn thở của ông Cường hé lộ uẩn khúc 30 năm trước: *"Thủy ơi... cứu anh... Mày thức không... Đêm nay tao lại nghe tiếng cái đài Tiệp của con Thoa ngoài bờ đầm... Đúng bài hát năm xưa nó hay bật một mình... Nó về thật rồi mày ơi... Chuyện năm ấy ở đầm sen không giấu được nữa đâu... Cái đài năm xưa tao giấu ở..."*.
+  - Âm thanh xâm nhập thực tế ghi lại cái chết bất đắc kỳ tử: tiếng kéo lê ướt (*bạch... bạch...*), móng tay cào rít trên tay vịn cầu thang gỗ (*kẹttt... kẹttt...*), tiếng thở rít nghẹn hoảng loạn (*"Nó... nó lên... đến bậc thang rồi... Cứu... cứu a..."*), một tiếng gãy giòn khốc liệt của đốt sống cổ (*RẮC!*), tiếng va đập lăn lông lốc của thân người xuống cầu thang và tắt lịm ở giây thứ 38.
   - Phù hợp hoàn hảo với đời sống công nghệ 2026, loại bỏ hoàn toàn chi tiết thư giấy dưới chiếu, bảo toàn tính riêng tư và lý giải thuyết phục cú điện thoại hoảng loạn của cô Thủy.
 - **Hồi chuông đóng chương (Closing Hook):**
   - Chiếc túi nilon đen trên bàn phát ra tiếng sột soạt và tỏa khói sương lạnh ngắt mùi bùn đầm sen.
@@ -53,3 +54,10 @@ Trạng thái: **Bản thảo hoàn thành (6.139 từ); sẵn sàng trình duy�
   - Chưa tiết lộ bản chất cụ thể của uẩn khúc đầm sen năm 1996 (giấu sự thật gì, ai là người đồng lõa che giấu).
   - Chưa tiết lộ vị trí cất giấu chiếc đài thật.
   - Duy trì sự tò mò và áp lực nghẹt thở của độc giả trước thềm Rằm tháng Giêng (ngày đưa tang ông Cường).
+
+---
+
+## 5. Kết luận thẩm duyệt & Bàn giao
+- **Kết luận:** Tác giả đã chính thức phê duyệt (accept) toàn văn Chương 6.
+- **Canonization:** Đã cập nhật vào `continuity/state.md` (`current-chapter: 6`), `chapters/_index.md`, và `scenes/_index.md`.
+- **Bước tiếp theo:** Chuẩn bị brief và kế hoạch phân cảnh cho Chương 7 (Đêm điều tra / Cuộc chạy đua tìm chiếc đài Tiệp Khắc chôn giấu trước bình minh lễ đưa tang ngày Rằm).
