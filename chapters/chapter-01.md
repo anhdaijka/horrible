@@ -191,7 +191,7 @@ Lan Anh ngẩng phắt lên.
 
 — Cô có nhầm không?
 
-— Mẹ cô nhớ đơn này. — Bà Lan nói. — Đồ thường thì chẳng nói làm gì, nhưng người ta còn đặt thêm một thứ phải gửi thợ làm riêng.
+— Cô nhớ đơn này. — Bà Lan nói. — Đồ thường thì chẳng nói làm gì, nhưng người ta còn đặt thêm một thứ phải gửi thợ làm riêng.
 
 Lan Anh nhìn tờ giấy thêm lần nữa.
 
@@ -233,7 +233,7 @@ Bà Lan không trả lời ngay.
 
 Bà vẫn nhìn chiếc đài, ngón tay cái miết đi miết lại mép tờ giấy báo vừa bóc.
 
-— Mẹ nhớ bà ấy tự xưng tên Thoa.
+— Cô nhớ bà ấy tự xưng tên Thoa.
 
 Lan Anh chờ.
 
