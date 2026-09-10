@@ -19,12 +19,13 @@ state-changes: []
 
 ## Purpose
 
-Lan Anh (26–27 tuổi, con gái ông Vũ Văn Cường) ướt sũng nước mưa, mắt sưng húp, hớt hải chạy xe máy vào tiệm giục gấp: "bán cho cháu bộ quần áo ma với bộ sắp lễ tang sự thôi". Lan Anh đau đớn, bối rối kể bố ngã cầu thang mất đột ngột trong đêm. Một người khách mua hàng cạnh đó nhiều chuyện tiếp lời về tin đồn râm ran trên nhóm Facebook huyện: ông Cường ngã cầu thang chết bất đắc kỳ tử, nghi có trộm đột nhập, công an xã huyện về phong tỏa khám nghiệm. Lan Anh chỉ biết khóc giục lấy đồ khâm liệm. Trọng tâm dồn về cú sốc tên người nhận và đơn hàng đặt trước.
+Lan Anh (26–27 tuổi, con gái ông Vũ Văn Cường) ướt mưa, mất ngủ và vội vã vào tiệm mua gấp đồ tang sau khi bố chết gần nửa đêm vì ngã cầu thang theo lời gia đình. Một khách quen nhận ra cô trong đối thoại, nhờ đó tên `Lan Anh` đi vào POV tự nhiên thay vì narrator biết trước. Khách này cũng nhắc tin sáng nay trên nhóm huyện rằng công an đã xuống xóm Trại; đó vẫn chỉ là tin đồn xã hội, chưa phải kết luận procedural. Trọng tâm scene là cái tên `Vũ Văn Cường — Xóm Trại` khiến nhịp bán hàng thường ngày của bà Lan đột ngột đứt lại.
 
 ## Continuity Notes
 
-- Nạn nhân: Vũ Văn Cường (59 tuổi, xóm Trại).
-- Thời gian chết: Khoảng 23h đêm 13 tháng Giêng.
-- Nguồn tin cái chết: Lan Anh báo tin gia đình có tang; người khách cạnh quầy xì xào tin đồn từ nhóm Facebook "Hóng biến huyện" (ngã cầu thang, nghi trộm đột nhập, công an về khám nghiệm).
-- Chi tiết giải phẫu/hiện trường dị thường được giữ lại cho tuyến điều tra của công an (Đặng Việt Long) và nhân vật sau này.
-- Lan Anh cho biết sáng nay gia đình mới nháo nhào lo hậu sự, chưa hề in cáo phó.
+- Nạn nhân: Vũ Văn Cường, 59 tuổi, xóm Trại.
+- Thời gian chết theo lời Lan Anh: gần nửa đêm 13 tháng Giêng.
+- Ch.1 chưa xác nhận true cause/mechanism of death.
+- Tin về công an là lời khách quen đọc/thấy trong nhóm huyện vào **sáng 14**, không dùng mốc `trưa nay`.
+- Lan Anh nói sáng 14 gia đình mới cuống lên lo hậu sự.
+- Scene không reveal Thoa, tay trái, 1996 hoặc lịch sử radio; các thông tin đó chỉ bắt đầu ở scene 1.3 / chapters sau theo reveal lock.
