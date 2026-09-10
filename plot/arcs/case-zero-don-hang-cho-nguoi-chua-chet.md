@@ -49,6 +49,7 @@ The phrase **`đơn hàng cho người chưa chết`** becomes meaningful only r
 
 - The present-day death may remain plausibly accidental.
 - A buried family truth from roughly thirty years earlier explains much of the human pressure around the victim.
+- The 30-year timing (1996–2026) is driven by dual-layer logic: physical infrastructure excavation of the old lotus pond threatening to unearth the hidden 1996 cassette radio + folk expiration of a 30-year water-binding bamboo talisman rejected by grandfather (`Không nhận lễ`) and cast by a heterodox specialist.
 - A living person deliberately reopens that old matter but does not cleanly explain the shop purchaser.
 - The purchaser's identity remains unresolved at case end unless later author direction changes this specific case.
 - Human impersonation, a supernatural appearance and a weaker psychological/identity explanation remain viable Case Zero models.

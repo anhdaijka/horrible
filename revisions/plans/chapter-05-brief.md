@@ -21,7 +21,7 @@ Trạng thái: **Đã được tác giả phê duyệt toàn diện; đang tiế
   - Chiều muộn ngày 14, chợ vãn, tranh tối tranh sáng trong tiệm mã.
   - Chiếc đài cassette giấy bồi và tờ giấy vẽ phác thảo tay trái nằm lẻ loi trên quầy kính.
   - Sự xuất hiện của dị tượng âm thanh không thể lý giải: tiếng rè rè, xèo xèo đặc trưng của sợi băng từ cassette rỗng chạy qua đầu từ (`magnetic tape hiss`) phát ra từ khoảng không quanh chiếc đài giấy.
-  - Cú điện thoại bất ngờ phá vỡ bầu không khí: người nhà hoặc cô Thủy trong cơn hoảng loạn tột độ gọi đến sau khi chạm vào chiếc phong bì dưới gối.
+  - Cú điện thoại bất ngờ phá vỡ bầu không khí: cô Thủy trong cơn hoảng loạn tột độ gọi đến sau khi mở nghe tin nhắn thoại Zalo gửi lúc nửa đêm của ông Cường.
 
 ---
 
@@ -49,7 +49,7 @@ Trạng thái: **Đã được tác giả phê duyệt toàn diện; đang tiế
   - **Xung đột nhận thức của một kỹ sư IT:** Khanh tua đi tua lại hai hình ảnh đối lập trong đầu:
     - *Hình ảnh A:* Cánh tay trái dị tật của cô Thủy ngoài đời thực — khớp cổ tay gồ sần sùi, năm ngón tay co quắp như móng vuốt, run lẩy bẩy không cầm nổi que diêm châm nhang.
     - *Hình ảnh B:* Cánh tay trái trong đoạn băng Dahua — thon dài, trắng muốt, cầm bút thoăn thoắt phác từng đường nét chiếc đài cassette, rồi cái ngửa cổ 45 độ nhìn trừng trừng vào ống kính.
-    - *Nghi vấn thứ ba:* Lời thì thào của cô con dâu về bức thư dưới gối ông Cường gửi cho cô Thủy từ mấy hôm trước. Tại sao một người sống khỏe mạnh lại viết thư giấu dưới gối cho em gái ruột trước khi ngã gãy cổ?
+    - *Nghi vấn thứ ba:* Cái chết bất đắc kỳ tử của ông Cường. Chiều hôm trước còn phóng xe Wave đi mua chè, tối còn cười nói đánh cờ đầu ngõ, đêm bỗng ngã gãy cổ đâm thủng da gáy, móng tay cào toác tường.
   - Khanh bước qua chiếc cầu ván mương nước vào chợ. Chợ chiều tấp nập người mua hoa cúc, cau trầu, xôi gà chuẩn bị cúng Rằm. Sự sống đời thường ồn ã đối lập gay gắt với nỗi sợ chết chóc đang gặm nhấm tâm can anh.
   - Khanh bước vào tiệm. Chiếc đài cassette giấy bồi đặt trên tủ kính đập ngay vào mắt anh.
 
@@ -60,7 +60,7 @@ Trạng thái: **Đã được tác giả phê duyệt toàn diện; đang tiế
   - **Khanh thuật lại những gì đã thấy:**
     - Cảnh khâm liệm ghê rợn: đốt sống cổ gãy lìa nẹp hai thanh gỗ bọc vải điều, vôi bột lấp máu, bùa đỏ dán che mặt.
     - Đập tan giả thuyết mạo danh: Cô Thủy bị tật tay trái nặng từ bé, không thể nào là người phụ nữ trong camera.
-    - Manh mối bức thư: Người nhà tìm thấy phong bì thư không dán tem dưới gối ông Cường gửi cô Thủy, và phản ứng kinh hoàng của cô Thủy khi nghe nhắc đến nó.
+    - Manh mối 30 năm: Tiếng xì xào của các bô lão về mốc thời gian "đúng ba mươi năm" và nỗi sợ trùng tang.
   - **Bà Lan tiết lộ thông tin từ các bô lão quán nước:**
     - Ngồi trà nước với mấy bà lão cao niên bán trầu và làm bánh thời xưa, bà Lan đã xâu chuỗi được bí mật gia tộc họ Vũ cách đây đúng 30 năm (năm 1996):
     - Nhà ông giáo Vũ thời đó có ba người con: Cường (anh cả), **Thoa (con gái thứ hai)**, và Thủy (con gái út).
@@ -84,7 +84,7 @@ Trạng thái: **Đã được tác giả phê duyệt toàn diện; đang tiế
   - **Cú nổ cao trào kết chương (Climax & Hook):**
     - Giữa lúc Khanh và bà Lan chết lặng vì kinh hãi, chiếc điện thoại bàn / điện thoại di động của bà Lan đổ chuông vang dội, phá toang sự im lặng.
     - Bà Lan run rẩy bấm loa ngoài: Giọng cô Thủy từ đầu dây bên kia nghẹn ngào, lắp bắp trong tiếng thở dốc kinh hoàng:
-      *"Bác Lan ơi... cứu em với... Bức thư của anh Cường... trong thư anh Cường viết... con Thoa... con Thoa nó về đòi lại cái đài..."*
+      *"Bác Lan ơi... cứu em với... Tin nhắn thoại của anh Cường... anh Cường bảo... con Thoa... con Thoa nó về đòi lại cái đài Tiệp rồi..."*
     - Tiếng thét thất thanh của cô Thủy vọng qua loa cùng âm thanh đồ vật rơi vỡ loảng xoảng trước khi đường truyền bị cắt đứt bằng tiếng tút dài lạnh ngắt.
 
 ---
@@ -112,7 +112,7 @@ Trạng thái: **Đã được tác giả phê duyệt toàn diện; đang tiế
 
 ## 7. Khóa rò rỉ thông tin (Leakage Lock)
 
-- **KHÔNG** để cô Thủy đọc toàn văn bức thư ngay lúc này (chỉ hé lộ một câu hoảng loạn xác nhận sự trở lại của cái tên "con Thoa" và chiếc đài).
+- **KHÔNG** để lộ toàn văn nội dung tin nhắn thoại lúc này (chỉ hé lộ một câu hoảng loạn xác nhận sự trở lại của cái tên "con Thoa" và chiếc đài).
 - **KHÔNG** khẳng định ông Cường bị ma bẻ cổ hay do tự ngã (giữ vững sự bất khả tri về nguyên nhân cái chết cơ học).
 - **KHÔNG** lôi sổ tay của ông nội hay hồ sơ lưu trữ ra giải thích quy luật siêu nhiên (tuân thủ quy tắc: tri thức của ông nội chỉ xuất hiện khi các manh mối nhân sinh đã cạn).
 - **KHÔNG** tiết lộ thân phận của kẻ thứ ba đang âm thầm gây áp lực (người tống tiền / người nắm bí mật cũ).
@@ -126,7 +126,7 @@ Trạng thái: **Đã được tác giả phê duyệt toàn diện; đang tiế
    - **Dị tượng siêu nhiên xúc giác & thính giác rợn tóc gáy:** Tiếng rè băng từ cassette rỗng phát ra từ chiếc đài giấy mã và nắp hộc băng giấy tự bật mở giữa tiệm mã lúc chập tối.
    - **Cú sốc tột bực ở hồi chuông kết chương:** Lời cầu cứu xé lòng của cô Thủy xác nhận nỗi ám ảnh 30 năm trước đã chính thức trở lại đòi nợ máu.
 2. **Áp lực tiến bước (Forward Momentum):**
-   - Sự an toàn của cô Thủy đang bị đe dọa trực tiếp; bức thư dưới gối ông Cường trở thành tâm điểm buộc Khanh và bà Lan phải hành động ngay trong đêm 14 rạng sáng ngày Rằm tháng Giêng.
+   - Sự an toàn của cô Thủy đang bị đe dọa trực tiếp; cú điện thoại đứt quãng kèm tiếng thét và đồ sứ vỡ toang buộc Khanh và bà Lan phải hành động ngay trong đêm 14 rạng sáng ngày Rằm tháng Giêng.
 
 ---
 

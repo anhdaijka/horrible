@@ -12,7 +12,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: final
-word-count: 2227
+word-count: 2238
 ---
 
 # Chương 1: Bốn ngày trước
@@ -35,7 +35,7 @@ Bà Lan ngẩng lên.
 
 Bàn tay đang kéo miệng một chiếc túi nilon của bà Lan dừng lại.
 
-Chỉ một nhịp thôi. Bà thả túi xuống, giọng hạ thấp hẳn:
+Chỉ một nhịp thôi. Bà thả túi xuống, hạ giọng hẳn:
 
 — Ông Cường nào? Cường xóm Trại à?
 

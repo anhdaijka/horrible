@@ -50,6 +50,7 @@ Before approving an opening chapter or major arc scene, ask:
 3. Is ordinary life increasing credibility/attachment, or merely consuming pages?
 4. Did narrator exposition leak a later reveal?
 5. Are we accidentally treating ambiguity or mundane explanation as mandatory sophistication?
+6. Is the scene free of cheap theatrical jumpscares, grounding every eerie anomaly in dual-layer logic (visceral dread + fair-play detective clues with high re-read value)?
 
 **Realism is the floor, not the ceiling. Ambiguity is optional. Fictional ghosts may be real.**
 
@@ -85,6 +86,15 @@ Keep these layers separate:
 `research fact → testimony/belief → observed event → author-canon supernatural truth`
 
 The final layer is fictional and may be genuinely supernatural.
+
+## Psychological trapping & retroactive dread gate
+
+For scenes advancing mystery, ritual, or uncanny encounters:
+
+1. Did the protagonist unwittingly trigger a karmic tripwire or commit a minor transgression against folk taboo?
+2. Is the interiority trapped inside Limited 3rd POV, feeling the suffocating dread of possible spiritual contamination or a stranger's grim prediction?
+3. Does the dread fuel a clash between Khanh's IT rationality and deep-seated rural superstition?
+4. Does the narrative preserve the claustrophobic pressure without the narrator stepping in to prematurely debunk or validate the curse?
 
 ## Prose social-address + physicality gate
 

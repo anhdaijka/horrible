@@ -13,8 +13,7 @@ Trạng thái: **Đề cương đề xuất; chờ tác giả phê duyệt trư�
 - **Đối chiếu nhân dạng thực tế (The Physical Grounding Shock):** Khanh tận mắt chứng kiến **cô Thủy thật** bằng xương bằng thịt trở về chịu tang anh trai.
   - Xác thực trực quan vết tật cơ thể học: cổ tay trái khoèo tật, khớp xương gồ sần sùi, ngón tay co quắp không thể cầm nén nhang — đập tan hoàn toàn khả năng cô Thủy là người đến tiệm mã mùng 10.
 - **Tung manh mối đời thường một cách tự nhiên (Casual Lore Drop):**
-  - Nghe lỏm những lời bàn tán của các bô lão về tai nạn gãy cổ dị thường của ông Cường và lời phán của thầy cúng.
-  - Xuất hiện một chi tiết mới liên quan đến đồ đạc người chết: bức thư/phong bì để đầu giường ông Cường gửi cho cô Thủy trước khi chết.
+  - Xuất hiện chi tiết rùng rợn về cái chết: mười đầu ngón tay cào toác tường, xương cổ đâm thủng gáy và câu nói lỡ miệng của cụ già: "Năm nay đúng ba mươi năm...".
 
 ---
 
@@ -63,7 +62,7 @@ Trạng thái: **Đề cương đề xuất; chờ tác giả phê duyệt trư�
     - Cái chết ngã trẹo cổ quá kỳ quặc: ngã từ bậc thang thấp mà đầu xoay ngược gần một trăm tám mươi độ, xương cổ đâm thủng da, móng tay cào toác vôi tường như bị ai giằng giật xuống.
     - Thầy cúng bấm giờ chết đêm mười ba phán rằng giờ này phạm vào giờ hung, dặn dò gia quyến phải chêm gối nẹp chặt cổ và dán bùa che mắt người chết trước khi đậy nắp quan tài để tránh bị "bắt thêm người".
 
-### Cảnh 4.3: Người về từ Yên Phong — Sự thật cơ thể học và bức thư đầu giường
+### Cảnh 4.3: Người về từ Yên Phong — Sự thật cơ thể học và ánh nhìn ma mị
 - **Bối cảnh:** Trước cổng rạp tang xóm Trại giữa trưa hanh.
 - **Hành động & Diễn biến:**
   - Một chiếc xe ôm Dream cũ bóp còi inh ỏi rẽ vào ngõ, đỗ xịch trước cổng rạp.
@@ -74,8 +73,8 @@ Trạng thái: **Đề cương đề xuất; chờ tác giả phê duyệt trư�
     - Cánh tay trái của cô buông thõng, cổ tay gồ lên một cục xương sần sùi biến dạng (di chứng gãy khớp năm 12 tuổi), các ngón tay co quắp cứng đờ, run rẩy bấu vào vạt áo tang. Cô Thủy hoàn toàn không thể mở thẳng bàn tay hay điều khiển ngón tay trái.
     - Khanh rùng mình lạnh toát: người phụ nữ này chính là cô Thủy thật. Vậy người phụ nữ mang cùng khuôn mặt này, nhưng dùng bàn tay trái trắng muốt vẽ đài cassette thoăn thoắt và nhìn trừng trừng vào camera sáng mùng 10 là ai?
   - **Manh mối kết chương đầy áp lực:**
-    - Sau khi cô Thủy vái lạy xong, người con dâu ông Cường dìu cô vào buồng trong nghỉ ngơi, ghé tai nói nhỏ trong nước mắt: *"Cô Thủy ơi... lúc sáng dọn giường cho bố cháu... dưới gối của bố có một phong bì thư không dán tem, bên ngoài ghi gửi cho cô từ mấy hôm trước... cháu cất trong ngăn kéo bàn thờ..."*
-    - Nghe đến chiếc phong bì dưới gối, cô Thủy bỗng khựng lại, mặt cắt không còn một hạt máu, ánh mắt tràn ngập nỗi kinh hoàng tột độ.
+    - Sau khi cô Thủy vái lạy xong, người con dâu ông Cường dìu cô, ghé tai dặn dò cô vào buồng trong uống hớp nước nóng nghỉ ngơi trước giờ nhập quan 14h30.
+    - Cô Thủy gật đầu trong im lặng, nhưng khi người con dâu quay đi, cô khẽ nghiêng đầu, khóe miệng giật giật nhếch lên một nụ cười cay đắng méo xệch — góc nghiêng khuôn mặt tình cờ trùng khít rợn người với ánh nhìn vào camera sáng mùng 10.
 
 ---
 
@@ -100,9 +99,8 @@ Trạng thái: **Đề cương đề xuất; chờ tác giả phê duyệt trư�
 
 ## 7. Khóa rò rỉ thông tin (Leakage Lock)
 
-- **KHÔNG** mở phong bì thư hay tiết lộ nội dung bức thư trong Chương 4.
-- **KHÔNG** giải thích Vũ Thị Thoa là ai (chỉ cho thấy sự liên đới bí ẩn giữa chiếc phong bì đầu giường và nỗi khiếp đảm của cô Thủy).
-- **KHÔNG** đưa nhân vật nặc danh hay bản ghi chép của ông nội vào lúc này.
+- **KHÔNG** để lộ uẩn khúc cái chết 30 năm trước hay vị trí cất giấu kỷ vật.
+- **KHÔNG** giải thích Vũ Thị Thoa là ai hay vội vàng đưa bản ghi chép của ông nội vào lúc này.
 
 ---
 

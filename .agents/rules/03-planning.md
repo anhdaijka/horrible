@@ -13,5 +13,7 @@ Before prose drafting, establish an explicit plan containing:
 - questions affected
 - continuity risks
 - forbidden or premature reveals
+- psychological knots / karmic tripwires (unwitting transgressions or taboo anxieties planned)
+- sensory & interior dread arc (how claustrophobic tension escalates in Limited 3rd POV)
 
 Planning output is a proposal. Do not draft until the author approves when the plan materially changes plot or character trajectory.

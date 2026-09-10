@@ -12,7 +12,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: final
-word-count: 3254
+word-count: 2813
 ---
 
 # Chương 2: Đêm mười ba
@@ -25,7 +25,7 @@ Người đàn bà xóm Trại đứng bên kia quầy sốt ruột dịch chân
 
 — Ai đặt đấy chị? — Người đàn bà hỏi lại, giọng khàn đặc vì khói thuốc lá hay hơi lạnh từ sương sớm. — Nhà em từ nửa đêm đến giờ loạn cào cào, có ai bảo đi chợ mua bán gì đâu.
 
-Bà Lan không ngẩng lên ngay. Đầu ngón tay trỏ của bà miết qua miết lại chữ “Thoa” trên mặt giấy, chậm rãi, như đang lần giở lại từng người quen trong chợ. Rồi bà ngước mắt, giọng hạ thấp:
+Bà Lan không ngẩng lên ngay. Đầu ngón tay trỏ của bà miết qua miết lại chữ “Thoa” trên mặt giấy, chậm rãi, như đang lần giở lại từng người quen trong chợ. Rồi bà ngước mắt, hạ giọng:
 
 — Thế cô Thoa trong nhà mình không bảo gì à?
 
@@ -51,13 +51,13 @@ Ngón tay người đàn bà run bắn, bấu chặt vào mép kính quầy hàn
 
 Người đàn bà xóm Trại rùng mình một cái rõ mạnh, hàm răng va vào nhau lập cập:
 
-— Cái cổ bác ấy bị bẻ gãy gập, trẹo ngược hẳn ra phía sau một góc gần một trăm tám mươi độ! Chỗ gáy rách toạc da thịt, đốt sống cổ gãy lìa đâm lòi cả đầu xương trắng hếu ra ngoài, máu lẫn tủy trào ộc ra nhầy nhụa. Hai con mắt thì lồi hẳn ra ngoài hốc mắt như sắp rớt xuống gò má, trợn ngược trắng dã vằn những tia máu đỏ lòm, trừng trừng nhìn ngược lên chiếu nghỉ tầng hai — chỗ tối om trên đỉnh cầu thang — nhìn như thể đang trông thấy thứ gì kinh hoàng lắm đứng trên ấy nhìn xuống. Hàm dưới lệch hẳn sang một bên, mồm há hốc méo xệch như đang gào thét câm lặng, máu với bọt mép trào ra ùng ục. Mười đầu ngón tay thì cào rách toác cả mảng vôi tường sát đất, móng tay bật tung trơ cả đầu xương ngón dính bết vôi trắng với máu tươi, như thể lúc rơi xuống bác ấy đã quằn quại bấu víu lấy bất cứ thứ gì để chống lại một sức kéo vô hình lôi giật ngược xuống. Bác gái sờ vào người lay gọi thì... người bác Cường đã lạnh ngắt như tảng băng trôi ngâm dưới đáy giếng từ đời nào rồi, dù vừa mới ngã xong có vài giây!
+— Cổ bác ấy gãy quặt ra sau. Chỗ gáy rách, xương lộ ra. Mắt vẫn mở trừng trừng nhìn lên chiếu nghỉ tầng hai. Hai bàn tay cào sát chân tường, móng bật gần hết. Bác gái chạy ra lay thì người đã lạnh ngắt, trong khi mới nghe tiếng ngã có vài giây.
 
 Người đàn bà nuốt nước bọt đánh ực một cái, mặt tái mét:
 
-— Nửa đêm mấy ông hưu trí trong xóm chạy sang đỡ, nhìn thấy cái cảnh chết trẹo cổ lòi xương mắt trợn trừng ấy mà hồn xiêu phách lạc, chân tay bủn rủn. Ông Chắt đầu ngõ vừa run bần bật vừa cố nói tếu táo nửa đùa nửa thật để tự trấn an, bảo khéo lão Cường đêm hôm trúng phải vía ma nữ nào, dưới âm có ả nào đòi nợ tình xưa nên nó giật lòi cả xương họng bẻ gập cổ thế này, chứ người hộ pháp thế trượt ngã thế đéo nào được! Có ông còn bỡn bảo chắc lão vội chạy xuống dưới ấy tìm cạ lập sòng cờ mới nên bị quỷ nó kéo giật ngược. Miệng thì bông đùa gở mồm thế thôi, chứ lúc mấy ông ấy run rẩy thò tay định xốc cái xác lên, chạm vào khúc xương cổ lòi ra lạnh ngắt và nhìn trúng đôi mắt lồi trắng dã đang chong chong nhìn ngược lên gác xép... thì ông Chắt sợ quá thét lên một tiếng, buông tay thụt lùi ngã ngồi bệt xuống đất, vãi cả đái ra quần! Chẳng ai dám hé răng đùa thêm nửa câu. Gọi xe cấp cứu đến nơi thì bác sĩ nhìn cái cổ ngoẹo lòi xương ấy cũng lắc đầu tái mặt, bảo đứt tủy chết tức tưởi từ trước khi chạm đất rồi! Đột ngột và man rợ thế đấy chị ạ! Cả họ cả hàng nửa đêm nửa hôm nháo nhào chạy sang, chân tay bủn rủn. Đến giờ này vẫn còn chưa đâu vào đâu, bên dịch vụ tang lễ họ vừa chở cái tủ ướp xác về đến cổng ngõ, mẹ con nhà em mới nhớ ra chưa có bộ quần áo với xấp tiền để làm lễ khâm liệm, em mới phải chạy bổ ra đây!
+— Mấy ông hưu trí đầu ngõ chạy sang, ban đầu còn cố nói đùa cho đỡ sợ. Ông Chắt bảo người như bác Cường mà trượt cái cầu thang ấy thì lạ quá. Nhưng đến lúc định xốc người lên, nhìn cái cổ với đôi mắt cứ mở ngược lên gác, chẳng ai đùa nổi nữa. Xe cấp cứu đến cũng chỉ xác nhận là không còn cứu được. Cả nhà cuống từ nửa đêm đến giờ. Tủ ướp xác vừa chở tới cổng, em mới sực nhớ chưa có quần áo với tiền vàng để khâm liệm nên chạy ra đây.
 
-Khoảng không gian hẹp giữa hai dãy giá hàng bỗng chốc lặng ngắt.
+Khoảng không gian hẹp giữa hai dãy giá hàng bỗng lặng ngắt.
 
 Ngoài hiên chợ, người ta vẫn đang kì kèo bớt một hai nghìn tiền bó rau cần. Một bà khách khác bước vào, ngó nghiêng dãy tiền vàng treo lủng lẳng trên đầu rồi gọi với vào:
 
@@ -105,7 +105,7 @@ Tiếng chợ áp Rằm dội vào ầm ĩ: tiếng băm thịt chan chát trên
 
 Nhưng bên trong chiếc quầy kính, không khí như đặc quánh lại.
 
-Bà Lan đứng bất động trước quầy, đôi bàn tay thoăn thoắt thường ngày buông thõng bên sườn. Bà nhìn chằm chằm vào chiếc đài cassette giấy nằm cô độc trên mặt kính. Mặt giấy bạc của chiếc đài hắt lại ánh sáng lờ nhờ, cái lỗ tròn giả làm loa quay thẳng về phía hai người như một con mắt rỗng tuếch.
+Bà Lan đứng bất động trước quầy, đôi bàn tay thoăn thoắt thường ngày buông thõng bên sườn. Bà nhìn chằm chằm vào chiếc đài cassette giấy nằm cô độc trên mặt kính. Mặt giấy bạc của chiếc đài hắt lại ánh sáng lờ nhờ, cái lỗ tròn giả làm loa quay thẳng về phía hai người như một hốc mắt rỗng.
 
 — Khanh. — Bà Lan cất tiếng, giọng khẽ đến mức lọt thỏm giữa tiếng ồn ngoài chợ.
 
@@ -129,7 +129,7 @@ Chín giờ mười bốn phút sáng ngày mùng mười tháng Giêng.
 
 Khanh nhìn vào con số ấy, rồi quay sang nhìn cuốn sổ bìa xanh trên bàn.
 
-Anh lật lại trang giấy. Nét mực xanh viết tay của người phụ nữ tự xưng là Vũ Thị Thoa vẫn nằm đó, khô cộm, sắc nét. Những con chữ xiêu vẹo nghiêng sang bên phải, cái cách đưa nét run run nhưng dứt khoát của một người cầm bút bằng bàn tay trái không thuận mắt.
+Anh lật lại trang giấy. Nét mực xanh viết tay của người phụ nữ tự xưng là Vũ Thị Thoa vẫn nằm đó, khô cộm, sắc nét. Những con chữ xiêu vẹo nghiêng sang bên phải, cái cách đưa nét run nhưng dứt khoát của một người cầm bút bằng bàn tay trái không thuận mắt.
 
 *Vũ Thị Thoa — Vũ Văn Cường, 59, xóm Trại.*
 

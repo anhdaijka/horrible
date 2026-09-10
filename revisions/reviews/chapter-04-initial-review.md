@@ -41,7 +41,7 @@ Trạng thái: **Đã được tác giả thẩm duyệt và chính thức CANON
   - Động cơ sang viếng được thiết lập chặt chẽ: Không phải nghĩa vụ xóm giềng hời hợt, mà là **nỗi sợ nghề nghiệp thực tế của dân buôn mã**. Ôm một món "đồ đoạt mệnh" (đài cassette đặt trước cho người chết bất đắc kỳ tử mà gia đình từ chối nhận) qua đêm Rằm sẽ mang lại đại họa "ám tiệm".
   - Mượn lời mời sáng nay và chiếc phong bì viếng làm bình phong danh chính ngôn thuận để cử Khanh sang hiện trường tạ lễ xua dớp, dò la xem cô Thủy có về không và tìm cơ hội gửi đài vào áo quan trước giờ nhập quan; trong khi bà Lan ở lại hậu phương sang ngõ sau điều tra về cái tên Vũ Thị Thoa.
 - **Kỷ luật thông tin (Leakage Guard):**
-  - PASS: Tuyệt đối chưa mở phong bì thư hay tiết lộ nội dung bức thư.
+  - PASS: Tuyệt đối không để lộ uẩn khúc 30 năm trước hay danh tính kẻ gửi đài.
   - PASS: Không giải thích Vũ Thị Thoa là ai hay vụ chết đuối 30 năm trước (chỉ hé lộ một nửa câu nói của ông giáo "năm nay đúng ba mươi năm..." rồi nghẹn lại).
   - PASS: Giữ trọn vẹn văn phong lạnh lùng, miêu tả giác quan sắc nét, không có lời giảng giải triết lý thay tác giả.
 

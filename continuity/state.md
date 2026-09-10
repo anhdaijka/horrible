@@ -1,7 +1,7 @@
 ---
 type: continuity-state
 story: horrible
-current-chapter: 4
+current-chapter: 5
 character-state: []
 object-state: []
 knowledge-state: []
@@ -9,7 +9,7 @@ knowledge-state: []
 
 # Continuity State
 
-Current manuscript canon ends after **Chapter 4 — `Rạp tang xóm Trại`**.
+Current manuscript canon ends after **Chapter 5 — `Băng từ rỗng`**.
 
 ## On-page canon established in Chapter 1
 
@@ -56,8 +56,30 @@ Current manuscript canon ends after **Chapter 4 — `Rạp tang xóm Trại`**.
 - **Physical trauma confirmation:** Inside the half-open coffin, Khanh witnesses a brown support pillow and two thin wooden splints wrapped in red cloth holding the fractured vertebrae in place to prevent the head from flopping or rotating backwards.
 - **Eerie lore & trùng tang:** Village elders whisper that the 3rd cervical vertebra ruptured the skin at the nape with clotted black blood, fingernails tore off clawing the wall, and the ritual specialist ordered a red sealing talisman over the face and four iron nails hammered into the coffin corners. An elder cuts himself off after mentioning "exactly thirty years...".
 - **The physical grounding shock (Cô Thủy's arrival):** Cô Thủy arrives by motorbike taxi, broken and weeping. Khanh directly observes her lighting incense with her right hand while her left arm hangs limp with a severely deformed, scarred wrist and rigid clawed fingers, confirming the biological impossibility of the CCTV entity.
-- **Forward hook:** The daughter-in-law reveals that an unstamped envelope addressed to cô Thủy was found under ông Cường's pillow several days before his death. Cô Thủy freezes in utter terror.
+- **Forward hook:** The daughter-in-law gently comforts cô Thủy, urging her to go into the back room to drink hot water and rest before the 14:30 encoffining ceremony; cô Thủy's subtle facial twitch and hollow gaze momentarily mirror the CCTV footage.
+
+## On-page canon established in Chapter 5
+
+- **Sensory & cognitive aftermath:** Khanh leaves xóm Trại with dried white lime powder on his sneaker soles (used to suppress the stench of blood from the fatal fall). Contrast between bustling pre-Rằm market and the cold dread of death.
+- **Debrief behind closed shutters:** Khanh reports the funeral scene to bà Lan: the wooden splints holding Cường's fractured neck, the elders' trùng tang fears (*"Năm nay đúng ba mươi năm..."*), and cô Thủy's withered left hand (conclusively ruling out living impersonation).
+- **The buried 30-year family secret:** Bà Lan reveals intelligence gathered from the 84-year-old tea-stall matriarch at the back market:
+  - In 1996, the Vũ family had a forgotten middle sister: **Vũ Thị Thoa** (born 1976), who was **naturally left-handed**, quiet, and drew skillfully.
+  - In summer 1996, Thoa drowned in the lotus pond at xóm Trại at age 20 amid bitter, suppressed family disputes (inheritance, forced marriage, family conflict).
+  - The strict Confucian patriarch declared her an unfilial curse, buried her hastily without music, burned all her photos, drawings, and notebooks after 49 days, erased her name from the genealogy, and forbade anyone in the family or village from ever speaking her name.
+  - The only possession that vanished and was never found to be burned was her prized foreign **cassette radio with a black body and silver face** sent from Czechoslovakia by an uncle.
+- **Physical inspection & frequency clue:** Examining the paper radio, Khanh discovers the craftsman faithfully copied a frequency marker from the left-handed blueprint sketch: `FM 102.5 MHz` with a small red dot.
+- **Uncanny auditory manifestation:** As dusk settles and market loudspeakers shut off, local temperature around the counter drops. An undeniable mechanical static hiss (`magnetic tape hiss` - tiếng rè rè xèo xèo của sợi băng từ cassette rỗng cọ sát vào đầu từ) emanates from the empty paper cassette compartment.
+- **Physical anomaly:** The paper cassette compartment door suddenly pops open (*TÁCH!*) at a 15-degree angle without human contact.
+- **High-pressure cliffhanger call:** Cô Thủy calls bà Lan's phone from the rear bedroom in xóm Trại in breathless, hysterical terror: she opened Zalo and listened to a 38-second voice message sent by ông Cường at 22:54 the night before (minutes before his fatal fall), in which he whispers in horror about hearing Thoa's Czech cassette playing by the lotus pond and that Thoa has returned to reclaim her cassette radio. She screams that someone/something is scratching on her bedroom window with a left hand. Porcelain shatters, cô Thủy screams, and the phone cuts to a dial tone.
+
+## On-page canon established in Chapter 6
+
+- **Emergency response & human panic clumsiness:** Bà Lan drops the shop keys under the glass counter; Khanh struggles to unlock the rusty padlock; the old Wave scooter misfires and requires manual choke and repeated kickstarts; sương muối and disorientation in xóm Trại lead to a dead-end alley and near-skid into an open sewage drain; persistent dog barking heralds nocturnal dread.
+- **The midnight wake & bedroom breach:** Arriving around 19:30 on the eve of Rằm (đêm 14), Khanh and bà Lan encounter the exhausted son-in-law asleep on the porch; they breach the locked rear bedroom to find cô Thủy unconscious on the cold tile floor beside a shattered porcelain teacup.
+- **Dual-layer window clue (Anti-jumpscare fair play):** An open window facing the lotus pond has an old chinaberry branch tapping against the wooden bars in the wind, but on the whitewashed sill are damp black pond-mud smears shaping a distinct **left-hand print**, reeking of stagnant pond rot.
+- **Detective core — The 38-second Zalo voice message:** Khanh retrieves cô Thủy's smartphone, displaying a 38-second Zalo voice message sent by ông Cường at **22:54 — 13 Thg 01** (10–15 minutes before his fatal staircase fall). Playing the message reveals tape hiss of a Czech cassette playing Thoa's song out by the pond, ông Cường's panicked whisper (*"Thủy ơi... mày thức không... Đêm nay tao lại nghe tiếng cái đài Tiệp của con Thoa ngoài bờ đầm... Chuyện năm ấy ở đầm sen không giấu được nữa đâu... Cái đài năm xưa tao giấu ở..."*), followed by acoustic horror of wet dragging footsteps (*bạch... bạch...*), nails scraping down the wooden stair rail (*kẹttt... kẹttt...*), a choked gasp, a body tumbling down the stairs, and abrupt silence.
+- **Closing hook:** The black plastic bag holding the paper cassette radio on the tea table puffs up and rustles. Cô Thủy regains consciousness, pointing her deformed left arm toward the bag in sheer terror: *"Nó... nó ngồi... trên nóc đài..."*.
 
 ## Forward continuity lock
 
-Chapter 5 moves forward from these facts. The letter under the dead man's pillow connects the deceased brother to cô Thủy. Leakage locks remain strictly enforced: contents of letter, the 30-year-old drowned sister identity, and blackmailer reveal remain hidden until earned.
+Chapter 7 moves into the night of the 14th / early morning of Rằm. The secret of the hidden 1996 cassette radio must be investigated before the morning funeral procession. Leakage gates remain locked: specific culpability and the hidden location of the real radio remain unresolved.

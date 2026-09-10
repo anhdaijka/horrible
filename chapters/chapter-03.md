@@ -12,7 +12,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: final
-word-count: 4737
+word-count: 4576
 ---
 
 # Chương 3: Bàn tay trái
@@ -81,7 +81,7 @@ Khanh giật mình quay sang nhìn mẹ:
 
 — Mẹ bảo ai cơ?
 
-— Con Thủy! — Giọng bà Lan run bần bật, vừa hoang mang vừa pha lẫn sự tức giận tột độ của một người vừa nhận ra người quen lừa mình. — Em gái ruột thằng Cường xóm Trại! Cái mũi gãy, hai cái gò má cao với cái nốt ruồi chìm ngay bên cánh mũi trái kia kìa! Mày nhìn kỹ cái đuôi mắt xếch của nó xem, giống hệt bà cụ thân sinh ra thằng Cường ngày xưa! Trời ơi là trời, sao sáng nay con dâu xóm Trại lại bảo con Thủy lấy chồng tít bên Yên Phong, đi làm công ty may không về được? Nó đứng sờ sờ ở cửa hàng nhà tao đây này!
+— Con Thủy! — Giọng bà Lan run bần bật, vừa hoang mang vừa pha lẫn sự tức giận  của một người vừa nhận ra người quen lừa mình. — Em gái ruột thằng Cường xóm Trại! Cái mũi gãy, hai cái gò má cao với cái nốt ruồi chìm ngay bên cánh mũi trái kia kìa! Mày nhìn kỹ cái đuôi mắt xếch của nó xem, giống hệt bà cụ thân sinh ra thằng Cường ngày xưa! Trời ơi là trời, sao sáng nay con dâu xóm Trại lại bảo con Thủy lấy chồng tít bên Yên Phong, đi làm công ty may không về được? Nó đứng sờ sờ ở cửa hàng nhà tao đây này!
 
 Khanh nheo mắt nhìn sát vào màn hình. 
 
@@ -113,7 +113,7 @@ Khi Khanh đưa cây bút bi qua, tay phải của bà ta vẫn buông thõng b�
 
 Thay vào đó, cánh tay trái của bà ta nhấc lên.
 
-Bàn tay trái ấy có những ngón tay gầy guộc, thon dài và trắng bệch một cách lạ lùng so với nước da ngăm đen của khuôn mặt. Bàn tay trái đón lấy cây bút bi từ tay Khanh. Ngón trỏ và ngón cái kẹp nhẹ vào thân bút, ngón giữa đỡ bên dưới — một tư thế cầm bút tay trái vô cùng tự nhiên, thuần thục, không hề có một chút ngượng ngập hay gượng gạo của một người dùng tay nghịch.
+Bàn tay trái ấy có những ngón tay gầy guộc, thon dài và trắng bệch một cách lạ lùng so với nước da ngăm đen của khuôn mặt. Bàn tay trái đón lấy cây bút bi từ tay Khanh. Ngón trỏ và ngón cái kẹp nhẹ vào thân bút, ngón giữa đỡ bên dưới — một tư thế cầm bút tay trái tự nhiên, thuần thục, không hề có một chút ngượng ngập hay gượng gạo của một người dùng tay nghịch.
 
 Người phụ nữ cúi đầu xuống mặt tủ kính.
 
@@ -125,13 +125,13 @@ Sau khi vẽ xong chiếc đài, bàn tay trái ấy dịch xuống bên dưới
 
 Bà Lan đứng chết trân bên cạnh bàn máy tính.
 
-Căn gác xép bỗng chốc lặng phắc, chỉ còn tiếng quạt gió của bộ nguồn CPU thổi phù phù từng đợt gió khô khốc vào cổ chân hai người.
+Căn gác xép bỗng lặng phắc, chỉ còn tiếng quạt gió của bộ nguồn CPU thổi phù phù từng đợt gió khô khốc vào cổ chân hai người.
 
 — Không... không phải, — giọng bà Lan run rẩy, lần này không còn là sự tức giận nữa, mà là một nỗi hoang mang bắt đầu chuyển hóa thành sợ hãi. — Con Thủy... con Thủy không bao giờ làm được thế này.
 
 — Sao mẹ biết cô Thủy không thuận tay trái? — Khanh hỏi, mắt vẫn không rời những ngón tay trên màn hình.
 
-— Tao biết chứ! Tao lạ gì nó! — Bà Lan nói dồn, hơi thở gấp gáp như người hụt hơi. — Nó kém tao bốn tuổi, ngày xưa cùng đi chăn trâu cắt cỏ với tao ngoài bãi sông Đuống. Cả họ nhà nó từ ông nội đến đời bố nó, đời anh em nó, không một ai dùng tay trái! Bố thằng Cường ngày xưa là cụ đồ nho nghiêm khắc có tiếng trong làng, thời bao cấp cụ mở lớp dạy chữ ở nhà, đứa nào cầm đũa hay cầm bút bằng tay trái là cụ lấy thước lim gõ sưng cả mu bàn tay, bắt đổi sang tay phải bằng được! Con Thủy từ bé đến lớn bưng bát, gắp thịt, cầm liềm cắt rạ, xâu kim khâu nón... cái gì cũng tay phải. Đến đợt làm sổ họ cách đây mấy năm, nó ngồi ngay cái bàn dưới nhà ký tên vào sổ, tay phải nó cầm bút run như cầy sấy vì ít chữ, chứ tay trái nó có biết cầm cái gì đâu!
+— Tao biết chứ, tao lạ gì nó. — Bà Lan nói liền một mạch. — Nó kém tao bốn tuổi, hồi bé còn đi chăn trâu ngoài bãi với tao. Nhà ấy xưa nay ai cũng dùng tay phải. Bố nó nghiêm lắm, trẻ con mà cầm bút tay trái là bị gõ thước bắt đổi ngay. Con Thủy từ bé cũng thế. Mấy năm trước làm sổ họ, tao còn ngồi cạnh nó ký tên bằng tay phải. Tay trái nó có bao giờ dùng để viết đâu.
 
 Bà Lan đưa một ngón tay run rẩy chạm vào màn hình, ngay vị trí bàn tay trái đang lia bút:
 
@@ -177,7 +177,7 @@ Bà Lan cầm chén nước bằng cả hai tay, nước sóng sánh ra ngoài m
 
 — Tao không thể nhầm được, — bà Lan lẩm bẩm, giọng thì thào như sợ người đi đường nghe thấy. — Cái mặt ấy là mặt con Thủy. Từ cái đuôi mắt xếch đến cái sống mũi gãy... trăm phần trăm là mặt con Thủy. Nhưng cái tay trái... với cái dáng đứng ấy...
 
-Bà bỏ lửng câu nói, bất giác đưa tay sờ lên sau gáy.
+Bà bỏ lửng câu nói, đưa tay sờ lên sau gáy.
 
 — Hay là cô Thủy về thật mà người nhà giấu? — Khanh hỏi, cố kéo câu chuyện về một khả năng thực tế có thể kiểm chứng. — Sáng nay con dâu ông Cường nói với mẹ là cô Thủy ở Yên Phong, nhưng biết đâu hai anh em họ có chuyện xích mích từ trước, cô ấy về mua đồ mà không muốn cho người nhà biết?
 

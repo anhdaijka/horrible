@@ -1,6 +1,6 @@
 # Chapter 5 Review — `Băng từ rỗng`
 
-Trạng thái: **Bản thảo hoàn chỉnh (4.079 từ); đã thanh lọc sạch sẽ các cấu trúc câu AI ("Đó là", liệt kê nhị phân, anaphora); chờ tác giả thẩm duyệt**.
+Trạng thái: **Đã được tác giả thẩm duyệt và chính thức CANONIZE vào tác phẩm**.
 
 ---
 
@@ -8,9 +8,9 @@ Trạng thái: **Bản thảo hoàn chỉnh (4.079 từ); đã thanh lọc sạc
 - **File:** `chapters/chapter-05.md`
 - **Tiêu đề:** `Băng từ rỗng`
 - **Số từ:** 4.079 từ
-- **Trạng thái:** Draft
+- **Trạng thái:** Final
 - **Điểm nhìn:** Ngôi thứ ba giới hạn theo sát Nguyễn Minh Khanh
-- **Cảnh:** Gồm 3 cảnh đã đăng ký (`scenes/chapter-05-scene-01.md`, `scenes/chapter-05-scene-02.md`, `scenes/chapter-05-scene-03.md`).
+- **Cảnh:** Gồm 3 cảnh đã đăng ký (`scenes/chapter-05-scene-01.md`, `scenes/chapter-05-scene-02.md`, `scenes/chapter-05-scene-03.md`) — đều đạt trạng thái `final`.
 
 ---
 
@@ -31,7 +31,7 @@ Trạng thái: **Bản thảo hoàn chỉnh (4.079 từ); đã thanh lọc sạc
   - Âm thanh cơ học không thể lý giải: **tiếng rào rào, xèo xèo của sợi băng từ cassette rỗng cọ sát vào đầu từ (`magnetic tape hiss`)** phát ra rành rọt từ chính hộc băng giấy bồi rỗng tuếch!
   - Cửa hộc băng giấy tự động bật hé mở một góc 15 độ (*TÁCH!*) như có ngón tay vừa ấn nút *Eject*.
 - **Cú nổ cao trào kết chương (Climax Hook):**
-  - Chiếc điện thoại đổ chuông vang dội: Tiếng khóc nấc the thé, hoảng loạn tột cùng của cô Thủy qua loa ngoài: Bức thư dưới gối ông Cường viết *"con Thoa nó về đòi lại cái đài cassette... nó đang đứng ngoài cửa sổ buồng em... nó gõ bằng tay tr..."* kèm tiếng đồ sứ vỡ toang và tiếng tút dài lạnh ngắt.
+  - Chiếc điện thoại đổ chuông vang dội: Tiếng khóc nấc the thé, hoảng loạn tột cùng của cô Thủy qua loa ngoài: Tin nhắn thoại Zalo lúc nửa đêm của ông Cường bảo *"con Thoa nó về đòi lại cái đài Tiệp rồi... nó đang đứng ngoài cửa sổ buồng em... nó cào bằng tay tr..."* kèm tiếng đồ sứ vỡ toang và tiếng tút dài lạnh ngắt.
 
 ---
 
@@ -40,12 +40,13 @@ Trạng thái: **Bản thảo hoàn chỉnh (4.079 từ); đã thanh lọc sạc
 - **Tâm lý Khanh:** Giữ vững chất kỹ sư phân tích logic nhưng bất lực trước dữ liệu thực nghiệm; phản xạ tự nhiên của một chàng trai sợ ma khi giật thót người lùi lại va cột nhà ngã ghế.
 - **Tâm lý bà Lan:** Bản lĩnh một phụ nữ buôn mã lâu năm, biết dò hỏi đúng người đúng lúc (cụ bà 84 tuổi), nhưng khi sự việc gắn kết với người chết 30 năm trước thì run rẩy, tụng kinh lần tràng hạt tìm chỗ dựa tinh thần.
 - **Kỷ luật thông tin (Leakage Guard):**
-  - PASS: Tuyệt đối chưa mở toàn văn bức thư hay biến nó thành tài liệu điều tra án mạng.
+  - PASS: Tuyệt đối chưa mở nội dung đầy đủ của tin nhắn thoại hay biến nó thành tài liệu điều tra án mạng công khai.
   - PASS: Không giải thích bản chất siêu nhiên của hồn ma hay vội vàng đưa sổ tay ông nội ra hóa giải.
   - PASS: Giữ trọn vẹn điểm nhìn ngôi thứ ba giới hạn theo sát Khanh.
 
 ---
 
-## 4. Đề xuất tiếp theo
-- Trình tác giả thẩm duyệt toàn văn Chương 5 (`chapters/chapter-05.md`).
-- Sau khi được phê duyệt, cập nhật `continuity/state.md` lên `current-chapter: 5` và chuẩn bị brief cho Chương 6.
+## 4. Kết luận thẩm duyệt & Bàn giao
+- **Kết luận:** Tác giả đã chính thức phê duyệt toàn văn Chương 5.
+- **Canonization:** Đã cập nhật vào `continuity/state.md` (`current-chapter: 5`), `chapters/_index.md`, và `scenes/_index.md`.
+- **Bước tiếp theo:** Chuẩn bị brief và kế hoạch phân cảnh cho Chương 6.

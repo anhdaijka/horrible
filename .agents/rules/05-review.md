@@ -8,6 +8,9 @@ Separate dimensions:
 - dialogue/subtext/voice
 - prose/specificity/rhythm/repetition
 - continuity
+- psychological trapping / retroactive dread / claustrophobic interiority
+- non-visual sensory dread (olfactory, micro-climate cold, tactile unease)
+- detective-horror synergy (dual-layer clues, anti-jumpscare discipline, reader re-read value)
 - genre expectations when relevant
 
 Every actionable issue should include:

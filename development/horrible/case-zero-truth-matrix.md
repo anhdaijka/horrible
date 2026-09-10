@@ -138,6 +138,22 @@ This renews anxiety, insomnia and fear that the old secret may surface. That psy
 
 The victim later falls down stairs at home during the night. The exact immediate trigger may remain unclear.
 
+## The 30-Year Catalyst: Dual-Layer Mechanism (Approved Master Model)
+
+Why does Thoa's spirit / the crisis return after exactly thirty years (1996 $\rightarrow$ 2026), and not earlier? The story resolves this through an airtight dual-layer synergy (Physical/Detective + Folk Spiritual):
+
+### 1. Physical / Environmental Trigger (Động thổ san lấp đầm sen xóm Trại)
+- **Urbanization project (Early 2026):** Right after Lunar New Year 2026, the district begins a rural infrastructure project to concrete the inter-communal road and box-culvert the canal system bordering xóm Trại.
+- **Threat of physical exposure:** The stagnant lotus pond where Thoa drowned in summer 1996 is slated to be drained and partially filled. Survey stakes are driven into the muddy ground directly outside the rear bedroom window of ông Cường's home, and excavators begin exploratory digging.
+- **The hidden relic endangered:** The real Czech cassette radio—concealed by ông Cường thirty years ago near the pond edge—is about to be dredged up or paved over by concrete.
+- **Living pressure actor catalyst:** The living third party (who knows the 1996 truth) sees the construction equipment arriving, realizes the physical evidence is about to be unearthed, and launches an urgent intimidation campaign demanding ông Cường confess before the machines uncover the site.
+
+### 2. Folk Spiritual Expiration & Grandfather's Refusal (Đáo hạn bùa yểm cọc tre & "Không nhận lễ")
+- **Grandfather's refusal (1996):** Following Thoa's drowning in 1996, the patriarchal Vũ family panicked over potential *trùng tang* and spiritual retribution. They approached Khanh's grandfather (the most respected practitioner in Chợ Bến) with heavy offerings, asking him to perform an occult sealing ritual to bind the drowned girl's soul and keep the family safe. Grandfather perceived the family's cruel complicity and moral guilt, refused to participate in suppressing an unjustly dead soul, and entered a terse note into his private ledger: `Vũ Thị Thoa (xóm Trại) — Không nhận lễ.`
+- **Heterodox water-binding talisman (*Phép trấn thủy cọc tre*):** Turned away by grandfather, the family hired a shadowy ritual specialist from another area to pin down the spirit. The specialist buried Thoa's prized Czech cassette radio (the vital anchor of her spirit) beside a green bamboo stake carved with cinnabar talismans driven deep into the anaerobic pond mud to "lock" her grievance beneath the water.
+- **The 30-Year folk expiration:** In Northern folk occult belief, a raw bamboo stake in mud lasts roughly three decades (one human generation / 30 years) before the bamboo decomposes and the cinnabar ink dissolves. 
+- **The double trigger:** In the winter of 2026, as the 30-year talisman rots away, the excavator claws through the pond bed. Deprived of her watery resting place, erased from the family ancestral altar, and unbound from the rotting talisman, Thoa's spirit rises with terrifying immediacy to reclaim her stolen cassette radio and exact retribution before the site is buried under asphalt forever.
+
 ## Testimony classes
 
 ### Bà Lan

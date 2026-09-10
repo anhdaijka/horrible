@@ -7,7 +7,7 @@
 Repository: `anhdaijka/horrible`  
 Branch: `main`
 
-Current phase: **Chapter 5 drafted (`chapters/chapter-05.md`, 4.079 words). Next phase: Author review and approval of Chapter 5.**
+Current phase: **Chapter 6 drafted and revised (`chapters/chapter-06.md`, 6.139 words). Ready for author review and canonization.**
 
 Read first:
 
@@ -16,21 +16,23 @@ Read first:
 3. `author/creative-constitution.md`;
 4. `author/boundaries.md`;
 5. `author/style-bible.md`;
-6. `chapters/chapter-05.md`;
-7. `continuity/state.md`;
-8. `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`.
+6. `chapters/chapter-06.md`;
+7. `revisions/reviews/chapter-06-initial-review.md`;
+8. `continuity/state.md`;
+9. `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`.
 
 Do not reload Discovery 01–15 or old prototype prose by default.
 
 ## Active manuscript state
 
-- `chapters/chapter-01.md` — **`Bốn ngày trước`** — final — 2227 Story Skills words.
-- `chapters/chapter-02.md` — **`Đêm mười ba`** — final — 3254 words.
-- `chapters/chapter-03.md` — **`Bàn tay trái`** — final — 4737 words.
-- `chapters/chapter-04.md` — **`Rạp tang xóm Trại`** — final — 5413 words.
-- `chapters/chapter-05.md` — **`Băng từ rỗng`** — draft — 4079 words.
-- scenes 1.1–1.3, 2.1–2.3, 3.1–3.3, and 4.1–4.3 are final; scenes 5.1–5.3 are drafted. Total active words: **19.710 words**.
-- `continuity/state.md` is currently `current-chapter: 4` (advances to 5 upon author approval).
+- `chapters/chapter-01.md` — **`Bốn ngày trước`** — final — 2345 words.
+- `chapters/chapter-02.md` — **`Đêm mười ba`** — final — 2894 words.
+- `chapters/chapter-03.md` — **`Bàn tay trái`** — final — 4669 words.
+- `chapters/chapter-04.md` — **`Rạp tang xóm Trại`** — final — 6484 words.
+- `chapters/chapter-05.md` — **`Băng từ rỗng`** — final — 3827 words.
+- `chapters/chapter-06.md` — **`Đêm áp Rằm`** — draft / review — 6139 words.
+- scenes 1.1–1.3, 2.1–2.3, 3.1–3.3, 4.1–4.3, 5.1–5.3 are final; 6.1–6.3 drafted. Total active words: **26.358 words**.
+- `continuity/state.md` is now `current-chapter: 5` (updating to 6 upon author canonization).
 - old `Tiếng chợ` / `Người đặt` prototypes remain rejected and recoverable only through Git history; do not reuse them unless author explicitly requests comparison.
 
 ## Chapter 1 canon
@@ -130,7 +132,7 @@ On-page facts now canon include:
 - **Physical trauma confirmation:** Inside the half-open coffin, Khanh witnesses a brown support pillow and two thin wooden splints wrapped in red cloth holding the fractured vertebrae in place to prevent the head from flopping or rotating backwards.
 - **Eerie lore & trùng tang:** Village elders whisper that the 3rd cervical vertebra ruptured the skin at the nape with clotted black blood, fingernails tore off clawing the wall, and the ritual specialist ordered a red sealing talisman over the face and four iron nails hammered into the coffin corners. An elder cuts himself off after mentioning "năm nay đúng ba mươi năm...".
 - **The physical grounding shock (Cô Thủy's arrival):** Cô Thủy arrives by motorbike taxi, broken and weeping. Khanh directly observes her lighting incense with her right hand while her left arm hangs limp with a severely deformed, scarred wrist and rigid clawed fingers, confirming the biological impossibility of the CCTV entity.
-- **Forward hook:** The daughter-in-law reveals that an unstamped envelope addressed to cô Thủy was found under ông Cường's pillow several days before his death. Cô Thủy freezes in utter terror.
+- **Forward hook:** The daughter-in-law gently comforts cô Thủy, urging her to go into the back room to drink hot water and rest before the 14:30 encoffining ceremony; cô Thủy's subtle facial twitch and hollow gaze momentarily mirror the CCTV footage.
 
 See `revisions/reviews/chapter-04-initial-review.md` for the completed review record.
 
@@ -145,14 +147,31 @@ Following the character continuity workflow, character profiles and bidirectiona
 - Updated `characters/vu-thi-thuy.md` and `characters/vu-van-cuong.md` with links to Thoa.
 - Registered all profiles in `characters/_index.md`.
 
+## Chapter 5 canon
+
+The author explicitly approved and canonized Chapter 5 (`Băng từ rỗng`, 4.079 words).
+
+On-page facts now canon include:
+- **Sensory & cognitive aftermath:** Khanh leaves xóm Trại with dried white lime powder on his sneaker soles (used to suppress the stench of blood from the fatal fall). Contrast between bustling pre-Rằm market and the cold dread of death.
+- **Debrief behind closed shutters:** Khanh reports the funeral scene to bà Lan: the wooden splints holding Cường's fractured neck, the elders' trùng tang fears (*"Năm nay đúng ba mươi năm..."*), and cô Thủy's withered left hand (conclusively ruling out living impersonation).
+- **The buried 30-year family secret:** Bà Lan reveals intelligence gathered from the 84-year-old tea-stall matriarch at the back market:
+  - In 1996, the Vũ family had a forgotten middle sister: **Vũ Thị Thoa** (born 1976), who was **naturally left-handed**, quiet, and drew skillfully.
+  - In summer 1996, Thoa drowned in the lotus pond at xóm Trại at age 20 amid bitter, suppressed family disputes (inheritance, forced marriage, family conflict).
+  - The strict Confucian patriarch declared her an unfilial curse, buried her hastily without music, burned all her photos, drawings, and notebooks after 49 days, erased her name from the genealogy, and forbade anyone in the family or village from ever speaking her name.
+  - The only possession that vanished and was never found to be burned was her prized foreign **cassette radio with a black body and silver face** sent from Czechoslovakia by an uncle.
+- **Physical inspection & frequency clue:** Examining the paper radio, Khanh discovers the craftsman faithfully copied a frequency marker from the left-handed blueprint sketch: `FM 102.5 MHz` with a small red dot.
+- **Uncanny auditory manifestation:** As dusk settles and market loudspeakers shut off, local temperature around the counter drops. An undeniable mechanical static hiss (`magnetic tape hiss` - tiếng rè rè xèo xèo của sợi băng từ cassette rỗng cọ sát vào đầu từ) emanates from the empty paper cassette compartment.
+- **Physical anomaly:** The paper cassette compartment door suddenly pops open (*TÁCH!*) at a 15-degree angle without human contact.
+- **High-pressure cliffhanger call:** Cô Thủy calls bà Lan's phone from the rear bedroom in xóm Trại in breathless, hysterical terror: she opened Zalo and listened to a 38-second voice message sent by ông Cường at 22:54 the night before (minutes before his fatal fall), in which he whispers in horror about hearing Thoa's Czech cassette playing by the lotus pond and that Thoa has returned to reclaim her cassette radio. She screams that someone/something is scratching on her bedroom window with a left hand. Porcelain shatters, cô Thủy screams, and the phone cuts to a dial tone.
+
+See `revisions/reviews/chapter-05-initial-review.md` for the completed review record.
+
 ## Next action
+ 
+**Review and canonize Chapter 6 (`chapters/chapter-06.md`, 6.139 words).**
 
-**Author review and approval of Chapter 5 draft (`chapters/chapter-05.md`).**
-
-The draft is completed (4.079 words, 3 registered scenes: `chapter-05-scene-01`, `chapter-05-scene-02`, `chapter-05-scene-03`):
-- **SOLID spatial transition & sensory grounding:** Khanh's walk back from xóm Trại to the market; scraping dried white lime powder (used to cover blood from the fatal fall) off his sneaker soles; acute cognitive dissonance contrasting cô Thủy's genuine deformed claw of a left hand against the agile left hand of the CCTV entity; contrast between the bustling pre-Rằm market and the cold dread of death.
-- **Bà Lan's debrief & the 30-year family secret:** Closed half-shutters at the shop; Khanh recounts the funeral horrors, the neck splints, and the unstamped envelope under Cường's pillow; bà Lan reveals oral history from the 84-year-old tea-stall matriarch: the Vũ family had a forgotten middle sister named Vũ Thị Thoa who was naturally left-handed, drowned in 1996 at age 20 under bitter family controversy; the strict Confucian father burned all her belongings and erased her name from the genealogy; the only object never found to be burned was her prized foreign cassette radio.
-- **Uncanny manifestation & high-pressure cliffhanger:** At dusk as the market falls quiet, Khanh notes `FM 102.5 MHz` inscribed on the radio dial from the left-handed sketch; temperature drops sharply; an impossible magnetic tape hiss (`tiếng rè rè xèo xèo của sợi băng từ cassette rỗng chạy qua đầu từ`) emanates from the empty paper compartment; the paper cassette door pops open with a click (*TÁCH!*); cô Thủy calls the shop in hysterical terror screaming that Cường's letter reveals Thoa has returned to reclaim her cassette radio and is tapping on her window with her left hand, followed by shattering porcelain and an abrupt dial tone.
-
-Review record: `revisions/reviews/chapter-05-initial-review.md`.
-Upon author approval, canonize Chapter 5 into `continuity/state.md` (`current-chapter: 5`) and proceed to Chapter 6 planning.
+Follow `revisions/reviews/chapter-06-initial-review.md`. Once approved by the author:
+1. Advance `continuity/state.md` (`current-chapter: 6`).
+2. Mark scenes 6.1–6.3 as `final` in `scenes/_index.md` and scene files.
+3. Update `chapters/_index.md` status to `final`.
+4. Proceed to plan Chapter 7 (The night investigation / locating the buried cassette radio before the Rằm dawn funeral).

@@ -130,6 +130,12 @@ Somebody pays emotionally, socially, physically, morally or spiritually.
 
 The story should leave a trace after the immediate event is over.
 
+### Psychological engine: The Karmic Tripwire & Retroactive Dread
+
+Horror must not rely exclusively on external monsters. It thrives on **involuntary complicity and retroactive taboo guilt**:
+- An ordinary, clumsy, or unthinking micro-action in the present becomes retroactively poisoned when its taboo meaning is later revealed, or when a stranger delivers a chilling folk condemnation.
+- Inside Khanh's Limited 3rd POV, this ignites an unbearable clash between his modern IT rationality and deep-rooted folk anxiety, locking the reader in an epistemic cage that demands resolution.
+
 ## Ordinary life
 
 Everyday Vietnamese life remains essential because it gives the horror texture:
@@ -172,12 +178,15 @@ The teller may exaggerate, misremember, lie, combine versions or report somethin
 
 An embedded ghost story is testimony, not automatic universe law — but it is still allowed to **scare the reader immediately** without waiting for Khanh to verify it.
 
-## Mystery relationship
+## Mystery relationship & Detective-horror synergy
 
-Mystery is structural support.
+Mystery is structural support; horror is atmospheric and thematic truth.
 
-- Horror first, mystery second.
-- Investigation should increase dread, not drain it.
+- **Dual-layer clues:** Every uncanny detail must operate on two layers simultaneously: an unsettling emotional horror layer on first read, and a grounded fair-play clue on retrospective analysis.
+- **Anti-jumpscare mandate:** Never use arbitrary theatrical spooking (faces warping into ghastly smiles and vanishing on a blink, cheap acoustic shocks). All dread must emerge organically from physical trauma, psychological shock, ritual oppression, or subtle distortion of reality.
+- **Reader's epistemic agency:** The narrative must never spoon-feed answers. It should foster intense reader suspicion, inviting competing hypotheses (rational foul play vs supernatural vengeance) and driving them to read on to test their beliefs.
+- **High re-read value:** Revelations must not dissipate dread; they should trigger a cathartic "Ah, that's why!" where the reader realizes clues were seeded fairly chapters in advance.
+- Horror first, mystery second: investigation should increase dread, not drain it.
 - A solved human mechanism does not automatically erase supernatural residue.
 - A confirmed ghost does not eliminate the need for causal discipline around human actions.
 - Fair clues matter when a reveal depends on them.

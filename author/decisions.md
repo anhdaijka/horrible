@@ -372,3 +372,14 @@ Decisions below were explicitly accepted during discovery. Future agents must no
 - **Decision:** Before final manuscript canon, research-confirm the exact family address/kinship term Khanh uses for Nguyễn Văn Nhân and the exact formal role/title appropriate for Bùi Thị Thủy within a real living tradition.
 - **Implications:** Development may use `ông Nhân` and `practitioner associated with Thờ Mẫu` as safe placeholders. Do not invent culturally specific kinship or ritual titles merely for atmosphere.
 - **Supersedes:** none
+
+### D-047 — Case Zero 30-Year Dual-Layer Catalyst
+
+- **Date:** 2026-09-10
+- **Status:** accepted development decision
+- **Decision:** Establish the dual-layer mechanism explaining why Case Zero erupts after exactly thirty years (1996 $\rightarrow$ 2026):
+  1. *Physical / Environmental layer:* In early 2026, the district initiates road-widening and canal box-culverting that begins draining and filling the old lotus pond in xóm Trại right beside ông Cường's rear bedroom, threatening to unearth the buried Czech cassette radio and prompting a living third party to launch an urgent pressure campaign against Cường.
+  2. *Folk spiritual expiration layer:* Following Thoa's 1996 drowning, Khanh's grandfather refused the family's request to bind the spirit (`Không nhận lễ`). The family hired a heterodox specialist to bury the cassette radio alongside a cinnabar-inscribed green bamboo water-binding talisman (*cọc tre khắc bùa trấn thủy*). In folk tradition, bamboo buried in anaerobic mud rots across roughly three decades (30 years). In winter 2026, the rotting talisman expires just as the excavator strikes the pond edge, releasing the displaced spirit to reclaim her radio and seek retribution before the pond is paved over.
+- **Implications:** Synergizes detective reality (infrastructure works, unearthing physical relic) with Northern folk dread (30-year talisman decay, grandfather's moral integrity). Preserves anti-jumpscare discipline and re-read value.
+- **Supersedes:** none
+

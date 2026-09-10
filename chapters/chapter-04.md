@@ -15,7 +15,7 @@ arcs-advanced:
   - volume-01-nhung-chuyen-tuong-da-ket-thuc
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: final
-word-count: 5413
+word-count: 6514
 ---
 
 # Chương 4: Rạp tang xóm Trại
@@ -30,13 +30,13 @@ Từ mé bên kia con mương thoát nước ngăn cách chợ Bến với xóm 
 
 Tiếng trống cái bập bùng, nặng trịch, xen lẫn tiếng kèn bát âm nỉ non từng chặp. Ngoài cửa chợ, những tiếng mặc cả mớ rau con cá bỗng nhiên chùng xuống. Người ta thôi cãi cọ vài nghìn tiền lẻ, dáo dác nhìn qua con mương nước sang phía xóm Trại.
 
-Bà Lan từ từ đặt chiếc điện thoại xuống mặt tủ kính. Đầu ngón tay bà run run miết mép bàn phím nhựa đã mờ số. Bà không nhìn Khanh, chỉ thở ra một hơi ngắn rồi ngước mắt nhìn lên góc kệ trong cùng — nơi chiếc đài cassette dán giấy bạc vẫn nằm im lìm, cần ăng-ten vểnh chéo lên bóng tối góc xà nhà.
+Bà Lan từ từ đặt chiếc điện thoại xuống mặt tủ kính. Đầu ngón tay bà run miết mép bàn phím nhựa đã mờ số. Bà không nhìn Khanh, chỉ thở ra một hơi ngắn rồi ngước mắt nhìn lên góc kệ trong cùng — nơi chiếc đài cassette dán giấy bạc vẫn nằm im lìm, cần ăng-ten vểnh chéo lên bóng tối góc xà nhà.
 
 Bà quẹt que diêm, châm một nén nhang bài cắm vào chiếc lư đồng nhỏ trên bàn thờ Thần Tài kê sát đất, rồi lúi húi mở ngăn kéo lôi ra chiếc phong bì trắng trơn. 
 
 Bằng đầu ngón tay dính bụi than, bà rút cây bút bi Thiên Long trên bàn, nắn nót viết từng chữ hoa lên mặt phong bì: *Gia đình bà Lan — cửa hàng vàng mã phúng viếng*. 
 
-Bà nhét hai tờ tiền năm mươi nghìn phẳng phiu vào trong mép phong bì, miết nhẹ cho dính lớp hồ khô, rồi nhặt thêm một thếp nhang bài bọc giấy đỏ điều đặt lên trên. Đoạn, bà ngẩng lên nhìn Khanh, giọng hạ thấp:
+Bà nhét hai tờ tiền năm mươi nghìn phẳng phiu vào trong mép phong bì, miết nhẹ cho dính lớp hồ khô, rồi nhặt thêm một thếp nhang bài bọc giấy đỏ điều đặt lên trên. Đoạn, bà ngẩng lên nhìn Khanh, hạ giọng:
 
 — Mày cầm cái này sang xóm Trại, thắp nén nhang cho ông Cường.
 
@@ -52,7 +52,7 @@ Khanh nuốt nước bọt, liếc nhìn chiếc đài giấy mặt bạc nằm 
 
 — Nhưng sang đấy thì làm được gì hả mẹ? Chẳng lẽ vác cái đài sang nhét vào áo quan người ta?
 
-— Ai bảo mày vác đài sang ngay! — Bà Lan gắt nhỏ. — Sáng nay con bé xóm Trại nó đã mở mồm mời, mày cứ cầm phong bì sang làm lễ viếng bình thường để danh chính ngôn thuận bước vào rạp tang. Sang đấy một mặt thắp nén hương xin vong linh người ta chứng giám giải cái dớp cho tiệm mình, mặt khác mày để mắt xem con Thủy từ xưởng Yên Phong nó có về không, lựa lời hỏi khéo xem có gửi được cái đài vào quan tài đốt cùng lúc nhập quan không. Cứ đứng nghiêm chỉnh, người ta phát cho ba nén nhang thì đón bằng hai tay, trước linh cữu chắp tay ngang ngực vái hai vái, cắm hương vào bát rồi lùi lại vái tạ hai vái nữa là xong. Ai hỏi thì bảo cháu là con trai bà Lan bán mã ngoài chợ sang phúng viếng ông.
+— Ai bảo mày vác đài sang ngay. — Bà Lan gắt nhỏ. — Sáng nay người ta đã mời, mày cứ cầm phong bì sang viếng như bình thường. Thắp cho ông ấy nén hương, rồi để ý xem con Thủy có về không. Nếu gặp người nhà thì lựa lời hỏi xem cái đài có thể gửi đốt cùng lúc nhập quan được không. Ai hỏi thì bảo mày là con bà Lan bán mã ngoài chợ. Thế thôi.
 
 Khanh nhăn nhó:
 
@@ -68,7 +68,7 @@ Anh bước xuống bậc thềm, ngoái đầu lại định dặn mẹ trông 
 
 Khanh nhét chiếc phong bì vào túi ngực áo khoác gió, một tay kẹp chặt thếp nhang bài bọc giấy đỏ, rảo bước qua ngã tư chợ Bến.
 
-Bước chân qua cây cầu bê tông nhỏ bắc ngang con mương ranh giới, không khí bỗng chốc chùng hẳn xuống. Tiếng còi xe máy, tiếng băm thịt lách cách và tiếng các bà các cô trả giá ngoài chợ lùi dần lại phía sau, chỉ còn lại tiếng gió hanh xào xạc luồn qua những ngọn chuối ngự xơ xác ven bờ mương. 
+Bước chân qua cây cầu bê tông nhỏ bắc ngang con mương ranh giới, không khí bỗng chùng hẳn xuống. Tiếng còi xe máy, tiếng băm thịt lách cách và tiếng các bà các cô trả giá ngoài chợ lùi dần lại phía sau, chỉ còn lại tiếng gió hanh xào xạc luồn qua những ngọn chuối ngự xơ xác ven bờ mương. 
 
 Hồi Khanh còn bé, con mương này chưa ô nhiễm như bây giờ. Cây cầu bê tông kiên cố cũng chưa có, mà chỉ là mấy tấm ván vạng gác tạm qua hai mố đất. Những trưa hè trốn ngủ, lũ trẻ con trong xóm vẫn hay tụ tập ngồi thõng chân trên ván cầu, thả mồi câu cá cờ hay vớt bèo tấm cho đàn lợn nhà bà Lan. Con ngõ xóm Trại khi ấy cũng chưa bị những bức tường bao xi măng quét vôi vàng và mảnh chai cắm nham nhở thu hẹp lại. Một con đường lát gạch nghiêng mộc mạc, những viên gạch chỉ nung rơm đỏ sẫm qua năm tháng đã mòn vẹt mép, hai bên rợp bóng những rặng dâm bụt nở hoa đỏ chói che khuất những bờ rào đất.
 
@@ -94,37 +94,65 @@ Ngay sát chân bậc tam cấp dẫn lên hiên nhà chính, Khanh bỗng khự
 
 Ở đó, một khoảng sân rộng chừng hai mét vuông bị phủ kín bởi một lớp vôi bột dày cộp, trắng xóa như tuyết. Nhưng lớp vôi ấy không che hết được sự thật: bên dưới lớp bột màu trắng, mép gạch men vẫn còn lộ ra những vệt ố màu nâu sẫm — dấu vết của bãi máu khô từ cú ngã đập vỡ xương sọ đêm qua chưa kịp cọ rửa sạch sẽ. Người ra kẻ vào rạp tang đều vô thức bước dạt sang mép sân bên phải, không một ai dám giẫm chân lên khoảng đất rắc vôi ấy.
 
-Khanh nuốt nước bọt cái ực, bước vội qua mép vôi bột rồi dừng lại bên bậc thềm dẫn lên hiên nhà. Anh thọc tay vào túi áo khoác, ngón tay mân mê mép chiếc phong bì trắng đã gấp mép cẩn thận. Nhìn qua cửa ngách vào trong nhà, thấy chiếc bàn đặt bát nhang nghi ngút khói và chiếc cỗ áo quan sơn đỏ lù lù bên trong, chân Khanh như bị chôn chặt. Anh thực sự không biết phải bắt đầu từ đâu: đưa phong bì cho người ghi sổ tang trước hay vào thắp nhang trước? Rồi đứng trước linh cữu thì vái mấy vái, lạy mấy lạy? Lời mẹ dặn lúc sáng “vái hai vái” bỗng chốc lẫn lộn với những lề lối ma chay phong thanh anh từng nghe loáng thoáng đâu đó.
+Khanh nuốt nước bọt cái ực, bước vội qua mép vôi bột rồi dừng lại bên bậc thềm dẫn lên hiên nhà. Anh thọc sâu hai tay vào túi áo khoác, ngón tay mân mê mép chiếc phong bì trắng đã gấp mép cẩn thận. 
 
-Đang lúc lúng túng dáo dác nhìn quanh tìm người hỏi thì một bàn tay từ phía sau vỗ mạnh vào vai anh:
+Nhìn qua khoảng cửa ngách mở toang vào gian nhà chính, không khí tang thương nặng nề phả ra một mùi tanh nồng của thân xác hòa lẫn với mùi khói hương đặc quánh. Bên trong, chiếc cỗ áo quan sơn đỏ thẫm lù lù ngự giữa gian nhà như một khối gỗ khổng lồ đè nghẹt không gian. Trước cỗ quan tài, chiếc bàn gỗ con phủ vải trắng đặt bát nhang nghi ngút khói, và chính giữa là di ảnh của người xấu số.
+
+Vô thức, ánh mắt Khanh bị hút chặt vào tấm hình lồng khung kính đen đặt trên bàn thờ vong. Nơi đặt tấm ảnh chân dung phóng to của ông Vũ Văn Cường. Nhưng giữa ánh đèn tuýp mờ đục và làn khói hương u ám chập chờn, trong khoảnh khắc hoang mang , Khanh bỗng rơi vào một trạng thái xuất thần quái dị. 
+
+Dưới đáy mắt anh, khuôn mặt người chết trên tấm hình dường như đang biến dạng. Đôi mắt trong khung kính không còn vẻ phẳng lặng vô hồn của một bức ảnh chụp, mà tròng đen co rút lại, tròng trắng dã dại như đang đảo nhẹ rồi găm thẳng vào mắt Khanh bằng một ánh nhìn ma dại, trừng trừng, lạnh toát. Cảm giác như người đàn ông trong di ảnh đang ghé sát vào mặt anh, khóe môi méo xệch rỉ máu đông cứng, đôi mắt quái gở như muốn bóp nghẹt lấy hơi thở của kẻ lạ mặt đang đứng thập thò ngoài hiên.
+
+Cơn ớn lạnh rợn tóc gáy chạy dọc sống lưng, kéo giật từng sợi lông tơ sau gáy Khanh. Cổ họng anh nghẹn ứ, hai chân như bị đóng đinh chặt xuống bậc thềm đá mài, ngón tay trong túi áo run rẩy co quắp lại, tim đập thình thịch như muốn vỡ tung lồng ngực giữa cơn ảo giác kinh hoàng.
+
+Đang lúc cả người đờ đẫn, run rẩy chìm sâu vào nỗi sợ hãi không lối thoát, một bàn tay thô ráp từ phía sau bất thần vỗ mạnh vào bả vai anh:
 
 — Ơ... Khanh! Khanh cận phải không mày?
 
-Khanh giật nảy mình quay lại. Một thanh niên trạc tuổi anh, mặc chiếc áo khoác nỉ xám xắn tay áo quá khuỷu, hai tay đang bưng chiếc khay nhôm đựng đầy chén hạt mít và đĩa kẹo lạc. Khuôn mặt vuông vức, đôi lông mày rậm và nụ cười toe toét quen thuộc bỗng chốc kéo Khanh trở về những năm tháng cấp ba ở trường huyện.
+Khanh giật thót người, suýt nữa nhảy dựng lên, hai bắp chân lảo đảo suýt trượt khỏi mép thềm. Anh quay phắt đầu lại, lồng ngực phập phồng thở dốc như vừa thoát chết khỏi một cái hố sâu không đáy.
 
-— Thắng à? — Khanh thở phào, hai vai chùng xuống như vừa vớ được cọc.
+Đứng trước mặt anh là một thanh niên trạc tuổi, mặc chiếc áo khoác nỉ xám xắn tay áo quá khuỷu, hai tay đang bưng chiếc khay nhôm đựng đầy chén hạt mít và đĩa kẹo lạc. Khuôn mặt vuông vức sạm nắng, đôi lông mày rậm và nụ cười toe toét quen thuộc bỗng kéo phăng Khanh ra khỏi cơn ác mộng ban ngày, đưa anh trở về với thực tại xóm làng.
+
+— Thắng à? — Khanh thở hắt ra một hơi dài, hai vai chùng xuống, mồ hôi lạnh rịn ra ươn ướt trên trán.
 
 — Chứ còn ai nữa! — Thắng đặt vội chiếc khay nhôm lên chiếc bàn nhựa gần mép hiên, quệt mồ hôi trán rồi nắm lấy bắp tay Khanh lay mạnh. — Mày về từ bao giờ đấy? Trông béo trắng ra, khác hẳn cái hồi gầy nhẳng gầy nheo đạp xe đi học! Đợt này về hẳn hay lại sang Nhật tiếp?
 
-— Hết hạn hợp đồng ba năm tao về trước Tết mấy hôm, — Khanh mỉm cười, rút tay ra khỏi túi áo khoác. — Đang ở nhà phụ mẹ bán đồ mã ngoài chợ Bến thôi, qua rằm mới tính. Mày làm ở đâu rồi?
+— Hết hạn ba năm tao về trước Tết mấy hôm, — Khanh gượng cười, kín đáo nuốt khan một ngụm nước bọt để lấy lại bình tĩnh. — Đang ở nhà phụ mẹ bán đồ mã ngoài chợ Bến thôi, qua rằm mới tính. Mày làm ở đâu rồi?
 
-— Tao làm bên xưởng nhôm kính ngoài ngã ba, — Thắng đáp, rồi nhìn chiếc phong bì trắng trên tay Khanh. — Bác Cường này có bà chị dâu là cô họ bên đằng ngoại nhà tao. Đám tang neo người, trưa nay tao xin nghỉ xưởng chạy sang phụ một tay kê dọn bàn ghế với đun nước pha trà đón khách. Mày sang viếng à?
+— Tao làm bên xưởng nhôm kính ngoài ngã ba, — Thắng đáp, rồi ánh mắt cậu ta hạ xuống chiếc phong bì trắng méo mó mà ngón tay Khanh vừa vô thức siết chặt. Thắng hơi nhướng mày, vẻ mặt lộ rõ nét tò mò: — Bác Cường này có bà chị dâu là cô họ bên đằng ngoại nhà tao. Đám tang neo người quá, trưa nay tao xin nghỉ xưởng chạy sang phụ một tay kê dọn bàn ghế với đun nước pha trà đón khách... Ơ mà nhà mày có họ hàng anh em gì bên này à mà qua đây? Tao nhớ họ Nguyễn nhà mày bên xóm Ngoài với nhánh nhà bác Cường đâu có dính dáng gì nhau?
 
-— Ừ, mẹ tao bảo sang thắp nén nhang, — Khanh ghé sát tai bạn, ngượng ngùng thú thật. — Mà tao đi Nhật mấy năm về, chuyện ma chay tế lễ ở làng chả rành rẽ gì cả. Phong bì này đưa ở đâu mày nhỉ? Rồi vào trong kia thắp nhang thì vái mấy vái? Chưa khâm liệm thì vái hai hay vái bốn?
+Câu hỏi bất ngờ của Thắng làm Khanh khựng lại. 
 
-Thắng nghe vậy cũng ngẩn tò te, đưa tay lên gãi mái tóc cắt cua lởm chởm:
+Anh ngập ngừng, lúng túng thấy rõ. Trong đầu anh thoáng hiện lên hình bóng người đàn bà lạ lùng tên Thoa ở sạp hàng sáng nọ, cuộn băng cassette vàng mã màu vàng ệch và nỗi ám ảnh về món "đồ đoạt mệnh" mà mẹ dặn tuyệt đối không được để qua đêm rằm. Làm sao anh có thể mở miệng kể cho thằng bạn nối khố nghe cái lý do quái đản ấy được? Rằng mẹ anh sợ cái chết oan nghiệt của ông Cường và sợ cái vong đoạt mệnh sẽ ám vào gia đình anh nên mới bắt anh sang đây dò la? Nói ra điều đó ở ngay giữa đám tang người ta, nếu không bị xem là điên rồ thì cũng là một sự xúc phạm gở miệng tột cùng.
 
-— Tao cũng chịu chết! Tao chỉ được sai chạy vặt bưng bê đun nước thôi. Ban nãy tao thấy mấy người vào vái hai vái, nhưng lại có người vái bốn... Hình như chưa phát tang thì khác mà sau phát tang thì khác hay sao ấy. Mày cứ từ từ, để tao xem...
+Khanh đảo mắt sang phía rạp tang, né tránh cái nhìn dò xét của bạn rồi cười trừ:
 
-Hai thằng thanh niên đứng lóng ngóng đùn đẩy nhau ngay đầu bậc thềm, mặt mũi cậu nào cậu nấy ngơ ngác như gà mắc tóc. 
+— À... thì người cùng làng cùng xóm tắt lửa tối đèn có nhau cả... Với lại sáng nay có người nhà bên bác Cường qua sạp mẹ tao mua ít đồ liệm rồi tiện miệng nhắn, nên mẹ bảo tao tiện đường đảo qua thắp nén nhang cho phải phép. 
 
-Cuộc bàn tán thì thào của hai đứa lọt ngay vào tai mấy người lớn tuổi đang ngồi uống trà ở bàn nước sát mép hiên. Một người đàn ông luống tuổi mặc áo đại hàn sẫm màu ngẩng lên, nhìn rõ mặt hai đứa rồi bật cười rổn rảng:
+Nói rồi, sợ Thắng gặng hỏi thêm, Khanh vội vàng đổi đề tài, giơ chiếc phong bì trắng ra lúng túng phân bua:
 
-— Rõ khổ mấy cái thằng trẻ ranh bây giờ! Thằng Thắng thì cưới vợ có con cả năm nay rồi mà việc tế lễ ma chay trong họ vẫn cứ ngáo ngơ, có mỗi cái việc thắp hương cũng không thuộc! Còn thằng Khanh thì béo trắng ra, đi Nhật ba năm trời về mà mãi chẳng thấy dẫn cô nào về ra mắt họ hàng, hàng xóm... Hay là giấu tịt một cô bạn gái người Nhật bên ấy không cho làng biết hả cháu?
+— Mà này... tao đi Nhật ba năm trời ròng rã, ba cái chuyện ma chay lễ nghĩa ở quê chả rành rẽ gì cả. Phong bì này đem gửi ở đâu mày nhỉ? Rồi vào trong kia thắp nhang thì vái mấy vái? Người chết chưa khâm liệm thì vái hai hay vái bốn?
+
+Thắng nghe hỏi một tràng thì cũng ngẩn tò te, đưa bàn tay sạm khói lên gãi mái tóc cắt cua lởm chởm:
+
+— Tao cũng chịu chết! Tao chỉ được sai chạy vặt bưng bê đun nước thôi. Ban nãy tao thấy mấy ông vào vái hai vái, nhưng lại có người vái bốn... Hình như chưa phát tang thì khác mà sau phát tang thì khác hay sao ấy. Mày cứ từ từ, để tao xem...
+
+Hai thằng thanh niên đứng xớ rớ đùn đẩy nhau ngay đầu bậc thềm, mặt mũi cậu nào cậu nấy ngơ ngác như gà mắc tóc. 
+
+Cuộc bàn tán thì thào ngượng ngùng của hai đứa lọt ngay vào tai mấy người lớn tuổi đang ngồi uống trà ở bàn nước sát mép hiên. Một người đàn ông luống tuổi mặc áo đại hàn sẫm màu ngẩng lên, nheo mắt nhìn qua làn khói thuốc lào bảng lảng:
+
+— Ơ kìa, hai cái thằng trẻ ranh đứng lóng nga lóng ngóng làm cái trò gì đấy? Mà cái thằng đứng cạnh thằng Thắng là con cái nhà ai trong làng mà nom quen quen thế nhỉ? Trông cái sống mũi với đôi mắt cận giông giống... thằng nhà ông Hùng bà Lan ngoài chợ Bến à?
+
+Một bác trung niên ngồi bên cạnh, tay đang cầm ấm tích ủ trong giỏ nan rót nước chè xanh, ngước lên nhìn kỹ mặt Khanh rồi cười ồ lên:
+
+— À! Đúng thằng Khanh con trai bà Lan buôn mã chứ ai! Đi Nhật ba năm trời đằng đẵng giờ mới thấy mặt mũi! Hôm trước ra chợ mua ít cau trầu nghe bà Lan khoe nó mới về trước Tết, nay mới thấy xuất đầu lộ diện ngoài làng!
+
+Bác Trưởng — người đàn ông mặc áo đại hàn ban nãy — nghe ra liền bật cười rổn rảng:
+
+— Rõ khổ mấy cái thằng trẻ ranh bây giờ! Thằng Thắng thì cưới vợ có con cả năm nay rồi mà việc tế lễ ma chay trong họ vẫn cứ ngáo ngơ, có mỗi việc thắp hương cũng không thuộc! Còn thằng Khanh thì béo trắng ra, đi Nhật ba năm trời về mà mãi chẳng thấy dẫn cô nào về ra mắt họ hàng, hàng xóm... Hay là giấu tịt một cô bạn gái người Nhật bên ấy không cho làng biết hả cháu?
 
 Mấy bác trung niên ngồi quanh bàn trà nghe thấy cũng cười ồ lên góp chuyện:
 
-— Phải đấy, gái Nhật nghe bảo nết na dịu dàng lắm, khéo nó tính rước dâu ngoại quốc về xóm Trại nên mới giấu kỹ thế!
+— Phải đấy, gái Nhật nghe bảo nết na dịu dàng lắm, khéo nó tính rước dâu ngoại quốc về xóm Ngoài nên mới giấu kỹ thế!
 
 Mặt Khanh nóng bừng, tai đỏ ửng lên vì ngượng. Anh gãi gãi sống mũi, cười trừ phân bua:
 
@@ -144,7 +172,7 @@ Gian nhà rộng chừng bốn mươi mét vuông, bàn ghế ngày thường đ
 
 Phía trước cỗ áo quan là một chiếc bàn gỗ con phủ vải trắng làm bàn thờ vong sơ sài. Trên bàn đặt một bát hương bằng sứ thô cắm đầy chân nhang đỏ, một bát cơm úp lùm xùm cắm đôi đũa vót nhọn bằng tre, bên trên đặt một quả trứng gà luộc đã nguội ngắt. 
 
-Di ảnh của ông Cường đặt ngay chính giữa: một bức ảnh thẻ chân dung phóng to, chụp lúc ông còn khỏe mạnh với mái tóc hoa râm cắt ngắn và đôi mắt nheo nheo cười. Nụ cười bình thản của người đàn ông trên khung kính đối nghịch lạnh lùng với những gì Khanh vừa nghe ngoài chợ: cái đầu ngoẹo ngược một trăm tám mươi độ ra sau lưng và khóe miệng đông cứng bết máu.
+Di ảnh của ông Cường đặt ngay chính giữa: một bức ảnh thẻ chân dung phóng to, chụp lúc ông còn khỏe mạnh với mái tóc hoa râm cắt ngắn và đôi mắt nheo nheo cười. Đứng ở cự ly gần, nhìn thật kỹ, Khanh mới nhận ra bức hình hoàn toàn bình thường, hiền hậu và điềm đạm — ánh mắt ma dại trừng trừng mà anh thoáng thấy ngoài hiên ban nãy chỉ là ảo ảnh sinh ra từ nỗi hoảng loạn và làn khói hương chập chờn. Nhưng chính nụ cười bình thản của người đàn ông trên khung kính lại đối nghịch lạnh lùng với những gì Khanh vừa nghe ngoài chợ: cái đầu ngoẹo ngược một trăm tám mươi độ ra sau lưng và khóe miệng đông cứng bết máu.
 
 Người con rể của ông Cường — đầu quấn khăn tang trắng, mắt đỏ hoe — đang đứng trực bên bàn thờ. 
 
@@ -156,7 +184,7 @@ Bên trong lớp vải liệm màu vàng lót dưới đáy quan tài, người 
 
 Khanh lùi lại ba bước, vái tạ hai vái rồi vội vã bước lui ra ngoài hiên, tim đập thình thịch từng nhịp hoảng hốt.
 
-Vừa bước qua cửa, Thắng đã bưng ấm nước sôi từ dưới bếp đi lên. Thấy sắc mặt Khanh tái đi, Thắng ghé sát tai anh, giọng hạ thấp xuống thì thào:
+Vừa bước qua cửa, Thắng đã bưng ấm nước sôi từ dưới bếp đi lên. Thấy sắc mặt Khanh tái đi, Thắng ghé sát tai anh, hạ giọng xuống thì thào:
 
 — Mày thấy bên trong rồi chứ gì? Khổ thân bác Cường, đang khỏe như vâm, hôm kia tao còn gặp bác ấy phi con Wave đỏ đi mua chè ngoài ngã tư... Thế mà đêm qua lúc hơn mười một giờ, tao đang nằm lướt điện thoại thì nghe tiếng người nhà bác ấy gào ầm cả ngõ. Chạy sang đến nơi thì thấy bác ấy nằm dưới chân cầu thang rồi... Máu me kinh lắm mày ạ. Không hiểu ngã trượt chân kiểu gì mà cái đầu ngoẹo hẳn ra đằng sau...
 
@@ -172,11 +200,11 @@ Thắng bưng khay nước rảo bước đi.
 
 Còn lại một mình giữa rạp tang, Khanh kéo chiếc ghế nhựa ngồi xuống góc bàn còn trống ở mép ngoài rạp tang. Người đàn ông ngồi đối diện — một bô lão ngoài bảy mươi tuổi mặc chiếc áo dạ cũ màu cỏ úa — rót cho anh một chén nước chè đặc quánh, giọng khàn khàn:
 
-— Cháu con nhà bà Lan buôn mã ngoài chợ hả?
+— Ban nãy nghe mấy ông bên hiên trêu... Cháu là thằng Khanh con nhà bà Lan buôn mã ngoài chợ hả?
 
 — Vâng ạ, cháu mới ở bên Nhật về, mẹ cháu bảo cháu sang thắp nén nhang viếng bác Cường, — Khanh khẽ cúi đầu, hai tay đón lấy chén nước nóng.
 
-— Ừ, người làng người xóm tắt lửa tối đèn có nhau, — ông cụ thở dài đánh thượt một cái, nhấp một ngụm trà rồi quay sang người đàn ông trung niên ngồi bên cạnh, giọng hạ thấp xuống thành tiếng thì thào: — Mà cái chết của thằng Cường này lạ lắm ông ạ. Sáng nay lúc thằng em rể nó sang phụ khiêng xác lên cáng, tao đứng ngay bậc cửa nhìn vào... Cổ nó gãy gập hẳn ra đằng sau, cái đốt sống cổ thứ ba đâm lòi cả đầu xương trắng hếu qua lớp da gáy, máu rỉ ra đen sì sì như tiết đọng. Người ngã cầu thang thì tao thấy nhiều rồi, nhưng ngã thế quái nào mà người nằm sấp dưới nền nhà mà mặt lại ngửa trừng trừng lên trần nhà như có ai bẻ ngoặt lại thế được?
+— Ừ, người làng người xóm tắt lửa tối đèn có nhau, — ông cụ thở dài đánh thượt một cái, nhấp một ngụm trà rồi quay sang người đàn ông trung niên ngồi bên cạnh, hạ giọng xuống thành tiếng thì thào: — Mà cái chết của thằng Cường này lạ lắm ông ạ. Sáng nay lúc thằng em rể nó sang phụ khiêng xác lên cáng, tao đứng ngay bậc cửa nhìn vào... Cổ nó gãy gập hẳn ra đằng sau, cái đốt sống cổ thứ ba đâm lòi cả đầu xương trắng hếu qua lớp da gáy, máu rỉ ra đen sì sì như tiết đọng. Người ngã cầu thang thì tao thấy nhiều rồi, nhưng ngã thế quái nào mà người nằm sấp dưới nền nhà mà mặt lại ngửa trừng trừng lên trần nhà như có ai bẻ ngoặt lại thế được?
 
 Người đàn ông trung niên chép miệng, đưa điếu cày lên rít một hơi giòn giã, khói thuốc phả mù mịt:
 
@@ -226,11 +254,11 @@ Dưới ống tay áo khoác gió kéo cao lên quá nửa cẳng tay, Khanh nh�
 
 Khi cô cố gắng đưa cả hai tay lên để vái trước linh cữu theo phép lịch sự, bàn tay trái ấy rung lên bần bật một cách bất lực, các ngón tay không thể nào duỗi thẳng ra được, chỉ có thể bấu vào vạt áo tang của chính mình để giữ thăng bằng.
 
-Đúng là bàn tay tật. Bàn tay của một người bị gãy xương từ thuở nhỏ, cầm đũa còn rơi, bưng bát cơm còn run.
+Một bàn tay tật. Bàn tay của một người bị gãy xương từ thuở nhỏ, cầm đũa còn rơi, bưng bát cơm còn run.
 
 Nốt ruồi chìm bên cánh mũi trái, đuôi mắt xếch, sống mũi gãy... người phụ nữ đang quỳ khóc bên quan tài kia mang trọn vẹn những nét mặt trong đoạn băng camera sáng ngày mùng mười tháng Giêng. 
 
-Chỉ có bàn tay trái là không thể là một. 
+Chỉ có bàn tay trái không thể là một. 
 
 Một bên là bàn tay tật nguyền với mấu xương cổ tay gồ lên dị dạng, co quắp bất lực; còn một bên là những ngón tay trắng muốt, kẹp cây bút bi vẽ thoăn thoắt chiếc đài cassette và ký cái tên *Vũ Thị Thoa* bằng một đường mực sắc lẹm.
 
@@ -240,26 +268,32 @@ Giữa lúc tiếng khóc hờ của cô Thủy đang nấc lên từng chặp, 
 
 Cô Thủy gật đầu trong nước mắt, ngực phập phồng vì nghẹn thở.
 
-Người con dâu ghé sát tai cô Thủy, giọng hạ thấp xuống nghẹn ngào, nhưng trong gian phòng tĩnh lặng sau cơn khóc nấc, từng lời thì thào ấy lọt thẳng vào tai Khanh:
+Người con dâu ghé sát tai cô Thủy, hạ giọng xuống nghẹn ngào, từng lời thì thào lọt vào tai Khanh:
 
-— Cô Thủy này... lúc sáng cháu với mấy chị lên buồng trên dọn dẹp giường chiếu cho bố cháu để chuẩn bị thu xếp đồ khâm liệm... Dưới gối của bố cháu... có một phong bì thư không dán tem. Bên ngoài phong bì ghi chữ của bố cháu, đề gửi riêng cho cô... hình như bố viết từ mấy hôm trước...
+— Cô Thủy ơi... cô bớt khóc đi kẻo kiệt sức... Tí nữa hai giờ rưỡi là thầy cúng làm lễ nhập quan rồi... Từ sáng đến giờ cô đi xe đò từ Yên Phong về suốt mấy chục cây số rét mướt chưa hột cơm vào bụng. Cô vào buồng trong uống hớp nước nóng rồi ngả lưng một lát đi cô...
 
-Cô Thủy đang nấc nghẹn bỗng nhiên khựng phắt lại.
+Cô Thủy gật đầu trong nước mắt, ngực phập phồng vì nghẹn thở. 
 
-Tiếng khóc của cô ngưng bặt. Toàn bộ cơ thể người phụ nữ cứng đờ ra. 
-
-Cô từ từ quay đầu sang nhìn người cháu dâu. Tròng mắt đỏ ngầu của cô dại đi. Sắc mặt xám ngoét vì khóc than trong tích tắc rút sạch máu, trắng bệch ra như vôi.
-
-— Phong... phong bì?... — Môi cô Thủy mấp máy, hai hàm răng va vào nhau lập cập. — Bố... bố cháu viết... từ hôm nào?
-
-— Cháu không biết... — Người con dâu sụt sùi, không để ý đến vẻ thất thần của cô ruột. — Cháu thấy để dưới chiếu đầu giường, bên cạnh cuốn sổ khám bệnh cũ. Cháu cất tạm vào trong ngăn kéo bàn thờ gian trong kia rồi... Tí nữa liệm bố xong cháu đưa cho cô...
-
-Cô Thủy không nói thêm lời nào nữa. 
+Cô không nói thêm lời nào nữa. 
 
 Cô ngồi bệt dưới nền gạch men, mắt nhìn trân trân vào khoảng tối dưới gầm cỗ áo quan gỗ dổi. Bàn tay trái co quắp của cô bấu chặt vào mép chiếu cói trải dưới đất, năm đầu móng tay tím tái lại, gập cứng như vuốt chim bấu đá.
 
+Khi người con dâu đứng dậy lui vào gian trong, cô Thủy khẽ đưa mu bàn tay phải lên quệt ngang mắt, rồi chậm rãi ngước mặt lên. 
+
+Dưới ánh sáng vàng vọt của bóng đèn tuýp xen lẫn làn khói nhang chập chờn, cô hơi nghiêng đầu sang một bên — một cử chỉ ngập ngừng, lơ đãng như đang cố lắng nghe một âm thanh mơ hồ nào đó vọng ra từ cỗ quan tài. Khoảnh khắc ấy, Khanh bỗng thấy một nét co rút kỳ lạ lướt qua trên khuôn mặt người phụ nữ: đôi mắt cô vẫn sưng húp, đỏ ngầu vì khóc than, nhưng khóe miệng lại khẽ giật giật, rồi hơi nhếch lên thành một nét cười méo xệch, lạnh tanh và cay đắng. 
+
+Nét mặt ấy không hẳn là nụ cười, mà giống như một sự co giật bất thường của cơ mặt trong cơn chấn động tột cùng — một sự nhập nhằng quái dị giữa nỗi bi thương  và một vẻ cay nghiệt, thảng thốt khôn tả. Nhưng chính cái góc nghiêng đầu cùng cái nhếch mép mơ hồ trong tích tắc ấy lại tình cờ trùng khít một cách rợn người với góc quay từ trên cao của camera gác xép: khoảnh khắc người đàn bà lạ mặt hơi ngước đầu lên trước khi ký tên vào tờ giấy hẹn.
+
+Tim Khanh khẽ hẫng đi một nhịp. Một cảm giác lấn cấn, hoang mang lập tức bủa vây lấy anh: Rốt cuộc biểu cảm vừa rồi trên mặt cô Thủy là gì? Nỗi uất ức dồn nén bao năm của một người em gái chịu nhiều thiệt thòi? Sự nhẹ nhõm cay đắng khi người anh trai độc đoán đột ngột qua đời? Hay chỉ đơn giản là cơ mặt bị méo đi vì nấc nghẹn quá lâu trong gió rét?
+
+Khanh khẽ chớp mắt, cố xua đi cái ý nghĩ kỳ quặc đang nhen nhóm trong đầu. Khi anh nhìn lại, cô Thủy đã cúi gục đầu xuống, hai vai rung lên từng chặp, chỉ còn lại dáng vẻ tiều tụy, tội nghiệp của một người phụ nữ tật nguyền lam lũ giữa rạp tang.
+
+"Mày lại thần hồn nát thần tính rồi Khanh ạ..." — anh thầm tự nhủ, đưa tay lên day day sống mũi. 
+
+Tiếng kèn đám ma ảo não và mùi khói nhang nồng nặc đang hun nghẹt gian nhà dường như bắt đầu làm thần kinh anh căng thẳng quá mức. Việc đứng xoi mói nỗi đau và từng cử chỉ của một người đàn bà đang khóc tang anh ruột bỗng khiến anh thấy ngột ngạt và bức bối vô cùng. Anh nhận ra mình không nên và cũng không thể nán lại ngôi nhà này thêm nữa.
+
+Không nén nổi cảm giác gai gai sau gáy, Khanh khẽ lùi bước ra khỏi hiên nhà. Trong lúc bước vội xuống bậc tam cấp, gót giày thể thao của anh vô tình giẫm sạt vào lớp vôi bột trắng xóa rải quanh bãi máu khô dưới chân thềm, rồi lặng lẽ rảo bước thật nhanh ra khỏi con ngõ ngoằn ngoèo của xóm Trại.
+
 Bên ngoài rạp tang, tiếng gió hanh lại rít lên qua khe bạt dứa. 
 
-Tiếng trống cái lại nện xuống từng hồi nặng trịch: *Tum... tum... tum...* 
-
-Khanh đứng chôn chân bên khung cửa gỗ, hai bàn tay nắm chặt trong túi áo khoác. Mùi vôi bột dưới chân thềm và mùi nhang trầm từ bàn thờ vong bốc lên ngột ngạt, quánh đặc lại giữa cái nắng hanh hao của buổi trưa rạp tang.
+Tiếng trống cái sau lưng vẫn nện xuống từng hồi nặng trịch đuổi theo bóng anh: *Tum... tum... tum...*
