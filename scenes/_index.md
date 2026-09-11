@@ -7,12 +7,6 @@ story: horrible
 
 | Scene | Chapter | POV | Location | Status | File |
 |---|---|---|---|---|---|
-| 1.1 | chapter-01 | Nguyễn Minh Khanh | family-votive-shop | draft | [chapter-01-scene-01](chapter-01-scene-01.md) |
-| 1.2 | chapter-01 | Nguyễn Minh Khanh | family-votive-shop | draft | [chapter-01-scene-02](chapter-01-scene-02.md) |
-| 1.3 | chapter-01 | Nguyễn Minh Khanh | family-votive-shop | draft | [chapter-01-scene-03](chapter-01-scene-03.md) |
-| 2.1 | chapter-02 | Nguyễn Minh Khanh | family-votive-shop-mezzanine | draft | [chapter-02-scene-01](chapter-02-scene-01.md) |
-| 2.2 | chapter-02 | Nguyễn Minh Khanh | family-votive-shop-mezzanine | draft | [chapter-02-scene-02](chapter-02-scene-02.md) |
-| 2.3 | chapter-02 | Nguyễn Minh Khanh | family-votive-shop | draft | [chapter-02-scene-03](chapter-02-scene-03.md) |
 | 3.1 | chapter-03 | Nguyễn Minh Khanh | cuong-household-funeral | planned | [chapter-03-scene-01](chapter-03-scene-01.md) |
 | 3.2 | chapter-03 | Nguyễn Minh Khanh | cuong-household-funeral | planned | [chapter-03-scene-02](chapter-03-scene-02.md) |
 | 3.3 | chapter-03 | Nguyễn Minh Khanh | cuong-household-funeral | planned | [chapter-03-scene-03](chapter-03-scene-03.md) |
@@ -28,3 +22,5 @@ story: horrible
 | 7.1 | chapter-07 | Nguyễn Minh Khanh | lotus-pond-edge | planned | [chapter-07-scene-01](chapter-07-scene-01.md) |
 | 7.2 | chapter-07 | Nguyễn Minh Khanh | lotus-pond-edge | planned | [chapter-07-scene-02](chapter-07-scene-02.md) |
 | 7.3 | chapter-07 | Nguyễn Minh Khanh | lotus-pond-edge | planned | [chapter-07-scene-03](chapter-07-scene-03.md) |
+
+Chapters 1–2 currently have no active scene plans. Previous 1.x/2.x scene files were author-rejected and deleted on 2026-09-11. Do not recover them from Git history unless explicitly requested by the author.
