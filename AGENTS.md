@@ -27,19 +27,23 @@ Use minimum sufficient context.
 
 ## Opening reset — hard guard
 
-The previous active Chapter 1 `Tiếng chợ` and Chapter 2 `Người đặt` prototypes were **author-rejected and removed from active manuscript**.
+Two generations of opening material have been author-rejected:
+
+1. the old prototypes `Tiếng chợ` / `Người đặt`;
+2. the later Chapter 1–2 implementations rejected on **2026-09-11**, including their manuscript files, briefs and scene plans.
+
+The latest rejected Chapter 1–2 files were deleted from active `main`.
 
 Do not:
-
+- recover their prose/dialogue from Git history unless the author explicitly asks;
 - quote them as a prose model;
 - reuse their scene sequence by default;
-- recover dialogue from Git history unless the author explicitly asks;
-- treat their on-page state as canon;
-- rebuild the old `normal for 1–2 chapters before horror` architecture.
+- treat their on-page knowledge/object state as canon;
+- preserve a micro-beat merely because it appeared in a rejected draft.
 
-Their only continuing value is the postmortem lesson recorded in `revisions/reviews/opening-prototype-postmortem.md`.
+Generated root files such as `HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md` and `CONSOLIDATION_REPORT.md` are convenience/index artifacts only. They may contain stale snapshots of rejected opening material and never outrank `author/`, `continuity/`, `plot/`, `characters/`, `research/verified/`, or current author instruction.
 
-The new opening must be designed from a blank page under the revised horror-first constitution.
+The replacement opening must be rebuilt from current authoritative sources and new author approval.
 
 ## Horror-promise gate
 
@@ -148,7 +152,7 @@ Ask explicit author approval only for material changes to:
 - durable character knowledge/state;
 - major scene architecture/substantial rewrite.
 
-The author has explicitly approved the current full opening reset, so changes required to remove the rejected Chapter 1–2 prototypes and rebuild opening-level rules do not need another gate.
+A rejected draft never becomes authority merely because it existed in Git history.
 
 ## Canonization
 
