@@ -511,5 +511,26 @@ Decisions below were explicitly accepted during discovery. Future agents must no
 - **Implications:** Elevates the psychological realism and emotional stakes; grounds the human conflict in authentic rural greed and domestic violence rather than foreign procedural tropes.
 - **Supersedes:** Any reference to Diazepam, sedatives, or drugging in D-050, D-054, and Case Zero outlines.
 
+### D-058 — Case Zero Forensic Architecture: Airtight Timeline, Locations, and Dual Red-Herring Motivations (Toàn vs. Thủy)
+
+- **Date:** 2026-09-14
+- **Status:** accepted author decision
+- **Decision:** Formally lock down the minute-by-minute forensic timeline, physical locations, and isolated psychological motivations for the night of 13th Giêng across Case Zero, eliminating all potential narrative and spatial conflicts:
+  1. *The Night of 13th Minute-by-Minute Timeline:*
+     - **22:35 – 22:45:** Toàn confronts Cường at the foot of the stairs to demand the lotus pond land deed. Cường violently refuses. A physical struggle erupts; Cường gouges his fingernails into Toàn's neck and tears his work shirt. Toàn shoves Cường backward onto the ground/stairs and storms outside to smoke in his sand truck cabin (parked ~200m away at the sand lot).
+     - **22:45 – 22:53:** Cường scrambles up alone, bruised, humiliated, and paranoid. Hearing strange mechanical scraping (*tape hiss*) and wet footsteps on the 2nd-floor stairs, Cường assumes 100% that his sister Thủy is orchestrating another trespass/scare to extort the land.
+     - **22:54:00 – 22:54:38:** Cường pulls out his phone, opens Zalo, and holds the voice message button aimed at Thủy's account to catch her red-handed and threaten her. Climbing the stairs, Cường encounters the genuine supernatural entity. He stammers in horror: *"Who... who are you... What are you doing standing there..."* $\rightarrow$ His neck is snapped backwards 180° at **22:54:32**. Cường dies in mid-air and crashes onto the landing. The unsent voice message is trapped in the offline queue due to poor Wi-Fi.
+     - **23:05 – 23:10:** Toàn finishes smoking (20–25 minutes after the shove) and returns to the house to get his motorbike. Finding the lights off and Cường dead at the foot of the stairs, Toàn is paralyzed by guilt, believing his 22:45 shove caused Cường to sustain a head injury, lose balance, and break his neck. Terrified of a patricide charge, Toàn conceals the torn bloody shirt and scratch marks.
+  2. *Thủy's Physical Location & Separate Motivation:*
+     - On the night of the 13th, Thủy is **physically present on the night shift at the Yên Phong garment factory (Bắc Ninh)**, over 30km away. She is NOT present at the xóm Trại house.
+     - Thủy's ghost-tape intimidation campaign took place in the preceding days (mùng 8 to noon of the 13th), via threatening phone calls, ghost-audio clips, and defaced family photos demanding land redemption.
+     - When Cường dies, Thủy panics, fearing her prior intimidation drove him to suicide/fatal fall, or that Thoa's ghost genuinely murdered him. She clings to her factory clock-in alibi. When the trapped 22:54 Zalo voice message finally delivers in Chapter 5, Thủy completely unhinges, believing Cường's unquiet ghost has returned to drag her along (Trùng tang).
+  3. *Airtight Information Silo Lock (Anti-Conflict Guard):*
+     - Toàn has ZERO knowledge of Thủy's ghost-tape extortion.
+     - Thủy has ZERO knowledge of Toàn's 22:35 physical scuffle with Cường.
+     - Both suspects independently believe they caused Cường's death, generating two airtight, mutually reinforcing human Red Herrings that mislead Khanh and the reader until the supernatural collapse in Act 3/Act 4.
+- **Implications:** Guarantees strict narrative consistency; synchronizes Chapter 5's 22:54 Zalo timestamp with Chapter 6's scuffle/shirt burning without a single minute of overlap or spatial collision.
+- **Supersedes:** Any prior note or assumption placing Thủy at xóm Trại on the night of the 13th, or placing Toàn's scuffle at 22:00.
+
 
 

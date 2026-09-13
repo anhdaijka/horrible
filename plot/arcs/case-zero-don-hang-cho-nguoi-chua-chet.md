@@ -38,12 +38,12 @@ The purchaser used her left hand and the name of a sibling who died 30 years ago
 - **The Historical Crime (1996) & The Fourth Accomplice:** Vũ Thị Thoa died from accidental manslaughter during an explosive dowry/forced marriage dispute (struck by Cường, she slipped and hit her head on a stone boulder by the lotus pond). Mistaking her for faking, Cường and Ông Cổn abandoned her; Thủy discovered her dead hours later. Trưởng họ Vũ Cổn (The Patriarch) ruthlessly ordered the cover-up: concealing the body in the mud, erasing Thoa from the genealogy, and dumping 30 years of wedding debt onto Thủy. Thoa's Czech radio recorded the fatal fight, Cường buried it in the mud pinned by a 30-year heterodox bamboo talisman.
 - **The 2026 Triggers:** Excavators arrive to fill the pond for a road project. The 30-year talisman rots. Thoa's spirit awakens to seek retribution before the radio is paved over forever.
 - **The Mundane Trap (Thế chân vạc 3 Nghi phạm & Các tác nhân phụ):**
-  1. **Thủy:** Terrified of being framed for the death, she frantically creates a fake alibi at her Yên Phong factory.
-  2. **Toàn (Loyalty Trap):** Drugged Cường to steal the land deed. His wife (Lan Anh) finds the evidence and burns it in the votive fire to protect him, obscuring the truth from Khanh.
-  3. **Thầy Bình:** Met secretly with Cường the night before (knowing about the rotting talisman). He gives police a fake alibi to hide his occult agenda.
+  1. **Thủy:** Working night shift at Yên Phong on the night of the 13th (D-058). Terrified that her prior ghost-tape intimidation drove Cường to a fatal fall, she clings to her factory clock-in alibi.
+  2. **Toàn (Loyalty Trap):** Violently scuffled with Cường at 22:35–22:45 demanding the land deed, leaving claw marks on his neck and tearing his work shirt before shoving Cường to the floor and leaving to smoke. Returning at 23:05 to find Cường dead, he believes his shove was fatal. His wife (Lan Anh) conceals his neck scratches and burns the torn bloody shirt in the funeral fire (D-057, D-058).
+  3. **Thầy Bình:** Met secretly with Cường earlier (knowing about the rotting talisman). He gives police a fake alibi to hide his occult agenda.
   4. **Đào Văn Sang (Cò đất):** An opportunist who intentionally stokes conflict between Toàn and Thủy to force a cheap land sale. He doesn't know about the murder, but his manipulation adds a dense layer of human greed and misdirection.
 - **Police Cover-up:** Police (officer Đặng Việt Long) investigate the strange noises and rule the death a "burglary gone wrong / accidental fall." The Patriarch forces the family to accept this and bury Cường immediately without an autopsy to hide the 1996 history.
-- **Dual Reality Resolution:** Khanh's IT logic (cell towers, Zalo logs, audio filtering) dismantles the human lies (Thủy's alibi, Toàn's drugging). However, this human explanation violently shatters against undeniable supernatural mechanics (the neck snapped in mid-air, tape hiss from offline phones).
+- **Dual Reality Resolution:** Khanh's IT logic (cell towers, Zalo logs, audio filtering) dismantles the human lies (Thủy's alibi, Toàn's scuffle cover-up). However, this human explanation violently shatters against undeniable supernatural mechanics (the neck snapped in mid-air at 22:54:32, tape hiss from offline phones).
 
 ## 16-20 Chapter Slow-Burn Act Structure
 

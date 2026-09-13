@@ -38,9 +38,10 @@ Outwardly jovial, loud, fond of riding his red Honda Wave to buy tea, bantering 
 
 ## Death circumstances
 
-Died around 11:00 p.m. on the night of 13th Giêng at the foot of his staircase. 
-- While officially reported to authorities as an accidental fall, his death was horrific supernatural retribution: Thoa's genuine ghost materialized on the stairs (as captured acoustically on his unsent 38-second Zalo voice message) and snapped his neck 180 degrees backwards (*RẮC!*).
-- Physical trauma: 3rd cervical vertebra ruptured the skin at the nape with clotted black blood; eyes wide and inverted staring at the landing; mouth frozen in a grotesque sneer; fingernails torn off clawing the wall; body turning icy cold within seconds.
+Died at 22:54:32 on the night of 13th Giêng on his staircase (D-058):
+- **Pre-death sequence:** Shaken by days of anonymous ghost-tape intimidation from Thủy, Cường was violently confronted by Toàn at 22:35–22:45 over the land deed. During the scuffle, Cường scratched Toàn's neck and tore his shirt before being shoved to the floor as Toàn stormed out.
+- **The Zalo Voice Message & Supernatural Retribution:** Hearing mechanical tape hiss and wet footsteps upstairs around 22:50, Cường assumed Thủy was orchestrating another trespass/scare. He opened Zalo and held down the voice message button aimed at Thủy's account to threaten and catch her red-handed. Climbing the stairs, he encountered Thoa's genuine ghost. At 22:54:32, his neck was snapped backwards 180 degrees in mid-air (*RẮC!*), and his body crashed onto the landing 1 second later.
+- **Physical trauma:** 3rd cervical vertebra ruptured the skin at the nape with clotted black blood; eyes wide and inverted staring at the landing; mouth frozen in a grotesque sneer; fingernails torn off clawing the wall; body turning icy cold within seconds.
 
 ## Narrative reference
 

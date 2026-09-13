@@ -32,10 +32,10 @@ tags:
 
 The 30-year-old eldest son and lineage heir of the deceased Vũ Văn Cường, and eldest grandson of Trưởng tộc Vũ Cổn. He is married to Lan Anh. Toàn works as a dump-truck driver transporting sand and construction materials around the district.
 
-In Case Zero (**D-050**, **D-054**, **DIR-01**):
+In Case Zero (**D-050**, **D-054**, **DIR-01**, **D-058**):
 - **Financial Desperation & Land Scheme:** Drowning in massive debts (over a billion VND) from truck installments and illicit gambling/land speculation, Toàn desperately sought to seize the multi-billion-dong lotus pond plot before the district's road project commenced.
-- **Violent Scuffle & Fatal Guilt:** On the night of the 13th Giêng, cornered by debt deadlines, Toàn confronted Cường to demand the land deed (*sổ đỏ*). Cường furiously refused, cursing him. A violent physical struggle erupted; Cường fiercely gouged his fingernails into Toàn's neck and tore his work shirt before Toàn shoved him away and stormed out to smoke. Minutes later, Cường was found dead at the foot of the stairs with his neck broken backwards. Toàn fell into visceral terror, believing his violent push directly caused Cường's fatal fall.
-- **Cover-up with Lan Anh:** Paralyzed by fear that the deep scratch wounds on his neck and the blood-stained torn shirt would convict him of patricide, Toàn begs Lan Anh to help him. Lan Anh wraps a mourning headband tightly around his neck to conceal the wounds, and takes the torn bloody shirt to secretly burn in the funeral incinerator in Chapter 6.
+- **Violent Scuffle & Fatal Guilt (22:35 – 22:45 Night of 13th):** Cornered by debt deadlines, Toàn confronted Cường at the foot of the stairs to demand the land deed (*sổ đỏ*). Cường furiously refused, cursing him. A violent physical struggle erupted; Cường fiercely gouged his fingernails into Toàn's neck and tore his work shirt before Toàn shoved him backward and stormed outside to smoke in his sand truck cabin (parked ~200m away at the sand lot).
+- **Body Discovery & Cover-up (23:05 – 23:10):** Returning 20–25 minutes later to retrieve his motorbike, Toàn discovered Cường lying dead at the foot of the stairs with his neck broken backwards. Paralyzed by terror, believing his violent 22:45 push caused Cường's fatal fall, and fearing the deep scratch marks and blood-stained torn shirt would convict him of patricide, Toàn begs Lan Anh to help him. Lan Anh wraps a mourning headband tightly around his neck to conceal the wounds, and takes the torn bloody shirt to secretly burn in the funeral incinerator in Chapter 6.
 
 ## Core traits
 
