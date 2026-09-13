@@ -38,11 +38,10 @@ Registries and continuity were reset accordingly.
 
 ## Active manuscript state
 
-- No active Chapter 1 manuscript.
-- No active Chapter 2 manuscript.
-- No active scene plans for Chapters 1–2.
-- `continuity/state.md` uses `current-chapter: 0`.
-- Chapters 1–2 are marked `rewrite-required` in `chapters/_index.md`.
+- Chapter 1 and 2 manuscripts are approved and canonized.
+- No active Chapter 3 manuscript.
+- No active scene plans for Chapter 3.
+- `continuity/state.md` uses `current-chapter: 2`.
 
 ## Authority after reset
 
@@ -61,7 +60,7 @@ If it is independently present in a higher-priority source, treat it according t
 
 ## Clean-rewrite guard
 
-The next writer (including Gemini or any other agent) must write Chapters 1–2 from a clean slate.
+The next writer (including Gemini or any other agent) must write Chapter 2 from a clean slate.
 
 Do not:
 - reconstruct deleted prose from Git history;
@@ -77,6 +76,15 @@ Do:
 - research real cultural/procedural claims before asserting them;
 - ask the author when a new creative/canon decision is required.
 
+## Workflow upgrade — 2026-09-11
+
+Đã thiết lập hệ thống workflow 4 giai đoạn độc lập tham chiếu từ `du-long-giac-2`:
+- Workflows: `/hr-preflight`, `/hr-write`, `/hr-review`, `/hr-revise` trong `.agents/workflows/`
+- Skills: `hr-source-preflight`, `hr-source-writer`, `hr-source-review`, `hr-source-revision` trong `.agents/skills/`
+- Playbook: `docs/playbooks/horrible-craft-review.md` (chuẩn hóa 5 Cổng Thẩm Mỹ Horrible và giao thức thẩm định đối kháng Adversarial Red-Team)
+- Khu vực đệm: `revisions/chapter-work/CH-XX/` (chứa `preflight.md`, `draft.md`, `review.md`, `revised.md`)
+
 ## Next action
 
-Allow the author-designated writer to rebuild the opening. Do not draft Chapters 1–2 again unless the author explicitly assigns that task.
+1. Chương 2 đã được phê duyệt và canonized thành công.
+2. Bước tiếp theo: Kích hoạt `/hr-preflight CH-03` để lập đề cương phân cảnh cho Chương 3, đảm bảo đọc kỹ `author/decisions.md` và `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md` trước khi làm.

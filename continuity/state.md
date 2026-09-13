@@ -1,7 +1,7 @@
 ---
 type: continuity-state
 story: horrible
-current-chapter: 0
+current-chapter: 2
 character-state: []
 object-state: []
 knowledge-state: []
@@ -14,7 +14,6 @@ knowledge-state: []
 The author rejected the current implementations of **Chapter 1 and Chapter 2** in full.
 
 Deleted from active repository state:
-- `chapters/chapter-01.md`
 - `chapters/chapter-02.md`
 - `revisions/plans/chapter-01-brief.md`
 - `revisions/plans/chapter-02-brief.md`
@@ -22,10 +21,10 @@ Deleted from active repository state:
 - all Chapter 2 scene-plan files (`scenes/chapter-02-scene-*.md`)
 
 Therefore:
-- there is currently **no active on-page canon** from Chapters 1–2;
+- Chapter 1 is canonized. Chapter 2 has no active on-page canon;
 - no prose wording, micro-beat, scene sequence, object handling, dialogue, reaction, or chapter-exit state from the rejected drafts may be treated as canon;
 - do **not** recover or reuse deleted prose/scene execution from Git history unless the author explicitly asks;
-- `current-chapter: 0` until a replacement opening is approved.
+- `current-chapter: 1` until Chapter 2 is rewritten.
 
 ## What remains authoritative
 
@@ -38,14 +37,14 @@ Until the author changes them, continue to consult:
 - `research/verified/`;
 - creative constitution / boundaries / style bible.
 
-Any Chapter 1–2 details that exist only in the deleted drafts/briefs are now **NOT ESTABLISHED**.
+Any Chapter 2 details that exist only in the deleted drafts/briefs are now **NOT ESTABLISHED**.
 Any detail independently supported by a higher-priority author decision or Case Zero canon remains planning/canon at that higher level.
 
 ## Rewrite guard
 
-The next writer must rebuild Chapters 1–2 from a clean slate using current repository authority and the author's newest instructions.
+The next writer must rebuild Chapter 2 from a clean slate using current repository authority and the author's newest instructions.
 
-Do not assume the rejected chapter titles, scene count, exact beat order, exact dialogue, exact clue staging, or prose approach must survive unless independently confirmed by higher-priority source or reconfirmed by the author.
+Do not assume the rejected chapter titles, scene count, exact beat order, exact dialogue, exact clue staging, or prose approach for Chapter 2 must survive unless independently confirmed by higher-priority source or reconfirmed by the author.
 
 Before canonizing replacement chapters:
 1. distinguish objective chronology from narrative presentation order;

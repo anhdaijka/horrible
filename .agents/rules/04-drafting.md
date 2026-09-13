@@ -17,3 +17,8 @@ Do not silently change:
 - durable object/character state
 
 If a constraint makes the scene fail, stop at the smallest necessary scope and flag the conflict instead of rewriting the architecture.
+
+Output discipline:
+- Write draft exclusively to `revisions/chapter-work/CH-XX/draft.md` marked as `NON-CANON DRAFT`.
+- Do NOT perform self-auditing or self-approval in the drafting turn.
+- Do NOT write directly to `chapters/` or modify `continuity/state.md`. Canonization occurs only after Reviewer audit, Editor revision, and explicit author approval.

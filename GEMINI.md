@@ -14,7 +14,7 @@ Do not recover, quote, summarize, imitate, or reuse those deleted Chapter 1–2 
 
 For the rewrite, build Chapters 1–2 from a clean slate using current authoritative repo sources. If a detail only exists in rejected/deleted draft material, treat it as `NOT ESTABLISHED`.
 
-Use skills installed under `.agents/skills/` when their descriptions match the task. Story Skills owns structured story state after initialization; selected craft skills guide prose/character/scene work.
+For chapter operations, use `.agents/workflows/hr-*.md` (`/hr-preflight`, `/hr-write`, `/hr-review`, `/hr-revise`) and their corresponding skills under `.agents/skills/`. Story Skills owns structured story state after initialization; selected craft skills guide prose/character/scene work.
 
 Core order of operations:
 

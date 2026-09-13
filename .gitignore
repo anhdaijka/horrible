@@ -7,6 +7,10 @@ Thumbs.db
 # Skills are reproducibly installed by scripts/bootstrap.mjs from pinned upstreams.
 .agents/skills/*
 !.agents/skills/.gitkeep
+!.agents/skills/hr-source-preflight/
+!.agents/skills/hr-source-writer/
+!.agents/skills/hr-source-review/
+!.agents/skills/hr-source-revision/
 
 # Disposable exports/builds
 exports/*

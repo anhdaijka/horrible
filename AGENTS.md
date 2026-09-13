@@ -171,6 +171,14 @@ Development material is not canon merely because it exists.
 
 Semantic commit prefixes are preferred: `plan:`, `draft:`, `revise:`, `canon:`, `research:`, `style:`.
 
-## Skills
+## Skills and Workflows
+
+Chapter operations use `.agents/workflows/hr-*.md` and the four `hr-source-*` skills:
+- `/hr-preflight <chapter>` (`hr-source-preflight`): chuẩn bị preflight, neo giác quan, khóa thứ tự thông tin trước khi viết;
+- `/hr-write <chapter>` (`hr-source-writer`): chấp bút bản thảo non-canon vào `revisions/chapter-work/CH-XX/draft.md`;
+- `/hr-review <chapter>` (`hr-source-review`): thẩm định đối kháng độc lập theo 5 Cổng Thẩm Mỹ Horrible, xuất `review.md`;
+- `/hr-revise <chapter>` (`hr-source-revision`): biên tập phẫu thuật can thiệp nhỏ nhất có hiệu quả, xuất `revised.md`.
+
+Xem `docs/playbooks/horrible-craft-review.md` để nắm quy trình thẩm định và định tuyến thẩm quyền.
 
 Use Story Skills for structured story-state operations and deterministic maintenance. Use craft skills for diagnosis. Avoid duplicate persistence systems.

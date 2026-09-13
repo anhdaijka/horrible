@@ -443,3 +443,18 @@ Decisions below were explicitly accepted during discovery. Future agents must no
 - **Implications:** Guarantees strict narrative fair play, prevents premature lore leaks, aligns forensic timeline with rural ritual timetable, and establishes a seamless foundation for drafting Chapter 2.
 - **Supersedes:** Any prior ambiguity in opening timeline, chapter sequence, or premature reveal in early drafts.
 
+### D-052 — The 1996 Cover Story & Administrative Status
+
+- **Date:** 2026-09-13
+- **Status:** accepted development decision
+- **Decision:** The 1996 lotus pond drowning was covered up by the Vũ family with a fake rumor ("bỏ nhà theo trai / lăng loàn"). Thoa's name was erased from the genealogy to avoid disgrace, explaining why even Cường's wife (married post-1996) and son (Toàn) know nothing of her existence initially. Toàn only discovers the dark secret later by piecing together Cường's drunken slips, secretly reading his diary, and confirming the existence of his aunt Thoa with his maternal relatives (nhà ngoại). Administratively, the family never filed a court declaration of death to avoid police investigation. In the 2026 National Population Database, Thoa has no chip-based ID and no death certificate. Her old 9-digit CMND photo remains in the paper archives (tàng thư). Legally, she is still ALIVE and missing.
+- **Implications:** This creates an airtight legal and social justification for why Khanh and the police firmly believe the suspect on CCTV is a living Thoa returning for revenge. It explains why the younger generation is completely ignorant of the family's darkest sin.
+- **Supersedes:** Any assumption that Thoa's death was common village knowledge or that her death was legally processed.
+
+### D-053 — The Red Herring Thief (Nghi phạm chim mồi)
+
+- **Date:** 2026-09-13
+- **Status:** accepted development decision
+- **Decision:** Introduce a living, left-handed female serial thief who bears a resemblance to Thủy/Thoa and has been lurking around xóm Trại. She acts as the ultimate human Red Herring. The police arrest her and assume she is the woman from the CCTV. However, interrogation proves she has a solid alibi for the morning of mùng 10 and her handwriting does not match the 13 steps sketch. 
+- **Implications:** Her existence validates the neighbors' "lurking woman" sightings, but her clearance isolates the votive shop CCTV event as an impossible anomaly. When the "Living Thoa" theory violently shatters, the narrative forces the characters to face the supernatural reality that Thoa is dead.
+- **Supersedes:** The idea that Thoa's death becomes obvious too early. The human mystery must exhaust itself before the ghost takes over.
