@@ -60,23 +60,27 @@ Dưới ngọn đèn bão, tấm vải phủ mặt đã phẳng lặng trở l�
 
 Nhưng hơi thở của Toàn vẫn dồn dập, hổn hển như người vừa thoát khỏi miệng vực. Mồ hôi lạnh vã ra đầm đìa trên trán gã, rịn qua kẽ chân tóc chảy ròng ròng xuống sống mũi. Gã thọc hai bàn tay run rẩy vào túi chiếc áo khoác nỉ, vai so lại, lảo đảo dựa vào cánh cửa gỗ xoan tróc lở.
 
-Lan Anh đặt chiếc chậu thau nước lá bưởi xuống bậc cửa. Ánh mắt cô vô tình chạm vào túi áo khoác bên phải của chồng — nơi mép túi đang trễ xuống vì sức nặng của một vật thể cộm lên.
+Lan Anh đặt chiếc chậu thau nước lá bưởi xuống bậc cửa. Ánh mắt cô vô tình chạm vào cổ áo khoác nỉ xộc xệch của chồng đang trễ xuống một bên vai.
 
-Ngón tay Lan Anh run bắn. Cô bước lại gần nửa bước, thò những đầu ngón tay lạnh ngắt luồn vào đáy túi áo Toàn.
+Dưới ánh đèn bão vàng vọt, trên vùng da cổ và xương quai xanh bên phải của Toàn hằn lên ba vệt móng tay cào rách da sâu hoắm, đỏ ửng, đang rớm ra những vảy máu khô cong queo. 
 
-Một góc vỉ thuốc tây bằng nhôm cứng cọ vào đầu ngón tay cô, sắc cạnh và ram ráp.
+Ngón tay Lan Anh run bắn. Toàn giật mình nhận ra ánh mắt của vợ, vội vã kéo giật mép cổ áo nỉ che kín vết cào, nhưng bàn tay run rẩy của gã vô tình làm trễ mép túi áo khoác bên phải — nơi đang cộm lên một bọc vải nhét vội.
+
+Lan Anh bước lại gần nửa bước, thò những đầu ngón tay lạnh ngắt luồn vào đáy túi áo Toàn.
+
+Một bọc vải thô ráp cộm vào đầu ngón tay cô.
 
 Lan Anh rút nhẹ ra. 
 
-Dưới ánh đèn bão vàng vọt, một góc vỉ nhôm ép nhựa màu trắng đục lộ ra khỏi miệng túi. Đó là một vỉ thuốc an thần dạng nén mười viên, nhưng sáu viên đã bị bấm thủng lớp màng nhôm từ trước, chỉ còn trơ lại những lỗ rỗng méo mó. Trên dải nhôm còn sót lại in dập nổi hàng chữ màu xanh thẫm: *...zepam 5mg*.
+Đó là một chiếc áo lót bảo hộ cộc tay màu xanh công nhân mà Toàn vẫn thường mặc đi lái xe tải chở cát, nhưng phần cổ áo đã bị giằng xé rách toạc làm đôi. Trên thớ vải kaki nhàu nát loang lổ những vệt máu khô thẫm màu nâu đen, và một chiếc cúc bấm kim loại hình ngôi sao ở mép cổ áo đã bị giật méo mó.
 
 Mặt Lan Anh cắt không còn một giọt máu. Cô ngước mắt nhìn thẳng vào mặt chồng.
 
-Toàn cắn chặt môi dưới đến rớm máu, tròng mắt đỏ ngầu dại đi, đầu gật lia lịa trong vô thức rồi giật phắt lấy cổ tay vợ, ấn mạnh vỉ thuốc ngược trở lại vào lòng bàn tay cô, thì thào như van lạy:
+Toàn cắn chặt môi dưới đến rớm máu, tròng mắt đỏ ngầu dại đi, đầu gật lia lịa trong vô thức rồi giật phắt lấy cổ tay vợ, ấn mạnh bọc vải rách ngược trở lại vào lòng bàn tay cô, thì thào như van lạy:
 
-"Đốt... Đốt nó đi... Giấu đi... đừng để ai nhìn thấy..."
+"Đốt... Đốt nó đi... Giấu đi... đừng để ai nhìn thấy... Đêm ấy tao cãi nhau... giằng co xô bố một cái... Móng tay bố cào rách cổ tao... Người ta mà nhìn thấy chiếc áo rách dính máu này... tao chết mất Lan Anh ơi..."
 
-Lan Anh run rẩy nắm chặt vỉ thuốc nhôm trong lòng bàn tay, mép nhôm cứa vào da thịt buốt nhói. Cô giấu bàn tay vào sâu trong vạt áo tang, cắn răng gật đầu một cái thật nhanh rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
+Lan Anh run rẩy nắm chặt bọc vải rách trong lòng bàn tay. Cô vội vàng giật chiếc khăn tang bằng vải xô trắng trên đầu mình xuống, quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô lên tận cằm để che lấp hoàn toàn những vết cào rướm máu. Xong xuôi, cô giấu bọc áo rách vào sâu dưới vạt áo tang, cắn răng gật đầu một cái thật nhanh rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
 
 Ngoài ngõ xóm Trại, tiếng gậy mun bịt bạc của ông Vũ Cổn bắt đầu nện *cộp... cộp...* dằn dữ dội trên nền ngõ gạch ướt sương, xé toạc màn đêm tang tóc.
 
@@ -254,15 +258,15 @@ Góc sân sau giáp bờ ao bèo tây kê một chiếc xô tôn gỉ sét dùng
 
 Lan Anh đứng nép sát vào góc bờ tường hoa rêu mốc. Cô dáo dác đưa mắt nhìn quanh quất, ngực phập phồng nghẹn thở. 
 
-Bàn tay phải của cô thò sâu vào túi áo khoác, run bần bật rút ra một vật thể màu trắng bạc.
+Bàn tay phải của cô thò sâu vào đáy vạt áo tang, run bần bật rút ra một bọc vải vo tròn.
 
-Đó là một vỉ thuốc tây bị bóc dở.
+Đó là chiếc áo lót bảo hộ cộc tay màu xanh công nhân bị giằng xé rách nát của Toàn.
 
-Lan Anh cắn chặt môi, vung tay ném vỉ thuốc thẳng vào giữa lòng chiếc xô tôn đang đỏ lửa.
+Lan Anh cắn chặt môi, vung tay ném bọc vải thẳng vào giữa lòng chiếc xô tôn đang đỏ lửa.
 
 *Xèo... xèo... tanh tách!*
 
-Nhiệt độ nóng rực của than củi lập tức nung chảy lớp vỏ nhựa polyme và màng nhôm mỏng. Một luồng khói đen kịt, đặc quánh cuộn tròn bốc lên nghi ngút, tỏa ra một thứ mùi hóa chất khét lẹt, tanh nồng và lợm giọng xộc thẳng vào không khí, át hẳn mùi khói giấy tiền vàng bạc thông thường.
+Nhiệt độ nóng rực của than củi lập tức bắt vào thớ vải kaki pha nilon. Một luồng khói xám đặc quánh cuộn tròn bốc lên nghi ngút, tỏa ra một thứ mùi vải cháy khét lẹt lợm giọng hòa lẫn mùi tanh nồng nặc của máu khô bị nhiệt thiêu đốt, xộc thẳng vào không khí át hẳn mùi khói giấy tiền vàng bạc thông thường.
 
 Lan Anh thở hắt ra một hơi như vừa trút được một quả bom nổ chậm trên lưng. Cô vội vã đưa hai bàn tay quẹt vội vào vạt áo tang, toan quay người bước nhanh về gian nhà trên.
 
@@ -272,49 +276,45 @@ Cơn gió xoáy tròn dưới đáy xô tôn, cuốn tung đám tàn tro đen nh
 
 *Vù!*
 
-Mảnh vỉ thuốc bằng nhôm bị lửa nung quăn queo, méo mó, thay vì chìm xuống lớp tro tàn, lại bị luồng gió xoáy hất tung ra khỏi miệng xô!
+Một mẩu vải cổ áo cháy dở quăn queo, thay vì chìm xuống lớp tro tàn, lại bị luồng gió xoáy hất tung ra khỏi miệng xô!
 
-Vật thể nóng rực ấy văng ngược trở lại, rơi *bép* một phát trúng ngay mu bàn chân trần xỏ chiếc dép xốp rách quai của Lan Anh.
+Mẩu vải còn đỏ lửa ấy văng ngược trở lại, rơi *bép* một phát trúng ngay mu bàn chân trần xỏ chiếc dép xốp rách quai của Lan Anh.
 
 "Á!" 
 
-Lan Anh giật nảy mình kêu khẽ một tiếng, rụt chân lại vì lớp nhôm nóng rát cắn vào da thịt. 
+Lan Anh giật nảy mình kêu khẽ một tiếng, rụt chân lại vì đốm than nóng rát cắn vào da thịt. 
 
-Mặc kệ cái nóng rát, Lan Anh cuống cuồng ngồi thụp xuống, run rẩy vươn tay định chộp lấy mảnh nhôm cháy sém để ném lại vào lửa.
+Mặc kệ cái nóng rát, Lan Anh cuống cuồng ngồi thụp xuống, run rẩy vươn tay định chộp lấy mẩu vải cháy sém để ném lại vào lửa.
 
 Nhưng khi vừa ngẩng đầu lên...
 
 Ánh mắt kinh hoàng của Lan Anh chạm thẳng vào đôi mắt sắc lạnh, tĩnh lặng như mặt nước hồ mùa đông của Nguyễn Minh Khanh.
 
-Khanh đang đứng sừng sững dưới tán cây bưởi, hai tay đút trong túi áo khoác gió, ánh mắt chiếu thẳng xuống mảnh kim loại quăn queo dưới chân cô.
+Khanh đang đứng sừng sững dưới tán cây bưởi, hai tay đút trong túi áo khoác gió, ánh mắt chiếu thẳng xuống mẩu vải đang bốc khói dưới chân cô.
 
 Lan Anh chết lặng. 
 
-Khuôn mặt cô gái trẻ trong tích tắc tái dại đi như người vừa bị móc hết ruột gan. Hai môi cô run bắn lên bần bật, tròng mắt mở to hết cỡ nhìn Khanh như nhìn thấy một bóng ma giữa ban ngày. Cô không dám nhặt mảnh thuốc nữa, lảo đảo lùi lại hai bước, vấp phải bậc gạch men suýt ngã ngửa, rồi cúi gằm mặt thục mạng chen vào đám đông rạp tang, biến mất sau những tấm bạt dứa rách mép.
+Khuôn mặt cô gái trẻ trong tích tắc tái dại đi như người vừa bị móc hết ruột gan. Hai môi cô run bắn lên bần bật, tròng mắt mở to hết cỡ nhìn Khanh như nhìn thấy một bóng ma giữa ban ngày. Cô không dám nhặt mẩu vải nữa, lảo đảo lùi lại hai bước, vấp phải bậc gạch men suýt ngã ngửa, rồi cúi gằm mặt thục mạng chen vào đám đông rạp tang, biến mất sau những tấm bạt dứa rách mép.
 
 Khanh đứng bất động suốt mấy giây.
 
-Mùi nhựa cháy khét lẹt vẫn còn lảng vảng ngột ngạt quanh chóp mũi anh. 
+Mùi vải cháy khét lẹt và mùi tanh của máu bị nung nóng vẫn còn lảng vảng ngột ngạt quanh chóp mũi anh. 
 
-Khanh bước lại gần chiếc xô tôn, đưa mắt nhìn quanh. Đám người ngoài rạp vẫn đang mải mê chia buồn với ông Cổn và Toàn. Anh cúi người, nhặt một cành ổi khô dưới đất, khẽ khều mảnh nhôm quăn queo đang bám đầy tàn tro đen nhánh dưới mép gạch.
+Khanh bước lại gần chiếc xô tôn, đưa mắt nhìn quanh. Đám người ngoài rạp vẫn đang mải mê chia buồn với ông Cổn và Toàn. Anh cúi người, nhặt một cành ổi khô dưới đất, khẽ khều mẩu vải cháy sém đang bám đầy tàn tro đen nhánh dưới mép gạch.
 
-Mảnh nhôm đã nguội bớt. 
+Mẩu vải đã nguội bớt. 
 
-Lớp màng bạc bị nhiệt độ uốn cong gập lại, nhưng ở rìa mép của một lỗ thuốc bị bấm thủng, hàng chữ dập nổi công nghiệp bằng mực xanh đậm vẫn còn sót lại một nửa, rõ mồn một:
-
-*...zepam 5mg*
+Đó là một mảnh cổ áo bằng vải kaki màu xanh công nhân, rìa mép bị lửa thiêu quăn queo đen nhánh, trên thớ vải thô ráp vẫn còn loang lổ những vệt máu khô thẫm màu nâu đen bị nhiệt nung đóng bánh lại. Và ngay sát đường viền may bị giằng rách toạc, một chiếc cúc bấm bằng kim loại đúc hình ngôi sao dập nổi — loại cúc áo bảo hộ đặc trưng của đội xe tải chở cát sông Đáy mà Toàn lái thuê — vẫn còn đính chặt vào chân chỉ!
 
 Đồng tử Khanh co thắt lại dữ dội.
 
-Là thuốc an thần. Diazepam liều cao — một loại thuốc hướng thần chỉ định kiểm soát thần kinh và gây ngủ sâu, tuyệt đối chống chỉ định dùng chung với rượu mạnh vì có thể gây ức chế hô hấp và trụy tim mạch!
+Chiếc áo bảo hộ bị giằng xé rách nát vấy máu...
 
-Bàn tay Khanh siết chặt cành ổi khô đến mức gãy vụn làm đôi. 
+Một mảnh ghép trinh thám rúng động thình lình bật nảy trong tâm trí anh: Tại sao con dâu trưởng lại phải lén lút tiêu hủy một chiếc áo rách dính máu trong đám tang của bố chồng? Khanh nhớ lại hình ảnh Toàn ban nãy ở gian giữa: giữa buổi trưa nồm ẩm oi nồng, ai nấy đều xắn tay áo mồ hôi đầm đìa, chỉ riêng Toàn lại quấn chiếc khăn tang xô gai dày cộp kín mít quanh cổ lên tận cằm như để che giấu một thứ gì đó bên dưới!
 
-Một mảnh ghép trinh thám rúng động thình lình bật nảy trong tâm trí anh: Tại sao con dâu trưởng lại phải lén lút tiêu hủy một vỉ thuốc an thần liều cao trong đám tang của bố chồng? Tại sao người đàn ông khỏe mạnh, say rượu ngã cầu thang đêm 13 lại để lại vỏ thuốc ngủ bị đốt vội vã thế này?
+Đêm 13... trước khi cú ngã cầu thang xảy ra, đã có một cuộc xô xát, giằng co kịch liệt bằng móng tay và máu thịt giữa hai con người trong căn nhà này!
 
-Cái chết đêm 13... không hề là một tai nạn trượt chân ngẫu nhiên. Có bàn tay con người đã can thiệp vào trước khi cú ngã xảy ra!
-
-Khanh rút chiếc khăn mùi soa trong túi ra, cẩn thận bọc mảnh nhôm cháy sém lại rồi nhét sâu vào túi quần bò, quay bước trở lại rạp tang.
+Khanh rút chiếc khăn mùi soa trong túi ra, cẩn thận bọc mẩu vải dính chiếc cúc kim loại lại rồi nhét sâu vào túi quần bò, quay bước trở lại rạp tang.
 
 ***
 
@@ -384,7 +384,7 @@ Gió từ đầm sen thốc lên lạnh buốt.
 
 Mặt nước đầm phẳng lặng như một tấm gương xám đục khổng lồ, những bụi sen tàn ngập bùn đen rũ rượi trong sương mù. Dưới lớp bùn sâu ba mươi năm ấy, và dưới nấm mồ mới đắp còn thơm mùi đất mới kia, những bí mật của gia tộc họ Vũ tưởng chừng đã được chôn chặt vĩnh viễn.
 
-Khanh siết chặt các ngón tay trong túi quần bò. Mép nhôm sắc lẹm của vỉ thuốc cứa nhẹ vào đầu ngón tay anh qua lớp vải khăn mùi soa, buốt nhức như một lời nhắc nhở câm lặng giữa đồng chiều.
+Khanh siết chặt các ngón tay trong túi quần bò. Mép kim loại ram ráp của chiếc cúc áo bảo hộ dính trên mảnh vải cháy sém cọ nhẹ vào đầu ngón tay anh qua lớp khăn mùi soa, buốt nhức như một lời nhắc nhở câm lặng giữa đồng chiều.
 
 ---
 
@@ -393,16 +393,18 @@ Khanh siết chặt các ngón tay trong túi quần bò. Mép nhôm sắc lẹm
 | Finding ID | Severity | Vị trí (Draft) | Vị trí (Revised) | Trạng thái | Biện pháp đã can thiệp |
 |---|---|---|---|---|---|
 | F-01 | MINOR | L45 | L45 | `RESOLVED` | Cắt bỏ nhãn cảm xúc "hoảng loạn", chuyển hoàn toàn sang hành động vật lý: *"Hai gót chân gã cuống cuồng đạp mạnh xuống nền gạch, cả người lùi bắn về phía sau..."* |
-| F-02 | MINOR | L283 | L283 | `RESOLVED` | Cắt bỏ nhãn dán tâm lý trừu tượng (*"Theo phản xạ mù quáng của nỗi sợ hãi tột cùng"*), thay bằng hành động và cảm giác thể xác: *"Mặc kệ cái nóng rát, Lan Anh cuống cuồng ngồi thụp xuống, run rẩy vươn tay định chộp lấy mảnh nhôm cháy sém để ném lại vào lửa."* |
-| F-03 | OPTIONAL | L389-L390 | L389-L390 | `RESOLVED` | Xóa câu kết mang tính kể lể khuôn mẫu (*"Nhưng Khanh biết, mọi chuyện chỉ vừa mới bắt đầu."*). Thay thế bằng cảm giác thể xác sắc lạnh: Khanh siết ngón tay chạm vào mép nhôm cứa qua lớp khăn mùi soa, tạo dư ba trinh thám câm lặng và rờn rợn giữa cánh đồng chiều nồm ẩm. |
+| F-02 | MINOR | L283 | L283 | `RESOLVED` | Cắt bỏ nhãn dán tâm lý trừu tượng (*"Theo phản xạ mù quáng của nỗi sợ hãi tột cùng"*), thay bằng hành động và cảm giác thể xác: *"Mặc kệ cái nóng rát, Lan Anh cuống cuồng ngồi thụp xuống, run rẩy vươn tay định chộp lấy mẩu vải cháy sém để ném lại vào lửa."* |
+| F-03 | OPTIONAL | L389-L390 | L389-L390 | `RESOLVED` | Xóa câu kết mang tính kể lể khuôn mẫu (*"Nhưng Khanh biết, mọi chuyện chỉ vừa mới bắt đầu."*). Thay thế bằng cảm giác thể xác sắc lạnh: Khanh siết ngón tay chạm vào mép chiếc cúc áo kim loại qua lớp khăn mùi soa, tạo dư ba trinh thám câm lặng và rờn rợn giữa cánh đồng chiều nồm ẩm. |
 
 ---
 
 ## Author Review Items & Open Slots
 
-1. **Khớp nối tình tiết vỉ thuốc an thần (Diazepam)**:
-   - Chi tiết mảnh vỉ nhôm `...zepam 5mg` được bảo lưu nguyên vẹn như một fair-play detective clue. Khanh giữ kín trong túi quần bò bọc khăn mùi soa.
-   - Slot mở cho Chương 7 (The Breather): Khanh dùng laptop tra cứu dược lực học ban đêm, hay chia sẻ với Công an Đặng Việt Long.
+1. **Khớp nối tình tiết Xô xát thể xác & Chiếc áo bảo hộ dính máu (D-057)**:
+   - Xóa bỏ hoàn toàn chi tiết vỉ thuốc an thần Diazepam.
+   - Thay thế bằng: Đêm 13, Toàn về đòi sổ đỏ đất đầm sen và xô xát dữ dội với Cường. Cường cào cấu rách cổ Toàn và xé toạc áo bảo hộ trước khi Toàn xô bố rồi bỏ đi.
+   - Lan Anh rơi vào Loyalty Trap: quấn khăn tang che vết cào trên cổ Toàn và mang chiếc áo rách dính máu đi đốt phi tang.
+   - Manh mối vật lý (Fair-play detective clue): Mẩu vải cháy sém dính chiếc cúc bấm kim loại hình ngôi sao của đội xe tải chở cát sông Đáy văng ra chân Khanh.
 2. **Kỷ luật Off-POV Cảnh 1 (DIR-03)**:
    - Cảnh 1 được giữ sạch 100% không có độc thoại nội tâm hay suy luận của nhân vật, tuân thủ nguyên tắc Fly-on-the-wall.
 3. **Mốc chuyển giao hoàn tất đám tang vật lý**:

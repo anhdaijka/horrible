@@ -498,5 +498,18 @@ Decisions below were explicitly accepted during discovery. Future agents must no
 - **Implications:** Completely eradicates the unrealistic "family collective drowning" B-movie trope; replaces it with an authentic, heartbreaking Vietnamese rural tragedy of patriarchal oppression, sibling greed, and lingering moral guilt; establishes rock-solid motivation for all living conspirators.
 - **Supersedes:** Any prior reference to Thoa being drowned, held under mud, or ordered drowned by Ông Cổn. All references must now reflect D-056.
 
+### D-057 — Removal of Sedative Tampering: The Physical Scuffle & Torn Bloody Shirt Loyalty Trap
+
+- **Date:** 2026-09-14
+- **Status:** accepted author decision
+- **Decision:** Completely eliminate the Diazepam/sedative tampering plotline for Vũ Văn Toàn and Lan Anh:
+  1. *No Drugging:* Toàn did not use sleeping pills or any chemical sedative on Cường. The artificial detective mechanic of "drugging wine to steal the deed" is eradicated.
+  2. *The Violent Physical Scuffle (Night of 13th):* Cornered by immense debt deadlines, Toàn demanded the lotus pond land deed. Cường fiercely refused, leading to a violent struggle. Cường gouged his fingernails deeply into Toàn's neck and tore his work shirt. Toàn shoved Cường away and stormed outside. Minutes later, Cường died violently at the foot of the stairs.
+  3. *The Paralyzing Guilt:* Toàn is convinced his violent struggle and shove directly caused Cường to lose balance and fall to his death.
+  4. *Lan Anh's Loyalty Trap:* Toàn begs Lan Anh to help him. Lan Anh binds a thick mourning headband tightly around Toàn's neck to hide the bloody claw marks, and takes the torn, blood-stained work shirt to burn in the funeral votive incinerator in Chapter 6.
+  5. *Khanh's Physical Clue:* The burning work shirt emits foul, acrid smoke from nylon/blood. A whirlwind blows a charred scrap bearing Toàn's unique sand-truck metal button to Khanh's feet. Khanh subsequently connects this button and fabric with Toàn's abnormally bundled neck.
+- **Implications:** Elevates the psychological realism and emotional stakes; grounds the human conflict in authentic rural greed and domestic violence rather than foreign procedural tropes.
+- **Supersedes:** Any reference to Diazepam, sedatives, or drugging in D-050, D-054, and Case Zero outlines.
+
 
 

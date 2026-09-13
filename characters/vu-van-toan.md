@@ -34,9 +34,8 @@ The 30-year-old eldest son and lineage heir of the deceased Vũ Văn Cường, a
 
 In Case Zero (**D-050**, **D-054**, **DIR-01**):
 - **Financial Desperation & Land Scheme:** Drowning in massive debts (over a billion VND) from truck installments and illicit gambling/land speculation, Toàn desperately sought to seize the multi-billion-dong lotus pond plot before the district's road project commenced.
-- **Diazepam Sedative Tampering:** On the night of the 13th Giêng, Toàn secretly laced Cường's bedtime medicinal herbal wine (*rượu ngâm đinh lăng*) with high-dose Diazepam (sedative) to make Cường sleep heavily while he snuck into his father's room to steal the land deed (*sổ đỏ*).
-- **Paralyzing Guilt & Panic:** When Cường was found dead at the foot of the stairs with his neck broken backwards, Toàn fell into visceral terror, believing his drugging directly caused Cường's fatal fall. He frantically hid the remaining sedative blister packs, feigned grief, and deflected all questions toward rural superstition and "trùng tang".
-- **Dynamic with Lan Anh:** Lan Anh discovers Toàn's secret and the opened Diazepam blister pack. Driven by marital devotion and panic (*The Loyalty Trap*), she secretly burns the blister pack in the funeral votive fire in Chapter 6 to protect Toàn from police scrutiny.
+- **Violent Scuffle & Fatal Guilt:** On the night of the 13th Giêng, cornered by debt deadlines, Toàn confronted Cường to demand the land deed (*sổ đỏ*). Cường furiously refused, cursing him. A violent physical struggle erupted; Cường fiercely gouged his fingernails into Toàn's neck and tore his work shirt before Toàn shoved him away and stormed out to smoke. Minutes later, Cường was found dead at the foot of the stairs with his neck broken backwards. Toàn fell into visceral terror, believing his violent push directly caused Cường's fatal fall.
+- **Cover-up with Lan Anh:** Paralyzed by fear that the deep scratch wounds on his neck and the blood-stained torn shirt would convict him of patricide, Toàn begs Lan Anh to help him. Lan Anh wraps a mourning headband tightly around his neck to conceal the wounds, and takes the torn bloody shirt to secretly burn in the funeral incinerator in Chapter 6.
 
 ## Core traits
 
