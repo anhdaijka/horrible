@@ -182,28 +182,36 @@ Chính vào lúc khớp hàm Khanh cứng đờ, cuống họng nghẹn đắng 
 
 *Tè... le... te... Tè... le... te...*
 
-Tiếng chuông điện thoại di động cài sẵn của máy bà Lan rú lên giòn giã.
+Tiếng chuông điện thoại di động trong túi áo khoác của Khanh đột ngột rú lên giòn giã.
 
-Bà Lan giật bắn người, đánh rơi cả thếp tiền vàng xuống đất. Bà run rẩy thò tay vào túi áo khoác, lôi chiếc điện thoại Nokia cũ kỹ ra, nhìn vào màn hình đang nhấp nháy sáng trưng.
+Khanh giật nảy mình, ngón tay run rẩy thò vào túi lôi chiếc máy cảm ứng ra. Ánh sáng xanh lơ từ màn hình hắt lên khuôn mặt tái mét của anh, nhấp nháy tên người gọi:
 
-Khanh nhìn thấy tên người gọi hiện lên trên nền đèn xanh lơ của chiếc điện thoại:
+`Lê Văn Thắng`.
 
-`Cô Thủy xóm Trại`.
+Bà Lan đứng bên cạnh cũng giật thót người, đánh rơi cả thếp tiền vàng trên tay xuống đất. Khanh nuốt khan một ngụm nước bọt buốt đắng, ngón tay run lẩy bẩy vuốt phím nghe rồi ấn luôn loa ngoài:
 
-Bà Lan run lẩy bẩy bấm nút nghe, áp điện thoại vào tai:
+"A... A lô? Thắng à..."
 
-"A... A lô? Cô Thủy đấy à..."
+"Khanh à?!" Giọng Thắng bên kia đầu dây thở dốc hụt hơi, tiếng gió rít qua kẽ lá lẫn với những tạp âm hỗn loạn của đám tang. "Mày... mày với bác Lan còn ở tiệm không đấy?!"
 
-Bà Lan chưa kịp dứt câu, từ chiếc loa ngoài rè đặc của chiếc Nokia, một tiếng thét thất thanh, lạc hẳn giọng xé toạc màn đêm:
+"Tao... tao đây. Có chuyện gì thế Thắng?"
 
-"Chị Lan ơi! Cứu em với! Cứu em với chị ơi!"
+"To chuyện rồi! Trong xóm Trại đang loạn cào cào lên đây này!" Giọng Thắng hạ thấp xuống, run rẩy và gấp gáp như sợ ai nghe thấy. "Cô Thủy tự dưng nổi điên, khóa trái cửa buồng ngủ rồi gào khóc ầm ĩ... bảo anh Cường vừa đi trên gác... rồi cào rách cả chấn song đòi bắt người đi theo!"
 
-Giọng cô Thủy khản đặc, the thé như bị ai bóp nghẹt cổ họng, hòa lẫn với tiếng thở dốc hụt hơi giật cục:
+Qua chiếc loa ngoài rè đặc của điện thoại, Khanh và bà Lan nghe rõ mồn một tiếng thét lạc hẳn giọng, the thé và nấc nghẹn của cô Thủy từ gian trong vọng ra:
 
-"Chị Lan ơi... cứu... cứu em với! Ngoài... ngoài cửa sổ buồng anh Cường... có cái gì... nó đang cào... cào rách cả chấn song gỗ rồi... Nó về thật rồi chị ơi... Cứu em..."
+*"Đốt... tôi lạy chị Lan đốt cái đài đi!... Anh Cường anh ấy về thật rồi... đòi bắt cả nhà đi cùng... Đốt ngay đi không nó bắt hết!..."*
 
-Một tiếng *rầm* vang lên chát chúa ở đầu dây bên kia, kèm theo một tiếng thét nghẹn lại rồi tắt phụt, chỉ còn lại những tiếng tút dài lạnh lẽo vang lên trong đêm tối.
+Ngay sau đó là tiếng đập cửa rầm rầm cùng tiếng quát dữ dằn của ông Cổn vọng lại chát chúa: *"Mày câm họng lại! Mở cửa ra không tao phá tan cửa bây giờ!"*
 
-Chiếc điện thoại trên tay bà Lan trượt khỏi kẽ tay, rơi cắm đầu xuống nền gạch ẩm.
+Giọng Thắng dồn dập ghé sát vào micro điện thoại, đầy vẻ kinh hãi:
+
+"Mấy ông trong họ với ông Cổn đang điên tiết lên... người ta đổ riệt là tại cái đài mã người sống đặt chiều nay nhà mày mang sang làm động mồ động mả, dớp xú quẩy mới ám vào tang gia! Người ta đang hò nhau đòi kéo sang tiệm nhà mày đập phá, bắt vạ đấy! Mày với bác Lan sang đây ngay mà thanh minh, không là to chuyện thật đấy!..."
+
+Một tiếng *xoảng* vang lên như tiếng bát đĩa vỡ vụn ở đầu dây bên kia, rồi đường truyền tắt phụt, chỉ còn lại những tiếng tút dài lạnh lẽo vang lên trong đêm tối.
+
+Chiếc điện thoại trên tay Khanh trượt nhẹ, màn hình nhấp nháy ánh sáng xanh nhờ nhờ chiếu xuống nền gạch ẩm. 
+
+Bà Lan run lẩy bẩy, mặt cắt không còn giọt máu, hai vai co rúm lại dưới lớp áo len mỏng. 
 
 Trước mặt Khanh, trong bóng tối nhập nhoạng của tiệm vàng mã, nắp khay băng của chiếc đài giấy vẫn hé mở tối om, lặng lẽ toát ra từng đợt sương lạnh buốt giá.

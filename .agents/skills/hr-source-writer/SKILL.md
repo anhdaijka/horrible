@@ -14,8 +14,9 @@ Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` và `author/style-
    - Kiểm tra `revisions/chapter-work/CH-XX/preflight.md`.
    - Xác nhận preflight đã được Tác giả phê duyệt trong phiên. Nếu chưa có phê duyệt, dừng lại và thông báo `AUTHOR GATE: PENDING`. Không tự ý gỡ freeze.
 
-2. **Tải Ngữ Cảnh Tối Thiểu (Minimum Sufficient Context)**:
-   - Đọc `preflight.md` của chương hiện tại.
+2. **Tải Ngữ Cảnh Tối Thiểu & Chỉ thị Sáng tạo (Mandatory Context & Directives)**:
+   - **BẮT BUỘC ĐỌC TOÀN BỘ CÁC FILE TRONG `author/directives/`** (đặc biệt `DIR-01-psychological-tension.md`): Tuân thủ triệt để không khí kinh dị truyền miệng ma Cường (Nguyễn Ngọc Ngạn style), thủ pháp cô lập người thấy ma vs người dùng logic gạt đi (Thắng, ông Cổn), và tuyệt đối không rò rỉ án mạng Thoa.
+   - Đọc `preflight.md` của chương hiện tại đã được Tác giả duyệt.
    - Đọc `author/style-bible.md` và `author/creative-constitution.md`.
    - Đọc hồ sơ nhân vật xuất hiện trong cảnh (chú ý `Physical presence`, `Body-language baseline`, và xưng hô chuẩn).
    - Tuyệt đối KHÔNG đọc hay phục hồi các bản thảo cũ đã bị Tác giả reject (Clean-Rewrite Guard).

@@ -14,14 +14,15 @@ Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` và `prompts/roles
    - Rũ bỏ hoàn toàn góc nhìn của người viết. Giả định bản thảo **LUÔN CÓ LỖI TIỀM ẨN** (head-hopping ngầm, narrator giảng bài, leak lore sớm, dán nhãn cảm xúc, thoại kịch tuồng, phong tục sai lệch) cho đến khi tìm đủ bằng chứng chứng minh điều ngược lại.
    - Không tin vào lời giải thích hay tự nhận định của Writer. Đánh giá dựa trên văn bản thực tế.
 
-2. **Đọc Toàn Văn Tuần Tự (Full-Read Coverage: L1-EOF)**:
+2. **Đọc Toàn Văn & Nạp Chỉ Thị Tác Giả (Mandatory Directives Check)**:
+   - **BẮT BUỘC ĐỌC TOÀN BỘ CÁC FILE TRONG `author/directives/`** (đặc biệt `DIR-01-psychological-tension.md`): Dùng các tiêu chuẩn này làm thước đo kiểm toán đối kháng.
    - Đọc bản thảo mục tiêu (`revisions/chapter-work/CH-XX/draft.md`) tuần tự từ dòng đầu đến dòng cuối.
    - Ghi lại bảng Full-Read Coverage theo từng dải tối đa 120 dòng kèm nhận xét cụ thể. Nếu chưa đọc hết, báo ngay `INCOMPLETE`.
 
 3. **Kiểm toán qua 5 Cổng Thẩm Mỹ Horrible**:
-   - **Gate A (Information Order & POV Lock)**: Khanh Limited 3rd POV. Rà soát rò rỉ toàn tri. TUYỆT ĐỐI CẤM Author Intrusion (Narrator giảng bài, tóm tắt tiểu sử, hay tự chốt suy luận hộ nhân vật). Mọi đoạn văn vi phạm "Tell, don't Show" phải bị gắn cờ `MAJOR` và yêu cầu cắt bỏ.
+   - **Gate A (Information Order & POV Lock)**: Khanh Limited 3rd POV. Rà soát rò rỉ toàn tri. TUYỆT ĐỐI CẤM Author Intrusion (Narrator giảng bài, tóm tắt tiểu sử, hay tự chốt suy luận hộ nhân vật). Gắn cờ `CRITICAL` nếu vi phạm `DIR-01` (để lộ manh mối án mạng Thoa sớm, hoặc phá vỡ cấu trúc bí mật).
    - **Gate B (Cultural Reality & Folk Grounding)**: Kiểm tra tính chuẩn xác của đồ mã, nghi lễ, đối chiếu `research/verified/`. Bắt lỗi bịa đặt bừa bãi phong tục thật.
-   - **Gate C (Horror Promise & Retroactive Dread)**: Cảm giác ngột ngạt (dread), hai tầng logic. Cấm phá vỡ logic nghề nghiệp. Gắn cờ `MAJOR` nếu giải thích lê thê làm loãng nhịp độ kinh dị (Info-dump).
+   - **Gate C (Horror Promise, Retroactive Dread & Cognitive Conflict)**: Cảm giác ngột ngạt (dread), hai tầng logic. Bắt buộc kiểm tra theo `DIR-01`: Dị tượng có tập trung vào hồn ma Cường không? Có thể hiện được sự xung đột nhận thức giữa kẻ thấy ma và người dùng logic gạt đi (Thắng/ông Cổn) không? Gắn cờ `MAJOR` nếu để 100% nhân vật hùa vào tin ma quỷ làm mất lực căng tâm lý.
    - **Gate D (Voice, Dialogue Cadence & Physicality)**: Khẩu ngữ tự nhiên, triệt tiêu thoại kịch tuồng. Gắn cờ `MAJOR` nếu nhân vật hoảng loạn lại miêu tả rành mạch máu me (B-movie gore) thay vì bị "khóa ngôn ngữ". Bắt buộc thể xác hóa cảm xúc (Show), cấm dán nhãn (Tell).
    - **Gate E (Word Count & Pacing Substantiality)**: Độ dài chuẩn 2.500 – 3.500 từ; nhịp chậm rãi, dư ba kết chương.
 

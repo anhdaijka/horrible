@@ -19,9 +19,10 @@ For chapter operations, use `.agents/workflows/hr-*.md` (`/hr-preflight`, `/hr-w
 Core order of operations:
 
 1. newest author instruction
-2. repository truth / current session handoff
-3. current canon + continuity + verified research
-4. narrative reasoning
+2. `author/directives/` (mandatory creative directives reflecting author mandates)
+3. repository truth / current session handoff (`author/session-state.md`)
+4. current canon + continuity + verified research
+5. narrative reasoning
 5. proposal / draft / review
 6. author approval when required
 7. state update

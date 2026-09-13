@@ -103,3 +103,12 @@ Foreshadowing should create a question. It should not answer tomorrow's question
 The series may expand geographically and thematically, including Japan, but should remain grounded in human-scale horror, spirituality, memory, wrongdoing, grief, social life and mystery.
 
 Expansion should deepen fear, culture and consequence rather than simply increase supernatural power levels.
+
+## Case Zero Specific Boundary: The Thoa-Dead-Leak Firewall, Cường Haunting & Trùng Tang Paradigm (D-054, D-055)
+
+- In Case Zero (Chapters 1 through 9), the central domestic horror, uncanny dread, and supernatural haunting MUST focus exclusively on **Hồn ma ông Vũ Văn Cường (the unquiet spirit of the freshly dead man prior to and during the funeral rites)**.
+- Strictly forbid any narrator intrusion, character dialogue, or slip of tongue indicating that Thoa is dead, that Thoa is a ghost, or that the family is being haunted by Thoa's ghost before the Act 3 reveal (Chapter 10).
+- Thoa must remain strictly an enigmatic, living female suspect (the woman on CCTV) in the investigation led by Khanh and the police.
+- The suspects (Thủy, Toàn, Lan Anh, Cổn) are gripped by paralyzing terror of Cường's spirit because they all committed coercive, illicit acts against Cường (extortion, sedatives, cover-ups) right before his violent death, without intending to kill him.
+- **The Trùng Tang Framing (D-055):** When Cường's spirit manifests or is discussed by characters and villagers, the haunting MUST be framed around folk belief in **Trùng Tang** (chết dữ phạm giờ, vong về đòi bắt người sống / bắt con cháu, anh em ruột thịt đi theo). Characters must use authentic folk-grief phrasing like *"Anh Cường về đòi bắt cả em đi"*, *"Bố mày về bắt người đi theo"*, *"Trùng tang rồi"*, strictly avoiding sterile procedural terms like "đòi mạng" or "uẩn khúc giết người". The entire village and readership must be led to perceive the haunting as an authentic, terrifying Trùng Tang crisis.
+

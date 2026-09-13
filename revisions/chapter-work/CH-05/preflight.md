@@ -1,86 +1,76 @@
 # Preflight Định Vị Chương: Chương 05 — Đêm áp Rằm
 
-> **Căn cứ bắt buộc**: `author/decisions.md` (D-048, D-050, D-051), `author/style-bible.md` (Section 6, 12, 28, 29, 31), `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`.
+> **Căn cứ bắt buộc**: `author/decisions.md` (D-048, D-050, D-051, D-052, D-054, D-055), `author/boundaries.md` (Case Zero Specific Boundary), `author/style-bible.md`.
 
 ---
 
 ## 1. Thông Tin Cơ Bản (Metadata & Setting)
 
 - **Số chương / Tên chương**: Chương 05 — Đêm áp Rằm
-- **Mốc thời gian chính xác**: Khoảng 19:00 – 20:30 tối ngày mười bốn tháng Giêng (Đêm áp Rằm, ngay sau cuộc gọi cầu cứu cuối Chương 4).
+- **Mốc thời gian chính xác**: Khoảng 19:00 – 20:30 tối ngày mười bốn tháng Giêng (Đêm áp Rằm, ngay sau cuộc gọi báo nguy của Thắng cuối Chương 4).
 - **Địa điểm chính**: 
-  - *Hồi I*: Gian nhà chính và căn buồng ngủ tầng một nhà ông Cường tại xóm Trại (mặt sau hướng thẳng ra mé đầm sen ngập nước).
+  - *Hồi I*: Gian nhà chính (nơi đặt phản đá ướp xác) và căn buồng ngủ tầng một nhà ông Cường tại xóm Trại (mặt sau hướng thẳng ra mé đầm sen ngập nước).
   - *Hồi II*: Cung đường liên xã gió nồm mịt mù & Hiện trường căn buồng ngủ nhà ông Cường.
 - **Nhân vật xuất hiện trong cảnh**:
-  - *Hồi I (Xóm Trại Interlude)*: Cô Thủy, Toàn (con trai ông Cường), Lan Anh (con dâu), ông Vũ Cổn (Trưởng tộc).
-  - *Hồi II (Điểm hội tụ & Đối mặt)*: Nguyễn Minh Khanh, bà Lan, cô Thủy, Toàn, Lan Anh.
+  - *Hồi I (Xóm Trại Interlude)*: Cô Thủy, Đinh Công Toàn (con rể / con trai ông Cường), Vũ Thị Lan Anh (vợ Toàn), ông Vũ Cổn (Trưởng tộc họ Vũ).
+  - *Hồi II (Điểm hội tụ & Đối mặt)*: Nguyễn Minh Khanh, bà Lan, cô Thủy, Toàn, Lan Anh, ông Vũ Cổn.
 - **Góc nhìn (POV)**: 
-  - *Hồi I*: Dual/Interlude POV — Ống kính khách quan bám sát thể xác và giác quan của cô Thủy / gia đình họ Vũ trong căn buồng xóm Trại.
+  - *Hồi I*: Dual/Interlude POV — Bám sát thể xác và giác quan hoảng loạn của cô Thủy / gia đình họ Vũ tại căn buồng xóm Trại.
   - *Hồi II*: Trở lại Limited 3rd POV độc nhất qua Nguyễn Minh Khanh.
 - **Mục tiêu tự sự của chương**: 
-  - Giải tỏa triệt để "cơn đói kinh dị" tích tụ từ 4 chương đầu bằng trường đoạn kinh dị ma quái nặng đô, trực diện (Horror Centerpiece của Hồi 1).
-  - Bộc lộ sự rạn nứt tâm lý, nỗi sợ hãi quả báo và sự giằng xé tội lỗi của gia đình họ Vũ.
-  - Giáng một đòn chí mạng phá vỡ vỏ bọc duy lý IT của Khanh qua hiện trường vệt bùn bàn tay trái và **file ghi âm Zalo 38 giây** (bằng chứng âm thanh về cái chết bất khả thi trên không trung).
+  - Đẩy áp lực kinh dị tâm linh lên đỉnh điểm bằng **Hồn ma người mới chết dữ (Vong hồn ông Cường quấy phá trước giờ nhập quan)** theo chuẩn D-054 và **Khung tâm linh Trùng Tang (bắt người đi theo)** theo D-055.
+  - Bộc lộ sự rạn nứt tâm lý và mặc cảm tội lỗi sâu sắc của các nghi phạm (Thủy sợ anh trai về bắt đi theo vì tội ép đất; Toàn sợ người làng đồn trùng tang và sợ lộ Diazepam; ông Cổn sợ bại hoại gia phong, phải nhờ Thầy Bình yểm bùa trấn trùng).
+  - Giáng đòn chí mạng bẻ gãy vỏ bọc duy lý IT của Khanh qua vệt bùn bàn tay trái bất khả thi và **file ghi âm thoại Zalo 38 giây** (bằng chứng công nghệ về án mạng bẻ cổ trên không trung).
+  - **Khóa chết 100% bí mật về Thoa**: Tuyệt đối không một ai nghi ngờ hay nhắc đến việc Thoa đã chết.
 
 ---
 
 ## 2. Thiết Lập Giác Quan & Thể Xác Hóa (Anchors & Physicality)
 
 1. **Sensory Anchors (Neo Giác Quan)**:
-   - *Xúc giác / Nhiệt độ*: Sự tụt nhiệt độ buốt giá cục bộ trong căn buồng ngủ (như bước chân xuống đáy giếng lạnh); chất bùn đầm sen nhơn nhớt, lạnh buốt còn ướt nước trên bậu cửa sổ gỗ; độ rung cơ học bần bật của chiếc điện thoại trong tay; luồng sương ẩm phả ra từ góc buồng tối.
-   - *Khứu giác*: Mùi tử khí nồng nặc từ gian phản ướp xác hòa lẫn mùi nhang bài ẩm mốc; mùi tanh tưởi ngai ngái của bùn rữa đầm sen bốc qua khe vách; mùi thuốc lào khét lẹt của ông Cổn và mùi mồ hôi chua nhớp nháp vì sợ hãi.
-   - *Thị giác / Ánh sáng*: Ánh đèn dầu leo lét bốc khói đen ám muội; bóng của những chấn song gỗ đổ xiên xẹo như lồng giam; vệt bùn đen nhánh in hằn hình bàn tay trái bốn ngón trên gỗ xoan; màn hình điện thoại chớp nháy ánh sáng xanh lơ ma quái trong bóng tối; chiếc túi ni-lông đen đựng đài giấy phồng xẹp khe khẽ.
+   - *Xúc giác / Nhiệt độ*: Hơi lạnh tử khí nồng nặc và buốt nhức từ gian phản ướp đá cây lan vào buồng ngủ (nhiệt độ sụt 4–5 độ như bước xuống đáy huyệt); chất bùn đầm sen nhơn nhớt, lạnh buốt còn ướt nước trên bậu cửa sổ gỗ xoan; độ rung giật của chiếc điện thoại trên chiếu; luồng khí lạnh ngấm buốt qua hai lớp áo khoác gió từ bọc đài giấy bồi.
+   - *Khứu giác*: Mùi đá cây ướp xác hòa lẫn mùi cồn y tế, mùi nhang trầm và mùi bột hồ dán ẩm mốc; mùi bùn rữa tanh ngai ngái bốc lên từ mé đầm sen qua khe chấn song.
+   - *Thị giác / Ánh sáng*: Ánh đèn quả nhót đỏ au le lói từ bàn thờ vong hắt bóng xiên xẹo vào buồng; bóng chấn song gỗ đổ dài như lồng giam; vệt bùn đen nhánh in hằn hình bàn tay trái 5 ngón thon dài trên bậu gỗ; màn hình điện thoại chớp sáng xanh lơ ma quái; bọc ni-lông đen đựng đài giấy cựa mình phồng xẹp.
    - *Thính giác*: 
-     - Tiếng kèn hiếu nỉ non ngột ngạt ngoài rạp;
-     - Tiếng bước chân trần bì bõm nước lết chầm chậm trên sàn gỗ cầu thang tầng hai bị niêm phong (*bộp... soạt...*);
-     - Tiếng móng tay cào vào then cài cửa gỗ (*sột soạt... kèn kẹt...*);
-     - Tiếng rè rè cơ học của đài cassette rỗng;
-     - Tiếng xương cổ vặn ngược gãy đanh gọn (*RẮC!*) phát ra từ file thoại Zalo.
+     - Tiếng kèn hiếu nỉ non não ruột ngoài rạp tang mưa phùn;
+     - Tiếng bước chân trần kéo lê khập khiễng trên sàn gỗ lim tầng hai bị niêm phong (*bộp... soạt...*);
+     - Tiếng móng tay cào vào then cài cửa gỗ buồng ngủ (*kèn kẹt... kèn kẹt...*);
+     - Tiếng thở phì phò, sặc sụa qua khí quản bị dập gãy của người chết trẹo cổ;
+     - Tiếng băng từ rỗng *xèo xèo* và tiếng xương cổ gãy đanh gọn (*RẮC!*) phát ra từ file thoại Zalo.
 
 2. **Physicality of Emotion (Thể xác hóa Cảm xúc)**:
-   - *Cô Thủy*: Co rúm người lại như con ốc trên giường, cánh tay trái teo tóp ghì chặt lấy ngực; hai hàm răng va vào nhau lập cập phát ra tiếng lách cạch liên hồi; mắt trợn trừng đỏ ngầu không dám chớp vì sợ bóng đen ập tới; tiếng thở dốc nghẹn ứ nơi cuống họng.
-   - *Toàn & Lan Anh*: Toàn bồn chồn đi đi lại lại, hai bàn tay run bần bật liên tục vò nát bao thuốc lá, mắt lấm lét nhìn lên trần nhà; Lan Anh mặt cắt không còn hạt máu, hai vai so lại cắn chặt môi đến rỉ máu để không bật ra tiếng khóc.
-   - *Ông Vũ Cổn*: Tay chống gậy mun gõ xuống nền gạch cố tỏ ra uy quyền, nhưng chòm râu dê rung bần bật, cơ mặt giật giật từng cơn vì chột dạ.
-   - *Khanh*: Tê dại toàn bộ màng nhĩ khi nghe âm thanh 38 giây; ngực thắt nghẽn không hít nổi không khí; phản xạ buồn nôn sinh lý khi logic khoa học 3 năm ở Nhật Bản bị bẻ gãy hoàn toàn trước vệt bùn bất khả thi.
+   - *Cô Thủy*: Co rúm người lại như con ốc trên giường, cánh tay trái dị tật khoèo quặp chặt lấy ngực; hai hàm răng va vào nhau lập cập phát ra tiếng lách cách liên hồi; mắt trợn trừng đỏ ngầu không dám chớp vì sợ bóng người anh trai hiện ra trước mặt; cổ họng nghẹn ứ không thở nổi.
+   - *Toàn*: Cơ hàm giật giật, hai bàn tay run bần bật liên tục vò nát vỏ bao thuốc lá Thăng Long rỗng, tròng mắt lấm lét nhìn lên trần nhà vì mặc cảm bỏ thuốc an thần vào rượu thuốc của bố đêm qua.
+   - *Lan Anh*: Hai vai so lại nép sau lưng chồng, cắn chặt môi dưới đến rỉ máu để ngăn tiếng nấc, hai bàn tay bấu chặt vạt áo xô.
+   - *Ông Vũ Cổn*: Gõ mạnh gậy mun xuống nền gạch cố giữ uy quyền, nhưng chòm râu dê hoa râm rung bần bật, cơ mặt già nua giật giật từng cơn vì chột dạ.
+   - *Khanh*: Gai ốc dựng đứng toàn thân khi bước vào vùng nhiệt độ buốt giá; yết hầu nhô lên tụt xuống trong cái nuốt khan nghẹn đắng; sống lưng buốt rát như tảng đá đè nặng khi nhận ra nạn nhân bị bẻ cổ trước khi rơi xuống cầu thang.
 
 ---
 
-## 3. Khóa Thứ Tự Thông Tin (Information Locks)
+## 3. Khóa Thứ Tự Thông Tin & Bức Tường Lửa (Information Locks & D-054 Firewall)
 
-- **Những gì nhân vật ĐƯỢC BIẾT trong chương này**:
-  - Căn nhà ông Cường đang bị quấy nhiễu dữ dội bởi một thực thể siêu nhiên gắn liền với đầm sen và tiếng đài cassette.
-  - Vệt bùn hình bàn tay trái xuất hiện thực tế trên bậu cửa sổ buồng ngủ (trùng khớp với đặc điểm thuận tay trái của người đặt hàng mùng 10 và cô Thoa năm 1996).
-  - File ghi âm thoại Zalo 38 giây gửi lúc 22:54 đêm 13 từ máy ông Cường kẹt hàng đợi offline vừa được Wi-Fi đẩy về: ghi lại tiếng đài Tiệp, tiếng bước chân ướt, tiếng cào, và tiếng gãy xương cổ *RẮC!* ở trên không trước khi ngã đập xuống cầu thang.
-  - Chiếc đài giấy bồi trong túi ni-lông có dấu hiệu cựa mình / phồng lên khi mang vào buồng ngủ.
-- **Những gì TUYỆT ĐỐI KHÔNG ĐƯỢC ĐỂ LỘ (Strict Lore Firewall)**:
-  - Tuyệt đối CẤM nhân vật hay lời tự sự hé lộ chi tiết vụ án giết Thoa năm 1996 (CẤM nhắc chuyện dìm bùn, CẤM kể về việc tranh giành tiền của cưới hỏi hay sự đồng lõa của ông Cổn). Mọi sự sợ hãi chỉ dừng ở mức mặc cảm tội lỗi vô thức: *"nó về đòi nợ", "nghiệp báo đến rồi"*.
-  - CẤM để lộ việc Toàn chuốc thuốc an thần liều cao cho ông Cường (chỉ miêu tả biểu hiện bồn chồn, lén lút dọn dẹp che giấu điều gì đó của Toàn).
-  - CẤM nhắc đến bùa cọc tre trấn thủy dưới đầm sen.
-- **Dị tượng kỳ quái được thiết lập**:
-  - Dấu vết vật lý không thể tẩy xóa: vệt bùn bàn tay trái từ bên ngoài cửa sổ tầng một giáp đầm sen;
-  - Bước chân lết trên cầu thang tầng hai đang bị công an niêm phong;
-  - File âm thanh kỹ thuật số chứng minh chấn thương gãy cổ xảy ra trước khi rơi (bẻ gãy giả thuyết tai nạn té ngã thuần túy).
+- **Những gì nhân vật và độc giả ĐƯỢC PHÉP BIẾT**:
+  - Ông Cường chết dữ dằn (cổ trẹo gần 180 độ), chưa nhập quan, thi thể nằm trên đá cây nhưng đêm áp Rằm thì vong hồn ông dường như chưa siêu thoát, đang đi lại trên căn gác tầng 2 nơi ông tử nạn.
+  - Cô Thủy bị hoảng loạn vì những ngày qua liên tục dọa dẫm Cường chuyện đất đai, nay Cường chết bất đắc kỳ tử thì Thủy đinh ninh Cường hiện hồn về bắt tội, quấy phá buồng ngủ.
+  - Vệt bùn bàn tay trái xuất hiện thực tế trên bậu cửa sổ cao 2,5m giáp đầm sen: Khanh và Toàn nghi ngờ có **kẻ đột nhập người sống** rình mò ngoài đầm.
+  - File ghi âm Zalo 38 giây kẹt mạng từ 22:54 đêm 13 (ông Cường gửi SOS cho cô Thủy): ghi lại âm thanh Cường đối đầu kẻ đột nhập trên gác, tiếng đài cassette, và tiếng gãy xương cổ *RẮC!* giữa không trung.
+- **Những gì TUYỆT ĐỐI KHÔNG ĐƯỢC ĐỂ LỘ (D-054 Strict Lore Firewall)**:
+  - **Tuyệt đối CẤM ám chỉ Thoa đã chết**: Không được dùng cụm từ *"không phải người sống"*, *"về đòi nợ"*, *"chết đuối dưới đầm sen"*, hay để Thủy xin tha mạng cho Thoa.
+  - Thoa trong nhận thức của Khanh, công an và dân làng hoàn toàn là **nghi phạm người sống thuận tay trái trên camera Dahua** đang lẩn trốn ngoài vòng pháp luật.
+  - Toàn và Lan Anh hoàn toàn không biết việc Thoa bị sát hại năm 1996; việc Toàn sợ hãi chỉ là vì sợ tội bỏ thuốc an thần Diazepam bị lộ.
 
 ---
 
 ## 4. Chuỗi Nhân Quả Của Cảnh (Causal Chain)
 
-- **Bởi vì (Because)**: Sự xuất hiện của chiếc đài giấy ở rạp tang và sự xâm nhập của tà khí đầm sen đẩy bầu không khí nhà ông Cường vào sự hoảng loạn tột cùng; cô Thủy bị thực thể cào cửa sổ đe dọa đến phát điên, bấm điện thoại gào thét cầu cứu bà Lan.
-- **Do đó (Therefore)**: Khanh và bà Lan hớt hải mang theo bọc đài giấy vượt đường đêm nồm ẩm sang xóm Trại để ứng cứu và đối chất sự việc.
-- **Nhưng (But)**: Khi bước vào buồng ngủ, thay vì chứng kiến một cơn mê sảng hoang tưởng của người già, Khanh chạm trán hiện thực siêu nhiên rợn người: vệt bùn bàn tay trái in trên bậu cửa sổ cao, và chiếc điện thoại của cô Thủy vừa nhận được tin nhắn Zalo 38 giây kẹt mạng từ lúc ông Cường tử nạn đêm hôm trước.
-- **Hậu quả để lại (Ending Hook)**: Khanh bấm phát tin nhắn thoại. Toàn bộ âm thanh ghê rợn của vụ hành quyết siêu nhiên vang lên giữa gian phòng tĩnh mịch, kết thúc bằng tiếng xương cổ gãy *RẮC!* giữa không trung. Cùng lúc đó, chiếc đài giấy bồi đặt trên bàn bỗng phồng lên sột soạt như vừa có một luồng sinh khí ma quái chui vào cư ngụ.
+- **Bởi vì (Because)**: Sự xuất hiện của chiếc đài giấy đoạt mệnh và cái chết dữ dằn của ông Cường khiến ngôi nhà xóm Trại chìm trong ô uế và tà khí; cô Thủy mang tội lỗi ép đất đai nên hoảng loạn tột cùng khi nghe tiếng bước chân khập khiễng của Cường trên căn gác bị niêm phong và tiếng cào then cửa sổ, khóa trái buồng gào khóc khiến tang gia nháo nhác và đổ vạ cho tiệm bà Lan mang dớp xú quẩy sang trù ẻo. Thắng vội gọi điện cảnh báo Khanh.
+- **Do đó (Therefore)**: Khanh và bà Lan mang bọc đài giấy vượt đường đêm nồm ẩm sang xóm Trại để thanh minh, đối chất và giải quyết nguy cơ tiệm bị bắt vạ.
+- **Nhưng (But)**: Khi bước vào buồng ngủ, Khanh chạm trán hiện thực ma quái của "ma mới chết dữ": không khí buốt lạnh như đáy mồ, vệt bùn bàn tay trái kỳ dị ngoài bậu cửa sổ cao 2,5m, và chiếc điện thoại của cô Thủy vừa nhận được tin nhắn thoại Zalo 38 giây kẹt mạng từ đêm qua của ông Cường.
+- **Hậu quả để lại (Ending Hook)**: Khanh bấm phát tin nhắn thoại. Toàn bộ âm thanh kinh hoàng của vụ sát hại trên gác vang lên, kết thúc bằng tiếng bẻ cổ *RẮC!* giữa không trung tĩnh lặng trước khi thi thể rơi xuống cầu thang. Cùng lúc đó, chiếc đài giấy bồi bỗng cựa mình phồng xẹp sột soạt. Cả phòng hoảng loạn tưởng hồn Cường nhập vào đài, nhưng Khanh giật mở bọc thì chỉ có một con bọ rầy cánh cứng màu đen mun bò ra bay về phía ngọn đèn. Cơn giật mình trôi qua, nhưng sự thật đè nặng: Cường bị bẻ cổ trên không trung, và vệt bùn bàn tay trái trên bậu cửa sổ vẫn đang rỉ nước tanh nồng mùi đầm sen.
 
 ---
 
-## 5. Open Questions (Tham Vấn Tác Giả & Chống Rò Rỉ)
+## 5. Trạng Thái Duyệt
 
-1. **Hành vi vi mô của Toàn và Lan Anh (Gợi ý Fair-play Clue)**: Ở Hồi 1, Tác giả có muốn cho thoáng qua một chi tiết vi mô rất nhỏ: Lan Anh lén lút nhét một chiếc lọ thủy tinh nhỏ / vỉ thuốc rỗng vào túi tạp dề trước khi ra rạp tang không (để gài bẫy manh mối trinh thám về thuốc an thần mà Khanh chưa hề biết)? Hay giữ sự chú ý tập trung 100% vào nỗi sợ hãi tâm linh của cô Thủy?
-2. **Sự hiện diện của Công an Long**: Lúc Khanh bấm nghe đoạn ghi âm Zalo 38 giây trong buồng ngủ, Tác giả muốn chỉ có riêng mẹ con Khanh và người nhà ông Cường nghe thấy, hay nên để bóng dáng của người công an tên Long (hoặc cậu lính trẻ trực gác hiện trường) tình cờ xuất hiện ở ngưỡng cửa buồng ngủ chứng kiến vẻ mặt kinh hoàng của Khanh?
-3. **Hiệu ứng rợn gáy của chiếc đài giấy cuối chương**: Tác giả thích chiếc đài giấy bồi ở cuối chương chỉ phồng lên sột soạt như chứa hơi thở ma quái, hay từ đáy bọc ni-lông bắt đầu rỉ ra một vệt nước bùn đen tanh nồng của đầm sen?
-
----
-
-## 6. Trạng Thái Duyệt (Author Gate)
-
-- **Trạng thái Preflight**: `DRAFT` (Đang chờ trả lời Open Questions)
-- **AUTHOR GATE**: `PENDING` (Chờ Tác giả trả lời Open Questions và phê duyệt đề cương trước khi khởi chạy `/hr-write CH-05`)
+- **Trạng thái Preflight**: `APPROVED UNDER D-054`
+- **AUTHOR GATE**: `APPROVED`

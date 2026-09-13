@@ -10,7 +10,8 @@ Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` và `prompts/roles
 
 ## Các bước thực hiện:
 
-1. **Tiếp nhận Hồ sơ Thẩm định**:
+1. **Tiếp nhận Hồ sơ Thẩm định & Chỉ thị Tác giả**:
+   - **BẮT BUỘC ĐỌC TOÀN BỘ CÁC FILE TRONG `author/directives/`** (đặc biệt `DIR-01-psychological-tension.md`): Bảo đảm mọi thao tác phẫu thuật sửa chữa đều giữ vững tinh thần chỉ đạo của Tác giả.
    - Đọc bản thảo hiện tại: `revisions/chapter-work/CH-XX/draft.md`.
    - Đọc báo cáo thẩm định: `revisions/chapter-work/CH-XX/review.md`.
    - Đọc chỉ đạo hoặc phản hồi bổ sung của Tác giả (nếu có).

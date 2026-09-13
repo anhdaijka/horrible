@@ -11,9 +11,10 @@ At the start of every new session:
 1. Read `author/session-state.md` first.
 2. Follow its `Next action` unless the author gives a newer instruction.
 3. For planning/drafting/revision, read:
-   - `author/creative-constitution.md`
-   - `author/boundaries.md`
-   - `author/style-bible.md`
+   - `author/directives/` (all files; author directives have highest creative and aesthetic authority);
+   - `author/creative-constitution.md`;
+   - `author/boundaries.md`;
+   - `author/style-bible.md`.
 4. Read `story.md` and only the specific canon/development/research files needed.
 5. Do **not** reload Discovery 01–15 by default.
 
@@ -22,6 +23,7 @@ Use minimum sufficient context.
 ## Authority
 
 - The author is final authority on canon and creative direction.
+- Author directives in `author/directives/` are binding instructions directly reflecting author mandates.
 - Repository files beat chat memory, latent memory and assumptions.
 - Do not silently canonize, retcon or resurrect rejected material.
 

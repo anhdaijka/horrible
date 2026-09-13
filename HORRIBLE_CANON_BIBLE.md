@@ -138,15 +138,15 @@ graph LR
 - **Personality & Voice:** Practical, sharp-tongued, socially observant. Strong memory for customers and neighborhood gossip. Distinguishes what she saw from what people say (*"thì người ta kể thế"*). Pragmatic believer; terrifies easily when professional votive taboos (*đồ đoạt mệnh*) are triggered.
 
 ### 5.3 Vũ Thị Thủy (Conspirator & Target)
-- **Age:** 51 years old.
+- **Age:** 49 years old (born 1977).
 - **Role:** Surviving younger sister of Cường and Thoa; garment worker in Yên Phong; living conspirator in inheritance intimidation.
 - **Physical Canon:** Sallow, worn skin from factory work. Broken nose bridge, high cheekbones, slanted eyes, dark mole left of nostril. **Crucial Physical Anchor:** Strictly right-handed. Left wrist has a prominent deformed bony protrusion (from childhood fracture at age 12); four left fingers are permanently contracted like a claw and cannot grip or write.
 - **Social Address:** Narrated as `cô Thủy`.
-- **Secret & Crime:** Accomplice in Thoa's 1996 murder. In 2026, launched a ghost intimidation campaign against Cường (playing cassette audio, slashing photo) to force a land settlement. Trapped when Thoa's real ghost awakens and turns the retribution onto her.
+- **Secret & Crime:** Accomplice in Thoa's 1996 concealment. In 2026, launched a ghost intimidation campaign against Cường (playing cassette audio, slashing photo) to force a land settlement. Trapped when Thoa's real ghost awakens and turns the retribution onto her.
 - **Alibi:** Biometric fingerprint clock-in at Yên Phong factory from 07:00 to 17:00 on mùng 10.
 
 ### 5.4 Vũ Thị Thoa (The Vengeful Spirit / Catalyst)
-- **Age at Death:** 20 years old (born 1976, died summer 1996).
+- **Age at Death:** 22 years old (born 1974, died summer 1996).
 - **Physical Canon (in life & CCTV):** Slender, pale, delicate bone structure, high cheekbones, almond eyes. **Innate Left-Handedness:** Long, slender, extraordinarily agile left fingers when sketching or writing.
 - **Supernatural Status:** Oan hồn bound in the pond mud for 30 years by a bamboo talisman. Awakens upon talisman decay. Projects Thủy's facial likeness on CCTV but uses her own left hand. Snaps Cường's neck on the staircase. Emits tape hiss from paper objects. Demands return of her Czech cassette radio.
 
@@ -176,8 +176,10 @@ graph LR
 
 | Date / Time | Event | Location | Characters Involved | Canon Status |
 |---|---|---|---|---|
-| **1976** | Vũ Thị Thoa is born (naturally left-handed, artistic). | Xóm Trại | Thoa, Family | `CONFIRMED CANON` |
-| **Summer 1996** | Vũ Thị Thoa (20) drowned in lotus pond during violent confrontation over money/forced marriage. Sanctioned by Trưởng họ Vũ Cổn. Thoa's Czech cassette radio on `REC` captures murder. | Xóm Trại lotus pond | Thoa, Cường, Thủy, Trưởng họ Cổn | `CONFIRMED CANON` |
+| **1967** | Vũ Văn Cường is born. | Xóm Trại | Cường, Family | `CONFIRMED CANON` |
+| **1974** | Vũ Thị Thoa is born (naturally left-handed, artistic). | Xóm Trại | Thoa, Family | `CONFIRMED CANON` |
+| **1977** | Vũ Thị Thủy is born (congenital left wrist deformity). | Xóm Trại | Thủy, Family | `CONFIRMED CANON` |
+| **Summer 1996** | Vũ Thị Thoa (22) fatally injured on pond-side boulder during forced marriage dispute; accidental manslaughter concealed by Trưởng họ Vũ Cổn. Thoa's Czech cassette radio on `REC` captures crime. | Xóm Trại lotus pond | Thoa, Cường, Thủy, Trưởng họ Cổn | `CONFIRMED CANON` |
 | **Late Summer 1996** | Cường steals cassette radio as blackmail. Family hires heterodox specialist after Thầy Kính (Khanh's grandfather) refuses (`Không nhận lễ`). Specialist buries radio with 30-year bamboo talisman (*cọc tre khắc bùa trấn thủy*). Thoa's name erased from genealogy. | Pond bank, Xóm Trại | Cường, Patriarch, Heterodox master, Apprentice Bình | `CONFIRMED CANON` |
 | **2023–Jan 2026** | Khanh works onsite in Tokyo, experiencing ambiguous night incidents. | Tokyo, Japan | Khanh | `CONFIRMED CANON` |
 | **Late Jan 2026** | Khanh returns to Vietnam; stays at family home in Bắc Ninh on remote work leave. | Votive shop, Bắc Ninh | Khanh, Lan, Hùng | `CONFIRMED CANON` |

@@ -1,7 +1,7 @@
 # Sổ Tay Thẩm Định & Biên Tập Độc Lập Cho Tiểu Thuyết Horrible
 ## (Horrible Craft & Evidence Review Playbook)
 
-> **Cơ sở thẩm quyền tối cao**: `AGENTS.md`, `author/creative-constitution.md`, `author/boundaries.md`, `author/style-bible.md`, `author/decisions.md` (đặc biệt D-050, D-051), và `continuity/state.md`. Mọi đường dẫn trong văn bản này tính từ repository root `anhdaijka/horrible`.
+> **Cơ sở thẩm quyền tối cao**: `author/directives/` (DIR-01 và các chỉ thị của Tác giả), `AGENTS.md`, `author/creative-constitution.md`, `author/boundaries.md`, `author/style-bible.md`, `author/decisions.md` (đặc biệt D-050, D-051, D-054, D-055), và `continuity/state.md`. Mọi đường dẫn trong văn bản này tính từ repository root `anhdaijka/horrible`.
 
 ---
 
@@ -46,9 +46,10 @@ Reviewer phải mổ xẻ bản thảo độc lập qua 5 cổng sau:
 #### Cổng A: Information-Order Lock, Opening Reveal Lock & POV Discipline
 - **Limited 3rd POV & Anti-Author Intrusion**: Cấm ngặt Narrator đứng ra giảng bài. Toàn bộ cảnh có bị rò rỉ góc nhìn (Head-hopping) không? Có đoạn văn nào Narrator tóm tắt tiểu sử nhân vật, tự giải thích phong tục văn hóa hộ độc giả, hoặc tự chốt hạ suy luận thay vì để nhân vật hành động không? (Bắt buộc dùng rule "Show, don't Tell" cho mọi lập luận).
 - **Khóa thứ tự thông tin (Information-Order Lock)**: Có giải thích giả thuyết thông thường trước khi dị tượng kỳ quái xuất hiện không? Có trấn an độc giả rằng chi tiết này vô hại không?
-- **Opening Reveal Lock (Theo D-051)**:
-  - Với Chương 1: Sự hoảng loạn của Lan Anh chỉ được giới hạn ở việc ông Cường sáng mùng 10 còn sống mà tiệm lại có đơn đặt đồ chết mang tên ông; trong nhà không có ai tên Thoa.
-  - Tuyệt đối CẤM nhắc đến vụ án 1996, đài Tiệp Khắc, hoặc bùa cọc tre.
+- **Opening Reveal Lock & Anti-Thoa-Dead-Leak Gate (Theo D-051 & D-054)**:
+  - Với Chương 1: Sự hoảng loạn của Lan Anh chỉ được giới hạn ở việc ông Cường sáng mùng 10 còn sống mà tiệm lại có đơn đặt đồ chết mang tên ông; trong nhà không có ai tên Thoa. Tuyệt đối CẤM nhắc đến vụ án 1996, đài Tiệp Khắc, hoặc bùa cọc tre.
+  - Với Toàn bộ Case Zero (Chương 1–9): Mọi hiện tượng kinh dị ma quái trong gia đình xóm Trại BẮT BUỘC phải xoay quanh **Hồn ma ông Vũ Văn Cường (người chết dữ chưa nhập quan)**. TUYỆT ĐỐI CẤM để nhân vật hay tự sự hé lộ, ám chỉ hoặc coi Thoa là người đã chết / hồn ma báo oán trước Chương 10. Thoa phải được duy trì 100% dưới tư cách **nghi phạm người sống** trên camera Dahua. Mọi vi phạm rò rỉ Thoa đã chết đều bị đánh `CRITICAL FAIL`.
+
 
 #### Cổng B: Cultural Reality Gate & Folk Grounding
 - **Tính xác thực phong tục**: Các chi tiết về vàng mã, tục khâm liệm, tang ma, giỗ chạp, 49/100 ngày, bùa trấn thủy, bát hương, bàn thờ... có đúng với thực tế văn hóa đồng bằng Bắc Bộ không?
@@ -56,7 +57,9 @@ Reviewer phải mổ xẻ bản thảo độc lập qua 5 cổng sau:
 - **Tách bạch 4 tầng thực tế**:
   `Thực tế nghiên cứu → Lời đồn/Nhân vật tin → Dị tượng quan sát được → Chân lý siêu nhiên tác giả thiết lập`.
 
-#### Cổng C: Horror-Promise, Psychological Trapping & Retroactive Dread
+#### Cổng C: Horror-Promise, Psychological Trapping & Retroactive Dread (Tuân thủ DIR-01)
+- **Tâm điểm Hồn ma Cường (Theo DIR-01)**: Mọi dị tượng rùng rợn, quấy phá, tiếng cào, bóng ma, đòi mạng BẮT BUỘC phải xoay quanh Hồn ma ông Cường (người chết dữ). TUYỆT ĐỐI CẤM lôi ma Thoa vào làm chất liệu kinh dị sớm.
+- **Xung đột nhận thức (Cognitive Conflict) & Gaslighting Dread (Theo DIR-01)**: CẤM để 100% nhân vật đồng thanh hùa vào tin ma quỷ. Phải có sự đối kháng sâu sắc: Kẻ nhìn thấy ma (Thủy, bà con họ hàng thức đêm, Khanh) hoảng loạn, cô độc; Người duy lý (Thắng, ông Cổn giai đoạn đầu) dùng logic đời thường và sự mệt mỏi để gạt đi (*"Khéo thức đêm mệt quá hoa mắt", "Đừng nghe lời đồn dị nghị làm bối rối tang gia"*).
 - **Dread & ngột ngạt**: Cảnh có đem lại cảm giác ớn lạnh từ từ (slow-burn creep), áp lực ngột ngạt của sự ô uế tâm linh hay điềm báo rủi ro không?
 - **Triệt tiêu Jumpscare rẻ tiền**: Có lạm dụng các thủ pháp giật gân rẻ tiền (bóng đen lướt qua vô cớ, tiếng động hú hét vô nghĩa) không? Dị tượng có dựa trên logic hai tầng (vừa có thể là hành vi con người đáng ngờ, vừa mang dấu vết siêu nhiên không thể chối cãi)?
 - **Anti-Spoiler & Logical Grounding**: Bắt lỗi các hiện tượng siêu nhiên bị bóc trần quá sớm (Villain Lore-dumping, Deus Ex Machina Info-dump). Cảnh báo các vi phạm về logic nghề nghiệp (Professionalism Break: công an, bác sĩ phải duy lý ban đầu) và logic sinh tồn. Tuyệt đối không để nhân vật hoảng loạn tự khai chi tiết máu me (gore) rành mạch.

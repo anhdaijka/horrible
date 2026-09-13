@@ -1,7 +1,7 @@
 ---
 name: "Vũ Thị Thủy"
 role: supporting
-age: 51
+age: 49 (born 1977)
 status: alive
 relationships:
   - character: vu-van-cuong
@@ -27,13 +27,13 @@ tags:
 
 ## Role
 
-The surviving younger sister of the deceased ông Vũ Văn Cường. She is a 51-year-old unmarried garment factory worker living in Yên Phong, Bắc Ninh.
+The surviving younger sister of the deceased ông Vũ Văn Cường and younger sister of Vũ Thị Thoa. She is a 49-year-old unmarried garment factory worker (born 1977) living in Yên Phong, Bắc Ninh.
 
-Under the approved master canon (**D-048**), cô Thủy embodies the tragic intersection between human greed, family sin, and supernatural retribution:
-- **Historical complicity (1996):** As a young woman in 1996, Thủy participated alongside her father and elder brother Cường in the violent family confrontation that led to her middle sister Vũ Thị Thoa being pushed and drowned in the lotus pond. For the next thirty years, she bore the shame and physical trauma of that past, living away as an unmarried, low-wage factory laborer while Cường occupied and controlled the family land.
-- **Living conspirator & inheritance intimidation (2026):** In early 2026, when the district road-widening project turns the family's lotus pond frontage into multi-billion-dong real estate, Cường attempts to cut Thủy out of the inheritance entirely. Consumed by thirty years of resentment, Thủy launches an intimidation campaign: weaponizing Cường's guilt and fear of Thoa's ghost, she plays cassette recordings of Thoa's favorite song near the pond at night and sends a slashed family photograph to terrorize Cường into a breakdown or stroke to secure her share of the land.
-- **The supernatural trap ("Kẻ mượn ma bị ma nuốt chửng"):** On the night of the 13th, Thủy secretly returned to xóm Trại to stage a ghost scare, but Thoa's genuine ghost materialized and broke Cường's neck on the stairs. Terrified and desperate to evade both murder suspicion and spiritual contamination, Thủy stages the bait call and fainting fit in Chapters 4–5 to fabricate an alibi—only to realize in sheer horror that Thoa's vengeful spirit has attached to the paper radio and now marks Thủy as the remaining living killer.
-- **Biometric & physical impossibility:** Despite her human conspiracy, Thủy could not have been the customer who visited bà Lan's shop on mùng 10: she holds an airtight biometric fingerprint clock-in record at her Yên Phong factory, and her left wrist is severely deformed (compound fracture/struggle with clawed, immobile fingers), making it physically impossible for her to execute the fluid, left-handed cassette radio sketch seen on the Dahua CCTV footage.
+Under the approved master canon (**D-056** & **DIR-02**), cô Thủy embodies the tragic intersection between human greed, family sin, and supernatural retribution:
+- **Historical witness & 30-year debt slavery (1996):** In summer 1996, Thủy (then 19, born 1977, with a congenital clubbed left wrist) witnessed the explosive quarrel where Cường shoved Thoa to her death on a pond-side boulder over a forced marriage dowry dispute. Late that night, Thủy discovered Thoa's dead body. Her desperate pleas for a proper funeral were brutally silenced by Ông Cổn to protect Cường from manslaughter charges. To cover Cường's wedding costs after the wealthy suitor canceled the match, Ông Cổn pawned family land and dumped the entire crushing debt onto Thủy: forcing her into 30 years of exhausting garment factory labor at Yên Phong to repay the debt and redeem the land, sacrificing her youth and remaining unmarried.
+- **Living conspirator & inheritance dispute (2026):** In early 2026, when the road-widening project turned the redeemed pond land into a multi-billion-dong fortune, Cường attempted to disinherit Thủy completely. Consumed by 30 years of bitter resentment, Thủy launched an intimidation campaign: weaponizing Cường's guilt and dread of Thoa's ghost, she played cassette recordings near the pond at night and sent a slashed family photograph to terrorize Cường into yielding her rightful share of the land.
+- **The supernatural trap & Cường's ghost (D-054, D-055):** On the night of the 13th, while Thủy was near xóm Trại staging a scare, Thoa's supernatural entity snapped Cường's neck. In Chapters 4–5, Thủy is trapped in her bedroom, utterly collapsing in terror not from Thoa, but because **Cường's violent, unquiet ghost has returned to haunt her and drag her along (Trùng tang / Bắt người đi theo)**.
+- **Biometric & physical impossibility:** Despite her human intimidation campaign, Thủy could not have been the customer who visited bà Lan's shop on mùng 10: she holds an airtight biometric fingerprint clock-in record at her Yên Phong factory, and her left wrist is severely deformed (clubbed/clawed fingers), making it physically impossible for her to execute the fluid, left-handed cassette radio sketch seen on the Dahua CCTV footage.
 
 ## Core traits
 
@@ -41,7 +41,7 @@ Guarded, bitter, deeply anxious, worn down by decades of factory labor, and spir
 
 ## Physical presence
 
-Around 51 years old, thin, gaunt, with pale, sallow skin from years under fluorescent factory lights.
+Around 49 years old (born 1977), thin, gaunt, with pale, sallow skin from years under fluorescent factory lights.
 
 Key physical anchors:
 - Facial features: slightly flattened nose bridge from an old childhood fall, high cheekbones, slightly upturned/slanted eyes, and a small dark mole to the left of her nostril.

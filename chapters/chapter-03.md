@@ -12,35 +12,55 @@ Nhưng nhớ đến vẻ mặt thất thần của mẹ lúc đẩy anh ra khỏ
 
 Ngay khúc quanh giáp bờ ao bèo tây, rạp tang nhà ông Cường dựng choán gần hết lối đi. Bạt xanh bạt dứa căng chằng chịt bằng dây chuối và thép ly, phập phồng đập vào cọc tre mỗi khi có cơn gió thốc từ mé đầm sen lên. Mùi khói hương bài quyện với mùi dầu hỏa thắp đèn bão và mùi vôi bột rải quanh chân tường xông thẳng vào cánh mũi, hăng hắc và lợm giọng.
 
-Khanh dừng lại bên mép rạp, ngập ngừng đứng nép dưới gốc cây xoan ngâm nước, chưa biết phải tìm ai để gửi bọc đồ thì một tiếng gọi oang oang từ phía sau dãy bàn nhựa đỏ bỗng cất lên:
+Khanh dừng lại bên mép rạp, ngập ngừng đứng nép dưới gốc cây xoan ngâm nước, hai tay bo bo ôm bọc ni-lông đen chứa chiếc đài giấy, chưa biết phải tìm ai để gửi bọc đồ.
 
-"Ơ kìa! Thằng Khanh phải không?"
+Từ vị trí này, ánh mắt anh phóng thẳng qua lớp bạt dứa rách mép, nhìn vào chính diện bàn thờ vong kê sát gian nhà ngoài. Phía sau bát nhang bốc khói nghi ngút, bức di ảnh của ông Cường lồng trong khung kính đen tĩnh mịch đặt trên kỷ gỗ. Khuôn mặt người chết nghiêm trang, đôi mắt đục nhìn thẳng ra ngoài rạp.
 
-Khanh giật thót, quay phắt lại.
+Một luồng gió lạnh từ đầm sen thốc lên, thổi bạt ngọn lửa đèn dầu leo lét trên bàn thờ. 
 
-Từ lối sàn nước bên hông nhà, một thanh niên vóc người đậm chắc, mặc chiếc áo nỉ xám xắn tay quá khuỷu đang bê một chồng ghế nhựa đỏ bước ra. Khuôn mặt vuông vức sạm nắng, hàng lông mày rậm và mái tóc cắt cua ướt đẫm mưa phùn.
+Ngay trong khoảnh khắc tranh tối tranh sáng ấy, Khanh giật thót mình. 
 
-"Thằng Thắng!" Khanh buột miệng, lồng ngực như trút được một tảng đá tảng.
+Bức di ảnh của ông Cường... vừa cử động.
 
-Lê Văn Thắng, bạn học cùng lớp cấp ba trường huyện với Khanh ngày trước. Hồi ấy hai đứa suốt ngày đèo nhau bằng xe đạp Phượng Hoàng đi học dọc bờ đê. Tốt nghiệp xong, Khanh đi học công nghệ rồi sang Nhật làm kỹ sư, còn Thắng ở lại quê lấy vợ sớm, làm thợ cơ khí nhôm kính ngoài ngã tư chợ. Hai đứa đã mấy năm không gặp.
+Cái đầu trong khung kính bỗng từ từ nghẹo gập sang một bên. Cổ ông ta trễ xuống một góc một trăm tám mươi độ quái đản, vặn vẹo như không còn xương khớp. Đôi mắt trong ảnh trợn ngược lên trần nhà, vành môi xám xịt từ từ nhếch lên thành một nụ cười rùng rợn, nhe hai hàm răng trắng lóa nhợt nhạt nhìn thẳng về phía Khanh.
 
-Thắng đặt phịch chồng ghế nhựa xuống hiên, quệt cánh tay dính mạt bụi vào mép quần rồi sải bước tới, đập mạnh một phát vào vai Khanh:
+Máu trong người Khanh như đông cứng lại. Chân anh nhũn ra, hơi thở nghẹn ứ nơi lồng ngực. Anh há miệng định hét lên nhưng cổ họng khô khốc không phát ra được tiếng nào. Túi ni-lông đựng chiếc đài giấy trên tay suýt tuột xuống bùn.
+
+"Ê Khanh! Mày làm gì mà đứng đờ ra đấy?"
+
+Một bàn tay thình lình vỗ mạnh vào bả vai Khanh.
+
+Khanh giật nảy mình, suýt nữa thì vấp ngã ngửa ra đằng sau. Anh thở hắt ra một hơi, quay phắt lại.
+
+Từ lối sàn nước bên hông nhà, một thanh niên vóc người đậm chắc, mặc chiếc áo nỉ xám xắn tay quá khuỷu đang bê một chồng ghế nhựa đỏ sải bước tới. Khuôn mặt vuông vức sạm nắng, hàng lông mày rậm và mái tóc cắt cua ướt đẫm mưa phùn.
+
+"Thằng Thắng!" Khanh buột miệng, lồng ngực như trút được một tảng đá tảng. Anh vội vã quay đầu nhìn lại về phía bàn thờ vong. 
+
+Sau làn khói nhang, bức di ảnh của ông Cường vẫn nằm im lìm trong khung kính. Cái đầu vẫn giữ tư thế nghiêm trang, ánh mắt đục ngầu vô hồn như cũ. Mọi thứ bình thường đến mức như sự việc kinh hoàng vừa nãy chưa từng xảy ra. Khanh chớp mắt liên tục, vuốt vội những giọt mồ hôi lạnh toát đang rịn ra trên trán, tự nhủ chắc do bản thân hoang mang sinh ra ảo giác.
+
+Lê Văn Thắng là bạn học cùng lớp cấp ba trường huyện với Khanh ngày trước. Tốt nghiệp xong, Khanh sang Nhật làm kỹ sư, còn Thắng ở lại quê lấy vợ sớm, làm thợ cơ khí nhôm kính ngoài ngã tư chợ. Hai đứa đã mấy năm không gặp.
+
+Thắng đặt phịch chồng ghế nhựa xuống hiên, quệt cánh tay dính mạt bụi vào mép quần rồi sải bước tới, cười hô hố:
 
 "Mày về ăn Tết bao giờ đấy con lợn? Đi Nhật ba năm nom trắng trẻo như thư sinh thế này! Mấy hôm trước tao tạt qua tiệm vàng mã nhà mày hỏi han, mẹ mày bảo mày bận tối mắt tối mũi."
 
-"Tao mới về trước Tết mấy hôm..." Khanh cười gượng, kéo nhẹ bọc đen dưới nách: "Mày làm gì ở đây thế?"
+"Tao mới về..." Khanh cười gượng, kéo chặt bọc đen dưới nách, lồng ngực vẫn còn đập thình thịch: "Mày làm gì ở đây thế?"
 
 "Bà cô họ bên ngoại tao là em dâu ông Cường," Thắng hạ giọng, móc bao thuốc lá Thăng Long trong túi áo ra nhưng rồi nhớ ra rạp tang nên lại nhét vào: "Nhà neo người, lại đùng cái gặp nạn nên họ hàng gọi tao sang từ sáng để phụ chân tay bưng bê, kê bàn ghế đón khách. Mày có việc gì mà sang đây?"
 
-"Mẹ tao bảo sang đưa đồ..." Khanh chìa chiếc túi bóng nhỏ đựng chiếc dép xốp và bọc đen ra: "Sáng nay con dâu ông Cường chạy sang tiệm nhà tao lấy đồ khâm liệm, cuống cuồng đánh rơi chiếc dép. Với lại... có bọc đồ mã đặt mang tên ông Cường, mẹ tao dặn cầm sang đưa cho người nhà."
+"Mẹ tao bảo sang đưa đồ..." Khanh chìa chiếc túi bóng nhỏ đựng chiếc dép xốp và bọc đen ra: "Sáng nay con dâu ông Cường chạy sang tiệm lấy đồ khâm liệm, cuống cuồng đánh rơi chiếc dép. Với lại... có bọc đồ mã mang tên ông ấy, mẹ tao dặn cầm sang đưa cho người nhà."
 
-Nghe đến đó, mặt Thắng bỗng chùng xuống, mắt liếc nhìn quanh rạp rồi ghé sát tai Khanh thì thầm:
+Nghe đến đó, mặt Thắng bỗng chùng xuống. Nó liếc dáo dác quanh rạp rồi kéo tay Khanh lùi lại một bước, buông giọng bực dọc:
 
-"Khổ lắm, con dâu ông ấy từ sáng đến giờ như người mất hồn, đang ngồi nép trong gian nhà ngang kia kìa. Mày vào đưa luôn đi, chứ tí nữa đến giờ khâm liệm là loạn cào cào lên đấy. Mà tao nói thật... nhà này đang có dớp quái đản lắm."
+"Khổ lắm, con dâu ông ấy từ sáng đến giờ như người mất hồn, đang ngồi nép trong gian nhà ngang kia kìa. Nhưng tao dặn mày này, lúc vào rạp cứ lẳng lặng mà đưa đồ rồi ra, đừng có nghe mấy người hàng xóm rỗi hơi đồn bậy bạ làm tang gia thêm rầu rĩ."
 
-"Dớp gì?" Khanh nhíu mày.
+"Đồn bậy gì cơ?" Khanh nhíu mày.
 
-"Ông Cường ngã cầu thang chết từ đêm qua, nhưng công an xã với người trên huyện đang phong tỏa gian trong khám nghiệm nãy giờ chưa xong." Thắng rùng mình, hạ giọng rất thấp: "Tao vừa phụ bưng đá cây ướp xác vào... Nghe mấy người xì xào cái chết quái gở lắm, không giống ngã bình thường đâu. Cứ như... như bị vặn cổ ấy."
+"Ông Cường uống rượu say trượt chân ngã cầu thang chết từ đêm qua, thế mà mấy người ở xóm rảnh rỗi cứ kháo nhau là ông ấy chết trùng tang, rồi ma dắt bẻ cổ, vong không siêu thoát về đòi bắt cả nhà đi theo. Loạn hết cả lên! Toàn ba cái mê tín đơm đặt linh tinh!" Thắng chép miệng, vẩy vẩy tay như để xua đi mấy lời đàm tiếu. "Có điều... cái nhà này đang có dớp thật."
+
+Thắng rùng mình, liếc mắt nhìn sâu vào gian nhà ngang, hạ giọng rất thấp: 
+
+"Công an xã với người trên huyện đang phong tỏa gian trong khám nghiệm nãy giờ chưa xong. Tao vừa phụ bưng đá cây ướp xác vào... Thấy người ta xì xào cái chết quái gở lắm, không giống ngã bình thường đâu. Cái cổ vặn ngược gập ra đằng sau cơ..."
 
 Sống lưng Khanh chợt lạnh toát. Anh chưa kịp hỏi thêm thì Thắng đã vỗ vai anh:
 

@@ -35,7 +35,7 @@ The purchaser used her left hand and the name of a sibling who died 30 years ago
 
 ## Stable Mystery Contract (D-050 Master Model)
 
-- **The Historical Crime (1996) & The Fourth Accomplice:** Vũ Thị Thoa was drowned in the lotus pond. Cường and Thủy were physically involved, but the ultimate sin belonged to Trưởng họ Vũ Cổn (The Patriarch), who sanctioned the murder: *"Gia môn bất hạnh, dìm nó cho khuất mắt"*. Cường stole Thoa's Czech radio containing the audio of her death to blackmail Thủy. Thoa's soul was pinned in the mud by a 30-year heterodox bamboo talisman.
+- **The Historical Crime (1996) & The Fourth Accomplice:** Vũ Thị Thoa died from accidental manslaughter during an explosive dowry/forced marriage dispute (struck by Cường, she slipped and hit her head on a stone boulder by the lotus pond). Mistaking her for faking, Cường and Ông Cổn abandoned her; Thủy discovered her dead hours later. Trưởng họ Vũ Cổn (The Patriarch) ruthlessly ordered the cover-up: concealing the body in the mud, erasing Thoa from the genealogy, and dumping 30 years of wedding debt onto Thủy. Thoa's Czech radio recorded the fatal fight, Cường buried it in the mud pinned by a 30-year heterodox bamboo talisman.
 - **The 2026 Triggers:** Excavators arrive to fill the pond for a road project. The 30-year talisman rots. Thoa's spirit awakens to seek retribution before the radio is paved over forever.
 - **The Mundane Trap (Thế chân vạc 3 Nghi phạm & Các tác nhân phụ):**
   1. **Thủy:** Terrified of being framed for the death, she frantically creates a fake alibi at her Yên Phong factory.

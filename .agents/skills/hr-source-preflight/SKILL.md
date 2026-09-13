@@ -10,9 +10,10 @@ Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` trước khi thự
 
 ## Các bước thực hiện:
 
-1. **Xác định chương mục tiêu & Nguồn thẩm quyền**:
+1. **Xác định chương mục tiêu & Nguồn thẩm quyền (Mandatory Reading)**:
    - Xác định số chương (ví dụ `CH-01`).
-   - Đọc `AGENTS.md`, `author/session-state.md`, `author/decisions.md` (đặc biệt D-050, D-051), và `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`.
+   - **BẮT BUỘC ĐỌC TOÀN BỘ CÁC FILE TRONG `author/directives/`** (đặc biệt `DIR-01-psychological-tension.md`): Đây là các chỉ thị sáng tạo tối cao của Tác giả về nhịp độ kinh dị, thủ pháp tâm lý, và cách dàn dựng dị tượng. Mọi thiết lập trong preflight phải tuân thủ tuyệt đối các file này.
+   - Đọc `AGENTS.md`, `author/session-state.md`, `author/decisions.md` (đặc biệt D-050, D-051, D-054, D-055), và `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`.
    - Đọc hồ sơ nhân vật liên quan trong `characters/` và các tài liệu văn hóa kiểm chứng trong `research/verified/`.
 
 2. **Thiết lập 3 Trụ Cột Định Vị (Tri-Pillar Anchoring)**:
