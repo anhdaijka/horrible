@@ -17,7 +17,7 @@ knowledge-state: []
   - Khanh đặt lại bọc đài giấy và trả chiếc dép xốp cho con dâu ông Cường.
   - Khanh vô tình thấy ảnh thờ ông Cường nghẹo cổ cười với mình nhưng bị Thắng phủ nhận, cho rằng là ảo giác và gạt đi những lời đồn Trùng tang của hàng xóm.
   - Khanh nghe lỏm thông tin khám nghiệm: cổ ông Cường bị vặn ngược gần 180 độ, khớp trục và khớp đội trật hoàn toàn, không có vết bóp cổ ngoài da; người công an hình sự phụ trách hiện trường tên Long.
-  - Trưởng tộc họ Vũ Cổn ép Lan Anh ký đơn cam kết từ chối mổ tử thi để kịp giờ hoàng đạo nhập quan lúc 14:15. Long yêu cầu giữ nguyên hiện trường cầu thang tầng 2.
+  - Trưởng tộc họ Vũ Cổn ép Lan Anh ký đơn cam kết từ chối mổ tử thi để kịp giờ hoàng đạo khâm liệm nhập quan sáng sớm mai. Long yêu cầu giữ nguyên hiện trường cầu thang tầng 2.
   - Cô Thủy lẩm bẩm trong vô thức: "... Nó về... Nó về đòi rồi...".
 - `chapters/chapter-04.md`: Băng từ rỗng (Canonized)
   - Sẩm tối 14 Giêng: Thắng chạy theo trả lại bọc đài giấy cho Khanh tại đầu ngõ xóm Trại vì Lan Anh hoảng loạn kiêng kỵ đồ mã người sống đặt trước mang vào nhà lúc khâm liệm.

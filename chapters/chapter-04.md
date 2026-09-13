@@ -34,7 +34,7 @@ Bà Lan giật mình đánh thót một cái. Vai bà nảy lên, ánh mắt ho�
 
 "Sao... sao lại mang về?" Giọng bà Lan nghẹn lại, nhỏ như tiếng thở hắt ra.
 
-"Con dâu ông Cường không nhận," Khanh bước vào dưới mái hiên, đặt nhẹ bọc đồ xuống mặt chiếc ghế nhựa trống bên cạnh: "Nó bảo nhà nó không ai đặt, đang lúc khâm liệm người ta kiêng."
+"Con dâu ông Cường không nhận," Khanh bước vào dưới mái hiên, đặt nhẹ bọc đồ xuống mặt chiếc ghế nhựa trống bên cạnh: "Nó bảo nhà nó không ai đặt, đang lúc tang gia bối rối người ta kiêng."
 
 Bà Lan không nói gì. Môi bà mím chặt lại, ngón tay cái miết đi miết lại lên vành chiếc nón lá kêu sột soạt.
 

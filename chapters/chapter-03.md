@@ -130,7 +130,7 @@ Theo sát phía sau ông Cổn là Lan Anh. Cô gái trẻ mặt cắt không c�
 
 "Bác Cổn..." Lan Anh lắp bắp, giọng nghẹn ứ nơi cuống họng. "Bên... bên công an bảo... phải đưa thi thể bố cháu về nhà xác huyện... để khám nghiệm..."
 
-"Khám cái mả mẹ chúng mày à!" Ông Cổn quát vỗ mặt, chiếc gậy mun chỉ thẳng vào mặt Lan Anh khiến cô giật thót lùi lại một bước, va vào góc bàn thờ. "Nhà họ Vũ này từ thời cụ tổ đến giờ chưa từng có tiền lệ để người ngoài rạch bụng xẻ thịt người chết! Giờ hoàng đạo nhập quan là đúng hai giờ mười lăm phút chiều nay. Lỡ cái giờ này, hồn phách ông Cường thành ma lang thang vất vưởng thì đứa nào gánh tội?"
+"Khám cái mả mẹ chúng mày à!" Ông Cổn quát vỗ mặt, chiếc gậy mun chỉ thẳng vào mặt Lan Anh khiến cô giật thót lùi lại một bước, va vào góc bàn thờ. "Nhà họ Vũ này từ thời cụ tổ đến giờ chưa từng có tiền lệ để người ngoài rạch bụng xẻ thịt người chết! Giờ hoàng đạo khâm liệm nhập quan là sáng sớm mai. Các cậu định giằng xác nó đi mổ xẻ đem về huyện thì lỡ mất giờ hoàng đạo của người ta, hồn phách nó thành ma lang thang vất vưởng thì đứa nào gánh tội?"
 
 Ông Cổn quay phắt sang phía người công an tên Long, đôi mắt đục ngầu quắc lên đầy uy quyền của một kẻ nắm quyền sinh sát trong dòng tộc:
 
