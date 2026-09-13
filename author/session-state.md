@@ -38,10 +38,10 @@ Registries and continuity were reset accordingly.
 
 ## Active manuscript state
 
-- Chapter 1 and 2 manuscripts are approved and canonized.
-- No active Chapter 3 manuscript.
-- No active scene plans for Chapter 3.
-- `continuity/state.md` uses `current-chapter: 2`.
+- Chapter 1, 2, 3 và 4 manuscripts are approved and canonized.
+- No active Chapter 5 manuscript.
+- No active scene plans for Chapter 5.
+- `continuity/state.md` uses `current-chapter: 4`.
 
 ## Authority after reset
 
@@ -86,5 +86,5 @@ Do:
 
 ## Next action
 
-1. Chương 2 đã được phê duyệt và canonized thành công.
-2. Bước tiếp theo: Kích hoạt `/hr-preflight CH-03` để lập đề cương phân cảnh cho Chương 3, đảm bảo đọc kỹ `author/decisions.md` và `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md` trước khi làm.
+1. Chương 4 (`Băng từ rỗng`) đã được phê duyệt và canonized thành công vào `chapters/chapter-04.md` (3.269 từ). Tổng dung lượng bản thảo 4 chương đạt 13.165 từ.
+2. Bước tiếp theo: Kích hoạt `/hr-preflight CH-05` để chuẩn bị lập preflight định vị cho Chương 5 (`Đêm áp Rằm` — 19:30 tối 14 Giêng: buồng ngủ xóm Trại, dấu bùn bàn tay trái trên bậu cửa sổ, giải mã tin nhắn thoại Zalo 38 giây).

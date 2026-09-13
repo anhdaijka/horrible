@@ -186,16 +186,38 @@ Khanh bấm dừng hình.
 
 Đoạn video bốn ngày trước đứng yên trên màn hình máy tính.
 
-Khanh gập nửa màn hình máy tính lại.
+Khanh gập nửa màn hình máy tính lại. 
 
-Anh bước ra bậc thềm, nhìn về con đường liên xã dẫn vào xóm Trại. Mưa phùn vẫn giăng xám xịt trên những rặng tre đầu làng.
+Gian nhà bỗng lặng ngắt, chỉ còn tiếng giọt nồm rỏ tong tỏng ngoài mái hiên. Bà Lan ngước nhìn lên giá gỗ, mắt dừng lại ở bọc ni-lông đen chứa chiếc đài giấy nằm lọt thỏm giữa những tệp tiền vàng. Ánh mắt bà bồn chồn, hai bàn tay cứ xoa xoa vào vạt áo cánh đã bạc màu.
 
-"Mẹ," Khanh hỏi. "Chiều nay nhà bác Cường phát tang lúc mấy giờ?"
+"Không được..." Bà Lan lẩm bẩm, giọng run run: "Cái thứ này không để trong nhà được... Đồ người chết đã đặt đích danh, thợ đã làm xong đem đến mà tiệm lại giữ lại thì đại kỵ. Người nhà không nhận cũng phải mang tống sang bên ấy cho người ta hóa cùng, chứ để đây có ngày rước vạ vào thân."
 
-Bà Lan ngước nhìn con: "Đầu giờ chiều... Tầm một rưỡi, hai giờ..."
+Bà bước tới quầy, với lấy chiếc áo khoác len sờn mép treo trên móc sắt, nhưng rồi lại ngập ngừng khựng lại. Đôi lông mày bà nhíu chặt, mắt nhìn dăm dắp ra phía ngã tư chợ huyện:
 
-"Chiều nay con sang bên ấy thắp hương."
+"Cái Thủy nó nghe tên Thoa là hốt hoảng cúp máy ngay... Trong xóm Trại dứt khoát có uẩn khúc gì đấy. Để mẹ tạt ra mấy sạp ngoài chợ Bến, lân la hỏi mấy bà già bán trầu xem quanh vùng này xưa nay có ai tên Thoa không..."
 
-Khanh cúi xuống, nhặt chiếc dép xốp của Lan Anh đặt vào góc bậu cửa, ngón tay gạt lớp bùn xám dính ở mép quai:
+Bà quay phắt lại, đẩy bọc ni-lông đen về phía Khanh:
 
-"Con muốn nhìn bàn tay cô Thủy."
+"Khanh, mày cầm cái đài này sang xóm Trại đưa cho nhà ông Cường."
+
+Khanh giật nảy mình, lùi lại nửa bước:
+
+"Sao lại là con? Mẹ bảo đồ người chết đặt... mẹ bắt con ôm sang đấy làm gì?"
+
+"Thế mày định để mẹ thân già này vừa chạy chợ vừa ôm cái của nợ này lội bùn sang xóm Trại à?" Bà Lan gắt khẽ, nhét chiếc dép xốp rách của Lan Anh vào một cái túi bóng khác dúi vào tay anh: "Mày tiện đường cầm sang trả con bé luôn. Vào rạp tang đưa cho nó hoặc người nhà, thắp nén nhang cho người ta rồi về."
+
+"Con không đi đâu!" Cổ họng Khanh khô khốc, anh lắc đầu quầy quậy: "Hai nhà mình với nhà ông Cường có họ hàng thân thích gì đâu. Tự dưng vác mặt sang xóm Trại vừa xa vừa lạ, vào đấy lại phải phong bì phúng viếng. Con đi Nhật ba năm biền biệt mới về ăn Tết mấy ngày, họ hàng làng nước còn chưa nhớ hết mặt, sang bên ấy lộn tùng phèo cả vai vế xưng hô, người ta hỏi han thì biết trả lời thế nào? Khó xử chết đi được!"
+
+Khanh nuốt nghẹn một nhịp, liếc mắt nhìn bọc đen rồi hạ giọng, vẻ thoái thác lộ rõ:
+
+"Vả lại... con sợ mấy chỗ đám ma đám chết lắm, mẹ biết thừa còn gì..."
+
+"Hai mươi bảy tuổi đầu rồi mà nhát như cáy ngày mưa!" Bà Lan trừng mắt, vừa gắt vừa dằn từng tiếng thuyết phục: "Có ai bắt mày vào ôm xác người ta đâu! Cứ đến đầu rạp, thấy người nhà thì gọi con Lan Anh ra mà trao đài, bảo mẹ dặn mang sang cho kịp giờ liệm. Người ta đang có tang, ai rỗi hơi mà bắt bẻ xưng hô với đứa đi xa về! Bố mày thì đang dở tay xúc cát ngoài bến sông, mày không đi thì ai đi? Mày để cái đài đoạt mệnh này nằm trên giá gỗ tiệm mình qua đêm nay, mẹ nuốt hạt cơm không trôi!"
+
+Bà Lan không đợi anh cãi thêm, giật phắt chiếc áo khoác gió trên lưng ghế dúi thẳng vào ngực con trai.
+
+Khanh đứng chôn chân giữa quầy thu ngân, nhìn bọc ni-lông đen kẹp dưới nách mẹ. Đôi mắt trơ khấc nhìn thẳng vào camera của người đàn bà bí ẩn lúc chín giờ sáng mùng Mười lại chớp lóe trong đầu anh — một đôi mắt trơ trọi, buốt lạnh và dị thường.
+
+Khanh thở hắt ra một hơi nặng nhọc, đành thò tay đón lấy bọc ni-lông đen. Lớp nhựa mỏng chạm vào ngón tay anh lạnh ngắt như ngâm nước đá.
+
+"Con chỉ đem sang đưa cho con dâu ông ấy thôi đấy," Khanh lẩm bẩm, kéo khóa áo khoác gió lên tận cổ. "Xong việc là con về ngay."
