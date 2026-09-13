@@ -41,7 +41,7 @@
   - Tay trái của cô Thủy bị tật khoèo, co quắp không thể cầm nắm hay vẽ (nghịch lý bằng chứng).
   - Cô Thủy lắp bắp lúng túng, thoái thác vội vàng và dập máy ngay lập tức khi bà Lan nhắc đến tên Thoa, gây thêm nghi vấn sâu sắc.
 - **Những gì TUYỆT ĐỐI KHÔNG ĐƯỢC ĐỂ LỘ (Forbidden Leaks / Opening Reveal Lock)**:
-  - CẤM nhắc đến bất cứ thông tin nào về vụ án đuối nước năm 1996 ở đầm sen.
+  - CẤM nhắc đến bất cứ thông tin nào về vụ ngộ sát năm 1996 ở bờ đầm sen (D-056, DIR-02).
   - CẤM tiết lộ lý do tại sao Thủy sợ hãi tên Thoa.
   - CẤM nhắc đến bùa cọc tre trấn thủy hay sự tồn tại của chiếc đài Tiệp Khắc thật.
   - CẤM hé lộ âm mưu giả ma hù dọa ông Cường của Thủy ở hiện tại.

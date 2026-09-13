@@ -21,7 +21,8 @@ tags:
   - case-zero-suspect
   - eldest-son
   - truck-driver
-  - diazepam-tampering
+  - violent-scuffle
+  - scratched-neck
   - debt-panic
   - land-deed-theft
 ---
@@ -48,7 +49,7 @@ Around 30 years old, stocky build, rough sunburnt skin from driving trucks, shor
 Key physical anchors:
 - Constant nervous tick: crushing empty Thăng Long cigarette packs in his jacket pocket, or fumbling with a plastic lighter.
 - Coarse mourning attire of unbleached hemp cloth (*áo xô gai thô ráp*), with a crookedly tied mourning headband.
-- Shaky knees and trembling hands whenever Cường's corpse or the topic of medicinal wine is mentioned.
+- Shaky knees and trembling hands whenever Cường's corpse or the topic of the staircase fall is mentioned.
 
 ## Narrative reference
 

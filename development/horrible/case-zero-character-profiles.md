@@ -16,17 +16,17 @@ This document outlines the specific identities, contradictions, and roles for th
 - **Contradiction:** A ruthless schemer for land, yet genuinely terrified of the supernatural. Her fake alibi backfires when the real ghost appears.
 - **Physical Clue:** Right-handed with a deformed/stiff left wrist (proving she could not be the left-handed purchaser at the shop).
 
-## 2. Đinh Công Toàn (The Son-in-Law / The Loyalty Trap)
-- **Role:** Vũ Văn Cường's son-in-law, married to Lan Anh. 
-- **The 2026 Motive:** Drowning in massive, dangerous debt from gambling/gangsters. He desperately needs the land deed.
-- **Action in Case Zero:** Slipped a heavy dose of Diazepam (sedatives) into Cường's medicinal wine to knock him out and steal the deed. When Cường died (snapped neck), Toàn panicked and used the "burglary" theory to cover his tracks.
-- **Contradiction:** A coward who resorts to poisoning, but truly loves his wife and child. He is not a cold-blooded killer, just a desperate man who made a fatal mistake.
+## 2. Vũ Văn Toàn (The Eldest Son / The Loyalty Trap Target)
+- **Role:** Vũ Văn Cường's 30-year-old eldest son, sand-truck driver, married to Lan Anh (D-054).
+- **The 2026 Motive:** Drowning in massive, dangerous debt from truck installments and illicit gambling. He desperately needs the lotus pond land deed.
+- **Action in Case Zero (D-057, D-058, DIR-04):** Violently confronted Cường at 22:35–22:45 on the night of the 13th to demand the land deed. During the violent scuffle, Cường clawed Toàn's neck and tore his work shirt before Toàn shoved him to the floor and stormed out to smoke. Returning at 23:05 to find Cường dead at the foot of the stairs, Toàn panics, believing his push caused a fatal neck injury.
+- **Contradiction:** Anxious and volatile, desperate to save his skin, but not a cold-blooded killer. He is paralyzed by the guilt of accidental patricide.
 
-## 3. Vũ Thị Lan Anh (The Daughter)
-- **Role:** Cường's daughter, Toàn's wife.
-- **Action in Case Zero:** Discovers her husband's muddy shoes and the half-empty blister pack of sleeping pills. Realizes her husband likely caused her father's death.
-- **The Loyalty Trap:** Caught in an impossible moral dilemma. She chooses her living husband/child over her dead father and actively burns the evidence (the pills) in the votive fire (*hóa vàng*) during the funeral. 
-- **Interaction with Khanh:** Khanh catches her destroying evidence, creating an intense, unspoken moral standoff.
+## 3. Lan Anh (The Eldest Daughter-in-law / The Loyalty Trap)
+- **Role:** Cường's 27-year-old eldest daughter-in-law, Toàn's wife.
+- **Action in Case Zero:** Discovers the bloody claw marks on Toàn's neck and the torn bloody work shirt. Realizes her husband's violent scuffle likely caused her father-in-law's death.
+- **The Loyalty Trap (D-057, DIR-04):** Caught in an impossible moral dilemma. She chooses her living husband and child over her dead father-in-law: she wraps a thick mourning headband around Toàn's neck to hide the claw marks, and actively burns the torn, blood-stained work shirt (with its sand-truck star button) in the funeral votive incinerator (*lò hóa vàng*) in Chapter 6.
+- **Interaction with Khanh:** A whirlwind blows a charred fragment with the star button to Khanh's shoes, creating an intense, unspoken investigative thread.
 
 ## 4. Bà Mùi (The Widow / The Confirmation Bias)
 - **Role:** Cường's wife.

@@ -45,7 +45,7 @@
    - Kèm theo đơn hàng là một mẩu giấy vẽ phác thảo tay một chiếc đài Tiệp Khắc cũ với **13 bậc thang** kỳ lạ.
 
 2. **Những gì TUYỆT ĐỐI KHÔNG ĐƯỢC ĐỂ LỘ (Opening Reveal Lock - D-051 B)**:
-   - **CẤM** nhắc đến vụ án đuối nước năm 1996 của cô gái Vũ Thị Thoa dưới đầm sen.
+   - **CẤM** nhắc đến vụ ngộ sát năm 1996 của cô gái Vũ Thị Thoa ven đầm sen (D-056, DIR-02).
    - **CẤM** nhắc đến chiếc đài cassette Tiệp Khắc thật bị Cường giấu đi 30 năm trước.
    - **CẤM** nhắc đến bùa cọc tre trấn thủy dưới bùn đầm sen hay lời nguyền gia tộc.
    - **CẤM** nhắc đến việc cô Thủy bị khoèo tay trái (để dành cho Chương 2 khi soi camera CCTV và Chương 3 khi đi đám tang).

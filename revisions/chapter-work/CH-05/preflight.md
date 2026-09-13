@@ -19,7 +19,7 @@
   - *Hồi II*: Trở lại Limited 3rd POV độc nhất qua Nguyễn Minh Khanh.
 - **Mục tiêu tự sự của chương**: 
   - Đẩy áp lực kinh dị tâm linh lên đỉnh điểm bằng **Hồn ma người mới chết dữ (Vong hồn ông Cường quấy phá trước giờ nhập quan)** theo chuẩn D-054 và **Khung tâm linh Trùng Tang (bắt người đi theo)** theo D-055.
-  - Bộc lộ sự rạn nứt tâm lý và mặc cảm tội lỗi sâu sắc của các nghi phạm (Thủy sợ anh trai về bắt đi theo vì tội ép đất; Toàn sợ người làng đồn trùng tang và sợ lộ Diazepam; ông Cổn sợ bại hoại gia phong, phải nhờ Thầy Bình yểm bùa trấn trùng).
+  - Bộc lộ sự rạn nứt tâm lý và mặc cảm tội lỗi sâu sắc của các nghi phạm (Thủy sợ anh trai về bắt đi theo vì tội ép đất; Toàn sợ người làng đồn trùng tang và sợ lộ tội xô xát bạo lực với bố đêm 13 - D-057, DIR-04; ông Cổn sợ bại hoại gia phong, phải nhờ Thầy Bình yểm bùa trấn trùng).
   - Giáng đòn chí mạng bẻ gãy vỏ bọc duy lý IT của Khanh qua vệt bùn bàn tay trái bất khả thi và **file ghi âm thoại Zalo 38 giây** (bằng chứng công nghệ về án mạng bẻ cổ trên không trung).
   - **Khóa chết 100% bí mật về Thoa**: Tuyệt đối không một ai nghi ngờ hay nhắc đến việc Thoa đã chết.
 
@@ -40,7 +40,7 @@
 
 2. **Physicality of Emotion (Thể xác hóa Cảm xúc)**:
    - *Cô Thủy*: Co rúm người lại như con ốc trên giường, cánh tay trái dị tật khoèo quặp chặt lấy ngực; hai hàm răng va vào nhau lập cập phát ra tiếng lách cách liên hồi; mắt trợn trừng đỏ ngầu không dám chớp vì sợ bóng người anh trai hiện ra trước mặt; cổ họng nghẹn ứ không thở nổi.
-   - *Toàn*: Cơ hàm giật giật, hai bàn tay run bần bật liên tục vò nát vỏ bao thuốc lá Thăng Long rỗng, tròng mắt lấm lét nhìn lên trần nhà vì mặc cảm bỏ thuốc an thần vào rượu thuốc của bố đêm qua.
+   - *Toàn*: Cơ hàm giật giật, hai bàn tay run bần bật liên tục vò nát vỏ bao thuốc lá Thăng Long rỗng, tròng mắt lấm lét nhìn lên trần nhà vì mặc cảm vụ ẩu đả và cú xô ngã bố ở chân cầu thang đêm qua (D-057, DIR-04).
    - *Lan Anh*: Hai vai so lại nép sau lưng chồng, cắn chặt môi dưới đến rỉ máu để ngăn tiếng nấc, hai bàn tay bấu chặt vạt áo xô.
    - *Ông Vũ Cổn*: Gõ mạnh gậy mun xuống nền gạch cố giữ uy quyền, nhưng chòm râu dê hoa râm rung bần bật, cơ mặt già nua giật giật từng cơn vì chột dạ.
    - *Khanh*: Gai ốc dựng đứng toàn thân khi bước vào vùng nhiệt độ buốt giá; yết hầu nhô lên tụt xuống trong cái nuốt khan nghẹn đắng; sống lưng buốt rát như tảng đá đè nặng khi nhận ra nạn nhân bị bẻ cổ trước khi rơi xuống cầu thang.
@@ -57,7 +57,7 @@
 - **Những gì TUYỆT ĐỐI KHÔNG ĐƯỢC ĐỂ LỘ (D-054 Strict Lore Firewall)**:
   - **Tuyệt đối CẤM ám chỉ Thoa đã chết**: Không được dùng cụm từ *"không phải người sống"*, *"về đòi nợ"*, *"chết đuối dưới đầm sen"*, hay để Thủy xin tha mạng cho Thoa.
   - Thoa trong nhận thức của Khanh, công an và dân làng hoàn toàn là **nghi phạm người sống thuận tay trái trên camera Dahua** đang lẩn trốn ngoài vòng pháp luật.
-  - Toàn và Lan Anh hoàn toàn không biết việc Thoa bị sát hại năm 1996; việc Toàn sợ hãi chỉ là vì sợ tội bỏ thuốc an thần Diazepam bị lộ.
+  - Toàn và Lan Anh hoàn toàn không biết việc Thoa bị sát hại năm 1996; việc Toàn sợ hãi chỉ là vì sợ vụ ẩu đả bạo lực đêm 13 và các vết cào trên cổ bị lộ (D-057, DIR-04).
 
 ---
 
