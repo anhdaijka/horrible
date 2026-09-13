@@ -532,5 +532,27 @@ Decisions below were explicitly accepted during discovery. Future agents must no
 - **Implications:** Guarantees strict narrative consistency; synchronizes Chapter 5's 22:54 Zalo timestamp with Chapter 6's scuffle/shirt burning without a single minute of overlap or spatial collision.
 - **Supersedes:** Any prior note or assumption placing Thủy at xóm Trại on the night of the 13th, or placing Toàn's scuffle at 22:00.
 
+### D-059 — The Victim's Trapped Smartphone, Police Scene Seal, and Thủy's Psychological Stasis
+
+- **Date:** 2026-09-14
+- **Status:** accepted author decision
+- **Decision:** Establish the forensic status of Vũ Văn Cường's smartphone and integrate it as the central engine of cô Thủy's psychological torment and active criminal anxiety in modern 2026 procedural context:
+  1. *The Trapped Device at the Sealed Crime Scene:*
+     - When Cường was killed at 22:54 on the 13th, his smartphone flew from his hand into a wooden recess beneath the stair landing on the 2nd floor, face-down and disconnected from weak Wi-Fi.
+     - On the morning of the 14th, Officer Đặng Việt Long inspected the body at the foot of the stairs, noted the unnatural 180° neck fracture, and officially sealed the entire 2nd-floor staircase with police tape (`hiện trường cầu thang tầng hai tạm thời giữ nguyên`). Long scheduled an in-depth forensic search of the 2nd floor following the funeral encoffining on the 15th.
+     - Consequently, Cường's phone remains trapped in the sealed zone on the 2nd floor, unretrieved by police or family throughout Chapters 3–6.
+  2. *Thủy's Active Motive to Destroy Digital Evidence:*
+     - In 2026, Zalo messages, images, and audio clips cannot be remotely deleted from another person's device once delivered. Cường's phone holds the undeniable smoking gun: Thủy's extortion messages, ghost-audio clips, and defaced family photos demanding land redemption.
+     - Returning to xóm Trại on the 14th, Thủy is in agonizing panic. If Officer Long searches the 2nd floor and unlocks Cường's phone, Thủy will be arrested as the prime suspect with a lethal extortion motive.
+  3. *The Supernatural Barrier & Thủy's Failed Intrusion:*
+     - Thủy is driven by an urgent goal: sneak past the police tape to retrieve and smash Cường's phone before police return.
+     - At dusk on the 14th (preceding Chapter 4), Thủy secretly attempted to climb the sealed stairs. At the 7th step, she was confronted by horrifying phantom sounds (wet footsteps above, fingernails scraping the lim wood landing where the phone lay). She slipped in terror, plummeted down, and crawled back into her room.
+     - This explains Thủy's hysterical phone call to bà Lan in Chapter 4: she believes Cường's violent ghost is physically guarding his phone on the landing to drag her down (Trùng tang).
+  4. *The 19:30 Wi-Fi Synchronization Trigger (Chapter 5):*
+     - At 19:30 on the 14th, Lan Anh plugs the household Wi-Fi router back in.
+     - Cường's trapped phone on the 2nd floor automatically reconnects, releasing the trapped 22:54 voice message to Thủy's phone below, inducing her near-fatal shock.
+- **Implications:** Flawlessly bridges modern 2026 smartphone/police reality with authentic supernatural dread. Gives Thủy a desperate, active criminal agenda (destroying Cường's phone) that is thwarted exclusively by supernatural horror, providing high re-read fair-play detective value.
+- **Supersedes:** Any assumption that Cường's phone was casually handled, overlooked by police without procedural cause, or that Thủy was passively lying in bed without an active concern for digital evidence.
+
 
 
