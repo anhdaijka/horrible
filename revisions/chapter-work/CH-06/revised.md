@@ -24,7 +24,7 @@ Toàn đưa bàn tay run rẩy rút một điếu thuốc lá nhàu nát còn s�
 
 Đúng khoảnh khắc ấy, tiếng nước đá rỉ xuống đáy chậu nhôm đột ngột ngưng bặt.
 
-Khoảng lặng trũng xuống đáy gian nhà, đặc quánh như một khối hồ dán.
+Khoảng lặng trũng xuống đáy gian nhà, đặc quánh.
 
 Thay vào tiếng nước rỏ giọt, một luồng âm thanh khác bỗng khẽ khàng cất lên từ mép phản gỗ.
 
@@ -50,7 +50,7 @@ Một bàn tay lạnh toát túm lấy bả vai gã.
 
 Toàn giật bắn người, suýt nữa thì rú lên một tiếng thất thanh nếu không có một bàn tay khác vội vã bịt chặt lấy miệng gã.
 
-Lan Anh đứng ngay sau bậc cửa, cả người run lên bần bật. Cô mặc bộ đồ bà ba đen mỏng dính sương, chiếc khăn tang xô trắng quấn vội trên đầu xộc xệch, hai bọng mắt sưng húp đỏ hoe. Trên tay cô là chiếc chậu thau nhôm bốc khói nghi ngút mùi nước lá bưởi và rượu gừng vừa đun dưới bếp.
+Lan Anh đứng ngay sau bậc cửa. Cô mặc bộ đồ bà ba đen mỏng dính sương, chiếc khăn tang xô trắng quấn vội trên đầu xộc xệch, hai bọng mắt sưng húp đỏ hoe. Trên tay cô là chiếc chậu thau nhôm bốc khói nghi ngút mùi nước lá bưởi và rượu gừng vừa đun dưới bếp.
 
 "Im... Em lạy anh... khẽ cái mồm thôi..." Lan Anh thì thào qua kẽ răng, giọng cô lạc hẳn đi, ngón tay run rẩy bấu chặt lấy cánh tay áo Toàn. "Ngoài sân các ông các bác họ Vũ bắt đầu đến rồi... Bác Cổn vừa dậy ra giếng rửa mặt đấy..."
 
@@ -72,15 +72,19 @@ Một bọc vải thô ráp cộm vào đầu ngón tay cô.
 
 Lan Anh rút nhẹ ra. 
 
-Đó là một chiếc áo lót bảo hộ cộc tay màu xanh công nhân mà Toàn vẫn thường mặc đi lái xe tải chở cát, nhưng phần cổ áo đã bị giằng xé rách toạc làm đôi. Trên thớ vải kaki nhàu nát loang lổ những vệt máu khô thẫm màu nâu đen, và một chiếc cúc bấm kim loại hình ngôi sao ở mép cổ áo đã bị giật méo mó.
+Một chiếc áo lót bảo hộ cộc tay màu xanh công nhân mà Toàn vẫn thường mặc đi lái xe tải chở cát, nhưng phần cổ áo đã bị giằng xé rách toạc làm đôi. Trên thớ vải kaki nhàu nát loang lổ những vệt máu khô thẫm màu nâu đen, và một chiếc cúc bấm kim loại hình ngôi sao ở mép cổ áo đã bị giật méo mó.
 
-Mặt Lan Anh cắt không còn một giọt máu. Cô ngước mắt nhìn thẳng vào mặt chồng.
+Mặt Lan Anh cắt không còn một giọt máu. Bàn tay cầm mép vải rách run bần bật, mười đầu ngón tay trắng bệch. Cô ngước mắt nhìn trừng trừng vào mặt chồng, cổ họng nghẹn ứ không thốt nổi nửa lời.
 
-Toàn cắn chặt môi dưới đến rớm máu, tròng mắt đỏ ngầu dại đi, đầu gật lia lịa trong vô thức rồi giật phắt lấy cổ tay vợ, ấn mạnh bọc vải rách ngược trở lại vào lòng bàn tay cô, thì thào như van lạy:
+Toàn cắn chặt môi dưới đến rớm máu, tròng mắt đỏ ngầu dại đi vì hoảng loạn. Gã giật phắt lấy cổ tay vợ, ấn mạnh bọc vải rách ngược trở lại vào lòng bàn tay cô, run rẩy dúi chặt xuống, giọng rít qua hai hàm răng va lập cập:
 
-"Đốt... Đốt nó đi... Giấu đi... đừng để ai nhìn thấy... Đêm ấy tao cãi nhau... giằng co xô bố một cái... Móng tay bố cào rách cổ tao... Người ta mà nhìn thấy chiếc áo rách dính máu này... tao chết mất Lan Anh ơi..."
+"Đốt... Đem ra lò mà đốt ngay đi... Đừng... đừng để ai nhìn thấy... Tao lạy mày... Đốt sạch đi..."
 
-Lan Anh run rẩy nắm chặt bọc vải rách trong lòng bàn tay. Cô vội vàng giật chiếc khăn tang bằng vải xô trắng trên đầu mình xuống, quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô lên tận cằm để che lấp hoàn toàn những vết cào rướm máu. Xong xuôi, cô giấu bọc áo rách vào sâu dưới vạt áo tang, cắn răng gật đầu một cái thật nhanh rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
+Lan Anh run bắn người. Cô không hỏi một câu nào, chỉ thấy hai hàm răng Toàn đang va vào nhau cầm cập và lồng ngực gã phập phồng nghẹt thở như người sắp chết chìm. 
+
+Một sự thấu suốt câm lặng và kinh hoàng siết lấy lồng ngực người đàn bà. 
+
+Lan Anh cắn chặt môi đến rỉ máu, giật chiếc khăn tang bằng vải xô trắng trên đầu mình xuống. Cô quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô xơ xác trùm lên tận cằm để che lấp hoàn toàn những vệt xước rướm máu. Xong xuôi, cô nhét bọc vải rách vào sâu dưới vạt áo tang, gật đầu một cái dứt khoát trong câm lặng rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
 
 Ngoài ngõ xóm Trại, tiếng gậy mun bịt bạc của ông Vũ Cổn bắt đầu nện *cộp... cộp...* dằn dữ dội trên nền ngõ gạch ướt sương, xé toạc màn đêm tang tóc.
 
@@ -100,7 +104,7 @@ Khanh đứng sau quầy gỗ lim, hai tay thoăn thoắt đếm từng thếp t
 
 Vành mắt anh trũng sâu, hai quầng mắt thâm quầng sau một đêm gần như thức trắng. Trong đầu Khanh lúc này không hề có chỗ cho không khí tấp nập của phiên chợ Rằm. 
 
-Mỗi lần tiếng còi xe tải chở cát ngoài đường lớn gầm lên một hồi dài, lồng ngực anh lại thắt lại. Âm thanh khô khốc của cú bẻ đốt sống cổ *RẮC!* trong đoạn ghi âm Zalo 38 giây đêm qua, cùng hai vệt bùn đen hình bàn tay trái trên bậu cửa sổ gỗ xoan cao hai mét rưỡi nơi buồng ngủ xóm Trại, vẫn đang ghim chặt vào tâm trí anh như một cái dằm buốt nhức.
+Mỗi lần tiếng còi xe tải chở cát ngoài đường lớn gầm lên một hồi dài, lồng ngực anh lại thắt lại.
 
 "Nhanh tay lên con, lấy cho bác Mùi xấp ngựa đỏ với cọc tiền vàng nữa kìa!" Bà Lan từ trong gian kho bước vội ra, tay ôm thêm ba bó hương nén bọc giấy hồng điều, miệng đon đả chào khách: "Vâng vâng, rằm này tiệm nhà em lấy toàn hương trầm làng Chóa xịn, đốt thơm ngát cả gian thờ bác ạ!"
 
@@ -258,11 +262,9 @@ Góc sân sau giáp bờ ao bèo tây kê một chiếc xô tôn gỉ sét dùng
 
 Lan Anh đứng nép sát vào góc bờ tường hoa rêu mốc. Cô dáo dác đưa mắt nhìn quanh quất, ngực phập phồng nghẹn thở. 
 
-Bàn tay phải của cô thò sâu vào đáy vạt áo tang, run bần bật rút ra một bọc vải vo tròn.
+Bàn tay phải của cô thò sâu vào đáy vạt áo tang, run bần bật rút ra một bọc vải vo tròn màu xanh công nhân nhăn nhúm.
 
-Đó là chiếc áo lót bảo hộ cộc tay màu xanh công nhân bị giằng xé rách nát của Toàn.
-
-Lan Anh cắn chặt môi, vung tay ném bọc vải thẳng vào giữa lòng chiếc xô tôn đang đỏ lửa.
+Lan Anh cắn chặt môi, vung tay ném phắt bọc vải thẳng vào giữa lòng chiếc xô tôn đang đỏ lửa.
 
 *Xèo... xèo... tanh tách!*
 
