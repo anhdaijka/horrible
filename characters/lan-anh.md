@@ -23,38 +23,43 @@ tags:
   - eldest-daughter-in-law
   - loyalty-trap
   - evidence-destruction
-  - panic-catalyst
 ---
 
 # Lan Anh
 
 ## Role
 
-The 27-year-old eldest daughter-in-law (*con dâu trưởng*) of the deceased Vũ Văn Cường, married to Vũ Văn Toàn. Residing in xóm Trại, she is a hardworking, outwardly mild rural woman caught in the suffocating web of the Vũ family's secrets.
+The 27-year-old eldest daughter-in-law (*con dâu trưởng*) of Vũ Văn Cường, married to Vũ Văn Toàn. She is caught between funeral obligations, patriarchal pressure and loyalty to her husband.
 
-In Case Zero (**D-050**, **D-051**, **D-054**):
-- **The Inciting Incident (Chapter 1):** On the morning of 14th Giêng, Lan Anh rushes in frantic panic to bà Lan's votive shop to buy funeral goods for Cường. She discovers the terrifying custom advance order for the cassette radio placed on mùng 10 in Cường's name by a woman calling herself Thoa. Overwhelmed by dread and terror (knowing Cường was healthy on mùng 10 and that no living relative is named Thoa), she drops her foam sandal and flees back to xóm Trại.
-- **The Patriarchal Coercion (Chapter 3):** Under brutal intimidation from Trưởng tộc Vũ Cổn, Lan Anh is forced to sign the police commitment form refusing a forensic autopsy on Cường's body to preserve the "auspicious encoffining hour".
-- **The Loyalty Trap (Chapter 5–6):** Lan Anh discovers the visceral truth of the night of the 13th: Toàn quarreled violently with Cường to demand the land deed, during which Cường fiercely scratched Toàn's neck and tore his work shirt before Toàn shoved his father away. Believing Toàn's violent struggle directly caused Cường's fatal fall at the stairs, and terrified that the scratch wounds and the blood-stained torn shirt will convict Toàn of patricide, Lan Anh falls into the tragic "Loyalty Trap": she wraps a thick mourning scarf tightly around Toàn's neck to conceal the bloody gouges, and secretly casts the torn bloody shirt into the funeral votive incinerator in Chapter 6 to destroy the physical evidence, only to be caught off guard by Khanh's watchful gaze.
+## Durable Case Zero canon
+
+- **Opening connection:** On the morning of 14th Giêng, Lan Anh's need for funeral goods connects the Cường household to the earlier mùng 10 custom order. The exact prose/micro-choreography of Chapter 1 belongs to the approved manuscript and should not be regenerated from this profile.
+- **Family knowledge boundary:** In the early arc Lan Anh does not possess the buried 1996 objective truth. She can truthfully say that her known household has no living relative named Thoa without thereby proving what happened to Thoa.
+- **Patriarchal pressure:** Cổn places heavy pressure on her around funeral handling and the family's attempt to avoid deeper forensic disruption. Exact legal/procedural language remains subject to the project's verification gate.
+- **The Loyalty Trap (D-057 / D-058 / DIR-04):** After Toàn returns and believes his earlier shove caused Cường's death, Lan Anh helps conceal the evidence that could make him look like a patricide suspect. Durable canon is:
+  - Cường's fresh nail scratches are hidden around Toàn's neck with mourning cloth;
+  - Toàn's torn, blood-stained work shirt is removed for destruction in the funeral/votive fire;
+  - the shirt has a distinctive metal button associated with his sand-truck workwear;
+  - this cover-up is motivated by Lan Anh's belief that Toàn may have killed Cường, even though objective author truth says he did not cause the supernatural neck break.
+
+### Chapter 6 gate
+
+The **exact staging** of the shirt destruction — timing, who witnesses it, where any surviving fragment lands, and how Khanh first links the clue — belongs to the Chapter 6 revision currently behind `AUTHOR GATE: PENDING`. Do not promote those draft-specific beats into durable character canon until the author approves the chapter.
 
 ## Core traits
 
-Devoted, nervous, easily overwhelmed by patriarchal pressure, highly vulnerable to panic, driven by an instinct to shield her husband at all costs even when she suspects foul play.
+Devoted, conflict-avoidant under elder authority, capable of making a serious moral mistake when protecting her husband. Her loyalty should feel human and pressured rather than reducing her to constant panic.
 
 ## Physical presence
 
-Around 27 years old, slender, pale skin, hair hurriedly pinned up in a disheveled bun or covered by a white mourning headband (*khăn tang xô trắng*).
+Around 27 years old, with an ordinary practical appearance shaped by funeral work and lack of sleep. Mourning clothing/cloth may become plot-relevant, but exact ritual attire must remain consistent with verified/local family practice.
 
-Key physical anchors:
-- Bloodless, dry lips constantly bitten until nearly bleeding when under stress.
-- Shivering hands that clutch the hem of her mourning tunic.
-- Frightened, darting eyes that scan room corners for watching eyes.
-- Bruised or blistered foot from running barefoot after dropping her left sandal in Chapter 1.
+Do not make dry lips, shaking hands, darting eyes or similar fear reactions a mandatory signature in every appearance.
 
 ## Narrative reference
 
-Referred to in narration and dialogue as `Lan Anh` or `chị Lan Anh`. Addressed by bà Lan as `cháu Lan Anh` or `con Lan Anh`.
+Referred to in narration and dialogue as `Lan Anh` or `chị Lan Anh` according to the active POV/social relationship. Address by bà Lan should follow their established local/trade familiarity.
 
 ## Voice
 
-Breathless, trembling, soft and hesitant, easily silenced by harsh rebukes from elders like Ông Cổn or Toàn.
+Usually soft and deferential around elders, but capable of abrupt practical decisions under pressure. Dialogue should remain natural rather than mechanically breathless or fragmented.
