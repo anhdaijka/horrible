@@ -91,8 +91,10 @@ Giải quyết triệt để bài toán pháp y năm 2026: Tại sao Công an Lo
    - Sáng 14, khi Công an Long và Kỹ thuật hình sự khám ngoài tử thi (trước khi gia đình ký cam kết từ chối mổ phanh xác), việc kiểm tra bàn tay Cường cho kết quả sạch sẽ, không có tế bào biểu bì lạ. Do đó, công an không thể lập tức bắt giữ Toàn trên cơ sở pháp y tử thi.
    - Tuy nhiên, **chứng cứ trên người Toàn hoàn toàn không bị xóa**: 3 vệt cào rách da rớm máu trên cổ Toàn, chiếc áo công nhân rách đẫm máu có cúc ngôi sao xe ben. Lan Anh vẫn quấn khăn tang giấu cổ chồng và lén đốt áo ở lò hóa vàng. Khanh nhặt được mẩu vải cháy dở gắn cúc kim loại rơi trước mũi giày, giữ nguyên giá trị trinh thám suy luận công bằng.
 
-4. **Kỷ luật Tự sự (Narrative Rule)**:
-   - Tác giả chỉ miêu tả sự sạch trơn ma quái ấy qua phản xạ kinh hoàng của Toàn và Lan Anh dưới ngọn đèn bão lúc 05:00 sáng (Chương 06), **tuyệt đối không để Narrator giảng giải hay đưa ra lời giải cơ học**. Sự vắng mặt của dấu vết chính là bằng chứng rợn ngợp của thế lực vô hình.
+4. **Kỷ luật Tự sự & Khóa Thứ Tự Thông Tin (Strict Lore Firewall)**:
+   - D-060 là chân lý khách quan của vụ án, **TUYỆT ĐỐI CẤM NHÂN VẬT KỂ LỂ, THÚ NHẬN HAY DÙNG THOẠI TRẦN TÌNH TRONG CÁC CẢNH OFF-POV SỚM (như Chương 06)**.
+   - Mọi chi tiết về việc Toàn kiểm tra tay bố đêm 13 và dị tượng móng tay sạch tinh chỉ được vỡ lẽ và hé lộ ở **những hồi cuối cùng (Act 3 / Act 4)** khi cơ quan điều tra thẩm vấn, đối chất chứng cứ hoặc khi Toàn hoàn toàn suy sụp thú nhận trước công an.
+   - Trong các cảnh Off-POV sớm (như Chương 06 Scene 1): nhân vật chỉ hành động và thì thào đứt quãng trong sợ hãi tột cùng; tuyệt đối cấm thoại kể lể nguồn cơn sự việc hay dị tượng móng tay.
 
 ---
 

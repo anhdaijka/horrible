@@ -91,6 +91,7 @@ Therefore:
 - An occult/supernatural intervention touched the scene, wiping biological evidence off the corpse while leaving the physical wounds and torn shirt on Toàn intact.
 - When police/forensics conduct preliminary examination on morning 14, no foreign tissue is found under Cường's nails, explaining why Toàn is not immediately detained on forensic grounds.
 - The story presents this as pure uncanny ambiguity without narrator lecturing.
+- Strict Lore Firewall: D-060 is an objective background lock; characters are STRICTLY FORBIDDEN from recounting, discussing or confessing this anomaly in early Off-POV dialogue (such as Chapter 06 Scene 1). The anomaly will only unravel in the final acts (Act 3 / Act 4) when the case breaks and Toàn is interrogated by police.
 
 ## Information-order firewall
 

@@ -80,14 +80,6 @@ Cơ hàm Toàn bạnh ra, hai quai hàm giật liên hồi, tròng mắt đỏ n
 
 "Đốt... Đem ra lò mà đốt ngay đi... Đừng... đừng để ai nhìn thấy... Tao lạy mày... Đốt sạch đi..."
 
-Gã run rẩy ngoái đầu nhìn trừng trừng về phía cỗ phản sau bức liếp nứa, tròng mắt mở to dại đi, giọng thì thào đứt quãng:
-
-"Nhưng... mày nhìn tay bố xem... Đêm ấy móng tay bố cào nát cổ tao... Thế mà lúc tao quay vào... mười đầu móng tay bố... sạch tinh... Trắng bệch... không dính một tí da thịt nào của tao... Ai... ai đã lau tay cho bố? Hay là..."
-
-Toàn không dám thốt nốt nửa câu sau, hai đầu gối nhũn ra va đánh *cộp* vào chân cột gỗ.
-
-Lan Anh run bắn người. Cô đánh mắt nhìn qua khe liếp: dưới ánh đèn bão vàng vọt, hai bàn tay buông thõng của người chết đặt trên mép phản hiện ra trắng bệch như sáp nến, mười đầu móng tay sạch bóng, nhẵn nhụi không một hạt bụi hay vệt máu nào. Một sự thấu suốt câm lặng và kinh hoàng siết lấy lồng ngực người đàn bà — như thể có một bàn tay vô hình nào đó vừa bước qua hiện trường trước khi người sống kịp bước vào.
-
 Lồng ngực Lan Anh thắt nghẹn lại. Cô không chần chừ nửa giây, giật phắt chiếc khăn tang bằng vải xô trắng trên đầu mình xuống, quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô xơ xác trùm lên tận cằm để che lấp hoàn toàn những vệt xước rướm máu. Xong xuôi, cô nhét bọc vải rách vào sâu dưới vạt áo tang, gật đầu một cái dứt khoát trong câm lặng rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
 
 Ngoài ngõ xóm Trại, tiếng gậy mun bịt bạc của ông Vũ Cổn bắt đầu nện *cộp... cộp...* dằn dữ dội trên nền ngõ gạch ướt sương, xé toạc màn đêm tang tóc.
