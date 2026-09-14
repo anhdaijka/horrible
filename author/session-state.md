@@ -1,106 +1,124 @@
 # Session State — Horrible
 
-> Handoff for the next session. Not Story Skills canon.
+> Current handoff for `anhdaijka/horrible@main`. This file summarizes active state; it does not outrank direct author instructions or `author/directives/`.
 
 ## Start here
 
 Repository: `anhdaijka/horrible`  
 Branch: `main`
 
-Current phase: **Opening reset — Chapters 1–2 rejected by author and removed for a clean rewrite.**
-
-Read first:
-1. this file;
-2. `AGENTS.md`;
-3. `author/directives/` (bắt buộc đọc toàn bộ; chứa các chỉ thị tối cao về thẩm mỹ, nhịp điệu, không khí kinh dị);
-4. `author/creative-constitution.md`;
-5. `author/boundaries.md`;
-6. `author/style-bible.md`;
-7. `author/decisions.md`;
-8. `continuity/state.md`;
-9. `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`;
-10. relevant `characters/` and `research/verified/` files.
-
-Do **not** load deleted/rejected Chapter 1–2 prose, briefs, or scene plans from Git history unless the author explicitly asks.
-
-## Author rejection — 2026-09-11
-
-The author rejected the current ChatGPT-written implementations of both Chapter 1 and Chapter 2.
-
-Deleted:
-- `chapters/chapter-01.md`
-- `chapters/chapter-02.md`
-- `revisions/plans/chapter-01-brief.md`
-- `revisions/plans/chapter-02-brief.md`
-- all `scenes/chapter-01-scene-*.md`
-- all `scenes/chapter-02-scene-*.md`
-
-Registries and continuity were reset accordingly.
-
-## Active manuscript state
-
-- Chapter 1, 2, 3, 4 và 5 manuscripts are approved and canonized.
-- `chapters/chapter-05.md` is approved and canonized.
-- `continuity/state.md` uses `current-chapter: 5`.
-
-## Authority after reset
-
-The rejection applies to the **draft execution**: prose, dialogue, micro-beats, scene plans, exact clue staging, reaction choreography, and draft-derived knowledge state.
-
-It does not by itself erase higher-level author-approved Case Zero canon. Continue to use the normal hierarchy:
+Read in this order for Case Zero work:
 1. newest direct author instruction;
-2. `author/decisions.md` / current approved canon;
-3. continuity/character/mystery registries;
-4. verified research;
-5. approved arc/outline;
-6. new replacement draft.
+2. `author/directives/` — all current files, mandatory;
+3. `author/creative-constitution.md`;
+4. `author/boundaries.md`;
+5. `author/decisions.md`;
+6. this handoff;
+7. `continuity/state.md`;
+8. `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`;
+9. relevant `characters/`;
+10. relevant `research/verified/`;
+11. active manuscript prose only when the task requires prose.
 
-If an old Chapter 1–2 detail is found only in deleted draft material, treat it as **NOT ESTABLISHED**.
-If it is independently present in a higher-priority source, treat it according to that source rather than because it appeared in the deleted draft.
+Generated consolidation/index files never outrank the sources above.
 
-## Clean-rewrite guard
+## Current manuscript state
 
-The next writer (including Gemini or any other agent) must write Chapter 2 from a clean slate.
+- Chapters **1–5 are author-approved and canonized**.
+- `continuity/state.md` uses `current-chapter: 5`.
+- Chapter 6 exists in the revision workflow and remains **AUTHOR GATE: PENDING**; it is not canonized into `chapters/` yet.
+- Do not infer canon status from older opening-reset notes or rejected historical ChatGPT drafts.
 
-Do not:
-- reconstruct deleted prose from Git history;
-- reuse the rejected scene sequence by default;
-- quote rejected dialogue as a model;
-- treat rejected chapter-exit knowledge as canon;
-- preserve a draft detail merely because it was previously written.
+### Historical reset note
 
-Do:
-- read current Case Zero canon and author decisions directly;
-- separate objective chronology from narrative presentation order;
-- protect POV and information-order locks;
-- research real cultural/procedural claims before asserting them;
-- ask the author when a new creative/canon decision is required.
+Earlier ChatGPT-written implementations of Chapters 1–2 were rejected and deleted during the opening reset. They were later replaced by new author-approved manuscripts now present in `chapters/chapter-01.md` and `chapters/chapter-02.md`.
 
-## Workflow upgrade — 2026-09-11 & 2026-09-13
+Therefore:
+- do not recover/reuse the rejected versions from Git history;
+- do use the current canonized Chapter 1–2 files when prose comparison is actually required;
+- higher-level author canon that survived the reset remains authoritative according to the normal hierarchy.
 
-Đã thiết lập hệ thống workflow 4 giai đoạn độc lập tham chiếu từ `du-long-giac-2` và **hệ thống Chỉ thị Sáng tạo Độc lập (`author/directives/`)**:
-- Workflows: `/hr-preflight`, `/hr-write`, `/hr-review`, `/hr-revise` trong `.agents/workflows/`
-- Skills: `hr-source-preflight`, `hr-source-writer`, `hr-source-review`, `hr-source-revision` trong `.agents/skills/` (Tất cả đều được gắn khóa cứng bắt buộc đọc `author/directives/`).
-- Playbook: `docs/playbooks/horrible-craft-review.md` (chuẩn hóa 5 Cổng Thẩm Mỹ Horrible, Cổng C tích hợp kiểm toán đối kháng theo `DIR-01` & `DIR-02`).
-- Khu vực chỉ thị tối cao: `author/directives/` chứa:
-  - [DIR-01-psychological-tension.md](file:///d:/Documents/Others/Composer/horrible/author/directives/DIR-01-psychological-tension.md): Xung đột nhận thức (cô độc vs phủ nhận bằng logic), hồn ma Cường theo phong cách kinh dị Nguyễn Ngọc Ngạn, cú lừa Trùng tang.
-  - [DIR-02-thoa-1996-manslaughter-canon.md](file:///d:/Documents/Others/Composer/horrible/author/directives/DIR-02-thoa-1996-manslaughter-canon.md): Canon Ngộ sát năm 1996 (Cường đánh Thoa ngã đập đầu vào đá vì cự tuyệt ép cưới đổi tiền lo đám cưới Cường; Cổn chỉ đạo giấu xác; Thủy phát hiện và gánh nợ 30 năm).
-  - [DIR-03-cinematic-off-pov-and-oral-horror.md](file:///d:/Documents/Others/Composer/horrible/author/directives/DIR-03-cinematic-off-pov-and-oral-horror.md): Kỹ thuật Off-POV Điện ảnh (Fly-on-the-Wall 100% Show-not-tell) & Cơ chế Kinh dị Khẩu truyền đối chiếu dấu vết hồi tố.
-  - [DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md](file:///d:/Documents/Others/Composer/horrible/author/directives/DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md): Cơ chế Pháp y, Bẫy Trung thành Đốt Áo Công Nhân, Timeline Đêm 13 & Chiếc Smartphone Kẹt Niêm Phong Cầu Thang.
-- Quyết định canon mới:
-  - **D-056**: Xóa bỏ vĩnh viễn chi tiết dìm chết cũ năm 1996.
-  - **D-057**: Xóa bỏ hoàn toàn chi tiết thuốc ngủ/Diazepam; thiết lập vụ ẩu đả 22:35–22:45 đêm 13 và bẫy trung thành đốt áo công nhân rách đẫm máu có cúc xe ben của Lan Anh.
-  - **D-058**: Khóa cứng timeline đêm 13, chứng cứ ngoại phạm ca đêm Yên Phong của cô Thủy và cô lập nhận thức tuyệt đối giữa Toàn và Thủy.
-  - **D-059**: Chiếc smartphone của Cường kẹt trong hốc chiếu nghỉ tầng 2 sau dây niêm phong của Công an Long; động cơ sốt vó tiêu hủy vật chứng của Thủy bị hồn ma Cường chặn đứng ở bậc thứ 7; giải phóng tin nhắn Zalo 22:54 khi cắm lại Wi-Fi lúc 19:30 tối 14 (Chương 05).
-- Khu vực đệm: `revisions/chapter-work/CH-XX/` (chứa `preflight.md`, `draft.md`, `review.md`, `revised.md`).
+## Highest-priority current directives
 
-## Next action
+`author/directives/` is the current highest creative mandate layer:
 
-1. Đã hoàn tất phê duyệt và chính thức canonize **Chương 05** (`Đêm áp Rằm`) vào [chapters/chapter-05.md](file:///d:/Documents/Others/Composer/horrible/chapters/chapter-05.md). Trạng thái bản thảo trong [revisions/chapter-work/CH-05/revised.md](file:///d:/Documents/Others/Composer/horrible/revisions/chapter-work/CH-05/revised.md) chuyển sang `AUTHOR GATE: APPROVED`.
-2. Đã hoàn thành thẩm định đối kháng (`/hr-review CH-06`) và biên tập phẫu thuật (`/hr-revise CH-06`): bản sửa đổi [revisions/chapter-work/CH-06/revised.md](file:///d:/Documents/Others/Composer/horrible/revisions/chapter-work/CH-06/revised.md) đã xóa bỏ triệt để chi tiết thuốc ngủ theo **D-057**, tái cấu trúc Scene 1 (vết cào rách da trên cổ Toàn), Scene 4 (Lan Anh đốt chiếc áo công nhân rách đẫm máu trong lò hóa vàng, tàn tro mang cúc xe ben bay trước mũi giày Khanh) và Scene 5 (đòn khiêng nặng trĩu nghiến nát vai Toàn); trạng thái hiện tại là `AUTHOR GATE: PENDING` chờ Tác giả duyệt trước khi canonize vào `chapters/chapter-06.md`.
-3. Đã đồng bộ 100% các quyết định **D-057, D-058, D-059** và chỉ thị tối cao **DIR-04** vào:
-   - [author/directives/DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md](file:///d:/Documents/Others/Composer/horrible/author/directives/DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md) & [author/directives/README.md](file:///d:/Documents/Others/Composer/horrible/author/directives/README.md).
-   - [author/decisions.md](file:///d:/Documents/Others/Composer/horrible/author/decisions.md).
-   - [characters/vu-van-toan.md](file:///d:/Documents/Others/Composer/horrible/characters/vu-van-toan.md), [characters/lan-anh.md](file:///d:/Documents/Others/Composer/horrible/characters/lan-anh.md), [characters/vu-thi-thuy.md](file:///d:/Documents/Others/Composer/horrible/characters/vu-thi-thuy.md), [characters/vu-van-cuong.md](file:///d:/Documents/Others/Composer/horrible/characters/vu-van-cuong.md).
-   - [plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md](file:///d:/Documents/Others/Composer/horrible/plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md).
-4. Bước tiếp theo: Khi Tác giả phê duyệt Chương 06 (`AUTHOR GATE: APPROVED`), tiến hành canonize vào `chapters/chapter-06.md` và chuẩn bị preflight Chương 07 (`/hr-preflight CH-07`).
+- **DIR-01 — Psychological tension / Cường haunting / Trùng tang:** early domestic horror centers on Cường's newly dead spirit; the village/family frame it as `Trùng tang / bắt người đi theo`; Cổn begins as a hard denier and only later breaks.
+- **DIR-02 — Thoa 1996 manslaughter canon:** Thoa is not deliberately drowned. Cường strikes/shoves her during the forced-marriage/wedding-money dispute; she falls, hits her head and later dies. Thủy discovers the body and pleads for a funeral; Cổn orders concealment and Cường complies.
+- **DIR-03 — Cinematic off-POV / oral horror:** main mode remains Khanh close-third, but objective fly-on-the-wall off-POV scenes are allowed. Such scenes cannot contain private interior thought or explanatory confession.
+- **DIR-04 — Case Zero forensic mechanics:** no sedatives; Toàn/Cường scuffle at 22:35–22:45; Thủy is genuinely at Yên Phong on night shift; Cường dies at 22:54:32; smartphone remains trapped behind the preserved staircase scene; Lan Anh's loyalty trap uses the scratched neck/torn bloody work shirt.
+
+## Locked Case Zero objective truth
+
+### 1996
+
+- Thoa (born 1974) is 22.
+- Cổn pressures her toward a financially advantageous forced marriage to help finance eldest son Cường's wedding.
+- During the argument by the lotus pond, Cường hits/shoves Thoa. She falls, strikes her head and becomes unconscious.
+- Cường and Cổn mistake her for faking and leave. Thủy later finds her dead.
+- Cổn orders the death hidden; Cường helps conceal the body; Thủy is coerced into silence.
+- Thoa is erased from the genealogy and the family spreads the `bỏ theo trai` cover story.
+- Thoa's Czech cassette radio records the conflict/aftermath.
+- Khanh's grandfather refuses the later spiritual request: `Không nhận lễ`. An outside heterodox specialist is used instead.
+
+### 2026 human layer
+
+- The road/land-value change and threatened pond disturbance reactivate human pressure around the old site.
+- Thủy, furious over three decades of exploitation and threatened disinheritance, runs a human ghost-themed intimidation/extortion campaign from mùng 8 to noon 13.
+- Toàn, trapped by debt, independently fights Cường over the land deed from 22:35–22:45 night 13. Cường scratches his neck and tears his work shirt; Toàn shoves him and leaves.
+- Toàn does not know about Thủy's intimidation. Thủy does not know about Toàn's scuffle.
+- There is no Diazepam/sedative/drugging plot.
+- Lan Anh later conceals Toàn's neck scratches and destroys the torn blood-stained work shirt because she believes her husband caused Cường's death.
+
+### 2026 supernatural layer
+
+- At 22:54:32 night 13, the genuine supernatural entity connected to Thoa breaks Cường's neck backwards in mid-air before impact.
+- After death, **Cường's newly dead spirit is the direct domestic haunting force in the early arc**.
+- Reader-facing characters interpret the early haunting through `Trùng tang / bắt người đi theo`; that is a belief/red herring, not narrator-certified universal law.
+- Thoa's death/ghost status and role as executioner remain behind the D-054/DIR-01 information firewall until the later reveal.
+
+## D-059 smartphone / scene lock
+
+- Cường's phone flies into a recess around the second-floor stair landing during the fatal event and remains offline.
+- The staircase/upper scene is preserved on the morning of 14, leaving the phone trapped inside.
+- The device contains Thủy's prior threat/extortion material, giving her an active motive to retrieve/destroy it.
+- At dusk 14, Thủy tries to pass the seal but is driven back by Cường-haunting phenomena around the seventh step.
+- At 19:30, household Wi-Fi reconnects and the queued 22:54 voice-message mechanism becomes active under current story canon.
+- Close technical/procedural wording still requires verification before being asserted as real-world fact.
+
+## Information-order firewall
+
+Before the approved later reveal:
+- do not state or imply as narrator fact that Thoa died in 1996;
+- do not call Thoa the ghost haunting the household;
+- allow testimony about disappearance, family conflict, genealogy erasure, `bỏ theo trai` rumor and the missing radio;
+- allow the investigation to treat Thoa as a potentially living missing woman;
+- early domestic haunting remains centered on Cường.
+
+Objective author truth and reader-facing knowledge are different layers.
+
+## Workflow
+
+Independent four-stage workflow remains active:
+- `/hr-preflight`
+- `/hr-write`
+- `/hr-review`
+- `/hr-revise`
+
+Working area: `revisions/chapter-work/CH-XX/` with `preflight.md`, `draft.md`, `review.md`, `revised.md` as applicable.
+
+Do not canonize revision-work prose into `chapters/` until the author gate is explicitly approved.
+
+## Current next action
+
+1. Chapter 6 revised draft is pending author approval.
+2. If approved, canonize it into `chapters/chapter-06.md`, update continuity/registries, then preflight Chapter 7.
+3. If rejected, revise or discard it without modifying higher-level canon unless the author explicitly changes canon.
+
+## Verification gates still open
+
+Before close-up factual prose, verify as needed:
+- police/autopsy/scene-seal procedure;
+- identity-database / historical CMND handling and legal-status wording;
+- exact Zalo/offline/network behavior;
+- close ritual/funeral mechanics and terminology;
+- any claim presented as real `Trùng tang` folk practice rather than character belief.
