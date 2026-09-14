@@ -1,8 +1,10 @@
 # Decision Addendum — Discovery 14
 
+> **Legacy-ID warning:** The `D-051`–`D-055` labels in this Discovery addendum are historical discovery-local IDs from 2026-09-06 and collide numerically with later Case Zero decisions in `author/decisions.md`. They do **not** override newer main-log decisions or `author/directives/`. When citing these entries, prefer `Discovery-14/D-051` etc.
+
 Status: accepted development decisions for `Horrible`. This addendum supplements `author/decisions.md`; it is not Story Skills manuscript canon.
 
-### D-051 — Volume 1 uses two full mysteries plus one non-investigative haunting
+### Discovery-14/D-051 — Volume 1 uses two full mysteries plus one non-investigative haunting
 
 - **Date:** 2026-09-06
 - **Status:** accepted development decision
@@ -10,7 +12,7 @@ Status: accepted development decisions for `Horrible`. This addendum supplements
 - **Implications:** Horror must remain active when no case is running. The short haunting exists to establish that meaningful supernatural experience does not always require culprit-finding, mechanism-solving or procedural escalation.
 - **Supersedes:** none
 
-### D-052 — Working Volume 1 architecture is about 46 chapters
+### Discovery-14/D-052 — Working Volume 1 architecture is about 46 chapters
 
 - **Date:** 2026-09-06
 - **Status:** accepted development decision
@@ -18,7 +20,7 @@ Status: accepted development decisions for `Horrible`. This addendum supplements
 - **Implications:** Counts are scaffolding, not manuscript quotas. Ordinary-life, cultural and embedded-story chapters remain structurally necessary rather than filler.
 - **Supersedes:** none
 
-### D-053 — Short Haunting 03 working shell is `Người về ăn giỗ`
+### Discovery-14/D-053 — Short Haunting 03 working shell is `Người về ăn giỗ`
 
 - **Date:** 2026-09-06
 - **Status:** accepted development decision
@@ -26,7 +28,7 @@ Status: accepted development decisions for `Horrible`. This addendum supplements
 - **Implications:** Emotional action centers an ordinary unfinished promise/object/relationship duty. Khanh helps because the act is worthwhile whether or not he can prove the apparition was supernatural. Exact deceased identity, promise, ritual detail, evidence and causal models remain unlocked for Discovery 15.
 - **Supersedes:** none
 
-### D-054 — Volume 1 ending reveals refusal pattern, not cause
+### Discovery-14/D-054 — Volume 1 ending reveals refusal pattern, not cause
 
 - **Date:** 2026-09-06
 - **Status:** accepted development decision
@@ -34,7 +36,7 @@ Status: accepted development decisions for `Horrible`. This addendum supplements
 - **Implications:** Case Zero can appear among these records; Case 02 must not. The pattern opens the question of why grandfather refused some matters without proving prediction, conspiracy, a single entity or a common supernatural cause.
 - **Supersedes:** none
 
-### D-055 — Khanh begins uncertainty records at Volume 1 end
+### Discovery-14/D-055 — Khanh begins uncertainty records at Volume 1 end
 
 - **Date:** 2026-09-06
 - **Status:** accepted development decision
