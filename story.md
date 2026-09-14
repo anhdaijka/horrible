@@ -43,6 +43,6 @@ Khanh is neither a ghost hunter nor a chosen medium. He checks ordinary causes b
 
 Working thematic title: **Những chuyện tưởng đã kết thúc**.
 
-The previous Chapter 1–2 opening prototype has been discarded from active canon. Volume 1 is being re-opened from Chapter 1 under the revised horror-first contract.
+Case Zero — `Đơn hàng cho người chưa chết` — is the active opening arc. Chapters 1–5 are author-approved/canonized in the current repository state; Chapter 6 remains behind an author approval gate. Current Case Zero authority comes from the newest direct author instruction, `author/directives/`, `author/decisions.md`, continuity/character registries, verified research and the active arc plan in that order.
 
-Case Zero remains a development concept, but its opening presentation must be redesigned from scratch so that information is revealed in story order rather than leaked through explanatory narration.
+The earlier opening-reset note is historical only and must not be used to treat the current canonized opening as unestablished.
