@@ -22,7 +22,7 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
 ## 2. Tâm điểm Ma mị: Hồn ma ông Cường (The Ghost of Cường Paradigm)
 
 1. **Ông Cường là cội nguồn duy nhất của mọi dị tượng ở giai đoạn đầu**:
-   - Vốn dĩ cái chết của ông Cường tại đầm sen là một cái chết vô cùng rùng rợn và bất thường (chết ngạt, mắt trợn trừng, dấu vết kỳ quái).
+   - Theo canon pháp y hiện hành (D-058 / DIR-04), ông Cường chết trên cầu thang lúc 22:54:32 đêm 13: cổ bị bẻ ngoặt gần 180 độ trong không trung trước khi thi thể rơi xuống chiếu nghỉ. Đây là một cái chết dữ, phi tự nhiên và rùng rợn.
    - Mọi cảm giác ma mị, lạnh gáy, hiện hồn, quấy phá trong gia đình và làng xóm **BẮT BUỘC PHẢI XOAY QUANH HỒN MA ÔNG CƯỜNG**.
    - Tuyệt đối không để hồn ma cô Thoa hay cái tên Thoa xuất hiện làm chất liệu kinh dị sớm. Cô Thoa là bí mật chôn sâu dưới tầng ngầm trinh thám.
 
@@ -35,10 +35,10 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
      - Bóng đen lướt qua góc vườn đầm sen lúc chập choạng tối.
    - Không khí phải toát lên sự bức bối, ngột ngạt, bất an, những điềm báo lạnh gáy khiến người đọc rợn người từng cơn.
 
-3. **Mục tiêu đòi mạng của Hồn ma Cường**:
-   - Trong canon thực tế, các nghi phạm chính (kể cả người nhà và người ngoài) đều có liên quan trực tiếp hoặc gián tiếp đến cái chết của ông Cường (dù ban đầu họ chỉ muốn đe dọa, nắm thóp, tống tiền, nhưng vô tình đẩy ông ta đến chỗ chết).
-   - Vì thế, trong cơn ma mị, hồn ma ông Cường hiện về quấy phá, đòi mạng **CẢ NHỮNG NGƯỜI TRỰC TIẾP LẪN GIÁN TIẾP**.
-   - Hồn ma gieo vào đầu những kẻ có tật giật mình thông điệp rùng rợn: *Mình chết oan, sẽ bắt cả nhà đi cùng*.
+3. **Mục tiêu đòi bắt người của Hồn ma Cường**:
+   - Trong canon thực tế, các nghi phạm chính đều đã gây áp lực, tổn hại, che giấu hoặc cưỡng ép quanh Cường ngay trước/sau cái chết của ông. Họ không gây ra cú bẻ cổ siêu nhiên, nhưng mỗi người đều có lý do riêng để tin rằng tội lỗi của mình đã dẫn tới cái chết.
+   - Vì thế, trong cơn ma mị, hồn ma ông Cường hiện về quấy phá **CẢ NHỮNG NGƯỜI CÓ TẬT GIẬT MÌNH**, khiến họ tự diễn giải rằng Cường đang về bắt người đi theo.
+   - Hồn ma gieo vào đầu họ thông điệp rùng rợn: *Mình chết oan, sẽ bắt cả nhà đi cùng*.
 
 ---
 
@@ -50,8 +50,8 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
 
 2. **Hành trình tâm lý của Ông Cổn**:
    - **Giai đoạn đầu**: Ông Cổn là người gia trưởng, trọng thể diện dòng họ, và duy vật cứng nhắc. Ông ta kiên quyết phủ nhận, mắng mỏ con cháu và dập tắt mọi lời đồn: cho rằng đó là chuyện mê tín bậy bạ, do thần hồn nát thần tính.
-   - **Bước ngoặt**: Tần suất ma Cường về ngày càng hung hãn, cho đến khi **chính bản thân ông Cổn cũng tận mắt chứng kiến hồn ma Cường về đòi mạng mình**.
-   - **Hành động**: Ông Cổn sợ hãi cuống cuồng, rụng rời tay chân. Để vừa cứu mạng mình vừa không làm bại hoại thể diện dòng họ (không để ai biết Cường về báo oán mình vì tội lỗi cũ), ông Cổn đã **mượn cớ làm lễ giải Trùng tang** để mời thầy trừ tà (Thầy Bình) về lập đàn yểm bùa. Thực chất, lễ cúng đó là để xua đuổi và giam hãm linh hồn ông Cường, chứ không phải giải trùng tang thông thường.
+   - **Bước ngoặt**: Tần suất ma Cường về ngày càng hung hãn, cho đến khi **chính bản thân ông Cổn cũng tận mắt chứng kiến hồn ma Cường về đòi bắt mình**.
+   - **Hành động**: Ông Cổn sợ hãi cuống cuồng, rụng rời tay chân. Để vừa cứu mạng mình vừa không làm bại hoại thể diện dòng họ, ông Cổn **mượn cớ làm lễ giải Trùng tang** để mời Thầy Bình về lập đàn yểm bùa. Thực chất, lễ cúng đó là nỗ lực xua đuổi và giam hãm linh hồn ông Cường, chứ không phải bằng chứng narrator xác nhận Trùng tang là quy luật siêu nhiên khách quan.
 
 ---
 
@@ -64,7 +64,7 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
    - Họ nằng nặc tin vào mắt mình, rơi vào trạng thái hoảng loạn, sang chấn, muốn tìm cách van lạy hoặc chạy trốn.
 
 2. **Phe Duy Lý / Phủ Nhận (Logic Gaslighting)**:
-   - Các nhân vật như **Thắng** (em trai/cháu trong họ), người nhà tỉnh táo, và ông Cổn (ở giai đoạn đầu).
+   - Các nhân vật như **Thắng**, người nhà tỉnh táo, và ông Cổn (ở giai đoạn đầu).
    - Họ dùng logic đời thường để gạt phăng đi một cách rất thuyết phục:
      - *"Khéo bà con họ hàng thức đêm thức hôm mệt quá, hoa mắt lên nhìn gà hóa cuốc đấy thôi."*
      - *"Chắc là do tang gia bối rối, đau buồn quá mà sinh ra tưởng tượng."*
@@ -72,7 +72,7 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
    - Thái độ của Thắng đối với Khanh: Thắng là người làng xóm thân tình, hiểu chuyện. Thắng chủ động dặn Khanh đừng bận tâm mấy lời đồn vớ vẩn ngoài ngõ, giữ cho tang lễ được yên ổn.
 
 3. **Hiệu ứng Kinh dị "Gaslighting Dread"**:
-   - Nỗi sợ hãi tột cùng không phải là con ma, mà là **nỗi cô độc khi nhìn thấy điều kinh hoàng nhưng bị cả thế giới xung quanh dùng lý trí phủ nhận**.
+   - Nỗi sợ hãi tột cùng không phải chỉ là con ma, mà là **nỗi cô độc khi nhìn thấy điều kinh hoàng nhưng bị thế giới xung quanh dùng lý trí phủ nhận**.
    - Kẻ nhìn thấy ma bắt đầu tự nghi ngờ chính thần kinh của mình: *Liệu mình có bị điên không? Hay thực sự thứ đó đang đứng ngay sau lưng mình?*
 
 ---
@@ -97,7 +97,7 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
 
 4. **Chương 6 trở đi (Lập đàn Trùng tang & Đỉnh điểm Ám ảnh)**:
    - Ông Cổn chạm trán ma Cường, vỡ trận tâm lý, bí mật mời Thầy Bình lập đàn giải Trùng tang.
-   - Không khí đại đàn cúng bái đậm chất văn hóa Bắc Bộ, hòa quyện giữa nghi lễ cổ truyền và sự rình rập kinh hoàng của oan hồn đòi mạng.
+   - Không khí đại đàn cúng bái đậm chất văn hóa Bắc Bộ, hòa quyện giữa nghi lễ cổ truyền và sự rình rập kinh hoàng của vong chết dữ.
 
 ---
 
