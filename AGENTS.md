@@ -9,43 +9,42 @@ This repository is a long-form fiction project. Follow this contract before any 
 At the start of every new session:
 
 1. Read `author/session-state.md` first.
-2. Follow its `Next action` unless the author gives a newer instruction.
+2. Follow its `Current next action` unless the author gives a newer instruction.
 3. For planning/drafting/revision, read:
-   - `author/directives/` (all files; author directives have highest creative and aesthetic authority);
+   - `author/directives/` (all files; author directives have highest repository creative/aesthetic authority, below newer direct author instruction);
    - `author/creative-constitution.md`;
    - `author/boundaries.md`;
    - `author/style-bible.md`.
-4. Read `story.md` and only the specific canon/development/research files needed.
+4. Read `author/decisions.md`, `continuity/state.md`, `story.md`, and only the specific canon/development/research files needed.
 5. Do **not** reload Discovery 01–15 by default.
 
 Use minimum sufficient context.
 
 ## Authority
 
-- The author is final authority on canon and creative direction.
-- Author directives in `author/directives/` are binding instructions directly reflecting author mandates.
-- Repository files beat chat memory, latent memory and assumptions.
+- The author's newest direct instruction is final authority on canon and creative direction.
+- Author directives in `author/directives/` are binding repository mandates unless superseded by a newer direct author instruction.
+- Repository source files beat chat memory, latent memory and generated summaries.
 - Do not silently canonize, retcon or resurrect rejected material.
 
-## Opening reset — hard guard
+## Historical opening-reset guard
 
-Two generations of opening material have been author-rejected:
+Two earlier generations of opening material were author-rejected:
 
 1. the old prototypes `Tiếng chợ` / `Người đặt`;
-2. the later Chapter 1–2 implementations rejected on **2026-09-11**, including their manuscript files, briefs and scene plans.
+2. a later ChatGPT-written Chapter 1–2 implementation that was rejected and deleted during the opening reset.
 
-The latest rejected Chapter 1–2 files were deleted from active `main`.
+Those rejected versions remain non-authoritative even if recoverable from Git history.
+
+**Current state:** replacement Chapters 1–5 have since been author-approved and canonized. The active files in `chapters/chapter-01.md` through `chapter-05.md` are current manuscript authority when prose is relevant.
 
 Do not:
-- recover their prose/dialogue from Git history unless the author explicitly asks;
-- quote them as a prose model;
-- reuse their scene sequence by default;
-- treat their on-page knowledge/object state as canon;
-- preserve a micro-beat merely because it appeared in a rejected draft.
+- recover rejected prose/dialogue from Git history unless the author explicitly asks;
+- quote rejected versions as a prose model;
+- resurrect rejected scene sequences, clue staging or knowledge state merely because they once existed;
+- confuse the historical reset with the current approved opening.
 
-Generated root files such as `HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md` and `CONSOLIDATION_REPORT.md` are convenience/index artifacts only. They may contain stale snapshots of rejected opening material and never outrank `author/`, `continuity/`, `plot/`, `characters/`, `research/verified/`, or current author instruction.
-
-The replacement opening must be rebuilt from current authoritative sources and new author approval.
+Generated root files such as `HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md` and `CONSOLIDATION_REPORT.md` are convenience/index artifacts only. They may contain stale snapshots and never outrank `author/`, `continuity/`, `plot/`, `characters/`, `research/verified/`, active approved chapters, or current author instruction.
 
 ## Horror-promise gate
 
@@ -56,7 +55,9 @@ Before approving an opening chapter or major arc scene, ask:
 3. Is ordinary life increasing credibility/attachment, or merely consuming pages?
 4. Did narrator exposition leak a later reveal?
 5. Are we accidentally treating ambiguity or mundane explanation as mandatory sophistication?
-6. Is the scene free of cheap theatrical jumpscares, grounding every eerie anomaly in dual-layer logic (visceral dread + fair-play detective clues with high re-read value)?
+6. Is the scene free of cheap theatrical jumpscares, and do **important reveal-bearing clues** carry enough emotional/horror weight and fair-play setup for reread value?
+
+Do **not** require every anomaly, sensory detail or supernatural manifestation to double as a detective clue. Atmosphere, character detail and direct haunting may exist for their own narrative function.
 
 **Realism is the floor, not the ceiling. Ambiguity is optional. Fictional ghosts may be real.**
 
@@ -93,14 +94,11 @@ Keep these layers separate:
 
 The final layer is fictional and may be genuinely supernatural.
 
-## Psychological trapping & retroactive dread gate
+## Psychological / retroactive-dread gate
 
-For scenes advancing mystery, ritual, or uncanny encounters:
+For scenes where taboo guilt, contamination anxiety or retroactive dread is actually part of the approved design, check whether the ordinary action becomes more disturbing after later information and whether Khanh's reasoning conflicts naturally with inherited/local anxiety.
 
-1. Did the protagonist unwittingly trigger a karmic tripwire or commit a minor transgression against folk taboo?
-2. Is the interiority trapped inside Limited 3rd POV, feeling the suffocating dread of possible spiritual contamination or a stranger's grim prediction?
-3. Does the dread fuel a clash between Khanh's IT rationality and deep-seated rural superstition?
-4. Does the narrative preserve the claustrophobic pressure without the narrator stepping in to prematurely debunk or validate the curse?
+This is a **tool, not a quota**. Do not force a karmic tripwire, taboo transgression, bodily panic checklist or rational-vs-folk debate into every uncanny scene.
 
 ## Prose social-address + physicality gate
 
@@ -110,7 +108,9 @@ Before a recurring character's first real manuscript appearance:
 2. if durable physical anchors are missing, establish them before improvising contradictory bodies across chapters;
 3. integrate only a few physical details into action;
 4. use natural Vietnamese kinship or `ông/bà + tên` for older adults in narration;
-5. use deviation from baseline as one evidence channel for fear/uncanny wrongness.
+5. use deviation from baseline as **one possible** evidence channel for fear/uncanny wrongness.
+
+Do not convert every emotion into trembling, heartbeat, sweat, breath or other stacked physiological reactions.
 
 Internal YAML and planning shorthand may keep bare canonical names.
 
@@ -127,6 +127,8 @@ Do not leak future logic by:
 - reassuring the reader that a detail is harmless;
 - explaining why a character is not afraid after the action already shows it.
 
+Always distinguish **objective chronology** from **narrative presentation order**. CCTV playback, recordings, flashbacks and testimony can show older events in later chapters without creating a timeline conflict.
+
 ## Drafting boundary
 
 The writer may invent wording, gesture, micro-action, sensory realization and dialogue execution inside an approved scene plan.
@@ -140,6 +142,8 @@ The writer may not silently change:
 - durable character/object state;
 - supernatural rule;
 - real cultural fact.
+
+If a new material canon choice is required, ask the author before making it.
 
 ## Review / revision boundary
 
@@ -163,7 +167,7 @@ After an approved manuscript creates durable state:
 1. prepare canon diff;
 2. apply approved state only;
 3. update continuity/registries;
-4. run Story Skills validation/links/continuity checks.
+4. run continuity/link validation.
 
 Development material is not canon merely because it exists.
 
@@ -178,9 +182,9 @@ Semantic commit prefixes are preferred: `plan:`, `draft:`, `revise:`, `canon:`, 
 Chapter operations use `.agents/workflows/hr-*.md` and the four `hr-source-*` skills:
 - `/hr-preflight <chapter>` (`hr-source-preflight`): chuẩn bị preflight, neo giác quan, khóa thứ tự thông tin trước khi viết;
 - `/hr-write <chapter>` (`hr-source-writer`): chấp bút bản thảo non-canon vào `revisions/chapter-work/CH-XX/draft.md`;
-- `/hr-review <chapter>` (`hr-source-review`): thẩm định đối kháng độc lập theo 5 Cổng Thẩm Mỹ Horrible, xuất `review.md`;
+- `/hr-review <chapter>` (`hr-source-review`): thẩm định đối kháng độc lập theo các cổng craft của Horrible, xuất `review.md`;
 - `/hr-revise <chapter>` (`hr-source-revision`): biên tập phẫu thuật can thiệp nhỏ nhất có hiệu quả, xuất `revised.md`.
 
 Xem `docs/playbooks/horrible-craft-review.md` để nắm quy trình thẩm định và định tuyến thẩm quyền.
 
-Use Story Skills for structured story-state operations and deterministic maintenance. Use craft skills for diagnosis. Avoid duplicate persistence systems.
+Use structured story-state tools for deterministic maintenance and craft tools for diagnosis. Avoid duplicate persistence systems.
