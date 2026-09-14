@@ -8,6 +8,8 @@ relationships:
     type: younger-sister
   - character: vu-thi-thoa
     type: younger-sister
+  - character: vu-van-toan
+    type: son
   - character: le-van-thang
     type: distant-in-law-relative
 locations:
@@ -17,7 +19,8 @@ tags:
   - case-zero-victim
   - sudden-death
   - twisted-neck
-  - 1996-crime-accomplice
+  - 1996-manslaughter-perpetrator
+  - 1996-cover-up-accomplice
   - hidden-cassette-radio
 ---
 
@@ -27,23 +30,41 @@ tags:
 
 The deceased victim whose sudden death initiates **Case Zero — Đơn hàng cho người chưa chết**. A 59-year-old resident of xóm Trại (born 1967), he appeared outwardly robust, healthy, and sociable right up until the night of his death.
 
-Under master canon (**D-056** & **DIR-02**), Cường's outward affability hid decades of predatory guilt and complicity in family crime:
-- **Historical manslaughter & hidden leverage (1996):** In summer 1996, to secure funds for his own wedding (to the mother of Toàn), Cường and his father violently pressured middle sister Vũ Thị Thoa into an unwanted marriage with a wealthy local suitor who offered a lavish bride price. When Thoa fiercely refused, Cường attacked and struck her; Thoa slipped and suffered a fatal skull fracture against a pond-side boulder. Mistaking her stillness for "faking," Cường and his father abandoned her. After Thủy discovered the body late at night, Cường coward-like followed Ông Cổn's orders to conceal the corpse in the lotus pond mud, erase Thoa from the clan registry, and pawn land to fund his wedding—dumping 30 years of repayment debt onto Thủy. Thoa's Czech cassette radio on `REC` recorded the entire tragedy; Cường buried it in the mud under a heterodox 30-year bamboo talisman rejected by Khanh's grandfather (`Không nhận lễ`).
-- **Inheritance greed (2026):** For thirty years, Cường enjoyed the family estate redeemed by Thủy's meager factory wages. When the 2026 road-widening project made the pond frontage worth billions, Cường attempted to disinherit Thủy completely, triggering her nocturnal ghost-tape intimidation campaign.
-- **Advance order & death:** Four days before his death (mùng 10 tháng Giêng), a custom votive-paper order bearing his exact name, age, and address was placed at bà Lan's shop by a woman calling herself Vũ Thị Thoa.
+Under master canon (**D-056**, **DIR-02**), Cường's outward affability hid decades of guilt and exploitation:
+- **Historical manslaughter (1996):** Cường and his father pressured middle sister Vũ Thị Thoa into an unwanted marriage intended to help finance Cường's wedding. During the violent quarrel by the lotus pond, Cường struck/shoved Thoa; she fell backward, hit her head on a stone and became unconscious. Cường and Cổn mistook her stillness for `ngất ăn vạ` and left her there. Thủy later found Thoa dead.
+- **Cover-up:** Cường submitted to Cổn's order to conceal the death and erase Thoa from family history while Thủy was coerced into silence. Thoa's Czech cassette radio, left on `REC`, captured the conflict and aftermath. Khanh's grandfather later refused the Vũ family's request (`Không nhận lễ`); an outside heterodox specialist, not Khanh's grandfather, was involved in the subsequent radio/talisman binding.
+- **Inheritance greed (2026):** For decades Cường benefited from family property whose debt burden had been pushed onto Thủy. When the road project made the pond-side land extremely valuable, he attempted to cut Thủy out, triggering her ghost-themed intimidation/extortion campaign.
+- **Advance order:** Four days before his death, the mùng 10 custom votive-paper order connected to Cường was placed at bà Lan's shop by the left-handed purchaser using the name `Vũ Thị Thoa`.
 
 ## Core traits
 
-Outwardly jovial, loud, fond of riding his red Honda Wave to buy tea, bantering at alley chess boards, and watching the evening news. Inwardly superstitious, paranoid, and terrified of retribution.
+Outwardly jovial, loud and socially ordinary; inwardly controlling, superstitious about the buried past and increasingly paranoid under Thủy's 2026 pressure campaign.
 
 ## Death circumstances
 
-Died at 22:54:32 on the night of 13th Giêng on his staircase (D-058):
-- **Pre-death sequence:** Shaken by days of anonymous ghost-tape intimidation from Thủy, Cường was violently confronted by Toàn at 22:35–22:45 over the land deed. During the scuffle, Cường scratched Toàn's neck and tore his shirt before being shoved to the floor as Toàn stormed out.
-- **The Zalo Voice Message & Supernatural Retribution:** Hearing mechanical tape hiss and wet footsteps upstairs around 22:50, Cường assumed Thủy was orchestrating another trespass/scare. He opened Zalo and held down the voice message button aimed at Thủy's account to threaten and catch her red-handed. Climbing the stairs, he encountered Thoa's genuine ghost. At 22:54:32, his neck was snapped backwards 180 degrees in mid-air (*RẮC!*), and his body crashed onto the landing 1 second later.
-- **The Trapped Smartphone (D-059, DIR-04):** During the supernatural strike, Cường's smartphone flew from his hand into a wooden recess beneath the 2nd-floor stair landing, face-down and offline. When Officer Long sealed the 2nd-floor stairs with police tape on the morning of the 14th, the phone remained trapped there throughout Chapters 3–6, preserving Thủy's extortion messages and holding the 22:54 voice note until the 19:30 Wi-Fi reconnect.
-- **Physical trauma:** 3rd cervical vertebra ruptured the skin at the nape with clotted black blood; eyes wide and inverted staring at the landing; mouth frozen in a grotesque sneer; fingernails torn off clawing the wall; body turning icy cold within seconds.
+Objective author truth is locked by **D-058 / DIR-04**:
+- **22:35–22:45:** Toàn confronts Cường over the land deed. Cường scratches Toàn's neck and tears his work shirt; Toàn shoves him and leaves for the sand truck.
+- **22:45–22:53:** Cường is alone. Tape-like mechanical hiss and wet footsteps upstairs make him assume Thủy is continuing her intimidation campaign.
+- **22:54:** Cường starts a Zalo voice message to Thủy while moving toward the staircase.
+- **22:54:32:** A genuine supernatural entity connected to Thoa breaks Cường's neck backwards in mid-air before the body strikes the stairs/landing.
+- **23:05–23:10:** Toàn returns, finds him dead and incorrectly believes his own earlier shove caused the death.
+
+### Trapped smartphone
+
+During the fatal event Cường's phone flies into a recess around the second-floor stair landing and goes offline. Under **D-059 / DIR-04**, the upper staircase scene is preserved on the morning of the 14th, leaving the phone trapped there. It holds Thủy's prior threat/extortion material and the queued 22:54 voice-message mechanism.
+
+### Durable physical evidence
+
+Durable canon is the severe, mechanically abnormal neck injury: the neck is twisted nearly 180 degrees, with upper-cervical dislocation/trauma and no ordinary external strangulation explanation established by the current continuity. The decisive mystery fact is that the neck break occurs **before impact**, not the exact amount of gore in any one draft description.
+
+## Post-death supernatural role
+
+Under **D-054 / DIR-01**, Cường's newly dead spirit becomes the central direct domestic haunting force in the early Case Zero arc. Family and villagers interpret his return through `Trùng tang / bắt người đi theo`. That interpretation is reader-facing belief/red herring, not a universal supernatural law.
+
+## Information-order firewall
+
+This internal file may state objective truth. Reader-facing material before the later reveal must not identify Thoa as dead or as Cường's supernatural executioner.
 
 ## Narrative reference
 
-Referred to in narration and dialogue as `ông Cường` or `bác Cường`.
+Referred to in narration and dialogue as `ông Cường` or `bác Cường` according to speaker relationship.
