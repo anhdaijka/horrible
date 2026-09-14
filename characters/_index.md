@@ -11,7 +11,7 @@ story: horrible
 | Nguyễn Minh Khanh | protagonist | alive | 27 tuổi, kỹ sư IT làm việc từ xa, duy lý, nhạy cảm với dữ liệu | [nguyen-minh-khanh](nguyen-minh-khanh.md) |
 | Trần Thị Lan | supporting | alive | Mẹ Khanh, chủ tiệm vàng mã Chợ Bến, cẩn trọng, kiêng kỵ | [tran-thi-lan](tran-thi-lan.md) |
 | Nguyễn Văn Hùng | supporting | alive | Bố Khanh, thợ mộc/cơ khí, thực tế, ít lời | [nguyen-van-hung](nguyen-van-hung.md) |
-| Nguyễn Minh Hạnh | supporting | alive | Chị gái Khanh, làm giáo viên mầm non | [nguyen-minh-hanh](nguyen-minh-hanh.md) |
+| Nguyễn Minh Hạnh | supporting | alive | Chị gái Khanh, giáo viên tiểu học | [nguyen-minh-hanh](nguyen-minh-hanh.md) |
 
 ## The Vũ Lineage (Xóm Trại — Case Zero Family)
 | Name | Role | Status | Description | File |
