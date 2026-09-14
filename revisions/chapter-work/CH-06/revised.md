@@ -36,7 +36,7 @@ Toàn chết sững. Toàn bộ cơ bắp trên mặt gã đông cứng lại. H
 
 Dưới ánh sáng leo lét của ngọn đèn bão, tấm vải lụa đỏ phủ trên mặt người chết... khẽ phập phồng.
 
-Một luồng hơi lạnh ngắt, tanh nồng mùi bùn rêu và tử khí từ dưới lớp vải phả ngược lên, làm mép lụa đỏ chao nhẹ. Cái đầu bên dưới lớp vải dường như đang từ từ nhúc nhích. Phần khớp cổ bị gãy vặn ngược trẹo sang một bên vai khẽ cựa quậy, các thớ vải xô phát ra tiếng sột soạt ma quái.
+Một luồng hơi lạnh ngắt, tanh nồng mùi bùn rêu và tử khí từ dưới lớp vải phả ngược lên, làm mép lụa đỏ chao nhẹ. Cái đầu bên dưới lớp vải từ từ nhúc nhích. Phần khớp cổ bị gãy vặn ngược trẹo sang một bên vai khẽ cựa quậy, các thớ vải xô phát ra tiếng sột soạt ma quái.
 
 *Kèn kẹt...*
 
@@ -76,7 +76,7 @@ Một chiếc áo lót bảo hộ cộc tay màu xanh công nhân mà Toàn vẫ
 
 Mặt Lan Anh cắt không còn một giọt máu. Bàn tay cầm mép vải rách run bần bật, mười đầu ngón tay trắng bệch. Cô ngước mắt nhìn trừng trừng vào mặt chồng, cổ họng nghẹn ứ không thốt nổi nửa lời.
 
-Toàn cắn chặt môi dưới đến rớm máu, tròng mắt đỏ ngầu dại đi vì hoảng loạn. Gã giật phắt lấy cổ tay vợ, ấn mạnh bọc vải rách ngược trở lại vào lòng bàn tay cô, run rẩy dúi chặt xuống, giọng rít qua hai hàm răng va lập cập:
+Cơ hàm Toàn bạnh ra, hai quai hàm giật liên hồi, tròng mắt đỏ ngầu dại đi vì hoảng loạn. Gã giật phắt lấy cổ tay vợ, ấn mạnh bọc vải rách ngược trở lại vào lòng bàn tay cô, run rẩy dúi chặt xuống, giọng rít qua hai hàm răng va lập cập:
 
 "Đốt... Đem ra lò mà đốt ngay đi... Đừng... đừng để ai nhìn thấy... Tao lạy mày... Đốt sạch đi..."
 
@@ -84,7 +84,7 @@ Lan Anh run bắn người. Cô không hỏi một câu nào, chỉ thấy hai h
 
 Một sự thấu suốt câm lặng và kinh hoàng siết lấy lồng ngực người đàn bà. 
 
-Lan Anh cắn chặt môi đến rỉ máu, giật chiếc khăn tang bằng vải xô trắng trên đầu mình xuống. Cô quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô xơ xác trùm lên tận cằm để che lấp hoàn toàn những vệt xước rướm máu. Xong xuôi, cô nhét bọc vải rách vào sâu dưới vạt áo tang, gật đầu một cái dứt khoát trong câm lặng rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
+Lồng ngực Lan Anh thắt nghẹn lại. Cô không chần chừ nửa giây, giật phắt chiếc khăn tang bằng vải xô trắng trên đầu mình xuống, quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô xơ xác trùm lên tận cằm để che lấp hoàn toàn những vệt xước rướm máu. Xong xuôi, cô nhét bọc vải rách vào sâu dưới vạt áo tang, gật đầu một cái dứt khoát trong câm lặng rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
 
 Ngoài ngõ xóm Trại, tiếng gậy mun bịt bạc của ông Vũ Cổn bắt đầu nện *cộp... cộp...* dằn dữ dội trên nền ngõ gạch ướt sương, xé toạc màn đêm tang tóc.
 
@@ -216,7 +216,7 @@ Bốn thanh niên lực lưỡng xốc nách, nâng thi thể bọc vải trắn
 
 Tấm nắp ván gỗ lim dày cộp được tám bàn tay cùng nhau khênh lên, từ từ trượt vào mộng gỗ đánh *kịch* một tiếng khô khốc, nặng nề. 
 
-Mọi thứ diễn ra nhanh chóng, đàng hoàng và trật tự dưới uy quyền sắt đá của Trưởng tộc họ Vũ. Không có bùa chú đỏ. Không có đinh sắt mười phân. Không có tiếng gào thét "trùng tang" nào được phép cất lên. Bề ngoài, đó là một buổi lễ nhập quan hoàn toàn bình thường, đúng lễ tục làng quê của một gia đình nề nếp.
+Mọi thứ diễn ra nhanh chóng, đàng hoàng và trật tự dưới uy quyền sắt đá của Trưởng tộc họ Vũ. Không có bùa chú đỏ. Không có đinh sắt mười phân. Không có tiếng gào thét "trùng tang" nào được phép cất lên. Bề ngoài, nghi lễ nhập quan diễn ra trật tự, đúng khuôn phép làng quê của một gia đình nề nếp.
 
 Thầy Bình bước lên trước bàn linh, rung chuông tụng bài kinh tiếp linh rền rĩ:
 
@@ -234,7 +234,7 @@ Nhưng Khanh — đang đứng nép bên cạnh khung cửa sổ gian ngoài —
 
 Những làn khói hương bài dày đặc bốc lên từ bốn góc linh cữu... không hề bay thẳng lên mái bạt rạp tang.
 
-Chúng dường như bị một luồng khí lạnh vô hình hút ngược xuống. Những dải khói trắng mỏng manh uốn lượn chầm chậm, xoáy tròn quanh chân bát cơm úp đặt trên nắp áo quan, tụ lại thành một vòng xoáy nhỏ lạnh ngắt, đặc quánh như một búi sương mù thu nhỏ.
+Chúng bị một luồng khí lạnh vô hình hút ngược xuống. Những dải khói trắng mỏng manh uốn lượn chầm chậm, xoáy tròn quanh chân bát cơm úp đặt trên nắp áo quan, tụ lại thành một vòng xoáy nhỏ lạnh ngắt, đặc quánh như một búi sương mù thu nhỏ.
 
 Và ngay trên đầu đôi đũa tre vót nhọn...
 
@@ -252,11 +252,9 @@ Thầy Bình cũng vừa nhìn thấy vết nứt ấy. Đồng tử của ngư�
 
 Trong lúc họ hàng và các đoàn khách từ xóm Trại bắt đầu lục tục xếp hàng vào thắp hương phúng viếng, không khí rạp tang trở nên ồn ào, hỗn độn bởi tiếng chào hỏi, tiếng khóc than và tiếng thì thầm to nhỏ.
 
-Lợi dụng lúc đám đông đang vây quanh bàn thờ vong, một bóng người mặc áo xô gai lẳng lặng tách khỏi hàng con cháu quỳ lạy, lách người qua khe bạt rách bước thoăn thoắt ra góc sân sau.
+Lợi dụng lúc đám đông đang vây quanh bàn thờ vong, Lan Anh lẳng lặng tách khỏi hàng con cháu quỳ lạy, lách qua khe bạt rách rảo bước thoăn thoắt ra góc sân sau.
 
-Đó là Lan Anh.
-
-Khanh đứng ngay cạnh hiên tây, lập tức phát hiện ra cử chỉ lấm lét của cô gái trẻ. Anh không lên tiếng, lặng lẽ bước vòng qua gốc cây bưởi ngâm nước, giữ khoảng cách chừng năm sáu bước chân.
+Khanh đứng ngay cạnh hiên tây, lập tức phát hiện ra cử chỉ lấm lét ấy. Anh không lên tiếng, lặng lẽ bước vòng qua gốc cây bưởi ngâm nước, giữ khoảng cách chừng năm sáu bước chân.
 
 Góc sân sau giáp bờ ao bèo tây kê một chiếc xô tôn gỉ sét dùng làm lò đốt tiền vàng mã cho người mới mất. Ngọn lửa vàng mã đang cháy bập bùng, những tệp tiền giấy quan và vàng hoa cháy rụi bốc lên từng cuộn tro đen bay lơ lửng giữa trời nồm.
 
@@ -264,7 +262,7 @@ Lan Anh đứng nép sát vào góc bờ tường hoa rêu mốc. Cô dáo dác 
 
 Bàn tay phải của cô thò sâu vào đáy vạt áo tang, run bần bật rút ra một bọc vải vo tròn màu xanh công nhân nhăn nhúm.
 
-Lan Anh cắn chặt môi, vung tay ném phắt bọc vải thẳng vào giữa lòng chiếc xô tôn đang đỏ lửa.
+Liếc nhanh ra sau lưng một lần nữa, cô vung tay ném phắt bọc vải thẳng vào giữa lòng chiếc xô tôn đang đỏ lửa.
 
 *Xèo... xèo... tanh tách!*
 
@@ -304,9 +302,7 @@ Mùi vải cháy khét lẹt và mùi tanh của máu bị nung nóng vẫn còn
 
 Khanh bước lại gần chiếc xô tôn, đưa mắt nhìn quanh. Đám người ngoài rạp vẫn đang mải mê chia buồn với ông Cổn và Toàn. Anh cúi người, nhặt một cành ổi khô dưới đất, khẽ khều mẩu vải cháy sém đang bám đầy tàn tro đen nhánh dưới mép gạch.
 
-Mẩu vải đã nguội bớt. 
-
-Đó là một mảnh cổ áo bằng vải kaki màu xanh công nhân, rìa mép bị lửa thiêu quăn queo đen nhánh, trên thớ vải thô ráp vẫn còn loang lổ những vệt máu khô thẫm màu nâu đen bị nhiệt nung đóng bánh lại. Và ngay sát đường viền may bị giằng rách toạc, một chiếc cúc bấm bằng kim loại đúc hình ngôi sao dập nổi — loại cúc áo bảo hộ đặc trưng của đội xe tải chở cát sông Đáy mà Toàn lái thuê — vẫn còn đính chặt vào chân chỉ!
+Dưới đầu cành ổi khều nhẹ, lớp tàn tro xám đen bong ra, để lộ một mảnh cổ áo bằng vải kaki màu xanh công nhân đã cháy dở quăn queo. Trên thớ vải thô ráp vẫn còn loang lổ những vệt máu khô thẫm màu nâu đen bị nhiệt nung đóng bánh lại. Và ngay sát đường viền may rách toạc, một chiếc cúc bấm bằng kim loại đúc hình ngôi sao dập nổi — loại cúc áo bảo hộ đặc trưng của đội xe tải chở cát sông Đáy mà Toàn lái thuê — vẫn còn đính chặt vào chân chỉ!
 
 Đồng tử Khanh co thắt lại dữ dội.
 

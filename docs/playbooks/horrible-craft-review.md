@@ -69,6 +69,10 @@ Reviewer phải mổ xẻ bản thảo độc lập qua 5 cổng sau:
 - **Khẩu ngữ Bắc Bộ tự nhiên**: Lời thoại có tự nhiên, vụn vỡ, ngập ngừng, lảng tránh đúng chất người làng quê miền Bắc không?
 - **Cấm thoại kịch tuồng & Lore-dump**: Cấm nhân vật nói năng như đọc sách giáo khoa tâm linh, cấm dùng thoại để nhồi nhét lore cho độc giả.
 - **Trauma Physicality (Thể xác hóa sang chấn)**: Cảm xúc sợ hãi, bàng hoàng có được diễn tả bằng phản xạ sinh lý/vật lý cụ thể (mồ hôi chua, gót chân va vào góc bàn, khớp tay trắng bệch, cổ họng nghẹn đắng) thay vì dán nhãn trừu tượng không? NHẤN MẠNH: Nhân vật đang sốc/hoảng loạn phải bị "khóa ngôn ngữ" (nấc nghẹn, lặp từ, ngắt quãng), tuyệt đối cấm miêu tả chi tiết dị tượng rành mạch (gore) qua lời kể của họ.
+- **Thanh lọc Sáo rỗng & Gậy chống AI (Section 32 Style Bible)**:
+  - Bắt buộc gắn cờ `MAJOR` đối với bất kỳ câu chữ nào lặp lại mẫu biểu cảm sáo rỗng rẻ tiền: *"cắn chặt môi đến rỉ máu / rớm máu"*.
+  - Bắt buộc gắn cờ `MAJOR` đối với cấu trúc ngắt nhịp gậy chống lười biếng của AI: *"Đó là...", "Đó chính là...", "Đấy là..."*.
+  - Bắt buộc gắn cờ `MINOR` với các cụm từ làm yếu câu như *"dường như"*, *"bất giác"*, *"không khỏi"*.
 - **Xưng hô chuẩn mực**: Tuân thủ `author/style-bible.md` (Khanh gọi `bà Lan / mẹ anh`, `ông Hùng / bố anh`, `chị Hạnh`, người lớn tuổi dùng `ông/bà + tên`, không gọi trống không `Lan`, `Hùng`, `Thủy` trong lời dẫn).
 
 #### Cổng E: Substantiality, Pacing & Word Count

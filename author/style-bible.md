@@ -644,6 +644,29 @@ Tác giả không bao giờ được "nhét sẵn đáp án" hoặc giải thíc
   - *Hóa ra cuộn băng cát-sét tự bật nắp (Chương 5) vừa mang hơi hướng tà khí, vừa gắn chặt với cơ chế lẫy nhựa lão hóa 30 năm của linh kiện cũ!*
 - Mọi manh mối đã được rải rác công bằng ngay trước mắt họ từ đầu, nhưng sự căng thẳng và nỗi sợ đã che mờ tầm mắt. Đây chính là linh hồn làm nên giá trị đọc lại vô giá của một tác phẩm kinh dị trinh thám đỉnh cao.
 
+## 32. Danh mục Cấm: Sáo rỗng Biểu cảm & Lười biếng Ngữ pháp của AI (Prohibited AI Clichés & Structural Crutches)
+
+Kinh nghiệm vận hành cho thấy các mô hình AI (kể cả khi viết, thẩm định hay biên tập) thường có xu hướng tự động trượt vào các mẫu câu melodrama rẻ tiền và các cấu trúc ngữ pháp lười biếng. Bất kỳ văn bản bản thảo nào vi phạm các lỗi sau đều bị coi là **KHÔNG ĐẠT TIÊU CHUẨN NGHỆ THUẬT** và phải bị phẫu thuật loại bỏ ngay lập tức:
+
+### 32.1. Nghiêm cấm các Mẫu câu Melodrama Sáo rỗng (Cheap Emotional Tropes)
+- **CẤM TUYỆT ĐỐI cụm "cắn chặt môi đến rỉ máu / rớm máu"**: Đây là mẫu biểu cảm cường điệu rẻ tiền của tiểu thuyết mạng mà AI lạm dụng vô thức khi nhân vật căng thẳng, sợ hãi hoặc mang cảm giác tội lỗi. Dù Tác giả đã nhiều lần sửa xóa, AI vẫn liên tục tự động tái lập.
+  - *Thay thế bằng*: Phản xạ cơ thể học thực tế và đa dạng của người dân Bắc Bộ:
+    - Cơ hàm bạnh ra, quai hàm giật giật, hai hàm răng nghiến chặt ken két hoặc va vào nhau lập cập;
+    - Nuốt khan một ngụm nước bọt đặc quánh, cổ họng nghẹn đắng, lồng ngực thắt nghẹn như người thiếu dưỡng khí;
+    - Mười đầu ngón tay bấu chặt vào mép chiếu cói / mép bàn gỗ / vạt áo;
+    - Nét mặt đờ đẫn đông cứng, ánh mắt dại đi, sống lưng lạnh toát.
+- **CẤM TUYỆT ĐỐI các cụm từ làm yếu câu (Weak Hedges & Filler Clichés)**:
+  - *"Dường như"*, *"dường như có một..."*: Làm loãng không khí kinh dị trực diện. Thay vì viết *"Cái đầu dường như đang nhúc nhích"*, hãy viết thẳng: *"Cái đầu từ từ nhúc nhích"*.
+  - *"Không khỏi"*, *"bất giác"*: Thói quen kể lể vụng về giải thích tâm lý thay vì để hành động tự cất tiếng nói.
+
+### 32.2. Nghiêm cấm Cấu trúc "Gậy chống" Lười biếng (Lazy Expository Crutches)
+- **CẤM TUYỆT ĐỐI mô thức ngắt nhịp "Đó là...", "Đó chính là...", "Đấy là..."**:
+  - Mô thức AI lười biếng thường gặp: Câu trước vẽ ra một bóng người hoặc sự vật lờ mờ, câu sau thả một đoản văn cộc lốc: *"Một bóng người bước ra. Đó là Lan Anh."* hoặc *"Chiếc áo rơi xuống. Đó là chiếc áo của Toàn."*
+  - Đây là cách viết cơ học, làm đứt gãy dòng chảy giác quan và xúc cảm của người đọc.
+  - *Quy tắc thay thế*:
+    - Hòa quyện nhân vật vào chính hành động: *"Lan Anh lẳng lặng tách khỏi hàng con cháu quỳ lạy, rảo bước thoăn thoắt ra góc sân sau."*
+    - Để giác quan và hành vi khám phá tự dẫn dắt: *"Dưới đầu cành ổi khều nhẹ, lớp tàn tro bong ra, để lộ một mảnh cổ áo xanh công nhân đã cháy dở quăn queo..."*
+
 ## Final test before approving prose
 
 Ask:
@@ -661,3 +684,4 @@ Ask:
 11. **Does the scene employ psychological trapping / retroactive taboo dread to create an inescapable, claustrophobic hook for the reader?**
 12. **Is the scare free of cheap jumpscares and theatrical phantoms? Does every uncanny detail carry a dual-layer logic (horror emotion + fair-play detective clue)?**
 13. **Does the scene preserve high re-read value, ensuring the reader will appreciate its foreshadowing upon rereading?**
+14. **Is the prose completely purged of cheap AI melodrama clichés ("cắn môi rỉ máu", "dường như") and lazy structural crutches ("đó là", "đó chính là", "đấy là")?**

@@ -130,7 +130,7 @@ Bà Lan khựng lại. Bà liếc nhìn sang Khanh, thấy con trai khẽ lắc 
 
 "Chị hỏi cái gì lạ thế? Anh em vừa nằm xuống, em đang rối hết cả ruột gan... Mùng mười em đi làm thông ca trên này, xưởng may ở đây quản lý chặt như nêm, sáng chiều đều bấm vân tay chấm công, em về quê làm cái gì! Tự dưng chị gọi hỏi ngày mùng mười là sao?"
 
-Bà Lan cắn môi, nhìn màn hình máy tính rồi dằn từng tiếng:
+Bà Lan nín thở một nhịp, mắt dán chặt vào màn hình máy tính rồi dằn từng tiếng:
 
 "Thế cô có biết... có ai tên là Thoa... sáng mùng mười đến tiệm chị đặt làm cái đài giấy ghi tên anh Cường không?"
 

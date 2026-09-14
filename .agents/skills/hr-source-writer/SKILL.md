@@ -25,6 +25,7 @@ Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` và `author/style-
    - Viết dưới góc nhìn **Limited 3rd POV độc nhất qua Khanh**. Cấm tuyệt đối Head-hopping (không tả suy nghĩ nội tâm người khác).
    - **Pure Show-Don't-Tell**: Khử sạch các nhãn cảm xúc trừu tượng ("sợ hãi", "chột dạ", "bàng hoàng"); thay bằng phản xạ thể xác (gót chân vấp chân ghế, khớp tay trắng bệch, mồ hôi chua, nuốt khan).
    - **Anti-B-Movie Gore & Trauma Realism**: Khi viết nhân vật đối diện với cái chết hoặc sự kiện kinh hoàng, phải dùng cơ chế bóp nghẹt ngôn ngữ (nói lắp, bỏ lửng, nấc nghẹn). KHÔNG ĐƯỢC để nhân vật tả rành mạch chi tiết máu me/rùng rợn. Giữ chi tiết kinh dị cho góc nhìn trực tiếp của POV.
+   - **Tuyệt đối cấm Sáo rỗng & Gậy chống AI (Section 32 Style Bible)**: CẤM TUYỆT ĐỐI cụm "cắn chặt môi đến rỉ máu / rớm máu" (thay bằng cơ hàm bạnh ra, nghiến răng, nuốt khan, bấu chặt mép chiếu/bàn); CẤM mô thức ngắt nhịp gậy chống lười biếng "Đó là...", "Đó chính là...", "Đấy là..." (hòa quyện nhân vật vào hành động); CẤM các từ làm yếu câu ("dường như", "bất giác", "không khỏi").
    - **Khẩu ngữ Bắc Bộ đời thường**: Lời thoại người thôn quê phải tự nhiên, vụn vỡ, ngập ngừng, lảng tránh. Cấm thoại kịch tuồng, cấm thoại thuyết trình bách khoa toàn thư tâm linh.
    - **Tuân thủ triệt để Information Lock**: Không để nhân vật hoặc narrator nói hớ bất kỳ tình tiết tương lai nào đã bị khóa.
 

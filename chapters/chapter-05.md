@@ -1,4 +1,4 @@
-﻿# Chương 05: Đêm áp Rằm
+# Chương 05: Đêm áp Rằm
 
 Bóng tối nhờ nhờ đặc quánh như một khối bùn ứ đọng trong căn buồng phía sau nhà tang.
 
@@ -56,7 +56,7 @@ Một tiếng quát the thé cất lên xé toạc bầu không khí câm lặng
 
 Toàn xông vào. Khuôn mặt gã đàn ông ba mươi tuổi tái dại đi dưới ánh sáng nhờ nhờ của bóng đèn quả nhót đỏ au thắp trên bàn thờ vong gian ngoài. Gã mặc bộ đồ tang bằng vải xô thô ráp, chiếc khăn xô trên đầu xộc xệch quấn vội, hai bàn tay run bần bật liên tục vò nát một vỏ bao thuốc lá Thăng Long rỗng.
 
-Theo sát phía sau Toàn là Lan Anh. Cô gái trẻ nép hẳn vào sau lưng chồng, hai vai so lại cắn chặt môi dưới, đôi mắt mở to dáo dác nhìn quanh bốn góc buồng.
+Theo sát phía sau Toàn là Lan Anh. Cô gái trẻ nép hẳn vào sau lưng chồng, hai vai so lại, đôi mắt mở to dáo dác nhìn quanh bốn góc buồng như sợ có thứ gì đang rình rập.
 
 "Cô gào thét cái gì thế?!" Toàn sấn lại mép giường, hạ giọng rít qua kẽ răng, cơ hàm gã giật giật, hơi thở phì phò gấp gáp: "Ngoài kia họ hàng làng xóm đang ngồi chật rạp tang, các ông các bác đang bàn chuyện nhập quan sáng mai... Cô rú lên đòi đốt đài, bảo bố cháu về đòi bắt cả cô đi, cô định để cả cái làng này người ta đồn ầm lên là nhà mình dính trùng tang à?"
 
@@ -264,7 +264,7 @@ Khanh rùng mình. Anh nhận ra: Sau tiếng *RẮC!* khủng khiếp ấy, kh�
 
 Cả căn buồng chết lặng.
 
-Toàn ngã quỵ xuống cạnh chân giường, hai bàn tay ôm chặt lấy mặt run bần bật, nước mắt chảy tràn qua kẽ ngón tay. Lan Anh cắn môi đến rỉ máu, hai mắt dại đi. Bà Lan đứng chôn chân, những hạt bồ đề trên tay rơi lả tả xuống nền gạch kêu lách tách.
+Toàn ngã quỵ xuống cạnh chân giường, hai bàn tay ôm chặt lấy mặt run bần bật, nước mắt chảy tràn qua kẽ ngón tay. Lan Anh bấu chặt mười đầu ngón tay vào mép chiếu cói, hai mắt dại đi. Bà Lan đứng chôn chân, những hạt bồ đề trên tay rơi lả tả xuống nền gạch kêu lách tách.
 
 Khanh đứng sững giữa buồng, hai bàn tay buông thõng lạnh ngắt. Sống lưng anh buốt rát như có tảng đá đè nặng.
 
