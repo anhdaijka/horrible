@@ -1,20 +1,20 @@
 ---
 name: "Case Zero — Đơn hàng cho người chưa chết"
 type: subplot
-status: planned
+status: active
 characters:
   - nguyen-minh-khanh
   - tran-thi-lan
   - vu-thi-thuy
-  - dinh-cong-toan
+  - vu-van-toan
   - vu-van-cuong
-  - ba-mui
+  - vu-thi-thoa
+  - vu-con
   - lan-anh
-  - thay-binh
-  - truong-ho-con
+  - dang-van-binh
   - dao-van-sang
-  - ba-lua
   - dang-viet-long
+  - le-van-thang
 themes:
   - buried-family-truth
   - loyalty-as-a-trap
@@ -25,50 +25,176 @@ acts: []
 
 # Case Zero — Đơn hàng cho người chưa chết
 
+> Canon reconciliation status: aligned to **DIR-01–DIR-04** and accepted author decisions through **D-059**. If this file conflicts with a newer direct author instruction or `author/directives/`, the higher source wins.
+
 ## Core Hook
 
-A woman places an ordinary-looking votive-paper order for a named man. At the time of sale, the shop has no reason to discuss whether that man is alive or dead; goods of this kind are naturally understood as intended for the dead. Several days later, the man dies unexpectedly.
+A woman places an ordinary-looking personalized votive-paper order for a named man. Several days later, the man dies unexpectedly. Only after the death does the earlier administrative record become frightening: the same man's custom order was placed **before he died**.
 
-Only then does an earlier administrative detail become frightening: the same man's name is already in the shop's custom-order record, dated **before he died**. 
+The mùng 10 purchaser uses her left hand and identifies herself with the name `Vũ Thị Thoa`. Reader-facing investigation must initially preserve the possibility that Thoa is a living woman connected to the Vũ family; her 1996 death and supernatural status are protected by the D-054 / DIR-01 firewall.
 
-The purchaser used her left hand and the name of a sibling who died 30 years ago (Thoa).
+## Objective Author Truth
 
-## Stable Mystery Contract (D-050 Master Model)
+### 1. Historical crime — 1996 (D-056 / DIR-02)
 
-- **The Historical Crime (1996) & The Fourth Accomplice:** Vũ Thị Thoa died from accidental manslaughter during an explosive dowry/forced marriage dispute (struck by Cường, she slipped and hit her head on a stone boulder by the lotus pond). Mistaking her for faking, Cường and Ông Cổn abandoned her; Thủy discovered her dead hours later. Trưởng họ Vũ Cổn (The Patriarch) ruthlessly ordered the cover-up: concealing the body in the mud, erasing Thoa from the genealogy, and dumping 30 years of wedding debt onto Thủy. Thoa's Czech radio recorded the fatal fight, Cường buried it in the mud pinned by a 30-year heterodox bamboo talisman.
-- **The 2026 Triggers:** Excavators arrive to fill the pond for a road project. The 30-year talisman rots. Thoa's spirit awakens to seek retribution before the radio is paved over forever.
-- **The Mundane Trap (Thế chân vạc 3 Nghi phạm & Các tác nhân phụ):**
-  1. **Thủy:** Working night shift at Yên Phong on the night of the 13th (D-058). Terrified that her prior ghost-tape intimidation drove Cường to a fatal fall, she clings to her factory clock-in alibi. She is consumed by desperate anxiety to destroy Cường's smartphone trapped behind the police tape on the 2nd-floor landing before police search it, but is thwarted at the 7th step by Cường's ghost (D-059, DIR-04).
-  2. **Toàn (Loyalty Trap):** Violently scuffled with Cường at 22:35–22:45 demanding the land deed, leaving claw marks on his neck and tearing his work shirt before shoving Cường to the floor and leaving to smoke. Returning at 23:05 to find Cường dead, he believes his shove was fatal. His wife (Lan Anh) conceals his neck scratches and burns the torn bloody shirt in the funeral fire (D-057, D-058, DIR-04).
-  3. **Thầy Bình:** Met secretly with Cường earlier (knowing about the rotting talisman). He gives police a fake alibi to hide his occult agenda.
-  4. **Đào Văn Sang (Cò đất):** An opportunist who intentionally stokes conflict between Toàn and Thủy to force a cheap land sale. He doesn't know about the murder, but his manipulation adds a dense layer of human greed and misdirection.
-- **Police Cover-up:** Police (officer Đặng Việt Long) investigate the strange noises and rule the death a "burglary gone wrong / accidental fall." Long seals the 2nd-floor stairs with police tape to preserve the scene, inadvertently trapping Cường's smartphone on the landing. The Patriarch forces the family to accept this and bury Cường immediately without an autopsy to hide the 1996 history.
-- **Dual Reality Resolution:** Khanh's IT logic (cell towers, Zalo logs, audio filtering) dismantles the human lies (Thủy's alibi, Toàn's scuffle cover-up). However, this human explanation violently shatters against undeniable supernatural mechanics (the neck snapped in mid-air at 22:54:32, tape hiss from offline phones).
+- Vũ Thị Thoa, born 1974, is 22 in 1996.
+- The Vũ family needs money for eldest son Cường's wedding. A wealthy suitor wants Thoa and offers a large bride price; Cổn pressures Thoa to accept the marriage so the family can finance Cường's wedding.
+- Thoa refuses. During the violent dispute beside the lotus pond, Cường strikes/shoves her. She falls backward, hits the back of her head on a pond-side/submerged stone and becomes unconscious.
+- Cường and Cổn mistake her stillness for `ngất ăn vạ` and leave her there. Later that night Thủy finds Thoa dead from the head injury/blood loss and pleads for a proper funeral.
+- Cổn orders the death concealed to protect Cường and clan reputation. Cường submits and helps hide the body in the pond mud; Thủy is coerced into silence. Thoa's name is erased from the genealogy and the family spreads the story that she fled with a lover.
+- Thoa's Czech cassette radio was on `REC`, capturing the family dispute, fatal fall, later discovery and cover-up order.
+- Khanh's grandfather refuses involvement in the later spiritual request (`Không nhận lễ`). The Vũ family turns to an outside heterodox specialist; the radio is buried in connection with a green-bamboo water-binding talisman. Do not attribute the binding to Khanh's grandfather.
+- After the suitor cancels the proposed marriage, Cổn liquidates/pawns assets to preserve Cường's wedding and forces the long repayment burden onto 19-year-old Thủy, who spends decades as a garment worker.
 
-## 16-20 Chapter Slow-Burn Act Structure
+### 2. Thirty-year trigger — 2026
 
-### Act I: The Anomaly & The Midnight Terror (Chapters 1–5)
-- **Chapter 1: Đơn hàng đoạt mệnh (Sáng 14 tháng Giêng):** Lan Anh đến tiệm vàng mã mua đồ khâm liệm cho ông Cường (chết đột ngột đêm 13 do ngã cầu thang). Phát hiện đơn hàng chiếc đài cassette giấy bồi đặt từ sáng mùng 10 khi Cường còn sống khỏe mạnh. Lan Anh hoảng loạn bỏ chạy vì gia đình không ai tên Thoa. Dị tượng sương lạnh và bản phác thảo 13 bậc thang.
-- **Chapter 2: Bàn tay trái (CCTV Lookback mùng 10):** Khanh trích xuất CCTV Dahua sáng mùng 10. Người phụ nữ vóc dáng cô Thủy nhưng viết vẽ thuần thục bằng tay trái; ánh nhìn 4 giây nhìn trừng trừng vào camera. Cuộc gọi đến bến xe Yên Phong xác nhận Thủy có alibi chấm công, tay trái bị tật khoèo không thể vẽ viết, và tiếng thét hoảng loạn khi nghe tên Thoa.
-- **Chapter 3: Rạp tang xóm Trại (Chiều 14):** Khanh sang viếng đám tang để giải tỏa taboo đồ đoạt mệnh. Quan sát thương tích cổ gãy vặn ngược gần 180 độ. Đối mặt cô Thủy thật với cánh tay trái teo quắp (đập tan giả thuyết người sống). Thủ tục pháp lý: Trưởng họ Vũ Cổn và Lan Anh làm đơn cam kết từ chối mổ tử thi để kịp giờ hoàng đạo nhập quan; Công an Long bàn giao thi thể nhưng ngầm nghi vấn (Decision 05 A).
-- **Chapter 4: Băng từ rỗng (Sẩm tối 14):** Bà Lan nghe bà cụ 84 tuổi ở quán nước chè kể vụ án năm 1996: Vũ Thị Thoa thuận tay trái, chết đuối bí ẩn ở đầm sen, bị gia tộc xóa tên, chiếc đài Tiệp biến mất. Chiếc đài giấy tại tiệm tự phát tiếng xèo xèo sợi băng từ rỗng và nắp bật mở (*TÁCH!*). Cô Thủy gọi điện thất thanh báo có thứ cào cửa sổ buồng ngủ.
-- **Chapter 5: Đêm áp Rằm (19:30 tối 14):** Khanh và mẹ vào buồng ngủ xóm Trại. Vệt bùn đầm sen hình bàn tay trái trên bậu cửa sổ. Giải mã tin nhắn Zalo 38 giây gửi lúc 22:54 đêm 13 kẹt hàng đợi offline vừa được Wi-Fi đẩy về máy Thủy: tiếng đài Tiệp, tiếng bước chân ướt lết, tiếng cào móng tay, và tiếng xương cổ Cường gãy *RẮC!*. Chiếc túi nilon bọc đài giấy phồng lên sột soạt.
+- Road-widening / pond-side development makes the land extremely valuable and threatens to disturb the buried evidence.
+- The heterodox bamboo binding has decayed after roughly three decades as an **author-universe supernatural mechanism**, not a verified universal folk rule.
+- Cường attempts to cut Thủy out of the valuable land despite her decades of repayment labor.
+- Thủy launches a human intimidation/extortion campaign from mùng 8 through noon of the 13th: anonymous threats, ghost-audio material and defaced family imagery designed to weaponize Cường's guilt about Thoa.
 
-### Act II: The Breather & The Community Memory (Chapters 6–10)
-- **The Breather:** The funeral ends. Khanh works remotely from his hometown. No immediate detective work; mundane life resumes (interactions with his mom Bà Lan and neighbors).
-- **Embedded Ghost Story (1-2 Chương phụ):** A neighbor (Bà cụ 84 tuổi) whose family is preparing for a death anniversary ("đồ giỗ") buys goods at the shop. She casually tells the cover story of 1996: "Vũ Thị Thoa bỏ nhà theo trai, bị gạch tên khỏi gia phả". But she adds a chilling oral-horror layer: "Đêm đó mưa nồm, tao nghe tiếng thét ở đầm sen... người ta bảo nó bỏ đi, tao thì nghi nó nằm dưới bùn." This introduces the "cọc tre" (bamboo stake) clue.
-- **The Administrative Investigation (Tàng thư CMND):** Khanh and Công an Long investigate the name "Vũ Thị Thoa". They discover she has no death certificate and no chip-based ID. Her old 9-digit CMND photo from the paper archives shows she physically resembles the woman on the CCTV. Legally, she is ALIVE. The theory shifts entirely to "Living Thoa returning for revenge".
+### 3. Night of the 13th — locked forensic chronology (D-057 / D-058 / DIR-04)
 
-### Act III: The Unraveling of the Alibi Web (Chapters 11–15)
-- **The Networked Investigation:** Khanh provides his CCTV finding to Công an Long. Long officially investigates the Yên Phong factory and busts Thủy's fake alibi. Mai (the logistics friend) relays the underworld gossip exposing Toàn's gangster debt and Sang's manipulation, while also uncovering that Toàn secretly discovered his aunt Thoa's existence (and Cường's guilt) by reading Cường's diary, catching his drunken slips, and secretly asking maternal relatives. This knowledge fueled Toàn's contempt and became his moral justification for the violent confrontation demanding the land deed (D-057, DIR-04).
-- **The Red Herring Thief:** Police arrest a left-handed female serial thief lurking around xóm Trại who looks suspiciously like Thủy/Thoa. Khanh and Long bring her in for ID, assuming she is the woman on the CCTV. 
-- **The Climax of Human Logic:** During interrogation, the thief proves she has an airtight alibi for the morning of mùng 10 and her handwriting completely mismatches the 13-step sketch. The "Living Thoa / Hired Thief" theory violently shatters. Human logic is exhausted. Toàn and Thủy are cornered for their respective crimes (violent scuffle/evidence destruction, extortion/attempting to destroy Cường's phone), leaving only the impossible, terrifying supernatural truth.
+- **22:35–22:45:** Toàn confronts Cường at the foot of the stairs over the lotus-pond land deed. Cường scratches Toàn's neck and tears his work shirt. Toàn shoves Cường down/away, then leaves to smoke in his sand-truck cabin roughly 200m away.
+- **22:45–22:53:** Cường is alone. Hearing tape-like mechanical hiss and wet footsteps upstairs, he assumes Thủy is continuing her intimidation scheme.
+- **22:54:00–22:54:38:** Cường starts a Zalo voice message to Thủy while moving toward the stairs. At **22:54:32**, a genuine supernatural entity connected to Thoa breaks Cường's neck backwards in mid-air before the body lands.
+- **23:05–23:10:** Toàn returns, finds Cường dead and falsely concludes that his earlier shove killed his father.
+- There is **no Diazepam, sleeping pill or chemical sedative plot**.
 
-### Act IV: The Collapse of Logic & Cosmic Retribution (Chapters 16-20)
-- **The Supernatural Intrusion:** Thủy sees pond mud in her factory; Toàn hears cassette static from an offline phone.
-- **The Collapse:** Khanh analyzes the forensic audio and realizes Cường's neck broke *in mid-air* before hitting the stairs.
-- **The Excavation:** Racing against the bulldozers, they dig up the rotting 30-year bamboo talisman and the real cassette tape. Thoa's spirit manifests, targeting Thủy, Cường, and the Patriarch. Khanh finds his grandfather's ledger: `Không nhận lễ`.
+### 4. Thủy's true location and information silo (D-058)
+
+- Thủy is physically on the Yên Phong night shift on the 13th and has a genuine biometric clock-in trail. She is not present at xóm Trại when Cường dies.
+- Toàn knows nothing about Thủy's intimidation/extortion campaign.
+- Thủy knows nothing about Toàn's 22:35–22:45 scuffle.
+- Both independently believe their own wrongdoing may have caused Cường's death. They do not coordinate a shared false story.
+
+### 5. Lan Anh's Loyalty Trap (D-057 / DIR-04)
+
+- Toàn's neck carries Cường's fresh nail scratches and his work shirt is torn/blood-stained.
+- Believing Toàn may have killed his father, Lan Anh hides the neck injuries with mourning cloth and later destroys the torn work shirt in the funeral/votive fire.
+- A surviving charred fabric/button clue can connect the destruction to Toàn. This is a human evidence-cover-up, not evidence that Toàn actually caused the supernatural killing.
+
+### 6. Cường's trapped smartphone (D-059 / DIR-04)
+
+- At the supernatural attack, Cường's smartphone flies into a recess around the second-floor stair landing and remains offline.
+- The staircase/upper scene is preserved/sealed on the morning of the 14th, leaving the phone trapped inside the restricted area.
+- The device contains Thủy's prior extortion/threat material, giving her an urgent real-world motive to retrieve/destroy it.
+- At dusk on the 14th, Thủy attempts to pass the seal, reaches roughly the seventh step, encounters Cường-haunting phenomena and retreats in terror.
+- At 19:30 the household Wi-Fi reconnects, allowing the queued 22:54 voice message to reach Thủy's device under the current story mechanism. Exact app/network behavior remains a technical verification gate before close-up procedural claims.
+
+## Supernatural / Reader-Knowledge Architecture
+
+### Cường is the early domestic haunting (D-054 / D-055 / DIR-01)
+
+Cường's actual supernatural death does **not** mean the early haunting is presented as Thoa. During the early Case Zero movement, the direct household/wake horror centers on the newly dead Cường: footsteps, scraping, apparition-like encounters, and the fear that he has returned to `bắt người đi theo`.
+
+The household and village frame this through **Trùng tang**. That framing is a character/community belief and major red herring, not narrator-certified universal metaphysical law.
+
+### Thoa-dead firewall
+
+Before the later Act 3 reveal:
+
+- narrator and characters must not establish that Thoa died in 1996;
+- Thoa must not be named as the ghost haunting the household;
+- historical testimony may establish disappearance, family conflict, erasure from genealogy, the `bỏ theo trai` cover story and the missing Czech radio;
+- administrative evidence may support the hypothesis that Thoa is legally/officially still a missing living person;
+- the woman on CCTV remains a living-suspect problem until human explanations are exhausted.
+
+Objective author truth remains that Thoa died in 1996 and is the supernatural executioner of Cường; reader-facing knowledge must earn that reveal later.
+
+## Human Suspect / Red-Herring Network
+
+### Thủy
+
+Human wrongdoing: extortion/intimidation over the land and attempted destruction of digital evidence. Her night-13 Yên Phong alibi is **real**, not fake. Her left-hand deformity also prevents her from being the fluid left-handed mùng 10 purchaser as shown by the CCTV clue architecture.
+
+### Toàn
+
+Human wrongdoing: violent scuffle with Cường, concealment of scratches/torn shirt through Lan Anh, debt pressure and land motive. He believes he caused the fatal fall but did not cause the supernatural neck break.
+
+### Lan Anh
+
+Human wrongdoing: evidence concealment driven by loyalty to her husband. She is not independently established as part of Thủy's extortion campaign.
+
+### Vũ Cổn
+
+Historical wrongdoing: mastermind of the 1996 concealment and decades of patriarchal coercion. In the early haunting he publicly suppresses ghost/Trùng-tang talk and only later breaks after his own encounter with Cường's spirit.
+
+### Thầy Bình
+
+Connected to the heterodox-binding history through the outside specialist's lineage/apprenticeship. His exact ritual actions, terminology and procedural role must remain inside verified cultural/research boundaries; he is not an infallible lore database.
+
+### Đào Văn Sang
+
+A land broker/speculator exploiting debt and family conflict around the road project. He adds mundane greed and leverage but does not know the supernatural/historical truth by default.
+
+### Left-handed female thief (D-053)
+
+A living left-handed woman resembling the family becomes a strong human red herring around the CCTV identity problem. Her later alibi/handwriting mismatch eliminates that explanation and tightens the impossible-purchaser mystery.
+
+## Current Canonized Opening — Chapters 1–5
+
+The precise prose is authoritative only in the manuscript files; this arc records durable information order.
+
+### Chapter 1 — `Đơn hàng đoạt mệnh`
+
+The advance-order anomaly is established after Cường's death. The horror question is that a personalized order associated with him predates his unexpected death. No 1996 death reveal is allowed.
+
+### Chapter 2 — `Bàn tay trái`
+
+CCTV lookback establishes the mùng 10 purchaser and the left-handed impossibility. Thoa remains a person-name/identity question, not a confirmed dead woman.
+
+### Chapter 3 — `Rạp tang xóm Trại`
+
+Funeral-space dread escalates; Cường's grotesque neck trauma, the preserved staircase scene, Thủy's real physical left-hand deformity, rational denial and the first Cường-centered haunting pressure become materially important.
+
+### Chapter 4 — `Băng từ rỗng`
+
+Historical oral testimony preserves the **cover story**, not the truth: Thoa disappeared after a severe family conflict, was erased from family memory/genealogy, was rumored to have fled with a lover, and her Czech radio vanished. The chapter must not establish that she died. Cường/Trùng-tang fear intensifies while the paper radio behaves impossibly.
+
+### Chapter 5 — `Đêm áp Rằm`
+
+The trapped 22:54 voice-message mechanism, Cường-haunting pressure and physical/audio evidence make an ordinary staircase accident increasingly untenable. The identity of the entity that actually killed Cường remains locked.
+
+## Planned Slow-Burn Progression (16–20 chapter working scale)
+
+Chapter count is scaffolding rather than a quota. The following is a reveal architecture, not permission to override approved manuscripts.
+
+### Act I — Anomaly / funeral dread / Cường haunting
+
+Chapters 1–5 establish the impossible advance order, purchaser identity problem, physical death anomaly and Trùng-tang smoke screen while keeping Thoa's death hidden.
+
+### Act II — Human guilt and community memory
+
+- Toàn/Lan Anh's scuffle-evidence cover-up becomes visible through fair physical clues.
+- Thủy's extortion campaign and urgent smartphone-destruction motive become increasingly investigable.
+- Cổn's denial begins to fracture; Bình's ritual connection becomes suspicious without turning him into an exposition machine.
+- Community/oral testimony deepens the 1996 disappearance cover story without certifying Thoa's death.
+- Administrative identity investigation may strengthen the `living Thoa` hypothesis if procedurally verified.
+
+### Act III — Exhaustion of living explanations
+
+- Police/Khanh test the human suspect web.
+- **Thủy's night-13 alibi is confirmed rather than busted.** Investigation instead exposes her extortion and attempted evidence destruction.
+- Toàn's independent scuffle and Lan Anh's concealment are reconstructed.
+- The left-handed thief / impersonator hypothesis is tested and eliminated by genuine alibi/handwriting mismatch.
+- Human wrongdoing becomes clearer while still failing to explain the 22:54 supernatural mechanics.
+- The firewall around Thoa's true death can finally break at the author-approved reveal point.
+
+### Act IV — Collapse of the mundane model / buried truth
+
+- Forensic/audio sequencing confirms that the fatal neck break precedes impact.
+- The pond-development deadline forces excavation/recovery of the buried radio/talisman evidence.
+- The cassette recording exposes the 1996 forced-marriage conflict, accidental manslaughter and Cổn/Cường cover-up.
+- The supernatural executioner identity can be revealed as Thoa according to D-054/D-056/D-058.
+- Khanh eventually encounters grandfather's refusal record: `Không nhận lễ`.
+- Resolution should expose human responsibility without over-explaining the universe's cosmology.
 
 ## Horror Contract
 
-The horror grows through **recontextualization** and **inattentional blindness**. By making the reader hyper-focus on solving the human conspiracy (Who staged the fall? Who scratched Toàn's neck and burned the work shirt? Who sent the death threats?), the narrative hides the terrifying, impossible supernatural truth in plain sight until it is too late to deny.
+- Horror first; mystery deepens horror rather than sterilizing it.
+- Early domestic supernatural pressure belongs to Cường's newly dead spirit and the community's Trùng-tang interpretation.
+- The deeper Thoa truth is protected by information order, not denied at author level.
+- Human red herrings must be genuinely causal and morally consequential even when they do not explain the supernatural killing.
+- Recontextualization and retroactive dread should make earlier clues more disturbing on reread.
+- Real funeral, police, identity-database, networking/app and ritual claims remain subject to their respective verification gates.
