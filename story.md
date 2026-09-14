@@ -10,7 +10,7 @@ themes:
   - truth-and-uncertainty
   - responsibility-for-knowing
   - family-and-unfinished-things
-pov: third-person-limited
+pov: third-person-limited-primary
 tense: present
 ---
 
@@ -38,6 +38,7 @@ Khanh is neither a ghost hunter nor a chosen medium. He checks ordinary causes b
 - Khanh remains a working software engineer without a confirmed chosen-one role or combat power system.
 - Grandfather is a gateway into history and local spiritual experience, not the final answer to the universe.
 - Oral ghost stories told by ordinary people are a core narrative channel and may frighten the reader before Khanh can verify anything.
+- Primary narrative mode is close third-person around Khanh. Under **DIR-03**, deliberately designed cinematic-objective off-POV scenes are allowed when Khanh cannot plausibly witness an event; these interludes may not expose private thoughts or future answers.
 
 ## Volume 1
 
