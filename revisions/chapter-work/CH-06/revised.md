@@ -80,9 +80,9 @@ Cơ hàm Toàn bạnh ra, hai quai hàm giật liên hồi, tròng mắt đỏ n
 
 "Đốt... Đem ra lò mà đốt ngay đi... Đừng... đừng để ai nhìn thấy... Tao lạy mày... Đốt sạch đi..."
 
-Lồng ngực Lan Anh thắt nghẹn lại. Cô không chần chừ nửa giây, giật phắt chiếc khăn tang bằng vải xô trắng trên đầu mình xuống, quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô xơ xác trùm lên tận cằm để che lấp hoàn toàn những vệt xước rướm máu. Xong xuôi, cô nhét bọc vải rách vào sâu dưới vạt áo tang, gật đầu một cái dứt khoát trong câm lặng rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
+Lồng ngực Lan Anh thắt nghẹn lại. Cô không chần chừ nửa giây, giật phắt chiếc khăn tang bằng vải xô trắng trên đầu mình xuống, quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô xơ xác trùm lên tận cằm. Xong xuôi, cô nhét bọc vải rách vào sâu dưới vạt áo tang, gật đầu một cái dứt khoát trong câm lặng rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
 
-Ngoài ngõ xóm Trại, tiếng gậy mun bịt bạc của ông Vũ Cổn bắt đầu nện *cộp... cộp...* dằn dữ dội trên nền ngõ gạch ướt sương, xé toạc màn đêm tang tóc.
+Ngoài ngõ xóm Trại, tiếng gậy mun bịt bạc của ông Vũ Cổn bắt đầu nện *cộp... cộp...* dằn dữ dội trên nền ngõ gạch ướt sương.
 
 ***
 
@@ -124,23 +124,23 @@ Khanh nhíu mày, đưa xấp tiền vàng cho Thắng:
 
 "Dị nghị cái nỗi gì!" Thắng kéo giật tay áo Khanh, giọng cậu ta run lên bần bật một cách bất thường, cơ hàm bạnh ra giật giật: "Tao nói thật với mày... đêm qua tao ngủ lại rạp tang canh áo quan... ghê răng lắm mày ơi. Không có mày sang, tao không dám đứng gần cái cỗ ván ấy đâu!"
 
-Sống lưng Khanh chợt lạnh toát. Anh nhìn thẳng vào tròng mắt đỏ lừ của bạn:
+Anh nhìn thẳng vào tròng mắt đỏ lừ của bạn:
 
-"Mày lại thần hồn nát thần tính cái gì thế?"
+"Từ bao giờ mà mày lại thần hồn nát thần tính thế?"
 
-"Thần hồn cái con khỉ mốc!" Thắng rít qua kẽ răng, hai hàm răng va vào nhau lập cập phát ra tiếng va chạm khe khẽ: "Lúc hai giờ sáng... cả rạp tang ngủ thiếp đi vì mệt... Tao nằm trên chiếc chiếu trải cạnh chân phản đá... Tao thề với mày, tao nghe tiếng móng tay cào *kèn kẹt... kèn kẹt...* ngay từ bên dưới tấm ván gỗ lim của cái phản đặt xác! Tao mở mắt choàng dậy nhìn... Tấm chăn thêu chữ Vạn phủ trên người ông Cường... nó phập phồng, phập phồng như người đang thở dốc ấy mày ạ! Tao sợ quá lay thằng Toàn dậy, nhưng mặt thằng Toàn lúc ấy cắt không còn một giọt máu, nó cứ ôm đầu lảm nhảm bảo 'bố về bắt người đi rồi'... Loạn hết cả lên!"
+"Thần hồn cái con khỉ mốc!" Thắng rít qua kẽ răng: "Lúc hai giờ sáng... cả rạp tang ngủ thiếp đi vì mệt... Tao nằm trên chiếc chiếu trải cạnh chân phản đá... Tao thề với mày, tao nghe tiếng móng tay cào *kèn kẹt... kèn kẹt...* ngay từ bên dưới tấm ván gỗ lim của cái phản đặt xác! Tao mở mắt choàng dậy nhìn... Tấm chăn phủ trên người ông Cường... nó phập phồng, phập phồng như người đang thở dốc ấy mày ạ! Tao sợ quá lay thằng Toàn dậy, nhưng mặt thằng Toàn lúc ấy cắt không còn một giọt máu, nó cứ ôm đầu lảm nhảm bảo 'bố về bắt người đi rồi'... Loạn hết cả lên!"
 
-Khanh chết sững.
+Sống lưng Khanh chợt lạnh toát.
 
 "Thế... bác Cổn đâu?" Khanh nuốt khan, hỏi dồn.
 
-"Bác Cổn dậy nện gậy chửi ầm lên, bảo chuột cống rúc gầm giường chứ ma quỷ gì, rồi đuổi hết mấy đứa bọn tao ra ngoài rạp ngồi hút thuốc lào." Thắng rùng mình, quệt mũi: "Nhưng mà tao thấy bác ấy cũng run rẩy lắm, tay cầm gậy mun cứ lập bập. Thôi, mẹ mày trông tiệm được rồi, mày sang với tao đi. Thầy Bình đến làm lễ rồi, sắp đưa xác vào áo quan gỗ dổi rồi!"
+"Bác Cổn dậy nện gậy chửi ầm lên, bảo chuột cống rúc gầm giường chứ ma quỷ gì, rồi đuổi hết mấy đứa bọn tao ra ngoài rạp ngồi hút thuốc lào." Thắng run rẩy quệt mũi: "Nhưng mà tao thấy bác ấy cũng run rẩy lắm, tay cầm gậy mun cứ lập bập. Thôi, mẹ mày trông tiệm được rồi, mày sang với tao đi. Thầy Bình đến làm lễ rồi, sắp đưa xác vào áo quan gỗ dổi rồi!"
 
 Bà Lan đứng bên cạnh nghe loáng thoáng, mặt bà cũng tái đi. Bà vội vàng dúi vào túi áo khoác gió của Khanh một nhánh tỏi khô và một gói nhỏ bọc giấy báo:
 
 "Con cầm lấy nhánh tỏi nhét vào túi quần! Với cầm gói chè mạn này sang thắp hương cho người ta... Sang bên ấy đi đứng cẩn thận nghe con, việc tang ma chớ có tò mò soi mói!"
 
-Khanh khẽ gật đầu. Anh với lấy chiếc túi đeo chéo đựng chiếc điện thoại cài file ghi âm, bước theo Thắng ra chiếc xe Wave mận chín đang nổ máy chờ sẵn ngoài rìa chợ.
+Khanh khẽ gật đầu. Anh với lấy chiếc túi đeo chéo đựng chiếc điện thoại, bước theo Thắng ra chiếc xe Wave mận chín đang nổ máy chờ sẵn ngoài rìa chợ.
 
 ***
 
@@ -152,7 +152,7 @@ Khi Khanh và Thắng bước qua lớp rơm rải chống trơn vào đến sâ
 
 Ngay chính giữa gian ngoài, cỗ áo quan bằng gỗ dổi đỏ sẫm, bóng loáng vân gỗ thịt dày đến cả tấc đã được khiêng đặt ngay ngắn trên hai chiếc mễ gỗ lim. Nắp áo quan đang được đặt chếch sang một bên, để lộ lòng quan tài sâu hoắm, lót kín những lớp giấy bản trắng tinh và hoa nhài khô thơm hắc.
 
-Bên cạnh tấm phản đá, Thầy cúng Đặng Văn Bình đang đứng chỉ đạo lễ mộc dục.
+Bên cạnh tấm phản đá, ông thầy cúng mà Thắng gọi là thầy Bình đang đứng chỉ đạo lễ mộc dục.
 
 Thầy Bình chừng năm mươi tám tuổi, vóc người gầy gò, dong dỏng cao, mặc chiếc áo the thâm thụng thịnh cài cúc đồng đã xỉn màu, đầu đội chiếc khăn xếp đen cũ kỹ. Khuôn mặt thầy sắt lại, đôi mắt hẹp dài đảo liên hồi quanh bốn góc nhà, chốc chốc lại đưa bàn tay có những đầu ngón tay vàng khè vì khói thuốc lào lên vuốt chòm râu cằm lưa thưa.
 
@@ -164,7 +164,7 @@ Thầy Bình chừng năm mươi tám tuổi, vóc người gầy gò, dong dỏ
 
 Toàn lảo đảo bước tới mép phản, hai mắt đỏ ngầu dại đi, hai ống tay áo xô xắn cao để lộ đôi cẳng tay run lẩy bẩy. Cùng với hai người đàn ông trung niên trong họ Vũ, Toàn cúi người nhấc tấm chăn thêu chữ Vạn ra khỏi thi thể người cha.
 
-Không khí xung quanh cỗ phản bỗng chốc buốt nhức đến tận tủy xương.
+Không khí xung quanh cỗ phản bỗng chốc buốt nhức.
 
 Thi thể ông Cường nằm ngửa trên lớp vải bạt, làn da xám ngoét nổi những nốt vân tím tái vì ngâm nước đá hai ngày đêm. Vết rách sâu hoắm sau gáy nơi đốt sống cổ thứ ba bị dập nát đã đóng lại thành một khối máu đông đen sẫm, làm cái đầu ông ta ngoẹo gập hẳn sang một bên vai phải một góc một trăm tám mươi độ quái đản, cằm chạm hẳn vào xương quai xanh.
 
@@ -174,7 +174,7 @@ Hai người đàn ông đưa những bàn tay thô ráp xoa rượu gừng lên
 
 Khanh đứng nép bên cột nhà cách đó ba bước chân, nín thở theo dõi từng cử động.
 
-Đốt sống cổ của người chết bên trong đã dập nát hoàn toàn. Khi bàn tay người đàn ông vừa đẩy cái đầu về vị trí chính diện, thớ thịt mềm nhũn phát ra tiếng *lạo xạo* kinh rợn như sỏi nghiền dưới bùn. 
+Vết dập ở đốt sống cổ bên trong đã dập nát hoàn toàn. Khi bàn tay người đàn ông vừa đẩy cái đầu về vị trí chính diện, thớ thịt mềm nhũn phát ra tiếng *lạo xạo* kinh rợn. 
 
 "Được rồi đấy... giữ chặt..." Người đàn ông thở phào một hơi, từ từ rút hai bàn tay dính đầy nước rượu gừng ra để người kia lấy gối bông chèn vào hai bên mang tai.
 
@@ -182,17 +182,15 @@ Nhưng đúng khoảnh khắc những ngón tay người sống vừa buông kh�
 
 Cái đầu của ông Cường bỗng từ từ cử động.
 
-Không có ai chạm vào. Không có lực tác động.
-
-Cái đầu người chết chầm chậm, chầm chậm trĩu xuống về phía vai phải, như thể bên trong hộp sọ chứa một quả tạ chì vô hình. Nó xoay ngoặt lại từng tấc một, da thịt vùng cổ vặn xoắn kêu lên những tiếng *rột roẹt* rợn gáy, cho đến khi trẹo hẳn sang một góc một trăm tám mươi độ y hệt như lúc ban đầu! 
+Nó chầm chậm, chầm chậm trĩu xuống về phía vai phải, như thể bên trong hộp sọ chứa một quả tạ chì vô hình. Nó xoay ngoặt lại từng tấc một, da thịt vùng cổ vặn xoắn kêu lên những tiếng *rột roẹt*, cho đến khi trẹo hẳn sang một góc một trăm tám mươi độ y hệt như lúc ban đầu! 
 
 Hai khóe mắt người chết bỗng hé mở một khe hẹp, tròng mắt đục ngầu trắng dã như đang trừng trừng khoét sâu vào mặt người vừa nắn cổ.
 
 "Ối giời đất ơi!..."
 
-Người đàn ông ban khánh tiết giật bắn người, rụt phắt hai tay lại như chạm phải thanh sắt nung đỏ, lảo đảo lùi ngửa ra sau va sầm vào thành cỗ áo quan gỗ dổi, mặt cắt không còn một giọt máu.
+Người đàn ông ban khánh tiết giật bắn người, rụt phắt hai tay lại, lảo đảo lùi ngửa ra sau va sầm vào thành cỗ áo quan gỗ dổi, mặt cắt không còn một giọt máu.
 
-Cả gian nhà ngang rơi vào một khoảng lặng chết chóc. Mấy người phụ nữ đứng ngoài cửa buồng ngủ bưng mặt nấc nghẹn.
+Mấy người phụ nữ đứng ngoài cửa buồng ngủ bưng mặt nấc nghẹn.
 
 "Làm cái trò gì thế hả?!" 
 
@@ -210,25 +208,23 @@ Bốn thanh niên lực lưỡng xốc nách, nâng thi thể bọc vải trắn
 
 Tấm nắp ván gỗ lim dày cộp được tám bàn tay cùng nhau khênh lên, từ từ trượt vào mộng gỗ đánh *kịch* một tiếng khô khốc, nặng nề. 
 
-Mọi thứ diễn ra nhanh chóng, đàng hoàng và trật tự dưới uy quyền sắt đá của Trưởng tộc họ Vũ. Không có bùa chú đỏ. Không có đinh sắt mười phân. Không có tiếng gào thét "trùng tang" nào được phép cất lên. Bề ngoài, nghi lễ nhập quan diễn ra trật tự, đúng khuôn phép làng quê của một gia đình nề nếp.
+Nghi lễ nhập quan diễn ra nhanh chóng, đàng hoàng và trật tự dưới uy quyền sắt đá của Trưởng tộc họ Vũ.
 
 Thầy Bình bước lên trước bàn linh, rung chuông tụng bài kinh tiếp linh rền rĩ:
 
 *“Nam mô A Di Đà Phật... Tiếp dẫn linh hồn phục hồi bản vị...”*
 
-Sau tiếng chuông lệnh, tiếng kèn hiếu rộ lên đinh tai nhức óc. Đội hiếu bắt đầu làm lễ Thành phục (phát tang).
+Tiếng kèn hiếu rộ lên đinh tai nhức óc. Đội hiếu bắt đầu làm lễ Thành phục.
 
-Toàn, Lan Anh và cô Thủy (được hai người họ hàng dìu từ trong buồng ra) quỳ rạp xuống manh chiếu cói trải trước linh cữu. Chiếc khăn tang bằng vải xô trắng thô ráp được phát cho từng người, tiếng gậy tang nện xuống sàn gạch hòa lẫn tiếng khóc hờ thảm thiết của con dâu và em gái xé lòng người nghe.
+Toàn, Lan Anh và cô Thủy, được hai người họ hàng dìu từ trong buồng ra, quỳ rạp xuống manh chiếu cói trải trước linh cữu. Chiếc khăn tang bằng vải xô trắng thô ráp được phát cho từng người, tiếng gậy tang nện xuống sàn gạch hòa lẫn tiếng khóc hờ thảm thiết của con dâu và em gái xé lòng người nghe.
 
-Theo tục lệ, Thầy Bình bưng một chiếc khay đồng đặt lên chính giữa nắp cỗ áo quan gỗ dổi: một bát cơm úp đầy có cắm đôi đũa tre vót nhọn, bên trên đặt một quả trứng gà luộc chín còn ấm.
+Thầy Bình bưng một chiếc khay đồng đặt lên chính giữa nắp cỗ áo quan gỗ dổi: một bát cơm úp đầy có cắm đôi đũa tre vót nhọn, bên trên đặt một quả trứng gà luộc chín còn ấm.
 
 Khói nhang bài cắm quanh bát cơm bốc lên nghi ngút, cuộn tròn thành từng dải trắng đục.
 
-Nhưng Khanh — đang đứng nép bên cạnh khung cửa sổ gian ngoài — bỗng nhận ra một điểm bất thường kỳ dị.
+Nhưng khói hương bài dày đặc bốc lên từ bốn góc linh cữu không hề bay thẳng lên mái bạt rạp tang.
 
-Những làn khói hương bài dày đặc bốc lên từ bốn góc linh cữu... không hề bay thẳng lên mái bạt rạp tang.
-
-Chúng bị một luồng khí lạnh vô hình hút ngược xuống. Những dải khói trắng mỏng manh uốn lượn chầm chậm, xoáy tròn quanh chân bát cơm úp đặt trên nắp áo quan, tụ lại thành một vòng xoáy nhỏ lạnh ngắt, đặc quánh như một búi sương mù thu nhỏ.
+Chúng bị một luồng khí lạnh vô hình hút ngược xuống. Những dải khói trắng mỏng manh uốn lượn chầm chậm, xoáy tròn quanh chân bát cơm úp đặt trên nắp áo quan, tụ lại thành một vòng xoáy nhỏ lạnh ngắt, đặc quánh.
 
 Và ngay trên đầu đôi đũa tre vót nhọn...
 
@@ -236,39 +232,31 @@ Quả trứng gà luộc bỗng khẽ nhúc nhích.
 
 Nó lăn nhẹ sang một bên nửa vòng đánh *cạch* một tiếng cực nhỏ trên mặt cơm trắng.
 
-Dưới đáy vỏ trứng gà màu vàng nhạt, một vệt nứt ngoằn ngoèo màu xám đen bỗng chốc hiện rõ, như thể có một luồng nhiệt âm hàn từ bên trong thớ gỗ áo quan vừa rỉ ra, thiêu đốt vỏ trứng từ phía dưới!
+Dưới đáy vỏ trứng gà màu vàng nhạt, một vệt nứt ngoằn ngoèo màu xám đen bỗng chốc hiện rõ.
 
-Khanh nheo mắt lại, tim anh đập thịch một tiếng. Anh liếc nhanh sang phía Thầy cúng Bình.
+Khanh nheo mắt. Anh liếc nhanh sang phía Thầy Bình.
 
-Thầy Bình cũng vừa nhìn thấy vết nứt ấy. Đồng tử của người thầy cúng co rút lại thành hai chấm nhỏ, bàn tay cầm dùi gõ mõ khựng lại giữa không trung suốt hai giây, môi mấp máy run rẩy một câu kinh không thành tiếng, rồi vội vã quay ngoắt người về phía bàn thờ tổ tiên, không dám nhìn lại cỗ áo quan thêm một lần nào nữa.
+Thầy Bình cũng vừa nhìn thấy vết nứt ấy. Đồng tử co rút thành chấm nhỏ, bàn tay cầm dùi gõ mõ khựng lại, môi run rẩy một câu kinh không thành tiếng, rồi vội vã quay ngoắt về phía bàn thờ tổ tiên, không dám nhìn lại cỗ áo quan thêm một lần nào nữa.
 
 ***
 
-Trong lúc họ hàng và các đoàn khách từ xóm Trại bắt đầu lục tục xếp hàng vào thắp hương phúng viếng, không khí rạp tang trở nên ồn ào, hỗn độn bởi tiếng chào hỏi, tiếng khóc than và tiếng thì thầm to nhỏ.
+Trong lúc họ hàng lục tục xếp hàng vào thắp hương, không khí rạp tang trở nên ồn ào và ngột ngạt. Mùi khói hương bài quẩn quanh với hơi người nồng nặc khiến đầu óc Khanh có phần bức bối. Anh lách qua mé bạt rách bên hiên, bước ra khoảng sân sau giáp bờ ao bèo tây cho thoáng gió.
 
-Lợi dụng lúc đám đông đang vây quanh bàn thờ vong, Lan Anh lẳng lặng tách khỏi hàng con cháu quỳ lạy, lách qua khe bạt rách rảo bước thoăn thoắt ra góc sân sau.
+Phía góc sân sau, dưới bóng cây bưởi, có một chiếc xô tôn gỉ sét kê trên mấy viên gạch xỉ dùng làm lò hóa vàng mã. Ngọn lửa bên trong vẫn đang bập bùng, những tệp tiền giấy quan và vàng hoa cháy rụi bốc lên từng cuộn tro đen bay lơ lửng giữa trời nồm.
 
-Khanh đứng ngay cạnh hiên tây, lập tức phát hiện ra cử chỉ lấm lét ấy. Anh không lên tiếng, lặng lẽ bước vòng qua gốc cây bưởi ngâm nước, giữ khoảng cách chừng năm sáu bước chân.
+Lan Anh đang đứng nép sát vào bờ tường hoa rêu mốc cạnh đó, ngực phập phồng nghẹn thở. Bàn tay phải của cô thò sâu vào vạt áo tang, run rẩy rút ra một bọc vải màu xanh công nhân nhăn nhúm.
 
-Góc sân sau giáp bờ ao bèo tây kê một chiếc xô tôn gỉ sét dùng làm lò đốt tiền vàng mã cho người mới mất. Ngọn lửa vàng mã đang cháy bập bùng, những tệp tiền giấy quan và vàng hoa cháy rụi bốc lên từng cuộn tro đen bay lơ lửng giữa trời nồm.
-
-Lan Anh đứng nép sát vào góc bờ tường hoa rêu mốc. Cô dáo dác đưa mắt nhìn quanh quất, ngực phập phồng nghẹn thở. 
-
-Bàn tay phải của cô thò sâu vào đáy vạt áo tang, run bần bật rút ra một bọc vải vo tròn màu xanh công nhân nhăn nhúm.
-
-Liếc nhanh ra sau lưng một lần nữa, cô vung tay ném phắt bọc vải thẳng vào giữa lòng chiếc xô tôn đang đỏ lửa.
+Liếc nhanh ra sau lưng, cô vung tay ném phắt bọc vải thẳng vào giữa lòng chiếc xô tôn đang đỏ lửa.
 
 *Xèo... xèo... tanh tách!*
 
-Nhiệt độ nóng rực của than củi lập tức bắt vào thớ vải kaki pha nilon. Một luồng khói xám đặc quánh cuộn tròn bốc lên nghi ngút, tỏa ra một thứ mùi vải cháy khét lẹt lợm giọng hòa lẫn mùi tanh nồng nặc của máu khô bị nhiệt thiêu đốt, xộc thẳng vào không khí át hẳn mùi khói giấy tiền vàng bạc thông thường.
+Nhiệt than lập tức bắt vào thớ vải kaki pha nilon. Một luồng khói xám đặc quánh cuộn tròn bốc lên nghi ngút, tỏa ra thứ mùi vải cháy khét lẹt hòa lẫn mùi khen khét khó chịu xộc thẳng vào không khí, át hẳn mùi khói giấy tiền vàng bạc thông thường.
 
-Lan Anh thở hắt ra một hơi như vừa trút được một quả bom nổ chậm trên lưng. Cô vội vã đưa hai bàn tay quẹt vội vào vạt áo tang, toan quay người bước nhanh về gian nhà trên.
+Lan Anh thở hắt ra một hơi như vừa trút được gánh nặng. Cô vội vã đưa hai bàn tay quẹt vào vạt áo tang, toan quay người bước nhanh về gian nhà trên.
 
-Nhưng đúng lúc ấy, một cơn gió quẩn lạnh buốt từ mé đầm sen phía sau nhà thình lình thốc mạnh vào góc sân!
+Đúng lúc ấy, một cơn gió lạnh thình lình thốc mạnh vào góc sân!
 
-Cơn gió xoáy tròn dưới đáy xô tôn, cuốn tung đám tàn tro đen nhánh và than hồng bay mù mịt lên không trung.
-
-*Vù!*
+Cơn gió xoáy tròn dưới đáy xô tôn, cuốn tung đám than hồng và tàn tro đen nhánh bay mù mịt lên không trung.
 
 Một mẩu vải cổ áo cháy dở quăn queo, thay vì chìm xuống lớp tro tàn, lại bị luồng gió xoáy hất tung ra khỏi miệng xô!
 
@@ -276,37 +264,37 @@ Mẩu vải còn đỏ lửa ấy văng ngược trở lại, rơi *bép* một 
 
 "Á!" 
 
-Lan Anh giật nảy mình kêu khẽ một tiếng, rụt chân lại vì đốm than nóng rát cắn vào da thịt. 
+Lan Anh giật nảy mình kêu ré lên một tiếng, rụt chân lại vì đốm than nóng rát cắn vào da thịt. Mặc kệ cái nóng rát, cô hốt hoảng ngồi thụp xuống, run rẩy vươn tay định chộp lấy mẩu vải cháy sém để ném lại vào lửa.
 
-Mặc kệ cái nóng rát, Lan Anh cuống cuồng ngồi thụp xuống, run rẩy vươn tay định chộp lấy mẩu vải cháy sém để ném lại vào lửa.
+Nghe tiếng kêu thất thanh ngay sau lùm bưởi, Khanh theo phản xạ bước nhanh tới:
 
-Nhưng khi vừa ngẩng đầu lên...
+"Có sao không thím?"
 
-Ánh mắt kinh hoàng của Lan Anh chạm thẳng vào đôi mắt sắc lạnh, tĩnh lặng như mặt nước hồ mùa đông của Nguyễn Minh Khanh.
+Anh vừa bước ra toan cúi xuống xem vết bỏng trên mu bàn chân cô thì Lan Anh thình lình ngẩng phắt mặt lên.
 
-Khanh đang đứng sừng sững dưới tán cây bưởi, hai tay đút trong túi áo khoác gió, ánh mắt chiếu thẳng xuống mẩu vải đang bốc khói dưới chân cô.
+Bốn mắt chạm nhau trong gang tấc.
 
-Lan Anh chết lặng. 
+Khuôn mặt cô gái trẻ lập tức cắt không còn giọt máu. Hai môi cô run bắn lên bần bật, tròng mắt mở to hết cỡ nhìn Khanh như nhìn thấy một bóng ma giữa ban ngày. Lan Anh hoảng sợ đến mức rụt phắt tay lại, không dám nhặt mẩu vải nữa. Cô lảo đảo lùi lại hai bước, vấp phải bậc gạch men suýt ngã ngửa, rồi chẳng kịp nói lấy nửa lời, cúi gằm mặt thục mạng chen vào đám đông rạp tang, biến mất sau những tấm bạt dứa.
 
-Khuôn mặt cô gái trẻ trong tích tắc tái dại đi như người vừa bị móc hết ruột gan. Hai môi cô run bắn lên bần bật, tròng mắt mở to hết cỡ nhìn Khanh như nhìn thấy một bóng ma giữa ban ngày. Cô không dám nhặt mẩu vải nữa, lảo đảo lùi lại hai bước, vấp phải bậc gạch men suýt ngã ngửa, rồi cúi gằm mặt thục mạng chen vào đám đông rạp tang, biến mất sau những tấm bạt dứa rách mép.
+Khanh khựng người lại, ngơ ngác nhìn theo bóng lưng Lan Anh khuất sau tấm bạt.
 
-Khanh đứng bất động suốt mấy giây.
+Anh chỉ buột miệng hỏi thăm vì thấy người ta bị tàn lửa văng trúng chân, cớ sao cô lại khiếp đảm đến mức bạt vía kinh hồn như thế?
 
-Mùi vải cháy khét lẹt và mùi tanh của máu bị nung nóng vẫn còn lảng vảng ngột ngạt quanh chóp mũi anh. 
+Mùi vải cháy khét nồng lẫn mùi tanh lợm khó chịu vẫn còn lảng vảng ngột ngạt quanh chóp mũi anh. 
 
-Khanh bước lại gần chiếc xô tôn, đưa mắt nhìn quanh. Đám người ngoài rạp vẫn đang mải mê chia buồn với ông Cổn và Toàn. Anh cúi người, nhặt một cành ổi khô dưới đất, khẽ khều mẩu vải cháy sém đang bám đầy tàn tro đen nhánh dưới mép gạch.
+Khanh đưa mắt nhìn xuống mép gạch men sát chiếc xô tôn. Mẩu vải cháy dở mà Lan Anh vừa toan chộp lấy vẫn đang bốc lên một sợi khói mỏng bám đầy tàn tro đen nhánh. 
 
-Dưới đầu cành ổi khều nhẹ, lớp tàn tro xám đen bong ra, để lộ một mảnh cổ áo bằng vải kaki màu xanh công nhân đã cháy dở quăn queo. Trên thớ vải thô ráp vẫn còn loang lổ những vệt máu khô thẫm màu nâu đen bị nhiệt nung đóng bánh lại. Và ngay sát đường viền may rách toạc, một chiếc cúc bấm bằng kim loại đúc hình ngôi sao dập nổi — loại cúc áo bảo hộ đặc trưng của đội xe tải chở cát sông Đáy mà Toàn lái thuê — vẫn còn đính chặt vào chân chỉ!
+Thái độ hoảng loạn quá mức của người thím họ khiến Khanh không khỏi lấn cấn. Anh cúi người, nhặt một cành ổi khô dưới đất, khẽ khều mẩu vải ra xem.
 
-Đồng tử Khanh co thắt lại dữ dội.
+Dưới đầu cành ổi khều nhẹ, lớp tàn tro xám đen bong ra, để lộ một mảnh cổ áo bằng vải kaki màu xanh công nhân đã cháy dở quăn queo, mép vải rách tưa lơ thơ. Trên thớ vải thô ráp còn loang lổ những vệt cáu màu nâu sẫm đã bị nhiệt nung đóng bánh lại. Và ngay sát đường viền may rách toạc, một chiếc cúc bấm bằng kim loại đúc hình ngôi sao dập nổi — loại cúc áo bảo hộ đặc trưng của đội xe tải chở cát sông Đáy mà Toàn lái thuê — vẫn còn đính chặt vào chân chỉ.
 
-Chiếc áo bảo hộ bị giằng xé rách nát vấy máu...
+Khanh nhìn mẩu vải cháy sém dưới đầu cành cây, thoáng nhíu mày. 
 
-Một mảnh ghép trinh thám rúng động thình lình bật nảy trong tâm trí anh: Tại sao con dâu trưởng lại phải lén lút tiêu hủy một chiếc áo rách dính máu trong đám tang của bố chồng? Khanh nhớ lại hình ảnh Toàn ban nãy ở gian giữa: giữa buổi trưa nồm ẩm oi nồng, ai nấy đều xắn tay áo mồ hôi đầm đìa, chỉ riêng Toàn lại quấn chiếc khăn tang xô gai dày cộp kín mít quanh cổ lên tận cằm như để che giấu một thứ gì đó bên dưới!
+Đốt vàng mã cho người chết là tiền vàng, quần áo giấy. Sao Lan Anh lại lén lút mang một mảnh áo bảo hộ lao động rách nát vấy bẩn ra thiêu hủy ở góc lò sau sân? Và vẻ mặt hoảng sợ như phạm tội tày đình vừa rồi của cô là vì cớ gì?
 
-Đêm 13... trước khi cú ngã cầu thang xảy ra, đã có một cuộc xô xát, giằng co kịch liệt bằng móng tay và máu thịt giữa hai con người trong căn nhà này!
+Chưa kịp nghĩ thêm thì ngoài rạp tang, tiếng người ồn ào giục giã chuẩn bị cho lễ di quan đã rộ lên.
 
-Khanh rút chiếc khăn mùi soa trong túi ra, cẩn thận bọc mẩu vải dính chiếc cúc kim loại lại rồi nhét sâu vào túi quần bò, quay bước trở lại rạp tang.
+Khanh rút chiếc khăn mùi soa trong túi ra, cẩn thận bọc mẩu vải dính chiếc cúc kim loại lại rồi nhét sâu vào túi quần, rảo bước trở lại rạp.
 
 ***
 
