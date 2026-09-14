@@ -1,7 +1,7 @@
 ---
 type: continuity-state
 story: horrible
-current-chapter: 5
+current-chapter: 6
 character-state: []
 object-state: []
 knowledge-state: []
@@ -32,6 +32,14 @@ knowledge-state: []
   - Khanh phát hiện vệt bùn bàn tay trái trên bậu cửa sổ gỗ xoan cao 2,5m phía đầm sen.
   - Điện thoại cô Thủy nhận tin nhắn thoại Zalo 38 giây kẹt từ 22:54 đêm 13. Ghi âm chứa sự câm lặng của kẻ đột nhập, tiếng cào/băng cassette và tiếng gãy cổ *RẮC!* trước tiếng cơ thể rơi/va sau đó.
   - Reader-facing conclusion at this stage: Cường did not simply die from the staircase impact. The identity of the supernatural executioner remains locked by D-054/DIR-01.
+- `chapters/chapter-06.md`: Giờ Hoàng Đạo (Canonized)
+  - Sáng 15 Giêng (Rằm tháng Giêng):
+    - Cảnh 1 (Off-POV): 05:00 sáng, gian nhà ngang xóm Trại. Toàn kinh hoàng trước thi thể ông Cường trên phản lim; dị tượng đá ướp xác tan chảy ngưng rỏ nước, âm thanh khò khè và thi thể co giật nghẹo đầu. Lan Anh phát hiện Toàn hoảng loạn, cào cấu cổ Toàn trong đêm 13 bị lộ; Lan Anh giục Toàn quấn khăn tang gai che kín cổ và nhận nhiệm vụ đem chiếc áo bảo hộ rách vấy máu đi tiêu hủy (Loyalty Trap). Móng tay ông Cường không còn lưu dấu da/DNA của Toàn (D-060: bàn tay tâm linh can thiệp xóa dấu vết).
+    - Cảnh 2 (Khanh POV): Chợ Rằm Chợ Bến nhộn nhịp đối lập tang ma. Thắng ghé tiệm vàng mã kể lại chuyện đêm canh quan: tiếng cào cấu sột soạt trong quan tài, sự bất an của làng xóm về Trùng tang.
+    - Cảnh 3: Lễ khâm liệm và nhập quan tại xóm Trại dưới sự chỉ huy của ông Cổn và Thầy Bình. Dị tượng bát cơm quả trứng nứt vỏ rạn đen, khói hương bài xoáy ngược hút xuống nắp quan tài; Thầy Bình hoảng hốt né tránh nhìn cỗ áo quan.
+    - Lan Anh lén đốt áo bảo hộ ở xô hóa vàng sau vườn; gió xoáy hất mẩu cổ áo cháy dở vào chân Lan Anh gây bỏng ré lên. Khanh bước tới định giúp ("Có sao không thím?"), Lan Anh có tật giật mình kinh hoàng bỏ chạy. Khanh phát hiện mẩu vải kaki xanh công nhân dính vệt cáu màu sẫm và chiếc cúc bấm ngôi sao của đội xe tải chở cát sông Đáy; âm thầm cất giữ tang chứng.
+    - Cảnh 4: Di quan lúc 10:30 trưa. Dị tượng đòn khiêng nặng trĩu đè nghiến vai 8 thanh niên xóm Trại; ông Cổn dùng uy quyền quát tháo trấn áp. Toàn đi giật lùi trước quan tài, ánh mắt dại dại dán chặt lên nắp ván. Đào Văn Sang (cò đất) đứng rình rập ở đầu ngõ bám theo đoàn tang.
+    - Cảnh 5: Hạ huyệt lúc 11:30 trưa tại nghĩa địa ven đầm sen. Đám tang vật lý kết thúc. Khanh đứng bên bờ đầm sen, cảm nhận chiếc cúc kim loại buốt nhức trong túi quần bò. Kết thúc Act I, chuyển sang Act II.
 
 ## Objective Case Zero locks that outrank inference from the chapters
 
@@ -41,6 +49,7 @@ knowledge-state: []
 - **D-058:** Thoa's genuine supernatural entity kills Cường at 22:54:32 by breaking his neck in mid-air before impact.
 - **D-054 / DIR-01:** Early domestic haunting is Cường's newly dead spirit. Thoa's death/ghost status and executioner identity remain behind the reader-facing firewall until the later reveal.
 - **D-059 / DIR-04:** Cường's smartphone remains trapped in the sealed second-floor landing area; Thủy's attempt to destroy it is blocked by supernatural Cường-haunting, and the 19:30 Wi-Fi reconnect releases the queued 22:54 message.
+- **D-060 / DIR-04:** Supernatural erasure of fingernail tissue/scratches on Cường's corpse; Toàn's panic remains as he remembers the scuffle, unaware of the erasure.
 
 ## Epistemic / cultural guard
 
@@ -50,5 +59,5 @@ knowledge-state: []
 
 ## Current handoff
 
-- Current canonized manuscript endpoint: Chapter 5.
-- Chapter 6 revised draft remains pending author approval; do not canonize its draft-only details before the author gate passes.
+- Current canonized manuscript endpoint: Chapter 6 (`chapters/chapter-06.md`).
+- Chapter 7 is next: planned as `Gốc gạo bờ đầm` (preflight `/hr-preflight 7`).

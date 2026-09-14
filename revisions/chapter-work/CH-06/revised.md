@@ -1,5 +1,5 @@
 > REVISED DRAFT — Horrible Chapter 06
-> Trạng thái: REVISED DRAFT (Chờ Tác giả duyệt — AUTHOR GATE: PENDING)
+> Trạng thái: CANONIZED (Đã được Tác giả duyệt vào canon chính — AUTHOR GATE: APPROVED)
 > POV: Cảnh 1 Off-POV Điện ảnh (Fly-on-the-wall); Cảnh 2–5 Limited 3rd POV (Nguyễn Minh Khanh)
 
 # Chương 06: Giờ Hoàng Đạo

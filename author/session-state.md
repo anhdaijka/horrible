@@ -24,9 +24,9 @@ Generated consolidation/index files never outrank the sources above.
 
 ## Current manuscript state
 
-- Chapters **1–5 are author-approved and canonized**.
-- `continuity/state.md` uses `current-chapter: 5`.
-- Chapter 6 exists in the revision workflow and remains **AUTHOR GATE: PENDING**; it is not canonized into `chapters/` yet.
+- Chapters **1–6 are author-approved and canonized**.
+- `continuity/state.md` uses `current-chapter: 6`.
+- Active manuscript prose for Chapter 6 is canonized in `chapters/chapter-06.md`.
 - Do not infer canon status from older opening-reset notes or rejected historical ChatGPT drafts.
 
 ### Historical reset note
@@ -118,9 +118,8 @@ Do not canonize revision-work prose into `chapters/` until the author gate is ex
 
 ## Current next action
 
-1. Chapter 6 revised draft is pending author approval.
-2. If approved, canonize it into `chapters/chapter-06.md`, update continuity/registries, then preflight Chapter 7.
-3. If rejected, revise or discard it without modifying higher-level canon unless the author explicitly changes canon.
+1. Chapter 6 is author-approved and canonized in `chapters/chapter-06.md`.
+2. Next action: Preflight Chapter 7 (`/hr-preflight 7` — *Gốc gạo bờ đầm*).
 
 ## Verification gates still open
 
