@@ -1,8 +1,14 @@
 # Case Zero Cultural Audit v2 — `Đơn hàng cho người chưa chết`
 
-Status: research-grounded adaptation note. Research evidence, **not Story Skills canon**.
+Status: research-grounded adaptation note. Research evidence, **not story canon**.
 
-Purpose: preserve real votive-shop logic while preventing cultural facts from leaking the story's later reveal.
+Purpose: preserve real votive-shop logic while preventing cultural facts from leaking or overriding the story's reveal structure.
+
+## Authority warning
+
+This file answers **what is culturally/commercially plausible**. It does not unlock, retcon or supersede names, identities, chapter reveals or supernatural truth already fixed by `author/`, `continuity/`, `plot/` or approved manuscripts.
+
+The earlier opening-reset era treated several story variables as unlocked. That reset status is historical; current Case Zero canon must be read from the higher-priority sources.
 
 ## Author domain correction — real-world trade fact
 
@@ -12,26 +18,20 @@ The author has direct family experience selling votive-paper goods and clarified
 
 This is an important **real-world plausibility fact**.
 
-It does **not** mean the original order scene must tell characters or readers that the recipient is alive.
+It does **not** mean an order scene must announce whether the recipient is alive or dead.
 
-## Story-order correction — now binding
+## Narrative-use principle
 
-The rejected Chapter 2 prototype misused the real-world fact by letting Khanh consciously understand that the goods were being ordered in advance for a living man. That forced premature explanation.
+A culturally plausible natural hypothesis may be introduced only when the characters have reason to consider it. Research should not leak a later story question early merely because the explanation exists in real life.
 
-Correct narrative order:
+For an advance-order mystery, one plausible reasoning chain is:
 
-1. a woman places an ordinary personalized male votive-paper order;
-2. the shop naturally treats the intended recipient as deceased unless the customer gives a reason to think otherwise;
-3. nobody asks `ông ấy còn sống à?` merely to set up the plot;
-4. several days later the named recipient dies unexpectedly;
-5. only then does comparison with the earlier order date reveal that he had still been alive when the order was placed;
-6. **only now** may the family/shop produce the ordinary explanation: perhaps relatives knew he was seriously ill and prepared early;
-7. later social evidence shows he had appeared healthy / active and his household did not expect death;
-8. that is what damages the advance-preparation explanation.
+1. a personalized order exists;
+2. later evidence establishes that the named recipient was still alive when it was placed;
+3. only then may characters consider ordinary advance preparation for serious illness/decline;
+4. social/medical evidence can strengthen or weaken that hypothesis.
 
-Therefore:
-
-> The research fact `advance purchase can be normal` is a **later natural hypothesis**, not exposition for the original purchase scene.
+The exact order in which the current manuscript presents these facts is controlled by active canon and approved prose, not by this research note.
 
 ## External research: goods associated with living people are not inherently impossible
 
@@ -48,7 +48,7 @@ Do not claim `hàng mã + người sống = impossible supernatural rule`.
 
 But do not import these other living-person practices into Case Zero unless specifically needed and researched for that scene.
 
-## Culturally plausible elements that may survive redesign
+## Culturally plausible elements
 
 ### Custom personalized goods
 
@@ -62,17 +62,17 @@ Sources:
 - radio example: https://soha.vn/xa-hoi/ram-thang-7-dich-vu-chuyen-tien-xuong-ca-coi-am-20140808044527122.htm
 - modeled-object reporting: https://vnexpress.net/biet-thu-oto-iphone-vang-ma-cung-ram-thang-7-3268443.html
 
-Treat the radio as a custom personal object, not a ritual category with automatic mystical meaning.
+Treat the radio as a custom personal object, not a real ritual category with automatic mystical meaning.
 
 ### Cash / deposit / later pickup
 
 Ordinary commerce. Exact shop behavior may be family-specific.
 
-### Three-day return request
+### Multi-day return request
 
 Possible as a customer-requested deadline.
 
-Do not claim three days is an industry-standard custom lead time.
+Do not claim a specific number of days is an industry-standard custom lead time without additional evidence.
 
 ### Victim family coming to the shop quickly after death
 
@@ -115,63 +115,48 @@ A family-specific custom-order record may distinguish:
 
 This is administrative fiction grounded in plausible shop behavior, not a national ritual standard.
 
-Exact field labels should be reviewed with author trade knowledge before prose.
+Exact field labels should be reviewed with author trade knowledge before prose if they become materially important.
 
-## Original purchase scene — corrected choreography
+## Purchase-scene cultural guardrails
 
-This is story design, not ethnographic transcript.
+These are plausibility constraints, not a mandatory scene plan:
 
-1. normal shop activity already in motion;
-2. woman asks for ordinary male paper goods;
-3. asks for a custom old-style cassette radio;
-4. shop records enough information to distinguish the custom order;
-5. purchaser identity / recipient identity may be separately recorded if author confirms the shop convention;
-6. left-hand behavior may appear incidentally;
-7. purchaser requests return/pickup in three days;
-8. shop sets the order aside.
+- normal shop activity may already be in motion;
+- ordinary male paper goods and a custom old-style cassette radio are commercially plausible story requests;
+- the shop may record enough information to distinguish a custom order;
+- purchaser and recipient identity may be separately recorded if that matches the fictional family's shop convention;
+- a customer can request a later pickup/deadline;
+- left-handed behavior can appear incidentally without being treated as a cultural fact.
 
-**Do not discuss the recipient's living status here.**
+Do not force characters to ask about the recipient's living/dead status merely to set up a future twist unless their actual context gives them a reason.
 
-The scene should read like an order for somebody already dead because that is the natural assumption available to the shop.
+## Later reasoning: where the trade fact becomes useful
 
-## Later discovery — where the trade fact becomes useful
+If/when characters establish that an order was placed while the recipient was alive, it is reasonable for them to consider advance preparation for serious illness as a natural explanation. Evidence that the person was healthy/active and the household did not expect death can then weaken that model.
 
-After the recipient dies:
-
-1. his family comes to the shop or another natural route reveals the death;
-2. name / order record is recognized;
-3. order date is compared with death date;
-4. characters realize the order was placed while he was still alive;
-5. now someone may reasonably say: perhaps the family knew he was very ill and bought ahead;
-6. family / neighborhood evidence then shows the death was unexpected and he had been living normally.
-
-This sequence preserves both:
-
-- real trade plausibility supplied by the author;
-- delayed horror revelation.
+This preserves both real trade plausibility and fair information order.
 
 ## Radio fair-play boundary
 
 The purchaser may describe a radio specifically enough for the shop/maker to reproduce it.
 
-Later the family may recognize those details as connected to old history.
+Later family/history evidence may connect those details to the old Czech radio. The paper radio by itself should not function as automatic proof of a ghost; human transmission/impersonation hypotheses may remain investigatively viable until the author-approved supernatural reveal even though objective author canon ultimately confirms the supernatural layer.
 
-Keep at least one living transmission route viable if Case Zero remains ambiguous; the radio must not automatically prove a ghost by itself.
+## Current story-variable status
 
-## Working-prototype data reset
+The following are **not unlocked by this research file**:
 
-The following old draft specifics are **unlocked**, not research conclusions:
-
-- purchaser name;
+- purchaser name/identity;
 - victim name;
 - locality/address;
 - exact physical appearance;
-- exact ordinary product list;
 - exact ledger wording;
-- exact dialogue.
+- exact dialogue;
+- information/reveal order;
+- supernatural truth.
 
-See `development/horrible/opening-reset-decisions.md`.
+Read those from current author decisions/directives, continuity, character canon, arc plan and approved manuscripts.
 
 ## Operating sentence
 
-> **Research tells us what can happen in a real shop. Story design decides when the reader and characters are allowed to learn which fact.**
+> **Research tells us what can happen in a real shop. Story canon decides what happened in this story and when the reader is allowed to learn it.**
