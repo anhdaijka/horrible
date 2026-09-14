@@ -1,6 +1,6 @@
 # Creative Constitution — Horrible
 
-> Author-approved creative constitution after the opening reset. This supersedes the earlier `normal-first / ambiguity-preferred` interpretation that produced the discarded Chapter 1–2 prototypes.
+> Author-approved creative constitution after the opening reset. This supersedes the earlier `normal-first / ambiguity-preferred` interpretation that produced discarded prototypes. Newer direct author instructions and `author/directives/` still outrank this file when they are more specific.
 
 ## Premise
 
@@ -100,7 +100,7 @@ A reliable sequence is:
 
 **promise → attachment → intrusion → resistance → escalation → consequence → residue**
 
-Not every chapter needs the full sequence, but the series should repeatedly deliver it.
+Not every chapter needs the full sequence, and the sequence is not a checklist quota. It is a diagnostic model for whether horror has movement and consequence.
 
 ### Promise
 
@@ -130,11 +130,13 @@ Somebody pays emotionally, socially, physically, morally or spiritually.
 
 The story should leave a trace after the immediate event is over.
 
-### Psychological engine: The Karmic Tripwire & Retroactive Dread
+### Psychological engine: Karmic Tripwire & Retroactive Dread
 
-Horror must not rely exclusively on external monsters. It thrives on **involuntary complicity and retroactive taboo guilt**:
-- An ordinary, clumsy, or unthinking micro-action in the present becomes retroactively poisoned when its taboo meaning is later revealed, or when a stranger delivers a chilling folk condemnation.
-- Inside Khanh's Limited 3rd POV, this ignites an unbearable clash between his modern IT rationality and deep-rooted folk anxiety, locking the reader in an epistemic cage that demands resolution.
+Involuntary complicity and retroactive taboo guilt are **available horror engines**, not mandatory architecture for every scene.
+
+An ordinary micro-action may become retroactively poisoned when a later revelation or character belief gives it taboo meaning. When this tool is used in Khanh's POV, it can create pressure between his technical rationality and inherited/local anxiety without narrator confirmation that the taboo is objectively true.
+
+Do not force a taboo transgression, physical panic checklist or rational-vs-folk debate merely because a scene is uncanny.
 
 ## Ordinary life
 
@@ -182,10 +184,10 @@ An embedded ghost story is testimony, not automatic universe law — but it is s
 
 Mystery is structural support; horror is atmospheric and thematic truth.
 
-- **Dual-layer clues:** Every uncanny detail must operate on two layers simultaneously: an unsettling emotional horror layer on first read, and a grounded fair-play clue on retrospective analysis.
-- **Anti-jumpscare mandate:** Never use arbitrary theatrical spooking (faces warping into ghastly smiles and vanishing on a blink, cheap acoustic shocks). All dread must emerge organically from physical trauma, psychological shock, ritual oppression, or subtle distortion of reality.
-- **Reader's epistemic agency:** The narrative must never spoon-feed answers. It should foster intense reader suspicion, inviting competing hypotheses (rational foul play vs supernatural vengeance) and driving them to read on to test their beliefs.
-- **High re-read value:** Revelations must not dissipate dread; they should trigger a cathartic "Ah, that's why!" where the reader realizes clues were seeded fairly chapters in advance.
+- **Dual-layer clues:** Important uncanny details that carry a later mystery payoff should work on two levels when possible: unsettling on first read and fair/recontextualizable on reread. **Not every anomaly must be a clue.** Atmosphere, character detail, procedural evidence and direct supernatural manifestation may exist without a detective payoff.
+- **Anti-jumpscare mandate:** Avoid arbitrary theatrical spooking and cheap acoustic shocks. Dread should emerge from situation, physical consequence, psychological pressure, ritual/social context or a specific distortion of reality.
+- **Reader's epistemic agency:** The narrative should not spoon-feed answers. Invite competing hypotheses where the case supports them and let readers test those hypotheses against evidence.
+- **High re-read value:** Revelations should make earlier fair clues more meaningful rather than merely explaining them away.
 - Horror first, mystery second: investigation should increase dread, not drain it.
 - A solved human mechanism does not automatically erase supernatural residue.
 - A confirmed ghost does not eliminate the need for causal discipline around human actions.
@@ -208,10 +210,11 @@ They are not automatically:
 
 ### Depicting death: eerie, grotesque, inexplicable, and shaded with folk dark humor
 
-Khi miêu tả một cái chết hay hiện trường người chết:
-- **Tuyệt đối không miêu tả nhẹ tay hay biến cái chết thành tai nạn bằng phẳng:** Không né tránh đặc tả thương tổn thể xác quái dị, ghê rợn trực diện (trẹo gãy cổ, đốt sống đâm lòi qua da, mắt trợn trừng lồi hẳn ra ngoài tròng trắng dã, móng tay bứt toác dính vôi tường...).
-- **Chi tiết ma mị & nghịch lý cơ học:** Nạn nhân như bị một sức mạnh vô hình bẻ quặt, giằng xé, kéo tuột xuống; tư thế chết phi tự nhiên; thi thể lạnh ngắt như ngâm đáy giếng; nụ cười đông cứng kỳ quặc trên khuôn mặt đẫm máu.
-- **Sắc thái bông đùa nửa thật:** Lời tếu táo đen tối, bỡn cợt cay đắng của xóm làng (ma dắt, quỷ đòi nợ) đặt cạnh sự thật đẫm máu làm bật lên nỗi khiếp đảm tột bực của truyện ma Bắc Bộ.
+When a death beat genuinely requires explicit physical consequence, the prose may describe grotesque injury directly rather than sanitizing it. Impossible body posture, mechanical wrongness, corpse temperature, blood, damaged nails or bone trauma are allowed when they serve the beat.
+
+**Gore is not a quota.** Do not stack injury detail merely to prove the novel is horror. Restraint may be more frightening when the scene's pressure comes from implication, grief, testimony or one precise impossible fact.
+
+Dark or half-joking village remarks can sit beside bodily horror when socially natural, but they must not trivialize every frightening beat.
 
 ## Emotional north star
 
