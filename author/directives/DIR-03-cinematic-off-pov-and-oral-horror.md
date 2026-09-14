@@ -3,67 +3,75 @@
 > **MÃ CHỈ THỊ**: `DIR-03`  
 > **CẤP THẨM QUYỀN**: `AUTHOR MANDATE — HIGHEST PRIORITY`  
 > **ÁP DỤNG CHO**: Toàn bộ chuỗi sáng tác Case Zero và các phần tiếp theo của Horrible (Preflight, Writer, Reviewer, Reviser).  
-> **NGÀY BAN HÀNH**: 2026-09-13 (Cập nhật trực tiếp theo chỉ đạo của Tác giả).  
-> **NGUYÊN TẮC BẢO LƯU**: Mọi Agent tham gia quy trình sáng tác BẮT BUỘC phải đọc và tuân thủ nguyên văn. Cấm tóm tắt giản lược làm mất đi tính kỷ luật của điểm nhìn.
+> **NGÀY BAN HÀNH**: 2026-09-13; canon/humanization reconciliation 2026-09-14.  
+> **NGUYÊN TẮC BẢO LƯU**: Mọi Agent tham gia quy trình sáng tác BẮT BUỘC phải giữ kỷ luật điểm nhìn của chỉ thị này. Không biến `objective off-POV` thành người kể toàn tri.
 
 ---
 
 ## 1. Bối cảnh & Lý do ban hành
 
-Trong các đợt phát triển trước, việc áp dụng máy móc quy tắc "100% Limited 3rd POV theo sát một mình Khanh" đã bộc lộ hai khuyết điểm chí mạng:
-1. **Biến Khanh thành nhân vật phi thực tế ("Thám tử Conan tọc mạch")**: Khanh chỉ là một kỹ sư IT về quê ăn Tết và làm việc từ xa. Nếu mọi biến cố, xung đột gia đình riêng tư của họ Vũ, hay những dị tượng nửa đêm đều bắt buộc phải có mặt Khanh chứng kiến tận mắt, điều đó hoàn toàn phi lý và phá vỡ tính hiện thực đời sống nông thôn.
-2. **Triệt tiêu không gian kinh dị ma quái của Hồn ma Cường**: Những dị tượng kinh hoàng nhất — vong ma ông Cường về buồng ngủ đòi mạng, bóp cổ, dọa dẫm người thân có tội (cô Thủy, Toàn, Lan Anh, ông Cổn) vào lúc 1-2 giờ sáng — diễn ra trong không gian kín của gia đình xóm Trại khi Khanh đang ngủ ở nhà mình ngoài ngã tư chợ. Nếu khóa cứng 100% POV Khanh, toàn bộ chất liệu kinh dị truyền miệng dân gian Nguyễn Ngọc Ngạn đắt giá này sẽ bị vứt bỏ.
+Trong các đợt phát triển trước, việc áp dụng máy móc quy tắc `100% Limited 3rd POV theo sát một mình Khanh` bộc lộ hai khuyết điểm:
+1. **Biến Khanh thành nhân vật phi thực tế:** Khanh chỉ là một kỹ sư IT về quê, không thể hợp lý có mặt trong mọi xung đột riêng tư, mọi đêm canh tang hay mọi hành vi phi tang của nhà họ Vũ.
+2. **Thu hẹp không gian horror:** Nhiều biến cố đáng sợ nhất xảy ra trong không gian riêng của gia đình khi Khanh không có mặt.
 
-Chỉ thị này giải phóng không gian sáng tạo, xác lập kỹ thuật **Off-POV Điện ảnh** và **Kinh dị Khẩu truyền**.
+Vì vậy *Horrible* cho phép **Off-POV Điện ảnh** và **Kinh dị Khẩu truyền**, nhưng không dùng chúng để spoon-feed lời giải cho độc giả.
 
 ---
 
 ## 2. Kỹ thuật Off-POV Điện Ảnh (Cinematic Objective / Fly-on-the-Wall)
 
-Được phép mở ra các phân cảnh **Off-POV** (không có sự xuất hiện của Khanh) để khắc họa những màn chạm trán kinh hoàng giữa hồn ma ông Cường và các thành viên gia đình, hoặc những hành vi lén lút của các nghi phạm.
+Được phép mở các phân cảnh **Off-POV** không có Khanh để cho thấy những màn chạm trán với hồn Cường, xung đột kín trong gia đình hoặc hành vi lén lút của nghi phạm.
 
-Tuy nhiên, để bảo vệ tính bí ẩn trinh thám và tránh rơi vào căn bệnh "Người kể chuyện toàn tri (Omniscient Narrator) spoon-feeding", phân cảnh Off-POV phải tuân thủ **KỶ LUẬT ỐNG KÍNH KHÁCH QUAN TUYỆT ĐỐI**:
+### 1. Máy quay khách quan
 
-### 1. Nguyên tắc Máy quay Khách quan (Fly-on-the-Wall Camera):
-- Người kể chuyện hoạt động như một **ống kính máy quay điện ảnh giấu kín trong góc phòng**: chỉ ghi nhận những gì mắt thấy, tai nghe, nhiệt độ và chuyển động vật lý.
-- **CẤM TUYỆT ĐỐI ĐỘC THOẠI NỘI TÂM**: Không được lọt vào suy nghĩ, ý thức, toan tính hay dòng hồi tưởng của bất kỳ nhân vật nào trong cảnh Off-POV (*Tuyệt đối cấm các câu như: "Toàn thầm nghĩ...", "Hắn nhớ lại vụ đầu độc đêm qua...", "Bà ta toan tính sẽ chối tội..."*).
-- **100% SHOW NOT TELL QUA PHẢN XẠ THỂ XÁC & SINH LÝ**:
-  - Nỗi sợ hãi, hoảng loạn hay mặc cảm tội lỗi phải được phơi bày hoàn toàn qua cơ thể học: tiếng hai hàm răng va lập cập, tròng mắt đỏ ngầu co giật, mồ hôi lạnh vã ra như tắm làm ướt đẫm lưng áo, ngón tay run lẩy bẩy vò nát bao thuốc lá rỗng, tiếng nấc nghẹn khô khốc nơi cổ họng, hai đầu gối nhũn ra suýt ngã quỵ.
-- **HÀNH VI TỰ CẤT TIẾNG NÓI**: Để nhân vật hành động (lén lút tiêu hủy tang chứng, run rẩy chắp tay lạy khoảng không tối đen, quấn khăn giấu vết thương), nhưng người kể chuyện KHÔNG ĐƯỢC giải thích động cơ. Độc giả phải tự suy luận từ hành vi!
+- Người kể hoạt động như một **ống kính máy quay**: chỉ ghi nhận điều có thể quan sát/nghe thấy trong cảnh — hành động, vật thể, âm thanh, khoảng cách, ánh sáng, nhiệt độ, tư thế, lời nói, khoảng lặng.
+- **CẤM ĐỘC THOẠI NỘI TÂM**: không vào suy nghĩ, hồi tưởng, ý định bí mật hay kết luận chủ quan của nhân vật Off-POV.
+- Không dùng narrator để giải thích động cơ. Động cơ chỉ được độc giả suy ra từ những gì nhân vật thực sự làm/nói hoặc được chứng minh ở nguồn khác sau đó.
+- **Observable behavior không đồng nghĩa physical-reaction stacking.** Có thể thể hiện áp lực bằng trì hoãn, né tránh, thao tác vụng, im lặng, che giấu vật chứng, đổi chủ đề, khóa cửa, nhìn về một khoảng tối, bỏ dở công việc, hoặc một phản ứng sinh lý cụ thể. Không bắt mọi nỗi sợ phải có mồ hôi + tim đập + run + nghẹn + chân khuỵu cùng lúc.
+- `Show, don't tell` ở đây là kỷ luật **không đọc suy nghĩ**, không phải quota bắt văn phải kịch hóa mọi cảm xúc bằng cơ thể.
 
-### 2. Kỷ luật Lời thoại trong Cảnh Off-POV (Chống Spoil & Thoại Nửa Chừng):
-- **CẤM TUYỆT ĐỐI EXPOSITION DUMP QUA LỜI THOẠI**: Nhân vật trong cảnh Off-POV không được dùng lời thoại để trần thuật, thú tội hay giải thích nguyên nhân/diễn biến vụ án mạng (*Tuyệt đối cấm các câu thoại nói toẹt như: "Đêm ấy tao cãi nhau... xô bố một cái... Móng tay bố cào rách cổ tao... Người ta nhìn thấy chiếc áo dính máu là tao chết..."*).
-- **BẮT BUỘC DÙNG THOẠI NỬA CHỪNG, GÃY KHÚC & MƠ HỒ (Fragmented & Obfuscated Dialogue)**:
-  - Lời thoại chỉ được phản ánh **trạng thái tâm lý bấn loạn, kinh hoàng tức thời**; thốt ra ngắt quãng, thì thào van lạy hoặc ra lệnh trong sợ hãi tột cùng;
-  - Bắt buộc sử dụng các đại từ phiếm chỉ, mơ hồ thay vì diễn giải sự việc (*"Đốt... Đem ra lò đốt ngay đi... Đừng... đừng để ai nhìn thấy... Tao lạy mày... Đốt sạch đi..."*);
-  - Sự thấu cảm giữa các nhân vật phải diễn ra qua **ánh mắt kinh hoàng, sự đồng lõa câm lặng và hành vi thể xác** (dúi đồ, giật khăn tang quấn kín cổ, cắn chặt môi, cái gật đầu nghẹn ứ) chứ không nói toẹt ra thành lời.
-- **MỤC ĐÍCH TỰ SỰ**: Cảnh Off-POV chỉ cho độc giả thấy **bóng ma của tội lỗi và hành vi phi tang đáng ngờ**, kích thích tò mò và duy trì độ khó đoán của vụ án. Tuyệt đối không cung cấp lời giải trước, giữ trọn vẹn giá trị khám phá suy luận cho nhân vật chính Khanh và độc giả ở các cảnh sau.
+### 2. Lời thoại Off-POV: chống exposition, không ép nhân vật nói như mật mã
 
-### 3. Phân định ranh giới với Main POV (Khanh):
-- **Độc thoại nội tâm, liên tưởng và phân tích dữ liệu chỉ được kích hoạt DUY NHẤT khi điểm nhìn quay về Khanh**. Chỉ trong tâm trí Khanh, người đọc mới được tiếp cận luồng tư duy suy luận IT đối lập với mê tín dân gian.
+- **CẤM exposition dump / confession dump**: nhân vật không được vô lý kể lại đầy đủ sự việc chỉ để độc giả nghe, ví dụ tự thuật trọn vẹn vụ ẩu đả, vết cào, chiếc áo rách hoặc kế hoạch phi tang khi người đối thoại đã biết.
+- Lời thoại có thể gãy, ngắn, mơ hồ **khi trạng thái và quan hệ tự nhiên dẫn tới điều đó**, nhưng không bắt mọi câu phải fragmented.
+- Người thân đã biết chung một việc có thể dùng đại từ phiếm chỉ, câu bỏ lửng, ánh mắt hoặc hành động thay cho việc giải thích lại. Người chưa biết thì vẫn được hỏi/nói tự nhiên theo knowledge state của họ.
+- Mục tiêu là cho độc giả thấy **hành vi đáng ngờ và áp lực**, không trao lời giải trước khi mystery earned it.
+
+### 3. Ranh giới với Main POV (Khanh)
+
+- Phân tích dữ liệu, liên tưởng chủ quan, suy đoán nguyên nhân và luồng tư duy nội tâm thuộc về scene có POV rõ ràng, chủ yếu là Khanh.
+- Off-POV không được âm thầm trở thành limited POV của Toàn/Thủy/Cổn chỉ bằng cách đổi đại từ.
 
 ---
 
-## 3. Cơ Chế Kinh Dị Khẩu Truyền & Dấu Vết Hồi Tố (Oral Horror & Detective Verification)
+## 3. Kinh Dị Khẩu Truyền & Dấu Vết Hồi Tố (Oral Horror & Detective Verification)
 
-Khanh không cần và không nên có mặt ở mọi hiện trường. Khanh đóng vai trò là **Bộ Lọc Duy Lý (The Rational Filter)** tiếp nhận thông tin qua mạng lưới đời sống:
+Khanh không cần có mặt ở mọi hiện trường. Anh tiếp nhận một phần thế giới qua mạng lưới đời sống.
 
-1. **Kênh tiếp nhận khẩu truyền (Oral Testimony Network)**:
-   - Khanh nghe lời kể rùng rợn từ bạn bè, người làng:
-     - Thắng hốt hoảng kể lại khi ngồi uống chén trà chén thuốc: *"Mày không biết đâu... đêm qua tao ngủ canh quan tài... tao nghe tiếng cào móng tay kèn kẹt từ trong ván gỗ..."*;
-     - Bà Lan đi chợ về kể lại những lời xì xào to nhỏ của các bà hàng thịt, hàng rau ngoài ngã tư;
-     - Bà cụ Tứ ở quán nước chè đầu ngõ kể lại những tin đồn dân gian mờ mịt năm xưa.
-2. **Kinh dị đối chiếu dấu vết (The Retroactive Chill / Double Impact)**:
-   - Ban đầu khi nghe kể, Khanh và độc giả có thể nghĩ đó chỉ là lời đồn thổi mê tín dị đoan do thần hồn nát thần tính của nông thôn.
-   - Nhưng sau đó, khi Khanh vô tình đối chiếu với một bằng chứng vật lý thực tế (một file ghi âm Zalo, một hình ảnh trên camera Dahua, một vệt bùn đo được kích thước, một mảnh vỉ nhôm thuốc cháy sém bên lò vàng mã) $\rightarrow$ **tất cả những chi tiết rùng rợn trong lời đồn bỗng chốc trùng khớp hoàn hảo với sự thật vật lý**.
-   - Cú sốc nhận thức này tạo ra dư ba kinh dị lạnh buốt xương sống, vượt trội hoàn toàn so với jumpscare thị giác thông thường.
+### 1. Kênh khẩu truyền
+
+Khanh có thể nghe lời kể từ:
+- Thắng và người phụ đám tang;
+- bà Lan và khách chợ;
+- người già như bà cụ Tứ;
+- họ hàng, công nhân, lái xe, hàng xóm hoặc người hành nghề phù hợp với quan hệ xã hội thật.
+
+Một lời kể có thể sai, phóng đại, mơ hồ hoặc đúng. **Testimony không tự biến thành objective truth.**
+
+### 2. Retroactive chill / double impact
+
+Một số lời kể kinh dị có thể về sau khớp với bằng chứng độc lập — ví dụ timestamp, camera Dahua, file âm thanh, vệt bùn, mảnh áo cháy dở/cúc kim loại từ bẫy trung thành của Toàn–Lan Anh. Khi đó bằng chứng mới làm lời kể cũ lạnh người hơn.
+
+Nhưng đây là **một thủ pháp, không phải luật buộc mọi chuyện ma khẩu truyền phải payoff thành clue**. Một câu chuyện có thể chỉ làm atmosphere, character, cultural texture hoặc horror độc lập.
 
 ---
 
 ## 4. Lời thề Tuân thủ của Agent
 
-Mọi Agent (Preflight, Writer, Reviewer, Reviser) khi thực hiện nhiệm vụ cam kết:
-- **KHÔNG** ép Khanh phải xuất hiện ở 100% mọi khung hình để chứng kiến mọi việc.
-- **TẬN DỤNG LINH HOẠT CÁC CẢNH OFF-POV** để khai thác tối đa không khí kinh dị ma Cường quấy phá gia đình họ Vũ lúc đêm khuya.
-- **TUÂN THỦ 100% QUY TẮC SHOW-NOT-TELL ĐIỆN ẢNH TRONG CẢNH OFF-POV**: Tuyệt đối không để lộ suy nghĩ, toan tính nội tâm của bất kỳ nhân vật nào trong cảnh Off-POV.
-- **KẾT HỢP NHỊP NHÀNG** giữa kinh dị khẩu truyền (nghe kể) và phân tích dấu vết hồi tố của Khanh.
+Mọi Agent khi thực hiện nhiệm vụ cam kết:
+- **KHÔNG** ép Khanh xuất hiện ở mọi biến cố.
+- **KHÔNG** head-hop hoặc đưa nội tâm bí mật vào cảnh fly-on-the-wall.
+- **KHÔNG** dùng off-POV để confession-dump lời giải.
+- **KHÔNG** ép thoại gãy khúc hay phản ứng sinh lý dày đặc như một công thức humanization/horror.
+- **KHÔNG** resurrect evidence plot đã bị D-057 xóa (Diazepam/thuốc an thần).
+- **KẾT HỢP** off-POV, khẩu truyền và kiểm chứng hồi tố khi chúng phục vụ đúng mục tiêu scene, không như quota bắt buộc.
