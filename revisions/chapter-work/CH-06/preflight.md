@@ -74,7 +74,7 @@
 
 ### Những gì nhân vật ĐƯỢC PHÉP BIẾT trong chương này:
 - Thi thể ông Cường được khâm liệm, nhập quan và phát tang đúng giờ hoàng đạo theo nghi thức truyền thống Bắc Bộ.
-- Toàn và Lan Anh mang mặc cảm tội lỗi nặng nề (Toàn sợ vụ ẩu đả xô xát đêm 13 và cú xô ngã của mình đã giết bố; Lan Anh phát hiện vết cào rách da rớm máu trên cổ Toàn và chiếc áo bảo hộ rách đẫm máu nên tìm cách tiêu hủy để bảo vệ chồng - D-057, DIR-04).
+- Toàn và Lan Anh mang mặc cảm tội lỗi nặng nề (Toàn sợ vụ ẩu đả xô xát đêm 13 và cú xô ngã của mình đã giết bố, hoang mang tột độ trước dị tượng móng tay bố sạch tinh không dính da máu - D-060; Lan Anh phát hiện vết cào rách da rớm máu trên cổ Toàn và chiếc áo bảo hộ rách đẫm máu nên tìm cách tiêu hủy để bảo vệ chồng - D-057, DIR-04).
 - Thắng kể cho Khanh về những tiếng động cào cấu ghê rợn mà Thắng nghe thấy lúc canh quan tài đêm 14.
 - Dị tượng thể xác khi làm lễ: khớp cổ trẹo lại góc 180 độ, khói nhang xoáy ngược quanh bát cơm úp, cỗ quan tài nặng trĩu khi khiêng.
 - Lan Anh lén đốt chiếc áo bảo hộ lao động đẫm máu bên lò vàng mã; gió xoáy hắt mẩu vải cháy dở gắn cúc kim loại dập hình ngôi sao xe ben rơi ngay trước mũi giày Khanh.
@@ -94,7 +94,7 @@
 
 - **Cảnh 1 (Off-POV Điện ảnh — 05:00 sáng xóm Trại)**:
   - Máy quay đặt tại gian nhà ngang mờ ảo sương muối. Toàn ngồi co ro bên bàn thờ tạm, rít thuốc liên tục. Tiếng nước đá rỉ *tách... tách...* bỗng biến thành tiếng thở phì phò sặc sụa. Tấm vải liệm phủ mặt ông Cường phập phồng như có luồng khí thở nghẹn.
-  - Toàn kinh hoàng lùi bắn người làm đổ điếu thuốc, va phải Lan Anh bưng thau nước lá bưởi bước vào. Hai vợ chồng thì thào đứt quãng trong sợ hãi; Lan Anh quấn chặt dải khăn tang trắng quanh cổ Toàn để che giấu các vết móng tay cào rách da rớm máu của ông Cường, rồi thu gom chiếc áo bảo hộ xe ben rách toạc đẫm máu đem đi tiêu hủy (D-057, DIR-04).
+  - Toàn kinh hoàng lùi bắn người làm đổ điếu thuốc, va phải Lan Anh bưng thau nước lá bưởi bước vào. Hai vợ chồng thì thào đứt quãng trong sợ hãi; Toàn hoang mang thì thào về dị tượng mười móng tay của bố sạch bóng ma quái không dính da máu (D-060); Lan Anh quấn chặt dải khăn tang trắng quanh cổ Toàn để che giấu các vết móng tay cào rách da rớm máu của ông Cường, rồi thu gom chiếc áo bảo hộ xe ben rách toạc đẫm máu đem đi tiêu hủy (D-057, DIR-04).
 - **Cảnh 2 (Main POV Khanh — 06:30 sáng tiệm vàng mã Chợ Bến)**:
   - Nhịp thở đời thường (The Breather): Phiên chợ Rằm tháng Giêng đông đúc, tiếng ngã giá, khói nhang trầm, bà Lan đon đả bán đồ cúng Tết Nguyên Tiêu.
   - Thắng phóng xe máy ghé tiệm mua thêm vàng mã, mắt thâm quầng sau đêm thức canh xác. Thắng ghé tai kể cho Khanh nghe tiếng cào móng tay kèn kẹt trong ván gỗ mà nó nghe thấy lúc 2 giờ sáng (Kinh dị khẩu truyền theo DIR-03). Thắng rủ Khanh sang xóm Trại phụ giúp nhập quan.

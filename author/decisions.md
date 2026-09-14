@@ -554,5 +554,30 @@ Decisions below were explicitly accepted during discovery. Future agents must no
 - **Implications:** Flawlessly bridges modern 2026 smartphone/police reality with authentic supernatural dread. Gives Thủy a desperate, active criminal agenda (destroying Cường's phone) that is thwarted exclusively by supernatural horror, providing high re-read fair-play detective value.
 - **Supersedes:** Any assumption that Cường's phone was casually handled, overlooked by police without procedural cause, or that Thủy was passively lying in bed without an active concern for digital evidence.
 
+### D-060 — The Uncanny Erasure of Subungual Evidence and the Spiritual Trap of Toàn
+
+- **Date:** 2026-09-14
+- **Status:** accepted author decision
+- **Decision:** Establish the forensic anomaly regarding Vũ Văn Cường's fingernails and its supernatural mechanics in the physical scuffle context (D-057/DIR-04):
+  1. *The Physical Scuffle (22:35 – 22:45 night 13):*
+     - Cường violently claws at Toàn's neck, inflicting 3 deep, bleeding claw lacerations and tearing Toàn's blue worker undershirt. Mechanically, Toàn's skin epidermal cells and micro-blood traces should naturally remain trapped under Cường's 10 fingernails (*subungual debris*).
+  2. *The Uncanny Erasure (22:54 – 23:05 night 13):*
+     - Following Cường's supernatural death at 22:54:32, an occult/supernatural intervention occurs at the crime scene.
+     - When Toàn returns at 23:05 to find Cường dead and frantically inspects Cường's hands to wash away his own DNA/blood traces, he discovers a bone-chilling anomaly: **Cường's 10 fingernails and fingertips are impossibly clean, smooth, pale as candle wax, free of any skin cells, blood stains, or even ordinary grime**.
+     - It is as if an invisible spiritual hand wiped Cường's fingers completely clean in the wake of the broken neck.
+  3. *Pure Occult Ambiguity (Show, Don't Over-Explain):*
+     - The narrative presents this as a chilling, unexplainable physical anomaly without narrator sermonizing.
+     - Toàn is terrified rather than relieved: Did the occult entity "save" him from police forensics? Or does the spirit refuse to let worldly police arrest Toàn, instead keeping him trapped in xóm Trại to face a far more terrifying karmic retribution at the funeral?
+  4. *Preservation of Human Clues on Toàn:*
+     - The supernatural erasure applies exclusively to Cường's corpse. The incriminating physical evidence on Toàn remains 100% intact:
+       - The 3 raw, bleeding claw scratches on Toàn's neck;
+       - The torn, blood-stained worker undershirt with the sand-truck star button;
+       - Lan Anh's panic, leading her to tightly wind the mourning scarf around Toàn's neck and secretly burn the shirt at the funeral furnace in Chapter 6;
+       - The scorched cloth scrap with the star button blown to Khanh's shoes remains an airtight fair-play detective clue linking Toàn to the pre-death scuffle.
+  5. *Police Forensics Consistency (Morning 14 / Chapter 3):*
+     - When Officer Đặng Việt Long and district forensics conduct their preliminary external examination on morning 14 (before the family signs the waiver refusing internal autopsy), their inspection of Cường's clean fingernails yields no foreign epidermal tissue, explaining why Toàn is not immediately detained on forensic grounds.
+- **Implications:** Eliminates the procedural/forensic plot hole of why police didn't find Toàn's skin under Cường's nails, elevates the uncanny horror of the crime scene, and enriches Toàn and Lan Anh's psychological torment in Chapter 6.
+- **Supersedes:** Any assumption that Cường's fingernails retained visible skin debris that police inexplicably missed, or that Toàn/Lan Anh manually clipped or washed Cường's fingernails before police arrived.
+
 
 

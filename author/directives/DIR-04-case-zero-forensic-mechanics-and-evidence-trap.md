@@ -75,10 +75,32 @@ Giải quyết triệt để bài toán logic thời đại số năm 2026 và t
 
 ---
 
-## 4. Bảng Kiểm Tra Đối Kháng (Reviewer & Writer Checklist)
+## 4. Dị Tượng Móng Tay Sạch Trơn & Cơ Chế Pháp Y Độc Lập của Toàn (D-060)
 
-Bất kỳ Agent nào chấp bút hoặc thẩm định từ Chương 06 trở đi đều phải kiểm tra 4 điểm cốt tử:
+Giải quyết triệt để bài toán pháp y năm 2026: Tại sao Công an Long và Kỹ thuật hình sự không phát hiện ra tế bào biểu bì da của Toàn dưới móng tay Cường dù Cường cào rách cổ Toàn?
+
+1. **Vụ Ẩu đả & Dấu vết Thể xác Thực tế (22:35 – 22:45 đêm 13)**:
+   - Cường cào cấu bạo lực vào cổ Toàn, để lại 3 vệt móng tay rách da rớm máu sâu hoắm và giật toạc áo lót bảo hộ. Về mặt cơ học, mười kẽ móng tay của Cường bắt buộc phải dính tế bào da và vi lượng máu của Toàn.
+
+2. **Dị tượng Siêu nhiên lúc 23:05 (The Uncanny Erasure)**:
+   - Khi Toàn quay lại lúc 23:05 và phát hiện xác bố, Toàn hoảng loạn quỳ sụp xuống lật hai bàn tay Cường lên để kiểm tra nhằm tìm cách xóa dấu vết da thịt/máu của mình.
+   - Nhưng Toàn chết sững khi chứng kiến một dị thường quái đản: **Mười đầu ngón tay của Cường sạch bóng, trắng bệch như sáp nến, không hề có một vảy da, vết máu hay hạt bụi nào dưới kẽ móng tay**.
+   - Như thể sau cú bẻ gãy cổ lúc 22:54:32, bàn tay tâm linh của thực thể siêu nhiên đã "vuốt sạch" dấu vết trần gian trên thi thể. Toàn kinh hãi tột cùng nhận ra có một thứ vô hình vừa bước qua hiện trường.
+
+3. **Cơ chế Pháp y & Logic Trinh thám Công bằng (Fair-play Clues)**:
+   - Sáng 14, khi Công an Long và Kỹ thuật hình sự khám ngoài tử thi (trước khi gia đình ký cam kết từ chối mổ phanh xác), việc kiểm tra bàn tay Cường cho kết quả sạch sẽ, không có tế bào biểu bì lạ. Do đó, công an không thể lập tức bắt giữ Toàn trên cơ sở pháp y tử thi.
+   - Tuy nhiên, **chứng cứ trên người Toàn hoàn toàn không bị xóa**: 3 vệt cào rách da rớm máu trên cổ Toàn, chiếc áo công nhân rách đẫm máu có cúc ngôi sao xe ben. Lan Anh vẫn quấn khăn tang giấu cổ chồng và lén đốt áo ở lò hóa vàng. Khanh nhặt được mẩu vải cháy dở gắn cúc kim loại rơi trước mũi giày, giữ nguyên giá trị trinh thám suy luận công bằng.
+
+4. **Kỷ luật Tự sự (Narrative Rule)**:
+   - Tác giả chỉ miêu tả sự sạch trơn ma quái ấy qua phản xạ kinh hoàng của Toàn và Lan Anh dưới ngọn đèn bão lúc 05:00 sáng (Chương 06), **tuyệt đối không để Narrator giảng giải hay đưa ra lời giải cơ học**. Sự vắng mặt của dấu vết chính là bằng chứng rợn ngợp của thế lực vô hình.
+
+---
+
+## 5. Bảng Kiểm Tra Đối Kháng (Reviewer & Writer Checklist)
+
+Bất kỳ Agent nào chấp bút hoặc thẩm định từ Chương 06 trở đi đều phải kiểm tra 5 điểm cốt tử:
 - [ ] Tuyệt đối không nhắc tới Diazepam, thuốc ngủ, an thần hay việc Toàn đầu độc/chuốc thuốc Cường.
 - [ ] Toàn chỉ lo sợ tội ngộ sát/bất hiếu vì cú xô bạo lực lúc 22:45 đêm 13 sau khi bị Cường cào rách cổ.
+- [ ] Dị tượng móng tay sạch trơn (D-060): Mười móng tay Cường sạch bóng ma quái sau án mạng, Toàn hoang mang sợ hãi bàn tay cõi âm, công an Long khám ngoài không tìm thấy mô da.
 - [ ] Bẫy trung thành của Lan Anh được thể hiện bằng: quấn khăn tang giấu vết cào rách cổ + đốt chiếc áo công nhân đẫm máu có cúc kim loại xe ben ở lò hóa vàng.
 - [ ] Cô Thủy không hề có mặt ở hiện trường đêm 13; nỗi sợ của Thủy bị kẹp giữa hai tầng: **Nỗi sợ pháp lý đời thực** (muốn tiêu hủy chiếc smartphone kẹt ở chiếu nghỉ tầng 2) và **Nỗi sợ siêu nhiên** (bị hồn ma ông Cường chặn đứng ở bậc thứ 7, tin vào Trùng tang đoạt mạng).

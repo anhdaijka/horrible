@@ -32,7 +32,7 @@ Thay vào tiếng nước rỏ giọt, một luồng âm thanh khác bỗng kh�
 
 Âm thanh khò khè, nghèn nghẹn của một cuống họng bị dập nát đang cố rít từng ngụm khí rách rưới qua lớp đờm đặc. 
 
-Toàn chết sững. Toàn bộ cơ bắp trên mặt gã đông cứng lại. Hai hàm răng gã bắt đầu va vào nhau liên hồi, phát ra những tiếng *cầm cập... cầm cập...* khô khốc không thể kìm hãm nổi.
+Toàn chết sững. Toàn bộ cơ bắp trên mặt gã đông cứng lại. Hai hàm răng gã bắt đầu va vào nhau liên hồi.
 
 Dưới ánh sáng leo lét của ngọn đèn bão, tấm vải lụa đỏ phủ trên mặt người chết... khẽ phập phồng.
 
@@ -50,11 +50,11 @@ Một bàn tay lạnh toát túm lấy bả vai gã.
 
 Toàn giật bắn người, suýt nữa thì rú lên một tiếng thất thanh nếu không có một bàn tay khác vội vã bịt chặt lấy miệng gã.
 
-Lan Anh đứng ngay sau bậc cửa. Cô mặc bộ đồ bà ba đen mỏng dính sương, chiếc khăn tang xô trắng quấn vội trên đầu xộc xệch, hai bọng mắt sưng húp đỏ hoe. Trên tay cô là chiếc chậu thau nhôm bốc khói nghi ngút mùi nước lá bưởi và rượu gừng vừa đun dưới bếp.
+Lan Anh đứng ngay sau bậc cửa. Cô mặc bộ đồ đen mỏng dính sương, chiếc khăn tang xô trắng quấn vội trên đầu xộc xệch, hai bọng mắt sưng húp đỏ hoe. Trên tay cô là chiếc chậu thau nhôm bốc khói nghi ngút mùi nước lá bưởi và rượu gừng vừa đun dưới bếp.
 
-"Im... Em lạy anh... khẽ cái mồm thôi..." Lan Anh thì thào qua kẽ răng, giọng cô lạc hẳn đi, ngón tay run rẩy bấu chặt lấy cánh tay áo Toàn. "Ngoài sân các ông các bác họ Vũ bắt đầu đến rồi... Bác Cổn vừa dậy ra giếng rửa mặt đấy..."
+"Em lạy anh... khẽ cái mồm thôi..." Lan Anh thì thào qua kẽ răng, giọng cô lạc hẳn đi, ngón tay run rẩy bấu chặt lấy cánh tay áo Toàn. "Ngoài sân các ông các bác họ Vũ bắt đầu đến rồi... Bác Cổn vừa dậy ra giếng rửa mặt đấy..."
 
-Toàn túm chặt lấy cổ tay vợ, ngón tay gã siết mạnh đến mức móng tay găm vào da thịt Lan Anh, mắt vẫn dán trừng trừng vào cỗ phản gỗ lim.
+Toàn túm chặt lấy cổ tay vợ, ngón tay gã siết mạnh đến mức móng tay găm vào da thịt cô, mắt vẫn dán trừng trừng vào cỗ phản gỗ lim.
 
 Dưới ngọn đèn bão, tấm vải phủ mặt đã phẳng lặng trở lại. Chỉ còn tiếng nước đá tan rữa lại rỏ *tách... tách...* xuống đáy chậu nhôm.
 
@@ -80,9 +80,13 @@ Cơ hàm Toàn bạnh ra, hai quai hàm giật liên hồi, tròng mắt đỏ n
 
 "Đốt... Đem ra lò mà đốt ngay đi... Đừng... đừng để ai nhìn thấy... Tao lạy mày... Đốt sạch đi..."
 
-Lan Anh run bắn người. Cô không hỏi một câu nào, chỉ thấy hai hàm răng Toàn đang va vào nhau cầm cập và lồng ngực gã phập phồng nghẹt thở như người sắp chết chìm. 
+Gã run rẩy ngoái đầu nhìn trừng trừng về phía cỗ phản sau bức liếp nứa, tròng mắt mở to dại đi, giọng thì thào đứt quãng:
 
-Một sự thấu suốt câm lặng và kinh hoàng siết lấy lồng ngực người đàn bà. 
+"Nhưng... mày nhìn tay bố xem... Đêm ấy móng tay bố cào nát cổ tao... Thế mà lúc tao quay vào... mười đầu móng tay bố... sạch tinh... Trắng bệch... không dính một tí da thịt nào của tao... Ai... ai đã lau tay cho bố? Hay là..."
+
+Toàn không dám thốt nốt nửa câu sau, hai đầu gối nhũn ra va đánh *cộp* vào chân cột gỗ.
+
+Lan Anh run bắn người. Cô đánh mắt nhìn qua khe liếp: dưới ánh đèn bão vàng vọt, hai bàn tay buông thõng của người chết đặt trên mép phản hiện ra trắng bệch như sáp nến, mười đầu móng tay sạch bóng, nhẵn nhụi không một hạt bụi hay vệt máu nào. Một sự thấu suốt câm lặng và kinh hoàng siết lấy lồng ngực người đàn bà — như thể có một bàn tay vô hình nào đó vừa bước qua hiện trường trước khi người sống kịp bước vào.
 
 Lồng ngực Lan Anh thắt nghẹn lại. Cô không chần chừ nửa giây, giật phắt chiếc khăn tang bằng vải xô trắng trên đầu mình xuống, quấn thêm hai vòng thật chặt quanh cổ Toàn, kéo mép khăn xô xơ xác trùm lên tận cằm để che lấp hoàn toàn những vệt xước rướm máu. Xong xuôi, cô nhét bọc vải rách vào sâu dưới vạt áo tang, gật đầu một cái dứt khoát trong câm lặng rồi vội vã quay người bưng chậu nước lá bưởi bước về phía cỗ phản.
 
@@ -112,7 +116,7 @@ Khanh vừa với tay lên kệ gỗ rút bó tiền vàng thì một tiếng n�
 
 Chiếc xe máy Wave màu mận chín cũ mèm dựng chân chống đánh *keng* một phát. 
 
-Lê Văn Thắng nhảy vội xuống xe. Cậu ta mặc chiếc áo khoác gió công nhân màu xanh công nhân dính đầy bùn đất khô, đầu không đội mũ bảo hiểm, mái tóc cắt cua ướt đẫm mưa phùn sương muối. Khuôn mặt vuông vức sạm nắng của Thắng hốc hác hẳn đi, đôi mắt đỏ lừ vì thiếu ngủ, hai bên gò má xám ngoét lại.
+Thắng nhảy vội xuống xe. Cậu ta mặc chiếc áo khoác gió công nhân màu xanh công nhân dính đầy bùn đất khô, đầu không đội mũ bảo hiểm, mái tóc cắt cua ướt đẫm mưa phùn sương muối. Khuôn mặt vuông vức sạm nắng của Thắng hốc hác hẳn đi, đôi mắt đỏ lừ vì thiếu ngủ, hai bên gò má xám ngoét lại.
 
 "Bác Lan! Cho cháu lấy thêm bốn cọc tiền vàng, hai bó hương bài với thếp tiền quan chuyển sang nhà ông Cường!" Thắng thở hổn hển, rút vội chiếc khăn mùi soa cáu bẩn ra quẹt mồ hôi trên trán.
 
@@ -134,9 +138,7 @@ Sống lưng Khanh chợt lạnh toát. Anh nhìn thẳng vào tròng mắt đ�
 
 "Thần hồn cái con khỉ mốc!" Thắng rít qua kẽ răng, hai hàm răng va vào nhau lập cập phát ra tiếng va chạm khe khẽ: "Lúc hai giờ sáng... cả rạp tang ngủ thiếp đi vì mệt... Tao nằm trên chiếc chiếu trải cạnh chân phản đá... Tao thề với mày, tao nghe tiếng móng tay cào *kèn kẹt... kèn kẹt...* ngay từ bên dưới tấm ván gỗ lim của cái phản đặt xác! Tao mở mắt choàng dậy nhìn... Tấm chăn thêu chữ Vạn phủ trên người ông Cường... nó phập phồng, phập phồng như người đang thở dốc ấy mày ạ! Tao sợ quá lay thằng Toàn dậy, nhưng mặt thằng Toàn lúc ấy cắt không còn một giọt máu, nó cứ ôm đầu lảm nhảm bảo 'bố về bắt người đi rồi'... Loạn hết cả lên!"
 
-Khanh chết sững. Lồng ngực anh thắt nghẹn lại.
-
-Những chi tiết Thắng vừa kể... từ tiếng móng tay cào đến tiếng thở dốc... trùng khớp hoàn toàn với những tạp âm vật lý trong đoạn ghi âm 38 giây mà điện thoại cô Thủy nhận được đêm qua!
+Khanh chết sững.
 
 "Thế... bác Cổn đâu?" Khanh nuốt khan, hỏi dồn.
 

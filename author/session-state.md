@@ -45,7 +45,7 @@ Therefore:
 - **DIR-01 — Psychological tension / Cường haunting / Trùng tang:** early domestic horror centers on Cường's newly dead spirit; the village/family frame it as `Trùng tang / bắt người đi theo`; Cổn begins as a hard denier and only later breaks.
 - **DIR-02 — Thoa 1996 manslaughter canon:** Thoa is not deliberately drowned. Cường strikes/shoves her during the forced-marriage/wedding-money dispute; she falls, hits her head and later dies. Thủy discovers the body and pleads for a funeral; Cổn orders concealment and Cường complies.
 - **DIR-03 — Cinematic off-POV / oral horror:** main mode remains Khanh close-third, but objective fly-on-the-wall off-POV scenes are allowed. Such scenes cannot contain private interior thought or explanatory confession.
-- **DIR-04 — Case Zero forensic mechanics:** no sedatives; Toàn/Cường scuffle at 22:35–22:45; Thủy is genuinely at Yên Phong on night shift; Cường dies at 22:54:32; smartphone remains trapped behind the preserved staircase scene; Lan Anh's loyalty trap uses the scratched neck/torn bloody work shirt.
+- **DIR-04 — Case Zero forensic mechanics:** no sedatives; Toàn/Cường scuffle at 22:35–22:45; Thủy is genuinely at Yên Phong on night shift; Cường dies at 22:54:32; smartphone remains trapped behind the preserved staircase scene; Lan Anh's loyalty trap uses the scratched neck/torn bloody work shirt; uncanny erasure of fingernail evidence on Cường (D-060).
 
 ## Locked Case Zero objective truth
 
@@ -67,7 +67,7 @@ Therefore:
 - Toàn, trapped by debt, independently fights Cường over the land deed from 22:35–22:45 night 13. Cường scratches his neck and tears his work shirt; Toàn shoves him and leaves.
 - Toàn does not know about Thủy's intimidation. Thủy does not know about Toàn's scuffle.
 - There is no Diazepam/sedative/drugging plot.
-- Lan Anh later conceals Toàn's neck scratches and destroys the torn blood-stained work shirt because she believes her husband caused Cường's death.
+- Lan Anh later conceals Toàn's neck scratches and destroys the torn blood-stained work shirt because she believes her husband caused Cường's death, despite the terrifying anomaly that Cường's fingernails were found impossibly clean (D-060).
 
 ### 2026 supernatural layer
 
@@ -84,6 +84,13 @@ Therefore:
 - At dusk 14, Thủy tries to pass the seal but is driven back by Cường-haunting phenomena around the seventh step.
 - At 19:30, household Wi-Fi reconnects and the queued 22:54 voice-message mechanism becomes active under current story canon.
 - Close technical/procedural wording still requires verification before being asserted as real-world fact.
+
+## D-060 uncanny fingernails / forensic lock
+
+- At 23:05 when Toàn checks Cường's hands to wipe away his own biological traces, Cường's 10 fingernails are impossibly, unnervingly clean, smooth and free of any skin or blood traces.
+- An occult/supernatural intervention touched the scene, wiping biological evidence off the corpse while leaving the physical wounds and torn shirt on Toàn intact.
+- When police/forensics conduct preliminary examination on morning 14, no foreign tissue is found under Cường's nails, explaining why Toàn is not immediately detained on forensic grounds.
+- The story presents this as pure uncanny ambiguity without narrator lecturing.
 
 ## Information-order firewall
 

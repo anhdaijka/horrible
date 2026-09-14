@@ -58,7 +58,7 @@ The mùng 10 purchaser uses her left hand and identifies herself with the name `
 - **22:35–22:45:** Toàn confronts Cường at the foot of the stairs over the lotus-pond land deed. Cường scratches Toàn's neck and tears his work shirt. Toàn shoves Cường down/away, then leaves to smoke in his sand-truck cabin roughly 200m away.
 - **22:45–22:53:** Cường is alone. Hearing tape-like mechanical hiss and wet footsteps upstairs, he assumes Thủy is continuing her intimidation scheme.
 - **22:54:00–22:54:38:** Cường starts a Zalo voice message to Thủy while moving toward the stairs. At **22:54:32**, a genuine supernatural entity connected to Thoa breaks Cường's neck backwards in mid-air before the body lands.
-- **23:05–23:10:** Toàn returns, finds Cường dead and falsely concludes that his earlier shove killed his father.
+- **23:05–23:10:** Toàn returns, finds Cường dead and falsely concludes that his earlier shove killed his father. When Toàn checks Cường's hands to wipe away his own biological traces, he discovers an unnerving supernatural anomaly: Cường's 10 fingernails are impossibly clean, smooth and devoid of skin or blood traces (D-060).
 - There is **no Diazepam, sleeping pill or chemical sedative plot**.
 
 ### 4. Thủy's true location and information silo (D-058)
@@ -68,9 +68,9 @@ The mùng 10 purchaser uses her left hand and identifies herself with the name `
 - Thủy knows nothing about Toàn's 22:35–22:45 scuffle.
 - Both independently believe their own wrongdoing may have caused Cường's death. They do not coordinate a shared false story.
 
-### 5. Lan Anh's Loyalty Trap (D-057 / DIR-04)
+### 5. Lan Anh's Loyalty Trap (D-057 / DIR-04 / D-060)
 
-- Toàn's neck carries Cường's fresh nail scratches and his work shirt is torn/blood-stained.
+- Toàn's neck carries Cường's fresh nail scratches and his work shirt is torn/blood-stained, even though Cường's fingernails were supernaturally wiped clean at the death scene (D-060).
 - Believing Toàn may have killed his father, Lan Anh hides the neck injuries with mourning cloth and later destroys the torn work shirt in the funeral/votive fire.
 - A surviving charred fabric/button clue can connect the destruction to Toàn. This is a human evidence-cover-up, not evidence that Toàn actually caused the supernatural killing.
 
