@@ -4,30 +4,65 @@ Treat `AGENTS.md` as the repository-level operating contract and `.agents/rules/
 
 On branch `main`, always read `author/session-state.md` immediately after `AGENTS.md`. It is the current handoff and tells you what to do next.
 
-## Current opening reset
+## Current manuscript state
 
-As of 2026-09-11, the author rejected the latest implementations of **Chapter 1 and Chapter 2**. Their manuscript files, briefs and scene plans were deleted.
+The historical Chapter 1–2 reset is no longer the active task. Replacement **Chapters 1–5 are author-approved and canonized** in `chapters/`.
 
-Do not recover, quote, summarize, imitate, or reuse those deleted Chapter 1–2 drafts from Git history unless the author explicitly asks.
+An older ChatGPT-written Chapter 1–2 implementation was rejected and deleted during the opening reset. Do not recover, quote, imitate or reuse that rejected Git-history material unless the author explicitly asks. The current `chapters/chapter-01.md` and `chapters/chapter-02.md` are later replacement manuscripts and are the active prose authority when prose is relevant.
 
-`HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md`, and `CONSOLIDATION_REPORT.md` are generated convenience/index files. They may contain stale snapshots of rejected Chapter 1–2 material. They are **not authority** over `author/`, `continuity/`, `plot/`, `characters/`, `research/verified/`, or the latest direct author instruction.
+Chapter 6 currently exists in `revisions/chapter-work/CH-06/revised.md` and remains behind `AUTHOR GATE: PENDING`. Do not canonize it until the author explicitly approves it.
 
-For the rewrite, build Chapters 1–2 from a clean slate using current authoritative repo sources. If a detail only exists in rejected/deleted draft material, treat it as `NOT ESTABLISHED`.
+`HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md`, and `CONSOLIDATION_REPORT.md` are generated convenience/index files. They may lag behind current canon and are **not authority** over current author instruction, `author/directives/`, `author/decisions.md`, `continuity/`, `plot/`, `characters/`, `research/verified/`, or approved active chapters.
 
-For chapter operations, use `.agents/workflows/hr-*.md` (`/hr-preflight`, `/hr-write`, `/hr-review`, `/hr-revise`) and their corresponding skills under `.agents/skills/`. Story Skills owns structured story state after initialization; selected craft skills guide prose/character/scene work.
+## Mandatory Case Zero authority order
 
-Core order of operations:
+1. newest direct author instruction;
+2. `author/directives/` — read all current directives;
+3. `author/creative-constitution.md` and `author/boundaries.md`;
+4. newest applicable entries in `author/decisions.md`;
+5. `author/session-state.md` and `continuity/state.md`;
+6. `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`;
+7. relevant character files;
+8. relevant `research/verified/`;
+9. active manuscript prose when the task actually requires prose.
 
-1. newest author instruction
-2. `author/directives/` (mandatory creative directives reflecting author mandates)
-3. repository truth / current session handoff (`author/session-state.md`)
-4. current canon + continuity + verified research
-5. narrative reasoning
-5. proposal / draft / review
-6. author approval when required
-7. state update
-8. verification
+If a lower source conflicts with DIR-01–DIR-04 or newer Case Zero decisions D-054–D-059, treat the lower source as stale and stop before inventing a reconciliation.
 
-At the end of a meaningful session, refresh `author/session-state.md` if status or next action changed.
+## Case Zero hard guards
 
-Never use chat memory, generated indexes, or rejected Git history as a substitute for current repository truth.
+- Thoa's 1996 death is **accidental manslaughter**, not deliberate drowning: Cường strikes/shoves her during the forced-marriage/wedding-money dispute; she falls and suffers the fatal head injury. Cổn and Cường conceal the death; Thủy discovers the body and is coerced into silence.
+- Khanh's grandfather refuses the Vũ family's spiritual request (`Không nhận lễ`). He does not perform the heterodox binding.
+- There is **no Diazepam/sedative/drugging plot**.
+- Night 13: Toàn/Cường scuffle 22:35–22:45; Thủy is genuinely on night shift at Yên Phong; Cường is supernaturally killed at 22:54:32; Toàn returns around 23:05 and wrongly believes his shove caused the death.
+- Toàn and Thủy do not know about each other's wrongdoing before the investigation exposes it.
+- Early domestic haunting centers on **Cường's newly dead spirit** and the community's `Trùng tang / bắt người đi theo` interpretation.
+- Before the later author-approved reveal, do not establish Thoa as dead, a ghost or the household's haunting source in reader-facing narration/dialogue.
+- Cường's smartphone remains trapped around the preserved second-floor stair landing under D-059/DIR-04, giving Thủy a real motive to destroy digital evidence.
+- `Trùng tang` is a character/community belief and red herring unless author-level canon explicitly says otherwise; do not present invented ritual rules as universal Vietnamese fact.
+
+## Chapter workflow
+
+Use `.agents/workflows/hr-*.md`:
+- `/hr-preflight`
+- `/hr-write`
+- `/hr-review`
+- `/hr-revise`
+
+Working drafts belong in `revisions/chapter-work/CH-XX/`. Development prose is not canon merely because it exists.
+
+Core operation sequence:
+
+1. resolve authority and information locks;
+2. read only necessary dependencies;
+3. verify cultural/procedural claims that matter to the scene;
+4. preflight before substantial drafting;
+5. draft non-canon;
+6. independent review;
+7. minimal revision;
+8. author approval when required;
+9. canonize durable state and update registries/continuity;
+10. verify links/continuity.
+
+At the end of a meaningful session, refresh `author/session-state.md` only when status or next action actually changes.
+
+Never use chat memory, generated indexes, deprecated decision IDs, or rejected Git history as a substitute for current repository truth.
