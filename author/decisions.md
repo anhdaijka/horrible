@@ -1,6 +1,8 @@
-# Author Decision Log — Horrible
+﻿# Author Decision Log — Horrible
 
 Decisions below were explicitly accepted during discovery. Future agents must not casually reopen them. Story Skills canon has not yet been initialized.
+
+> **Archive note (2026-09-16):** D-001–D-049 là exploration records. D-050–D-060 đã được backport vào uthor/style-bible.md, uthor/creative-constitution.md, uthor/boundaries.md, và uthor/directives/. Agent viết prose không cần đọc decisions.md để biết POV architecture, forensic locks hay mystery mechanics — đọc thẳng bible files và directives là đủ.
 
 ### D-001 — Project identity
 

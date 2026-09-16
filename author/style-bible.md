@@ -1,4 +1,4 @@
-# Style Bible — Horrible v2
+﻿# Style Bible — Horrible v2
 
 > Author-approved after the opening reset. Supersedes the earlier style system that over-constrained horror through excessive normalization and ambiguity.
 
@@ -33,13 +33,39 @@ Do not use bare `Lan`, `Hùng`, `Nhân`, `Thủy` in manuscript narration merely
 
 This rule does not apply mechanically to YAML, registries or planning documents.
 
-## 3. POV
+## 3. POV Architecture — Rotating Focalization (DIR-03, DIR-05)
 
-Primary mode: close third-person limited through Khanh.
+Horrible không dùng Limited 3rd POV thuần túy qua Khanh. Cấu trúc chính thức:
 
-One active consciousness per scene unless an explicitly designed interlude or embedded testimony uses another frame.
+**1. Khanh Main Anchor POV** (~50–60%) — close 3rd limited.
 
-The narrator may possess **storyteller authority** without becoming omniscient about private thoughts.
+- Khanh là **Cognitive Bridge** (mắt xích nhận thức), không phải investigator.
+- Trong từng chương anh chỉ thu nhận một vài mảnh vụn rời rạc phát sinh tự nhiên trong sinh hoạt đời thường, bất an thoáng qua, rồi tiếp tục.
+- **Không xâu chuỗi thành kết luận vụ án trong chương.** Clue assembly thuộc độc giả, không thuộc Khanh, cho đến Act III/IV.
+- Narrator sở hữu **storyteller authority** (foreshadow, frame, withhold, compress) mà không trở thành omniscient về private thoughts của người khác.
+
+**2. Rotating POV — người trong cuộc** (~25%) — limited 3rd sâu.
+
+- Vào Thủy / Toàn / Lan Anh / Cổn khi họ đối diện với nỗi kinh hoàng tâm linh riêng tư hoặc hành vi che giấu tội lỗi từ bên trong.
+- Mục đích: đào sâu dread và động cơ con người — không để giải thích bí ẩn cho độc giả.
+- **Rotating POV không được phép là cánh cửa confession hoặc exposition hé cấu trúc.**
+
+**3. Cinematic Off-POV — Fly-on-the-wall** (~15%) — khách quan hoàn toàn.
+
+- Quan sát thuần túy: hành vi, lời nói, không gian, vật chứng vật lý.
+- **Tuyệt đối cấm interior thought, cấm confession giải thích.**
+- **BẮT BUỘC** khi Khanh không thể có mặt tự nhiên tại cảnh đó.
+
+**4. Community Lore & Oral** — Tiếng nói cộng đồng.
+
+- Thắng, Mai, bà cụ Tứ, công an Long, khách hàng, hàng xóm.
+- Khẩu truyền, tin đồn, nhân chứng — không phải narrator authority.
+
+---
+
+**Anti-Omnipresent Protagonist Guard — quy tắc cứng:**
+
+Tuyệt đối cấm ép Khanh có mặt gượng tạo tại cảnh riêng tư (nấp sau bụi tre, đi ngang qua đúng lúc tống tiền, ẩu đả — bất kỳ cách nào mà author phải brace lý do giả tạo). Nếu cảnh đó quan trọng để độc giả biết → chuyển sang Cinematic Off-POV, để câu chuyện tự nói.
 
 The narrator may:
 
@@ -553,6 +579,14 @@ Nghề vàng mã gia truyền của gia đình Khanh là bản sắc độc nh�
 - **Cảm giác sờ chạm rợn tóc gáy:**
   Tiếng giấy bản tự sột soạt cựa mình trong góc nhà tối khi cửa đóng then cài gió không lọt; cảm giác nan tre uốn lượn dưới tay dường như có mạch đập khe khẽ; mùi hồ dán nếp lên men chua nồng trong đêm mưa phùn.
 
+### 28.3 Linh tính động vật & Ám ảnh âm thanh (Animal Prescience & Acoustic Dread — DIR-06)
+
+**Sự ngưng bặt đồng loạt:** Trước khi thực thể siêu nhiên xuất hiện, tiếng dế / ễnh ương / chó sủa đột ngột im bặt đồng loạt. Sự tĩnh lặng chết chóc này là tín hiệu báo động nguyên thủy — đáng sợ hơn bất kỳ âm thanh nào phát ra sau đó.
+
+**Linh tính động vật:** Chó sủa gằn / cào cửa / gầm vào góc tối trống không. Mèo xù lông, đồng tử giãn to, nhìn theo quỹ đạo di chuyển vô hình. Quạ báo tang, cú lợn kêu đêm, bướm đen đậu trên ban thờ. Dùng **sự SỢ HÃI của con vật** để show dị tượng — không phải bản thân con vật là mối đe dọa.
+
+**Cấm tuyệt đối:** KHÔNG lạm dụng monster horror (động vật không đột biến thành quái vật). KHÔNG theatrical cat scare (mèo nhảy ra thét ré). Sợ hãi của chính con vật mới là thứ gây ám ảnh thực sự, chứ không phải con vật bị dùng như prop dọa người.
+
 ---
 
 ## 29. Cấu trúc ăn mòn tâm lý, Địa lý tội lỗi & Chiều sâu bi kịch (Long-form Dread, Topography & Human Tragedy)
@@ -586,7 +620,9 @@ Kinh dị dài hơi sống bằng **The Slow Burn** — chất độc ngấm ch�
   Người chết trở về không phải để làm xiếc dọa người. Họ trở về vì uất ức ngút trời, vì bị lãng quên tàn nhẫn, vì mối tình si méo mó, hoặc vì sự hận thù không thể siêu thoát.
 - Đằng sau khuôn mặt bết máu, cái cổ gãy gập hay giọng nói ma dại trong băng từ luôn là **một bi kịch con người quặn thắt**. Khi bí ẩn được bóc tách, người đọc không chỉ rùng mình kinh sợ trước tà thuật hay quỷ quyệt, mà còn phải lặng người, nghẹn ngào trước những góc khuất tàn nhẫn và nỗi đau nhân sinh của cõi trần.
 
-## 30. Nghệ thuật Ám thị phạm cấm & Kinh dị hồi tố trong Limited 3rd POV (Retroactive Taboo Dread & Spiritual Nocebo)
+## 30. Nghệ thuật Ám thị phạm cấm & Kinh dị hồi tố trong Khanh POV (Retroactive Taboo Dread & Spiritual Nocebo)
+
+> **Scope note (DIR-05):** Kỹ thuật trong section này áp dụng đặc biệt trong các cảnh **Khanh POV**. Trong cảnh Off-POV hoặc Rotating POV (Thủy/Toàn/Lan Anh/Cổn), cơ chế tương tự được thay thế bằng quan sát khách quan hành vi bên ngoài và dread nội tâm không được đặt tên — không phải vòng xoáy nội tâm có lời.
 
 Đây là thủ pháp tâm lý kinh dị đỉnh cao trong văn hóa duy linh Á Đông: biến nỗi sợ từ "ngoại cảnh" (ma quỷ hù dọa) thành "nội tại" (tâm trí tự giam cầm và ăn mòn chính mình).
 
@@ -633,7 +669,9 @@ Tác giả không bao giờ được "nhét sẵn đáp án" hoặc giải thíc
   - *Phe duy lý:* Sẽ tin rằng đây là một âm mưu tống tiền tinh vi, một vụ giả mạo, hoặc sự điên loạn của người nhà ông Cường.
   - *Phe duy linh:* Sẽ tin chắc rằng vong hồn cô Thoa đã thực sự trỗi dậy đòi mạng và đòi lại chiếc đài cát-sét.
   - *Phe trung gian:* Sẽ nhìn thấy sự đan cài ma quái giữa nghiệp báo tâm linh và bi kịch con người.
-- Càng hoài nghi, độc giả càng bị cuốn chặt vào từng trang sách. Họ đọc không chỉ để biết "con ma sẽ làm gì tiếp theo", mà để **tìm kiếm bằng chứng xác minh cho niềm tin của chính họ**.
+- Càng hoài nghi, độc giả càng bị cuốn chặt vào từng trang sách. Họ đọc không chỉ để biết `con ma sẽ làm gì tiếp theo`, mà để **tìm kiếm bằng chứng xác minh cho niềm tin của chính họ**.
+
+**Epistemic Asymmetry rule (DIR-05):** Khanh không xâu chuỗi manh mối thành kết luận ngay trong chương. Anh chỉ nhận một mảnh vụn tự nhiên, bất an thoáng qua, rồi tiếp tục sinh hoạt. Việc lắp ráp toàn bộ bức tranh **thuộc độc quyền của độc giả** cho đến Act III/IV.
 
 ### 31.3 Đỉnh cao giá trị đọc lại (High Re-read Value & Cathartic Relief)
 - **Cú thở phào giải mã (The Cathartic Revelation):**
@@ -667,7 +705,12 @@ Kinh nghiệm vận hành cho thấy các mô hình AI (kể cả khi viết, th
     - Hòa quyện nhân vật vào chính hành động: *"Lan Anh lẳng lặng tách khỏi hàng con cháu quỳ lạy, rảo bước thoăn thoắt ra góc sân sau."*
     - Để giác quan và hành vi khám phá tự dẫn dắt: *"Dưới đầu cành ổi khều nhẹ, lớp tàn tro bong ra, để lộ một mảnh cổ áo xanh công nhân đã cháy dở quăn queo..."*
 
-## Final test before approving prose
+### 32.3 Cấm Hội chứng Thám tử & Cấm So sánh gượng ép (Anti-Detective & Anti-Purple Prose — DIR-05)
+
+- **CẤM Khanh độc thoại nội tâm xâu chuỗi bằng chứng pháp y thành danh sách kết luận.** Reviser phải cắt và thay bằng cảm giác bất an thoáng qua, ớn lạnh, bỏ qua rồi đi tiếp. Nếu Khanh cần suy nghĩ một điều gì đó, cho anh suy nghĩ MỘT điều nhỏ, tự nhiên — không phải một chuỗi deduction có đánh số.
+- **CẤM so sánh gượng ép mượn ngôn ngữ pháp y / án mạng làm ẩn dụ tự nhiên.** Không ví hoa gạo như máu, không ví tiếng gió như cuống họng bị bóp nghẹt, không ví chiều tà như cảnh hiện trường.
+- **CẤM các từ quá kịch tính:** bàng hoàng, chết sững, lạnh gáy xuất hiện ba lần trong một trang, ánh mắt sắc như dao, giọng lạnh như tiền.
+- **Văn phong target:** Tả thực, lạnh, sắc bén, tiết chế. Kinh dị đến từ sự bình thường bị vặn méo, không phải từ ngôn ngữ thổi phồng.\r\n\r\n## Final test before approving prose
 
 Ask:
 

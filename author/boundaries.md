@@ -36,6 +36,15 @@ A chapter may be quiet, funny or domestic, but the early novel must maintain a d
 - Everyday-life insight may reframe evidence; it must not conjure missing evidence.
 - Reader-facing clues should remain fair when a later reveal depends on them.
 - Police and professionals retain plausible competence. Khanh should not routinely outperform trained investigators at their own jobs.
+- **Do not let Khanh monologue-chain clues into case conclusions within a chapter.** Clue synthesis belongs exclusively to the reader until Act III/IV. Khanh receives a fragment, feels brief unease, and moves on.
+- **Do not place Khanh unnaturally at private scenes between suspects.** If a scene is private to Vũ family members or suspects with no plausible reason for Khanh's presence → mandatory Cinematic Off-POV (see DIR-03).
+
+## POV boundary (DIR-03, DIR-05)
+
+- The novel uses Rotating Focalization (Khanh Main Anchor ~50–60% + Rotating POV suspects ~25% + Cinematic Off-POV ~15% + Community Lore oral). See `author/style-bible.md §3` for full architecture.
+- **Off-POV scenes (Cinematic Fly-on-the-wall) cannot contain private interior thought or explanatory confession.** They are strictly observational — behavior, speech, space, physical evidence only.
+- **Rotating POV chapters** (Thủy/Toàn/Lan Anh/Cổn limited 3rd) are allowed only when they deepen supernatural dread or crime concealment from the inside. Do not use them to explain the mystery to the reader.
+- **Anti-Omnipresent Protagonist:** Never fabricate a pretext to put Khanh behind a bush or around a corner to witness a private confrontation. If the scene requires witnessing private suspects → switch to Off-POV.
 
 ## Supernatural boundaries
 
@@ -97,6 +106,8 @@ Foreshadowing should create a question. It should not answer tomorrow's question
 - CCTV / AI enhancement producing impossible forensic certainty
 - convenient police-friend database lookups
 - escalating magical combat as the main resolution engine
+- **Khanh delivering an in-chapter interior monologue that chains physical evidence → suspect psychology → case conclusion** (Anti-Detective rule, DIR-05)
+- **Forced purple-prose comparisons that import crime/forensic language as metaphor** (e.g., hoa gạo như máu, tiếng gió như cuống họng bị bóp) (DIR-05)
 
 ## Scope boundary
 

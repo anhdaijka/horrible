@@ -1,3 +1,7 @@
+﻿> **Historical archive — not current authority (2026-09-16).** This file is a discovery session record from the early development of Horrible. Its decisions and structures have since been superseded, amended, or absorbed into uthor/decisions.md, uthor/directives/, and the bible files. Do not use this file to infer current POV architecture, Case Zero mechanics, character roles, or world rules. Read uthor/style-bible.md, uthor/creative-constitution.md, uthor/boundaries.md, and uthor/directives/ for current authority.
+
+---
+
 # Discovery 09 — Supernatural Epistemology & Horror Rules
 
 Status: **accepted development material**. This document is the detailed operational source of truth for supernatural phenomena in `Horrible`. It refines D-013 in `author/decisions.md` without turning the setting into a fantasy ruleset.

@@ -1,4 +1,4 @@
----
+﻿---
 title: Horrible
 schema-version: 2
 genre: horror
@@ -10,7 +10,7 @@ themes:
   - truth-and-uncertainty
   - responsibility-for-knowing
   - family-and-unfinished-things
-pov: third-person-limited-primary
+pov: rotating-focalization-multi-pov
 tense: present
 ---
 
@@ -38,12 +38,12 @@ Khanh is neither a ghost hunter nor a chosen medium. He checks ordinary causes b
 - Khanh remains a working software engineer without a confirmed chosen-one role or combat power system.
 - Grandfather is a gateway into history and local spiritual experience, not the final answer to the universe.
 - Oral ghost stories told by ordinary people are a core narrative channel and may frighten the reader before Khanh can verify anything.
-- Primary narrative mode is close third-person around Khanh. Under **DIR-03**, deliberately designed cinematic-objective off-POV scenes are allowed when Khanh cannot plausibly witness an event; these interludes may not expose private thoughts or future answers.
+- Narrative mode is **Rotating Focalization / Multi-POV** (DIR-03, DIR-05): Khanh Main Anchor POV (~50–60%) + Rotating POV suspects/family (~25%) + Cinematic Off-POV fly-on-the-wall (~15%) + Community Lore oral. Off-POV may not expose private thoughts or confession. Khanh is a Cognitive Bridge, not an investigator.
 
 ## Volume 1
 
 Working thematic title: **Những chuyện tưởng đã kết thúc**.
 
-Case Zero — `Đơn hàng cho người chưa chết` — is the active opening arc. Chapters 1–6 are author-approved and canonized in the current repository state. Current Case Zero authority comes from the newest direct author instruction, `author/directives/`, `author/decisions.md`, continuity/character registries, verified research and the active arc plan in that order.
+Case Zero — `Đơn hàng cho người chưa chết` — is the active opening arc. **Repository is in pre-draft state. No chapters canonized (full reset 2026-09-16).** Current Case Zero authority comes from the newest direct author instruction, `author/directives/`, `author/decisions.md`, continuity/character registries, verified research and the active arc plan in that order.
 
 The earlier opening-reset note is historical only and must not be used to treat the current canonized opening as unestablished.

@@ -94,6 +94,19 @@ This is not permission for spoiler leakage or narrator lectures.
 
 The narrator should create **questions**, not answer future questions prematurely.
 
+## POV Architecture (DIR-03, DIR-05)
+
+Horrible dùng **Rotating Focalization / Multi-POV** — không phải Limited 3rd POV thuần túy:
+
+1. **Khanh Main Anchor POV** (~50–60%): close 3rd limited. Khanh là Cognitive Bridge (mắt xích nhận thức), không phải investigator. Anh thu nhận mảnh vụn đời thường tự nhiên, bất an thoáng qua, rồi tiếp tục — không xâu chuỗi thành kết luận trong chương.
+2. **Rotating POV người trong cuộc** (~25%): limited 3rd sâu vào Thủy/Toàn/Lan Anh/Cổn khi họ đối diện với nỗi kinh hoàng tâm linh riêng tư hoặc hành vi che giấu tội lỗi.
+3. **Cinematic Off-POV Fly-on-the-wall** (~15%): khách quan, không có interior thought, không confession. BẮt buộc khi Khanh không thể có mặt tự nhiên tại cảnh đó.
+4. **Community Lore & Oral**: Thắng, Mai, bà cụ Tứ, công an Long — tiếng nói cộng đồng.
+
+**Anti-Omnipresent Protagonist (guard cứng):** Tuyệt đối cấm ép Khanh có mặt gượng tạo tại cảnh riêng tư giữa ngư phạm (nấp sau bụi tre, đi ngang qua đúng lúc tống tiền, ẩu đả). Nếu cảnh là riêng tư giữa gia đình Vũ → bắt buộc chuyển sang Cinematic Off-POV.
+
+Xem `author/style-bible.md §3` để biết kỷ luật đầy đủ.
+
 ## Core horror engine
 
 A reliable sequence is:
@@ -186,13 +199,15 @@ Mystery is structural support; horror is atmospheric and thematic truth.
 
 - **Dual-layer clues:** Important uncanny details that carry a later mystery payoff should work on two levels when possible: unsettling on first read and fair/recontextualizable on reread. **Not every anomaly must be a clue.** Atmosphere, character detail, procedural evidence and direct supernatural manifestation may exist without a detective payoff.
 - **Anti-jumpscare mandate:** Avoid arbitrary theatrical spooking and cheap acoustic shocks. Dread should emerge from situation, physical consequence, psychological pressure, ritual/social context or a specific distortion of reality.
-- **Reader's epistemic agency:** The narrative should not spoon-feed answers. Invite competing hypotheses where the case supports them and let readers test those hypotheses against evidence.
+- **Reader’s epistemic agency:** The narrative should not spoon-feed answers. Invite competing hypotheses where the case supports them and let readers test those hypotheses against evidence.
 - **High re-read value:** Revelations should make earlier fair clues more meaningful rather than merely explaining them away.
 - Horror first, mystery second: investigation should increase dread, not drain it.
 - A solved human mechanism does not automatically erase supernatural residue.
 - A confirmed ghost does not eliminate the need for causal discipline around human actions.
 - Fair clues matter when a reveal depends on them.
 - The reader should sometimes know more than Khanh and sometimes less.
+
+**Epistemic Asymmetry — ngưyên tắc thiết kế chủ đạo** của Case Zero và mọi arc có mystery layer: độc giả luôn đi trước Khanh một nhịp trong việc ghép nối human crime layer. Sự chênh lệch nhận thức này tạo ra Dramatic Irony — độc giả thấy ngưy hiểm đang rình rập trong khi Khanh chỉ nhìn thấy mảnh vụn đời thường. Đây là nguồn gốc của dread sâu nhất trong tác phẩm, không phải jumpscare.
 
 ## The dead
 
@@ -252,6 +267,8 @@ Khanh remains:
 - somebody whose exposure grows through life and relationships, not because the universe announces him as chosen.
 
 His skepticism must not function as an authorial brake on horror. He can be wrong.
+
+**Khanh là Observer và Cognitive Bridge, không phải investigator.** Trong từng chương anh chỉ tiếp nhận một vài mảnh vụn rời rạc phát sinh tự nhiên trong sinh hoạt đời thường. Anh không xâu chuỗi chúng thành kết luận vụ án trong chương. Anh kết nối các mảnh ghép chỉ ở Act III/IV khi biến cố dồn ép anh vào bước đường cùng.
 
 Long arcs remain:
 
