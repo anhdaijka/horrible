@@ -1,4 +1,4 @@
-# Session State — Horrible
+﻿# Session State — Horrible
 
 > Current handoff for `anhdaijka/horrible@main`. This file summarizes active state; it does not outrank direct author instructions or `author/directives/`.
 
