@@ -199,7 +199,7 @@ Every compatible repo-task response (preflight, write, review, revise, canonize,
 
 **Resulting commit:** `<prefix: short description>`
 
-**Next-step recommendation:** <task> → <recommended model> / <low | medium | high | xhigh | max | ultra> — <một câu lý do>.
+**Next-step recommendation:** <task> → <Astra | Sol | Terra | Luna | Claude Opus 4.8 | Gemini 3.x> / <low | medium | high | xhigh | max | ultra> — <một câu lý do>.
 ```
 
 ### Agent / Model recommendation
@@ -211,9 +211,18 @@ Based on task profile — use as guidance, not a hard rule. Models evolve; re-ev
 | **Preflight + prose drafting** | Claude Opus 4.8 / Sonnet 4.6 | Best prose naturalness, voice preservation, sustained coherence over long context, highest instruction-adherence for multi-constraint creative tasks |
 | **Research, cultural fact-check, world-consistency** | Gemini 3.x / o3 | Native web access, real-time synthesis, strong at grounding claims in verifiable sources |
 | **Continuity sync, canon diffs, registry updates, structured tasks** | GPT-4o / o3 | Fast, reliable tool use, strong at structured output and multi-step mechanical tasks |
-| **Surgical revision, line editing, voice preservation** | Claude Opus 4.8 | Lowest risk of "AI-ifying" prose; best at preserving author voice in targeted edits |
+| **Surgical revision, line editing, voice preservation** | Claude Opus 4.8 | Lowest risk of “AI-ifying” prose; best at preserving author voice in targeted edits |
 
 > *As of Sep 2026: o4-mini retired Feb 2026. Gemini 2.5 Pro being phased out; use Gemini 3.x successor. Claude flagship is Opus 4.8 with Sonnet 4.6 as cost-effective alternative. OpenAI flagship is GPT-5 for general tasks, o3 for reasoning-heavy analysis.*
+
+### OpenAI model tier reference (GPT-6 / GPT-5.6 family)
+
+| Model | Tier | Best for |
+|---|---|---|
+| **GPT-6 Astra** | Flagship (released Sep 3, 2026) | Long-horizon agentic tasks, computer use, multi-step complex workflows, advanced reasoning. Use for preflight + write when maximum sustained focus is needed. |
+| **GPT-5.6 Sol** | Most capable GPT-5.6 tier | Complex professional work, deep analysis, coding. Use for world-consistency checking and research-heavy tasks within the GPT-5.6 family. |
+| **GPT-5.6 Terra** | Balanced | Everyday structured work. Use for continuity sync, registry updates, canon diffs — good performance/cost ratio. |
+| **GPT-5.6 Luna** | Cost-efficient | Quick, high-volume, budget-sensitive tasks. Use for light annotation, index updates, link validation. |
 
 ### Intensity scale
 
