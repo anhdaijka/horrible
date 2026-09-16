@@ -188,3 +188,36 @@ Chapter operations use `.agents/workflows/hr-*.md` and the four `hr-source-*` sk
 Xem `docs/playbooks/horrible-craft-review.md` để nắm quy trình thẩm định và định tuyến thẩm quyền.
 
 Use structured story-state tools for deterministic maintenance and craft tools for diagnosis. Avoid duplicate persistence systems.
+
+## Task Reporting Format
+
+Every compatible repo-task response (preflight, write, review, revise, canonize, research, refactor) **must end** with the following block:
+
+```
+**Changed files:**
+- `<path>` — <what changed>
+
+**Resulting commit:** `<prefix: short description>`
+
+**Next-step recommendation:** <Astra | Sol | Terra | Luna> / <low | medium | high | xhigh | max | ultra> — <một câu lý do>.
+```
+
+### Agent taxonomy
+
+| Agent | Profile |
+|---|---|
+| **Astra** | Generalist, high creative range, best for preflight + write + multi-step tasks |
+| **Sol** | Strong at research, analysis, and world-consistency checking |
+| **Terra** | Reliable for structured/mechanical tasks: continuity sync, canon diffs, registry updates |
+| **Luna** | Specialized in revision and surgical prose editing |
+
+### Intensity scale
+
+| Level | Meaning |
+|---|---|
+| `low` | Routine, low-stakes; existing templates sufficient |
+| `medium` | Standard chapter work |
+| `high` | Chapter with complex POV architecture or multiple clue layers |
+| `xhigh` | Opening chapters, act-break chapters, or scenes with high recontextualization stakes |
+| `max` | First draft after a full reset; chapters anchoring the clue matrix (C-01, C-03, C-10) |
+| `ultra` | Act III/IV reveal chapters; any scene that collapses the secular suspect model |
