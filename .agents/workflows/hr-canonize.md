@@ -1,4 +1,4 @@
----
+﻿---
 description: Tự động hóa thủ tục phê duyệt Canonize, cập nhật continuity, đồng bộ Ma trận Manh mối và bàn giao phiên cho chương tiếp theo.
 ---
 
@@ -36,3 +36,18 @@ Workflow này được kích hoạt **duy nhất** sau khi Tác giả phát lệ
 
 6. **Báo cáo Hoàn tất**:
    - Xuất thông báo tóm tắt Canonization Diff cho Tác giả, xác nhận toàn bộ continuity và ma trận đã được khóa an toàn.
+---
+
+## Báo cáo kết thúc (bắt buộc sau mỗi lượt hoàn thành)
+
+**Changed files:**
+- `chapters/chapter-XX.md` — created (canonical prose)
+- `chapters/_index.md` — updated (chapter registry)
+- `continuity/state.md` — updated (character/object/knowledge state + current-chapter)
+- `plot/arcs/case-zero-clue-and-epistemic-matrix.md` — updated (clue status sync)
+- `author/session-state.md` — updated (next action → /hr-preflight CH-XX+1)
+
+**Resulting commit:**
+`canon: CH-XX — <tên chương hoặc mô tả ngắn sự kiện canon chính>`
+
+**Next-step recommendation:** `<Astra | Sol | Terra | Luna> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do: thường là recommend preflight cho chương tiếp theo với intensity phù hợp độ phức tạp của chương đó>`.
