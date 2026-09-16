@@ -20,6 +20,7 @@ Khác với `author/decisions.md` (vốn là kho lưu trữ tổng hợp các qu
 | **`DIR-04`** | [DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md](DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md) | Cơ chế Pháp y, Bẫy Trung thành Đốt Áo Công Nhân, Timeline Đêm 13 & Chiếc Smartphone Kẹt Niêm Phong Cầu Thang | Toàn bộ Case Zero |
 | **`DIR-05`** | [DIR-05-character-roles-and-mystery-mechanics.md](DIR-05-character-roles-and-mystery-mechanics.md) | Epistemic Asymmetry, Rotating POV Architecture, Anti-Omnipresent Protagonist Guard, Reader as True Detective | Toàn bộ Case Zero |
 | **`DIR-06`** | [DIR-06-environmental-and-animal-dread.md](DIR-06-environmental-and-animal-dread.md) | Animal Prescience, Acoustic Dread (côn trùng im bặt, âm thanh biến dạng), Folk Horror Extension | Toàn bộ Tác phẩm |
+| **`DIR-07`** | [DIR-07-horror-mystery-craft-architecture.md](DIR-07-horror-mystery-craft-architecture.md) | Inverted Detective Horror Model, Dual-Layer Clue Design, 4-Tier Epistemic Architecture, Dread Escalation, Red Herring Integrity, Oral Horror Community Mechanics, Fair-Play Horror Mystery, Recontextualization Design | Toàn bộ Tác phẩm |
 
 ---
 *Lưu ý cho các Agent*: Không bao giờ được phép xóa, viết đè làm giảm bớt nội dung, hoặc bỏ qua bất kỳ chỉ thị nào trong thư mục này nếu chưa có lệnh trực tiếp từ Tác giả.

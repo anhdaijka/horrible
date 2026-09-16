@@ -1,4 +1,4 @@
----
+﻿---
 name: hr-source-review
 description: Thẩm định phản biện đối kháng (Adversarial Red-Team Review) toàn văn bản thảo chương của Horrible theo 5 Cổng Thẩm Mỹ.
 ---
@@ -50,6 +50,17 @@ Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` và `prompts/roles
 
    ### Gate E — Word Count & Pacing Substantiality
    - Độ dài chuẩn 2.500–3.500 từ; nhịp chậm rãi, dư ba kết chương.
+
+   ### Gate F — Horror-Mystery Craft Architecture (DIR-07)
+   **Đây là gate tổng hợp craft quality toàn diện. Áp dụng §10 của DIR-07.**
+
+   - [ ] **Dual-Layer Clue:** Clue trong chương có hai lớp ý nghĩa không (surface + retroactive reread value)?
+   - [ ] **Epistemic Asymmetry delivery:** Độc giả có thấy điều Khanh chưa thấy trong ít nhất một cảnh không?
+   - [ ] **Dread escalation structure:** Chương có kiến trúc nhịp thở (bình thường → bất an → nhịp thở → leo thang) hay chỉ flat horror?
+   - [ ] **Red herring integrity:** Hành vi đáng ngờ của nghi phạm có thể giải thích bằng cả hai giả thuyết (tội/vô tội về cái chết) không?
+   - [ ] **Recontextualization value:** Sau Act IV, ít nhất một chi tiết trong chương này sẽ trở nên có ý nghĩa khác. Xác định chi tiết đó.
+   - [ ] **Oral horror community:** Lời đồn/khẩu truyền có chứa hạt nhân sự thật ẩn trong lớp giải thích sai không?
+   - [ ] **Fair-play compliance:** Mọi clue cần cho kết luận Act III/IV đã có mặt trên trang giấy chưa?
 
 4. **Trích xuất Bằng chứng Nguyên văn (Mandatory 5 Spans)**:
    Trích xuất tối thiểu **5 Spans nguyên văn** kèm số dòng `Lxx-Lyy`:
