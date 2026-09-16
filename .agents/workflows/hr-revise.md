@@ -22,4 +22,4 @@ description: Biên tập viên độc lập phẫu thuật sửa chữa bản th
 **Resulting commit:** *(nếu agent được phép commit)*
 `revise: CH-XX surgical revision — <tóm tắt các finding đã resolve: X CRITICAL, Y MAJOR>`
 
-**Next-step recommendation:** `<Astra | Sol | Terra | Luna> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do: nếu findings đã resolve hết thì recommend canonize; nếu còn UNRESOLVED/NEEDS_AUTHOR thì nêu lý do cần author gate>`.
+**Next-step recommendation:** `<task> → <recommended model> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do: nếu findings đã resolve hết thì recommend canonize; nếu còn UNRESOLVED/NEEDS_AUTHOR thì nêu lý do cần author gate>`.

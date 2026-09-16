@@ -21,4 +21,4 @@ description: Lập preflight định vị một chương cho Horrible (neo giác
 **Resulting commit:** *(nếu agent được phép commit)*
 `plan: preflight CH-XX — <mô tả ngắn bối cảnh và hook chương>`
 
-**Next-step recommendation:** `<Astra | Sol | Terra | Luna> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do tại sao chọn agent và intensity này cho bước viết tiếp theo>`.
+**Next-step recommendation:** `<task> → <recommended model> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do tại sao chọn agent và intensity này cho bước viết tiếp theo>`.

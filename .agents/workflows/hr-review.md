@@ -21,4 +21,4 @@ description: Thẩm định phản biện đối kháng (Adversarial Red-Team Re
 **Resulting commit:** *(nếu agent được phép commit)*
 `review: CH-XX adversarial review — <verdict: PASS | REVISE_REQUIRED> — <tóm tắt 1 finding chính>`
 
-**Next-step recommendation:** `<Astra | Sol | Terra | Luna> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do: nếu PASS thì recommend revise nhẹ hoặc canonize; nếu REVISE_REQUIRED thì recommend revise với intensity phù hợp độ nặng của findings>`.
+**Next-step recommendation:** `<task> → <recommended model> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do: nếu PASS thì recommend revise nhẹ hoặc canonize; nếu REVISE_REQUIRED thì recommend revise với intensity phù hợp độ nặng của findings>`.

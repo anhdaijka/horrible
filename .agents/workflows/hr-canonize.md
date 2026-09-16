@@ -50,4 +50,4 @@ Workflow này được kích hoạt **duy nhất** sau khi Tác giả phát lệ
 **Resulting commit:**
 `canon: CH-XX — <tên chương hoặc mô tả ngắn sự kiện canon chính>`
 
-**Next-step recommendation:** `<Astra | Sol | Terra | Luna> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do: thường là recommend preflight cho chương tiếp theo với intensity phù hợp độ phức tạp của chương đó>`.
+**Next-step recommendation:** `<task> → <recommended model> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do: thường là recommend preflight cho chương tiếp theo với intensity phù hợp độ phức tạp của chương đó>`.

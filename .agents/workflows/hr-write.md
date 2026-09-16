@@ -21,4 +21,4 @@ description: Chấp bút bản thảo văn xuôi (draft) cho một chương củ
 **Resulting commit:** *(nếu agent được phép commit)*
 `draft: CH-XX non-canon draft — <mô tả hook và POV chính của chương>`
 
-**Next-step recommendation:** `<Astra | Sol | Terra | Luna> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do tại sao chọn agent và intensity này cho bước review tiếp theo>`.
+**Next-step recommendation:** `<task> → <recommended model> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do tại sao chọn agent và intensity này cho bước review tiếp theo>`.

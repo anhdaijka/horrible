@@ -199,17 +199,21 @@ Every compatible repo-task response (preflight, write, review, revise, canonize,
 
 **Resulting commit:** `<prefix: short description>`
 
-**Next-step recommendation:** <Astra | Sol | Terra | Luna> / <low | medium | high | xhigh | max | ultra> — <một câu lý do>.
+**Next-step recommendation:** <task> → <recommended model> / <low | medium | high | xhigh | max | ultra> — <một câu lý do>.
 ```
 
-### Agent taxonomy
+### Agent / Model recommendation
 
-| Agent | Profile |
-|---|---|
-| **Astra** | Generalist, high creative range, best for preflight + write + multi-step tasks |
-| **Sol** | Strong at research, analysis, and world-consistency checking |
-| **Terra** | Reliable for structured/mechanical tasks: continuity sync, canon diffs, registry updates |
-| **Luna** | Specialized in revision and surgical prose editing |
+Based on task profile — use as guidance, not a hard rule. Models evolve; re-evaluate when new releases change the landscape.
+
+| Task | Recommended model | Rationale |
+|---|---|---|
+| **Preflight + prose drafting** | Claude Opus 4.8 / Sonnet 4.6 | Best prose naturalness, voice preservation, sustained coherence over long context, highest instruction-adherence for multi-constraint creative tasks |
+| **Research, cultural fact-check, world-consistency** | Gemini 3.x / o3 | Native web access, real-time synthesis, strong at grounding claims in verifiable sources |
+| **Continuity sync, canon diffs, registry updates, structured tasks** | GPT-4o / o3 | Fast, reliable tool use, strong at structured output and multi-step mechanical tasks |
+| **Surgical revision, line editing, voice preservation** | Claude Opus 4.8 | Lowest risk of "AI-ifying" prose; best at preserving author voice in targeted edits |
+
+> *As of Sep 2026: o4-mini retired Feb 2026. Gemini 2.5 Pro being phased out; use Gemini 3.x successor. Claude flagship is Opus 4.8 with Sonnet 4.6 as cost-effective alternative. OpenAI flagship is GPT-5 for general tasks, o3 for reasoning-heavy analysis.*
 
 ### Intensity scale
 
