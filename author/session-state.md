@@ -24,19 +24,9 @@ Generated consolidation/index files never outrank the sources above.
 
 ## Current manuscript state
 
-- Chapters **1–6 are author-approved and canonized**.
-- `continuity/state.md` uses `current-chapter: 6`.
-- Active manuscript prose for Chapter 6 is canonized in `chapters/chapter-06.md`.
-- Do not infer canon status from older opening-reset notes or rejected historical ChatGPT drafts.
+**No chapters drafted or canonized.** Repository is in pre-draft state following a full author-initiated reset on 2026-09-16.
 
-### Historical reset note
-
-Earlier ChatGPT-written implementations of Chapters 1–2 were rejected and deleted during the opening reset. They were later replaced by new author-approved manuscripts now present in `chapters/chapter-01.md` and `chapters/chapter-02.md`.
-
-Therefore:
-- do not recover/reuse the rejected versions from Git history;
-- do use the current canonized Chapter 1–2 files when prose comparison is actually required;
-- higher-level author canon that survived the reset remains authoritative according to the normal hierarchy.
+All prose (Chapters 1–6) and all revision-work (CH-01–CH-07) were author-rejected and removed. Canon knowledge (directives, plot, characters, research, continuity locks) is fully intact.
 
 ## Highest-priority current directives
 
@@ -46,6 +36,7 @@ Therefore:
 - **DIR-02 — Thoa 1996 manslaughter canon:** Thoa is not deliberately drowned. Cường strikes/shoves her during the forced-marriage/wedding-money dispute; she falls, hits her head and later dies. Thủy discovers the body and pleads for a funeral; Cổn orders concealment and Cường complies.
 - **DIR-03 — Cinematic off-POV / oral horror:** main mode remains Khanh close-third, but objective fly-on-the-wall off-POV scenes are allowed. Such scenes cannot contain private interior thought or explanatory confession.
 - **DIR-04 — Case Zero forensic mechanics:** no sedatives; Toàn/Cường scuffle at 22:35–22:45; Thủy is genuinely at Yên Phong on night shift; Cường dies at 22:54:32; smartphone remains trapped behind the preserved staircase scene; Lan Anh's loyalty trap uses the scratched neck/torn bloody work shirt; uncanny erasure of fingernail evidence on Cường (D-060).
+- **DIR-05 — Epistemic Asymmetry / Scattered Clues / Flexible POV:** Khanh is not the sole evidence-receiver. Dramatic irony over detective short-circuit. Main POV Khanh + Cinematic Off-POV Fly-on-the-wall (DIR-03). Clues distributed across POVs so only the reader can assemble the full picture.
 
 ## Locked Case Zero objective truth
 
@@ -91,7 +82,7 @@ Therefore:
 - An occult/supernatural intervention touched the scene, wiping biological evidence off the corpse while leaving the physical wounds and torn shirt on Toàn intact.
 - When police/forensics conduct preliminary examination on morning 14, no foreign tissue is found under Cường's nails, explaining why Toàn is not immediately detained on forensic grounds.
 - The story presents this as pure uncanny ambiguity without narrator lecturing.
-- Strict Lore Firewall: D-060 is an objective background lock; characters are STRICTLY FORBIDDEN from recounting, discussing or confessing this anomaly in early Off-POV dialogue (such as Chapter 06 Scene 1). The anomaly will only unravel in the final acts (Act 3 / Act 4) when the case breaks and Toàn is interrogated by police.
+- Strict Lore Firewall: D-060 is an objective background lock; characters are STRICTLY FORBIDDEN from recounting, discussing or confessing this anomaly in early Off-POV dialogue. The anomaly will only unravel in the final acts (Act 3 / Act 4) when the case breaks and Toàn is interrogated by police.
 
 ## Information-order firewall
 
@@ -118,8 +109,12 @@ Do not canonize revision-work prose into `chapters/` until the author gate is ex
 
 ## Current next action
 
-1. Chapter 6 is author-approved and canonized in `chapters/chapter-06.md`.
-2. Next action: Preflight Chapter 7 (`/hr-preflight 7` — *Gốc gạo bờ đầm*).
+**Pre-draft state.** Tất cả chapters đã bị author-rejected và xóa (2026-09-16).
+
+Khi tác giả sẵn sàng bắt đầu lại:
+1. Thiết lập Preflight CH-01 (`/hr-preflight 1`).
+2. Trình duyệt Preflight cho Tác giả.
+3. Tiến hành `/hr-write 1` sau khi Preflight được duyệt.
 
 ## Verification gates still open
 

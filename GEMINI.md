@@ -6,13 +6,11 @@ On branch `main`, always read `author/session-state.md` immediately after `AGENT
 
 ## Current manuscript state
 
-The historical Chapter 1–2 reset is no longer the active task. Replacement **Chapters 1–5 are author-approved and canonized** in `chapters/`.
+**No chapters drafted or canonized.** All prose (Chapters 1–6) and all revision-work (CH-01–CH-07) were author-rejected and removed on 2026-09-16. Repository is in pre-draft state.
 
-An older ChatGPT-written Chapter 1–2 implementation was rejected and deleted during the opening reset. Do not recover, quote, imitate or reuse that rejected Git-history material unless the author explicitly asks. The current `chapters/chapter-01.md` and `chapters/chapter-02.md` are later replacement manuscripts and are the active prose authority when prose is relevant.
+Do not attempt to recover rejected prose from Git history unless the author explicitly requests it.
 
-Chapter 6 currently exists in `revisions/chapter-work/CH-06/revised.md` and remains behind `AUTHOR GATE: PENDING`. Do not canonize it until the author explicitly approves it.
-
-`HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md`, and `CONSOLIDATION_REPORT.md` are generated convenience/index files. They may lag behind current canon and are **not authority** over current author instruction, `author/directives/`, `author/decisions.md`, `continuity/`, `plot/`, `characters/`, `research/verified/`, or approved active chapters.
+`HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md`, and `CONSOLIDATION_REPORT.md` are generated convenience/index files. They may lag behind current canon and are **not authority** over current author instruction, `author/directives/`, `author/decisions.md`, `continuity/`, `plot/`, `characters/`, or `research/verified/`.
 
 ## Mandatory Case Zero authority order
 

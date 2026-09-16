@@ -20,18 +20,22 @@ Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` và `prompts/roles
    - Ghi lại bảng Full-Read Coverage theo từng dải tối đa 120 dòng kèm nhận xét cụ thể. Nếu chưa đọc hết, báo ngay `INCOMPLETE`.
 
 3. **Kiểm toán qua 5 Cổng Thẩm Mỹ Horrible**:
-   - **Gate A (Information Order & POV Lock)**: Khanh Limited 3rd POV. Rà soát rò rỉ toàn tri. TUYỆT ĐỐI CẤM Author Intrusion (Narrator giảng bài, tóm tắt tiểu sử, hay tự chốt suy luận hộ nhân vật). Gắn cờ `CRITICAL` nếu vi phạm `DIR-01` (để lộ manh mối án mạng Thoa sớm, hoặc phá vỡ cấu trúc bí mật).
-   - **Gate B (Cultural Reality & Folk Grounding)**: Kiểm tra tính chuẩn xác của đồ mã, nghi lễ, đối chiếu `research/verified/`. Bắt lỗi bịa đặt bừa bãi phong tục thật.
-   - **Gate C (Horror Promise, Retroactive Dread & Cognitive Conflict)**: Cảm giác ngột ngạt (dread), hai tầng logic. Bắt buộc kiểm tra theo `DIR-01`: Dị tượng có tập trung vào hồn ma Cường không? Có thể hiện được sự xung đột nhận thức giữa kẻ thấy ma và người dùng logic gạt đi (Thắng/ông Cổn) không? Gắn cờ `MAJOR` nếu để 100% nhân vật hùa vào tin ma quỷ làm mất lực căng tâm lý.
-   - **Gate D (Voice, Dialogue Cadence & Physicality)**: Khẩu ngữ tự nhiên, triệt tiêu thoại kịch tuồng. Gắn cờ `MAJOR` nếu nhân vật hoảng loạn lại miêu tả rành mạch máu me (B-movie gore) thay vì bị "khóa ngôn ngữ". Bắt buộc thể xác hóa cảm xúc (Show), cấm dán nhãn (Tell). **Bắt buộc gắn cờ `MAJOR` nếu xuất hiện sáo rỗng AI (Section 32 Style Bible: "cắn chặt môi đến rỉ máu", gậy chống lười biếng "Đó là...", "Đó chính là...", "Đấy là...")**.
+   - **Gate A (Information Order, POV Lock, Epistemic Asymmetry & Anti-Detective Overreach)**:
+     - *Kiểm soát Điểm nhìn & Cấm có mặt gượng ép (DIR-03, DIR-05)*: Rà soát xem phân cảnh có bị ép Khanh vào hiện trường riêng tư, bí mật của nghi phạm (như nấp sau bụi tre rình rập, tình cờ đi ngang nghe lén tống tiền/ẩu đả) hay không. Gắn cờ `CRITICAL` hoặc `MAJOR` nếu vi phạm **Anti-Omnipresent Protagonist Guard** (những cảnh này BẮT BUỘC dùng Cinematic Off-POV). Trong cảnh Off-POV, bắt lỗi độc thoại nội tâm hoặc confession dump.
+     - *Bắt lỗi Hội chứng Thám tử & Tập trung hóa Manh mối (DIR-05)*: Gắn cờ `CRITICAL` hoặc `MAJOR` nếu dồn hết mọi chứng cứ vào tay Khanh, hoặc Khanh/Narrator tự liệt kê xâu chuỗi kết luận vụ án hộ độc giả (Vi phạm nguyên tắc *Show the clue, hide the conclusion* và tước đoạt vai trò *Độc giả là Thám tử duy nhất*). Khanh chỉ được phép tiếp nhận 1-2 mảnh ghép rời rạc trong sinh hoạt đời thường; việc lắp ghép phải thuộc về độc giả.
+     - *Tường lửa Lore & Rò rỉ toàn tri*: TUYỆT ĐỐI CẤM Author Intrusion (Narrator giảng bài, tóm tắt tiểu sử). Gắn cờ `CRITICAL` nếu vi phạm `DIR-01` (để lộ manh mối án mạng Thoa sớm, hoặc phá vỡ cấu trúc bí mật).
+   - **Gate B (Cultural Reality & Folk Grounding)**: Kiểm tra tính chuẩn xác của đồ mã, nghi lễ, đối chiếu `research/verified/`. Bắt lỗi bịa đặt bừa bãi phong tục thật. Kiểm tra việc tận dụng Environmental Dread (linh tính động vật, áp lực môi trường) có đúng với `DIR-06` hay không.
+   - **Gate C (Horror Promise, Retroactive Dread & Cognitive Conflict)**: Cảm giác ngột ngạt (dread), hai tầng logic. Bắt buộc kiểm tra theo `DIR-01` và `DIR-06`: Dị tượng có tập trung vào hồn ma Cường không? Có thể hiện được sự xung đột nhận thức giữa kẻ thấy ma và người dùng logic gạt đi (Thắng/ông Cổn) không? Âm thanh màn đêm và sự im lặng của côn trùng có được dùng để build-up không hay bị bỏ quên? Gắn cờ `MAJOR` nếu để 100% nhân vật hùa vào tin ma quỷ làm mất lực căng tâm lý.
+   - **Gate D (Voice, Cadence, Physicality & Anti-Purple Prose)**: Khẩu ngữ tự nhiên, triệt tiêu thoại kịch tuồng. Bắt buộc thể xác hóa cảm xúc (Show), cấm dán nhãn (Tell). Gắn cờ `MAJOR` nếu nhân vật hoảng loạn lại miêu tả rành mạch máu me (B-movie gore). **Gắn cờ `MAJOR` nếu phát hiện Research Leakage hoặc So sánh sượng/sáo rỗng** (mượn kiến thức pháp y/tâm linh làm ẩn dụ sai bối cảnh, ví von gượng ép như máu đông, tàu lá héo). Bắt buộc gắn cờ `MAJOR` nếu xuất hiện sáo rỗng AI (Section 32: "cắn chặt môi rỉ máu", gậy chống "Đó là...", "Đó chính là...").
    - **Gate E (Word Count & Pacing Substantiality)**: Độ dài chuẩn 2.500 – 3.500 từ; nhịp chậm rãi, dư ba kết chương.
 
 4. **Trích xuất Bằng chứng Nguyên văn (Mandatory Spans)**:
-   - Trích xuất tối thiểu 4 Spans nguyên văn kèm số dòng `Lxx-Lyy` để chứng minh nhận định:
+   - Trích xuất tối thiểu 5 Spans nguyên văn kèm số dòng `Lxx-Lyy` để chứng minh nhận định:
      - Span 1: Khẩu khí / Đối thoại đời thường miền Bắc.
      - Span 2: Chi tiết nghề mã / Không gian nồm ẩm Bắc Bộ.
      - Span 3: Phản xạ thể xác trước nỗi sợ (Physicality of Dread).
      - Span 4: Dị tượng kỳ quái / Dư ba kết chương.
+     - Span 5: Áp bức môi trường & Linh tính động vật (Environmental & Animal Dread).
 
 5. **Lập Bảng Chi Tiết Findings & Xuất Báo Cáo**:
    - Ghi nhận từng lỗi theo format: Severity (`CRITICAL / MAJOR / MINOR / OPTIONAL`), Location (`Lxx-Lyy`), Context (`NARRATOR / DIALOGUE`), Problem, Evidence, Why it matters, Smallest effective intervention.

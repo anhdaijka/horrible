@@ -23,7 +23,9 @@ Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` và `prompts/roles
    - Nếu lỗi là thoại kịch tuồng / lore-dump: băm nhỏ câu thoại dài, thêm ngập ngừng, lặp từ, hơi thở hoặc phản xạ lảng tránh đúng chất thôn quê.
    - Nếu phát hiện lỗi "Gore/Info-dump lúc hoảng loạn": phẫu thuật cắt bỏ toàn bộ miêu tả thị giác rùng rợn, thay bằng phản xạ cơ thể (ôm mặt, nấc nghẹn, khóa cổ họng).
    - Nếu lỗi là dán nhãn cảm xúc ("sợ hãi", "chột dạ"): thay bằng phản xạ sinh lý/vật lý trực tiếp.
-   - Nếu phát hiện sáo rỗng AI ("cắn môi rỉ máu", gậy chống "đó là...", từ làm yếu "dường như"): phẫu thuật cắt bỏ triệt để và thay bằng thể xác hóa đích thực hoặc câu văn chủ động theo Section 32 Style Bible.
+   - Nếu phát hiện sáo rỗng AI ("cắn môi rỉ máu", gậy chống "đó là...", từ làm yếu "dường như") hoặc so sánh gượng ép/research leakage: phẫu thuật cắt bỏ triệt để, giữ lại miêu tả thuần túy tả thực chân lạnh.
+   - Nếu phát hiện lỗi Overreach (nhân vật đóng vai thám tử, tự xâu chuỗi/tóm tắt bằng chứng): Phẫu thuật cắt bỏ toàn bộ đoạn văn liệt kê bằng chứng, thay bằng cảm giác bất an hoặc sự im lặng. Biến các câu thoại "hỏi cung" thành câu hỏi buột miệng.
+   - Nếu phát hiện lỗi Spoil/Leakage (phơi bày quá rõ diễn biến hoặc thủ phạm): Cắt tỉa lại để manh mối chỉ xuất hiện thoáng qua (glimpse), trả lại sự mơ hồ cho độc giả tự ráp nối.
    - Tuyệt đối không tự ý thay đổi cốt truyện, diễn biến chính, hay tự bịa thêm lore mới.
 
 3. **Lập Bản Thảo Sửa Đổi & Bảng Nghiệm Thu**:

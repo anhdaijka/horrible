@@ -451,13 +451,18 @@ Decisions below were explicitly accepted during discovery. Future agents must no
 - **Implications:** This creates an airtight legal and social justification for why Khanh and the police firmly believe the suspect on CCTV is a living Thoa returning for revenge. It explains why the younger generation is completely ignorant of the family's darkest sin.
 - **Supersedes:** Any assumption that Thoa's death was common village knowledge or that her death was legally processed.
 
-### D-053 — The Red Herring Thief (Nghi phạm chim mồi)
+### D-053 — The Red Herring Thief & The "Living Thoa" Illusion (Nghi phạm chim mồi & Ảo giác Thoa còn sống)
 
-- **Date:** 2026-09-13
+- **Date:** 2026-09-13 (Updated 2026-09-15 per Author Mandate)
 - **Status:** accepted development decision
-- **Decision:** Introduce a living, left-handed female serial thief who bears a resemblance to Thủy/Thoa and has been lurking around xóm Trại. She acts as the ultimate human Red Herring. The police arrest her and assume she is the woman from the CCTV. However, interrogation proves she has a solid alibi for the morning of mùng 10 and her handwriting does not match the 13 steps sketch. 
-- **Implications:** Her existence validates the neighbors' "lurking woman" sightings, but her clearance isolates the votive shop CCTV event as an impossible anomaly. When the "Living Thoa" theory violently shatters, the narrative forces the characters to face the supernatural reality that Thoa is dead.
-- **Supersedes:** The idea that Thoa's death becomes obvious too early. The human mystery must exhaust itself before the ghost takes over.
+- **Decision:** Establish the mechanics of the "Living Thoa" Red Herring investigation led by Công an Đặng Việt Long and Khanh, resolving the timeline and separating the supernatural apparition from the secular thief:
+  1. *The Absolute Supernatural Reality at the Votive Shop:* The woman who ordered the paper cassette radio on morning mùng 10 at bà Lan's shop is **100% the supernatural manifestation/ghost of Vũ Thị Thoa** (drawing with her agile left hand, bearing family facial traits and wearing rural clothing). No living thief ever visits or orders from the votive shop.
+  2. *Cô Thủy's Actual Whereabouts:* Cô Thủy works as a garment laborer at Yên Phong Industrial Zone (Bắc Ninh) and **is NOT present at Cường's house or xóm Trại on mùng 10 or night 13**. Her extortion campaign against Cường is conducted entirely from a distance via technology (digital recordings, Zalo messages). She returns to xóm Trại only on morning 14 for the wake.
+  3. *The Serial Thief as a Secular Red Herring:* Introduce a living, left-handed female serial thief operating across districts/provinces who possesses a gaunt build and facial features vaguely resembling the Vũ family women when seen fleetingly or through low-resolution security footage. This thief lurked and burglarized houses around xóm Trại/the lotus pond in the days leading up to Cường's death, then abruptly vanished from the area after night 13 (moving her criminal operations to another district).
+  4. *The Police & Khanh's Misconception:* The villagers report a suspicious, lurking woman in dark clothing around the pond who vanished after Cường died. Concurrently, Long discovers Thoa's administrative status (no death certificate in paper archives, legally "alive") and receives Khanh's Dahua CCTV footage. Because Thủy has an airtight factory biometric alibi, Long and Khanh synthesize these clues into a convincing secular theory: **Vũ Thị Thoa is still alive after 30 years and returned for revenge before fleeing**.
+  5. *The Collapse of the Secular Model (Thief Interrogation):* Later in Act III, police arrest the female thief in a cross-provincial burglary sweep in Bắc Ninh. Seeing her left-handedness, gaunt frame, and history of lurking in xóm Trại, Long treats her as the prime suspect in Cường's death / the stalking campaign, bringing Khanh in to cross-examine as a CCTV witness. Interrogation dismantles this theory: the thief readily confesses to burglaries, but has absolute alibis for key timestamps (mùng 10 and 22:54 night 13), knows nothing about Cường's house or paper radios, and her handwriting does not match the 13-step sketch.
+- **Implications:** The total collapse of the living, left-handed suspect theory shatters Khanh and Long's rational frameworks, forcing them to confront the terrifying, inescapable truth: the woman on the Dahua CCTV and the force breaking Cường's neck was a genuine ghost, and Thoa died 30 years ago.
+- **Supersedes:** Any prior truncated phrasing suggesting the thief went to the votive shop or that Thủy was physically lurking in xóm Trại on mùng 10/13.
 
 ### D-054 — The Cường Haunting Paradigm & Shared Guilt Architecture
 

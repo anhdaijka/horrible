@@ -130,7 +130,7 @@ A land broker/speculator exploiting debt and family conflict around the road pro
 
 ### Left-handed female thief (D-053)
 
-A living left-handed woman resembling the family becomes a strong human red herring around the CCTV identity problem. Her later alibi/handwriting mismatch eliminates that explanation and tightens the impossible-purchaser mystery.
+A living, left-handed cross-district serial burglar who lurked around xóm Trại and abruptly vanished after Cường's death. Because she is left-handed, gaunt, and resembles the family on blurry CCTV / paper ID records, police (Long) and Khanh mistakenly suspect her of being Vũ Thị Thoa returning alive for revenge. Her later arrest in Bắc Ninh and airtight alibis for mùng 10 and night 13 collapse the secular suspect model and force the narrative toward supernatural reality. (She never visited the votive shop; that order remains 100% Thoa's ghost).
 
 ## Current Canonized Opening — Chapters 1–5
 

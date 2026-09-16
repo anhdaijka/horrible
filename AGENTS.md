@@ -29,22 +29,21 @@ Use minimum sufficient context.
 
 ## Historical opening-reset guard
 
-Two earlier generations of opening material were author-rejected:
+Three generations of opening material have been author-rejected:
 
 1. the old prototypes `Tiếng chợ` / `Người đặt`;
-2. a later ChatGPT-written Chapter 1–2 implementation that was rejected and deleted during the opening reset.
+2. a later ChatGPT-written Chapter 1–2 implementation rejected and deleted during the opening reset;
+3. replacement Chapters 1–6 (author-approved and canonized at various stages) — all subsequently author-rejected and removed on 2026-09-16 as part of a full manuscript reset.
 
-Those rejected versions remain non-authoritative even if recoverable from Git history.
-
-**Current state:** replacement Chapters 1–5 have since been author-approved and canonized. The active files in `chapters/chapter-01.md` through `chapter-05.md` are current manuscript authority when prose is relevant.
+**Current state:** No chapters are canonized. Repository is in pre-draft state. `chapters/` contains only `_index.md` (empty registry).
 
 Do not:
 - recover rejected prose/dialogue from Git history unless the author explicitly asks;
 - quote rejected versions as a prose model;
 - resurrect rejected scene sequences, clue staging or knowledge state merely because they once existed;
-- confuse the historical reset with the current approved opening.
+- treat any Git-history chapter prose as current manuscript authority.
 
-Generated root files such as `HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md` and `CONSOLIDATION_REPORT.md` are convenience/index artifacts only. They may contain stale snapshots and never outrank `author/`, `continuity/`, `plot/`, `characters/`, `research/verified/`, active approved chapters, or current author instruction.
+Generated root files such as `HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md` and `CONSOLIDATION_REPORT.md` are convenience/index artifacts only. They may contain stale snapshots and never outrank `author/`, `continuity/`, `plot/`, `characters/`, `research/verified/`, or current author instruction.
 
 ## Horror-promise gate
 
@@ -180,10 +179,11 @@ Semantic commit prefixes are preferred: `plan:`, `draft:`, `revise:`, `canon:`, 
 ## Skills and Workflows
 
 Chapter operations use `.agents/workflows/hr-*.md` and the four `hr-source-*` skills:
-- `/hr-preflight <chapter>` (`hr-source-preflight`): chuẩn bị preflight, neo giác quan, khóa thứ tự thông tin trước khi viết;
+- `/hr-preflight <chapter>` (`hr-source-preflight`): chuẩn bị preflight, neo giác quan, đối chiếu Ma trận Manh mối, khóa thứ tự thông tin trước khi viết;
 - `/hr-write <chapter>` (`hr-source-writer`): chấp bút bản thảo non-canon vào `revisions/chapter-work/CH-XX/draft.md`;
 - `/hr-review <chapter>` (`hr-source-review`): thẩm định đối kháng độc lập theo các cổng craft của Horrible, xuất `review.md`;
-- `/hr-revise <chapter>` (`hr-source-revision`): biên tập phẫu thuật can thiệp nhỏ nhất có hiệu quả, xuất `revised.md`.
+- `/hr-revise <chapter>` (`hr-source-revision`): biên tập phẫu thuật can thiệp nhỏ nhất có hiệu quả, xuất `revised.md`;
+- `/hr-canonize <chapter>`: tự động hóa thúc đẩy bản thảo vào `chapters/`, cập nhật `continuity/state.md`, đồng bộ Ma trận Manh mối và bàn giao phiên.
 
 Xem `docs/playbooks/horrible-craft-review.md` để nắm quy trình thẩm định và định tuyến thẩm quyền.
 
