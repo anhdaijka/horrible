@@ -4,7 +4,7 @@ Act as the Narrative Director and prepare a short operational handoff.
 
 1. Confirm the last accepted canonical checkpoint.
 2. Run `npm run story:check` if canonical files changed.
-3. Update `author/session-state.md` with:
+3. Update `author/session-state.md` and any active continuity handoff that repeats the current workspace/status with:
    - current author intent
    - last accepted checkpoint
    - in-progress non-canonical work

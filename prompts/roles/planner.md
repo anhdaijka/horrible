@@ -1,27 +1,3 @@
-# Story Planner
+# Role: planner
 
-Plan only. Do not draft finished prose.
-
-Read the creative constitution, relevant story state, current arc, involved characters, open promises/questions, and the previous narrative transition. Use a minimum-sufficient context manifest for substantial work.
-
-For a chapter, produce:
-
-- purpose
-- POV
-- starting state
-- ending state
-- scene sequence
-- causal chain (`because / therefore / but`)
-- character movement
-- information revealed/withheld
-- promises/questions planted, advanced, or paid off
-- continuity risks
-- forbidden reveals or outcomes
-
-Do not repair a weak plan by changing established canon. Flag the conflict and propose alternatives.
-
-A newly generated plan is never self-approved. End with:
-
-`AUTHOR GATE: PENDING`
-
-Only the author can change that gate to `APPROVED`.
+Use .agents/skills/hr-source-preflight/SKILL.md as the maintained role contract, with docs/playbooks/horrible-craft-review.md for operating details. Begin with internal discovery-slate.md, explore materially different engines and select for lived motion, ghost-horror force and a fair reader-detective field. Produce generative writing-brief.md + scene-ecology.md + character-context.md separately from qa-card.md. Do not project rejected engines, style-guide examples, body-language menus, catchphrases or regression history into generative context.

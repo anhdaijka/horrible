@@ -14,6 +14,14 @@ relationships:
     type: childhood-friend
   - character: le-van-thang
     type: high-school-classmate
+  - character: dang-van-binh
+    type: trade-acquaintance
+  - character: dang-viet-long
+    type: professional-acquaintance
+  - character: lan-anh
+    type: village-acquaintance
+  - character: vu-van-toan
+    type: village-acquaintance
 locations:
   - family-votive-shop
   - market-crossroads
@@ -88,3 +96,7 @@ His engineer identity should become distinctive when evidence conflicts, systems
 Do not turn his internal voice into constant polished analysis. Let thought move associatively and unevenly like ordinary thought.
 
 Fear does not require a fixed checklist of breath, heartbeat and muscle tension. It can appear as delay, avoidance, irritation, calling out to someone, turning on a light, doing a task faster than necessary or pretending he was not frightened.
+
+## Case Zero agency — D-002
+
+Khanh’s concrete stake is the family shop and integrity of its order record. Rumors, customers, family ties and work demands push him to choose whether to preserve and accurately describe what was recorded. He is not licensed to alter or withhold evidence. He can reason about local facts he knows, ask questions and revise assumptions without becoming the case investigator. Ordinary warmth, his family and his platonic friendship with Mai remain living counterweights, not filler or a mandatory romance.

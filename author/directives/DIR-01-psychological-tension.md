@@ -1,12 +1,14 @@
 # DIR-01: Chỉ thị Sáng tạo — Cấu trúc Ám ảnh Hồn ma Cường, Cú lừa Trùng Tang & Xung đột Tâm lý Độc lập
 
 > **MÃ CHỈ THỊ**: `DIR-01`  
-> **CẤP THẨM QUYỀN**: `AUTHOR MANDATE — HIGHEST PRIORITY`  
-> **ÁP DỤNG CHO**: Toàn bộ chuỗi sáng tác Case Zero (Preflight, Writer, Reviewer, Reviser).  
+> **CẤP THẨM QUYỀN**: `AUTHOR STORY INTENT + REVEAL BOUNDARIES`; kỹ thuật minh họa là lịch sử phát triển.
+> **ÁP DỤNG CHO**: Planner/Safety đọc các khóa câu chuyện liên quan; Writer không nạp toàn file.
 > **NGÀY BAN HÀNH**: 2026-09-13 (Cập nhật trực tiếp từ ý kiến Tác giả).  
-> **NGUYÊN TẮC BẢO LƯU**: Cấm tóm tắt giản lược làm mất sắc thái văn học. Mọi Agent tham gia quy trình sáng tác BẮT BUỘC phải đọc và tuân thủ nguyên văn.
+> **NGUYÊN TẮC BẢO LƯU**: Giữ mục tiêu horror, attribution của haunting và reveal boundary. Ví dụ giác quan, phản ứng, phe đối lập và nhịp cảnh không phải chỉ dẫn biểu diễn bắt buộc.
 
 ---
+
+> **Đồng bộ D-001 hậu reset (2026-09-17):** P1–P6 thay mọi lịch chương cũ. Chỉ thị giữ xung đột người thấy/người phủ nhận và haunting Cường; không tái sử dụng cảnh bị reset.
 
 ## 1. Bối cảnh & Lý do ban hành
 
@@ -21,16 +23,16 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
 
 ## 2. Tâm điểm Ma mị: Hồn ma ông Cường (The Ghost of Cường Paradigm)
 
-1. **Ông Cường là cội nguồn duy nhất của mọi dị tượng ở giai đoạn đầu**:
-   - Theo canon pháp y hiện hành (D-058 / DIR-04), ông Cường chết trên cầu thang lúc 22:54:32 đêm 13: cổ bị bẻ ngoặt gần 180 độ trong không trung trước khi thi thể rơi xuống chiếu nghỉ. Đây là một cái chết dữ, phi tự nhiên và rùng rợn.
-   - Mọi cảm giác ma mị, lạnh gáy, hiện hồn, quấy phá trong gia đình và làng xóm **BẮT BUỘC PHẢI XOAY QUANH HỒN MA ÔNG CƯỜNG**.
-   - Tuyệt đối không để hồn ma cô Thoa hay cái tên Thoa xuất hiện làm chất liệu kinh dị sớm. Cô Thoa là bí mật chôn sâu dưới tầng ngầm trinh thám.
+1. **Ông Cường là trọng tâm haunting gia đình sau cái chết**:
+   - Theo canon pháp y hiện hành (D-058 / DIR-04), ông Cường chết trên cầu thang lúc 22:54:32 đêm 13: chịu tổn thương cổ chí mạng trước khi thi thể va xuống cầu thang; không khóa góc thương tổn và không cho nhân vật biết chính xác giây tử vong. Đây là một cái chết dữ, phi tự nhiên và rùng rợn.
+   - Haunting gia đình giai đoạn đầu được attribution cho Cường theo arc hiện hành. Điều này không bắt mọi không khí lạ, lời đồn hay cảnh làng xóm phải biểu diễn cùng một dấu hiệu hoặc cùng xoay quanh ông.
+   - Tên Thoa được xuất hiện trên đơn hàng ở P1; không được gọi người mua là ma hoặc xác nhận cô chết trước G6a. Đơn hàng do Thoa đặt trước khi Cường chết là ngoại lệ có chủ ý; nguồn của nó bị khóa với độc giả.
 
 2. **Chất liệu kinh dị truyền miệng dân gian (Phong cách Nguyễn Ngọc Ngạn)**:
    - Sử dụng triệt để các chi tiết rợn người đậm màu sắc tâm linh làng quê Bắc Bộ:
      - Gió lạnh luồn sau gáy giữa trưa nồm ẩm;
      - Bụi giấy mã xào xạc trong buồng tối không người;
-     - Ảnh thờ trên bàn tang bỗng nghẹo cổ, khóe môi nhếch cười với người nhìn, nhưng chớp mắt nhìn lại thì vẫn phẳng lặng bình thường;
+     - Không gian quanh bàn tang bị chiếm bởi một hiện diện mà người nhìn không thể xua bằng một lần chớp mắt; không dùng ảnh đổi mặt rồi cú vỗ vai xóa cảnh;
      - Tiếng cào móng tay rột roẹt sau vách gỗ, tiếng bước chân nằng nặng trên gác lửng;
      - Bóng đen lướt qua góc vườn đầm sen lúc chập choạng tối.
    - Không khí phải toát lên sự bức bối, ngột ngạt, bất an, những điềm báo lạnh gáy khiến người đọc rợn người từng cơn.
@@ -45,7 +47,7 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
 ## 3. Cú lừa "Trùng Tang" (The Trùng Tang Red Herring & Fake Exorcism)
 
 1. **Ảo giác Trùng tang**:
-   - Vì tần suất ông Cường hiện về quá dày đặc, tiếng đồn đòi "bắt cả nhà đi theo" lan ra, khiến cả gia đình và hàng xóm đều tin chắc rằng gia đình ông Cổn đã dính phải đại họa **Trùng tang** (người chết vào giờ dữ, bắt con cháu đi theo).
+   - Vì tần suất ông Cường hiện về quá dày đặc, tiếng đồn đòi "bắt cả nhà đi theo" lan ra, khiến một số người trong gia đình và hàng xóm tin rằng gia đình ông Cổn đã dính phải đại họa **Trùng tang** (người chết vào giờ dữ, bắt con cháu đi theo).
    - Đây là một **red herring (cú lừa hoành tráng)** đối với cả độc giả lẫn người dân trong làng, dẫn dụ họ nghĩ rằng đây là thảm họa tâm linh gia tộc.
 
 2. **Hành trình tâm lý của Ông Cổn**:
@@ -57,10 +59,10 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
 
 ## 4. Xung đột Tâm lý: Sự Cô độc của Kẻ Thấy Ma vs Sự Phủ nhận bằng Logic
 
-> **QUY TẮC BẮT BUỘC**: Tuyệt đối không được để 100% nhân vật đều xoáy vào tin đồn hay đồng thanh sợ hãi. Truyện ma kinh dị chỉ đạt đỉnh cao khi có **mâu thuẫn nhận thức (Cognitive Conflict)** gay gắt giữa hai luồng nhân vật.
+> **Ý ĐỒ TOÀN ARC:** Không biến cộng đồng thành một khối đồng thanh. Khác biệt nhận thức có thể xuất hiện qua lựa chọn, im lặng, đời sống và hệ quả; không bắt mỗi cảnh dựng hai phe hoặc một cuộc tranh luận duy lý–tâm linh.
 
 1. **Phe Thấy Ma (Nạn nhân bị ám & chứng nhân hoảng loạn)**:
-   - Những người trực tiếp nhìn thấy dị tượng: cô Thủy (rách chấn song, bóng ma trên gác), bà con họ hàng thức đêm canh cống/canh quan tài, Khanh (khoảnh khắc ảnh thờ nghẹo cổ), và sau này là ông Cổn.
+   - Những người trực tiếp nhìn thấy dị tượng: cô Thủy (haunting trong nhà, độc lập với việc điện thoại đã được thu), bà con họ hàng thức đêm canh cống/canh quan tài, Khanh (dị tượng trong sinh hoạt tang gia theo preflight mới), và sau này là ông Cổn.
    - Họ nằng nặc tin vào mắt mình, rơi vào trạng thái hoảng loạn, sang chấn, muốn tìm cách van lạy hoặc chạy trốn.
 
 2. **Phe Duy Lý / Phủ Nhận (Logic Gaslighting)**:
@@ -77,34 +79,26 @@ Chỉ thị này được Tác giả xác lập để đóng đinh phong cách n
 
 ---
 
-## 5. Nhịp độ Kể chuyện & Khóa Thông tin từng Chặng (Pacing Control)
+## 5. Nhịp kể theo phase và cổng thông tin
 
-1. **Chương 1 & 2 (Mở đầu — Curiosity Overload)**:
-   - Chưa vội kích hoạt ma quái rùng rợn.
-   - Tập trung duy nhất vào sự tò mò bức bối của độc giả và Khanh: **Vì sao ông Cường chết ngày 13 mà từ mồng 10 đã có người đến đặt đồ tang mã cho ông ta?**
-   - Giữ sự bí ẩn ở mức độ trinh thám đời thực, tạo nền móng vững chắc cho cảm giác bất an.
+- **P1:** đơn hàng trước cái chết, tên Thoa và radio cá nhân tạo lời hứa horror. Chưa giải thích bệnh nặng trước lúc nghịch lý hình thành; không kéo dài đời thường tới lúc thể loại mất hút.
+- **P2:** hồn Cường xâm nhập sinh hoạt; người thấy bị người khác phủ nhận. Dị tượng phải để lại sức ép/hành động, không tự xóa bằng ảnh thờ biến dạng rồi bạn vỗ vai. Chuẩn bị tang và thời điểm được nhập quan là hai việc khác nhau.
+- **P3:** các nghi phạm che tội riêng, độc giả có mảnh hơn Khanh. Không biến hoảng sợ thành tự thú cả án.
+- **P4:** quá khứ chỉ cho thấy Thoa mất tích, ký ức bị xóa và giả thuyết cô còn sống. Chưa mở sự thật chết.
+- **P5:** kiểm tra các giả thuyết cụ thể, giữ ngoại phạm thật của Thủy; không kết luận ma từ việc loại hai nghi phạm.
+- **P6:** G6a xác nhận Thoa chết, G6b trách nhiệm 1996, G6c sự thật siêu nhiên; có hậu quả và dư ba.
 
-2. **Chương 3 (Bùng nổ khoảnh khắc lạnh gáy đầu tiên)**:
-   - Khanh mang lễ sang nhà đám, lúng túng giữa không gian tang gia nồm ẩm mùi khói nhang và bột mã.
-   - Khoảnh khắc rợn người: Ánh mắt Khanh chạm vào bức ảnh thờ ông Cường; bức ảnh bỗng nghẹo đầu sang một bên, khóe môi nhếch lên cười ghê rợn với Khanh. Khanh chết sững, tim đập thình thịch.
-   - Cú chạm giải tỏa: Đúng lúc đó bàn tay Thắng vỗ mạnh vào vai Khanh. Khanh giật bắn mình, chớp mắt nhìn lại thì ảnh thờ vẫn hoàn toàn bình thường, đoan trang.
-   - Thắng trò chuyện tự nhiên, giải thích bằng sự mệt mỏi và dặn Khanh đừng tin lời đồn bậy bạ của làng xóm.
+Cổn có thể chuyển từ phủ nhận sang cầu viện Bình khi tận mắt gặp Cường. Không chốt cứng vào chương nào; nghi lễ không đương nhiên hiệu nghiệm hoặc là phong tục đã được xác minh.
 
-3. **Chương 4 & 5 (Tăng tiến độ ngột ngạt — Áp lực Trùng tang)**:
-   - Tiếng đồn bắt đầu râm ran khắp thôn xóm.
-   - Dị tượng dồn dập trong nhà ông Cổn: tiếng cào cửa buồng Thủy, Thủy hoảng loạn nấc nghẹn nói Cường về đòi bắt mình đi cùng.
-   - Ông Cổn quát tháo đe dọa để dập tắt dư luận, nhưng trong thâm tâm bắt đầu lung lay trước khi biến cố thật sự ập đến.
+## 6. Ranh giới sử dụng
 
-4. **Chương 6 trở đi (Lập đàn Trùng tang & Đỉnh điểm Ám ảnh)**:
-   - Ông Cổn chạm trán ma Cường, vỡ trận tâm lý, bí mật mời Thầy Bình lập đàn giải Trùng tang.
-   - Không khí đại đàn cúng bái đậm chất văn hóa Bắc Bộ, hòa quyện giữa nghi lễ cổ truyền và sự rình rập kinh hoàng của vong chết dữ.
-
----
-
-## 6. Lời thề Tuân thủ của Agent
-
-Bất kỳ Agent nào tham gia vào dự án Horrible khi đọc chỉ thị này phải cam kết:
-- **KHÔNG** tóm tắt chỉ thị này thành 1 gạch đầu dòng khô khan.
+Khi phần này liên quan đến cảnh đang làm:
 - **KHÔNG** tự ý biến Thắng hay ông Cổn thành người mê muội nghe theo ma quỷ ngay từ đầu.
 - **KHÔNG** để bất kỳ nhân vật nào nhắc đến cái chết của cô Thoa trong giai đoạn này.
-- **BẮT BUỘC** thể hiện được sự đối lập giữa cái rợn gáy của ma Cường và sự gạt bỏ sắc lạnh của logic đời thường.
+- Khác biệt giữa sợ hãi và giải thích đời thường là một lực căng dài hạn, không phải beat bắt buộc của từng cảnh.
+
+## 7. Giới hạn và chữ ký ám ảnh — D-002
+
+Cường ám qua giọng gọi, chờ và gọi lại theo thói quen ra lệnh trong nhà; người thân có thể vâng theo trước khi nhớ ông đã chết. Có hướng cảnh ban ngày hai người nghe các phần khác nhau và thay đổi sinh hoạt sau đó; cảnh Toàn đi theo tiếng gọi, Lan Anh ngăn rồi bị gọi tên dành cho phase sau, không nhồi vào coda CH-01.
+
+Cường không toàn tri, không tùy ý ám mọi người ở mọi nơi. Thoa không sửa hồ sơ, ký ức hay quyết định người sống. Không hệ thống hóa thành game năng lực. Nghi lễ có thể đem lại hỗ trợ xã hội/nhịp nghỉ mà không bảo đảm trừ được ma. Kết thúc cần cho thấy Cường rút lui bằng một diễn biến quan sát được; cơ chế cụ thể còn phải thiết kế trước P6.

@@ -10,6 +10,10 @@ relationships:
     type: spouse
   - character: nguyen-minh-hanh
     type: daughter
+  - character: lan-anh
+    type: trade-contact
+  - character: vu-thi-thuy
+    type: village-acquaintance
 locations:
   - family-votive-shop
   - market-crossroads
@@ -65,3 +69,9 @@ Her uncertainty should usually sound ordinary rather than philosophical: `thì n
 She can be funny without trying to deliver a punchline. She can be impatient, distracted, affectionate through work, and occasionally sharper than Khanh expects.
 
 She does not function as a psychic or supernatural authority.
+
+## Case Zero shop pressure — D-002
+
+Bà Lan’s record of the mùng 10 custom order becomes a practical family responsibility amid rumors and customer pressure. The name, design and order date must not drift to suit outsiders’ accounts. On morning mùng 10 the radio exists as a request/sketch; the finished paper object can be present by morning 14. There is no automatic duplicate payment when Lan Anh comes to prepare funeral goods.
+
+Under real shop pressure, her questions may be strictly operational: `Cường nhà nào`, what model/detail is wanted and when it will be collected. This is competent disambiguation, not prying into why the customer wants the item. She does not need to ask whether the household knows, demand authorization or warn Cường. If she identifies the exact household on mùng 10, however, morning-14 prose must preserve that memory rather than stage Cường's identity as a new discovery.

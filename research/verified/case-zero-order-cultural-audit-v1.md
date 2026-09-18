@@ -8,13 +8,15 @@ Purpose: preserve real votive-shop logic while preventing cultural facts from le
 
 This file answers **what is culturally/commercially plausible**. It does not unlock, retcon or supersede names, identities, chapter reveals or supernatural truth already fixed by `author/`, `continuity/`, `plot/` or approved manuscripts.
 
-The earlier opening-reset era treated several story variables as unlocked. That reset status is historical; current Case Zero canon must be read from the higher-priority sources.
+The full manuscript reset of 2026-09-16 remains active: no chapters are canonized. D-002 (2026-09-17), retaining non-conflicting D-001 choices, governs Case Zero design. This note verifies commercial plausibility only; it does not reinstate a rejected opening. No new cultural verification was performed in the D-002 synchronization pass.
 
 ## Author domain correction — real-world trade fact
 
 The author has direct family experience selling votive-paper goods and clarified:
 
 > Buying paper goods before a person dies is not inherently rare or suspicious when relatives already believe the person may not survive a serious illness or decline.
+
+The author further clarified the family's actual order-taking rhythm: when the shop is busy, the person receiving an order may not examine the customer's motive. Questions can remain strictly practical—exactly which household/person, what is being ordered and when it is needed. Asking `nhà ai` disambiguates the commission; it does not imply suspicion, kinship investigation, household authorization or a duty to notify the named person.
 
 This is an important **real-world plausibility fact**.
 
@@ -129,6 +131,8 @@ These are plausibility constraints, not a mandatory scene plan:
 - left-handed behavior can appear incidentally without being treated as a cultural fact.
 
 Do not force characters to ask about the recipient's living/dead status merely to set up a future twist unless their actual context gives them a reason.
+
+Do not force the seller to ask why, verify authorization or contact the intended recipient merely because a later death will make the order uncanny. Those procedures are not established features of this family's shop. The order scene may be ordinary when it happens and horrifying only in retrospect.
 
 ## Later reasoning: where the trade fact becomes useful
 

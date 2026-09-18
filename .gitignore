@@ -11,6 +11,7 @@ Thumbs.db
 !.agents/skills/hr-source-writer/
 !.agents/skills/hr-source-review/
 !.agents/skills/hr-source-revision/
+!.agents/skills/hr-source-safety/
 
 # Disposable exports/builds
 exports/*

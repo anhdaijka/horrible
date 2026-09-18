@@ -1,24 +1,25 @@
-# Drafting Rule
+# Drafting
 
-Inside an approved scene, you may creatively realize wording, gesture, micro-actions, sensory detail, rhythm, dialogue, and moment-to-moment texture.
+Verify from the handoff that the design gate is current, not AWAITING_AUTHOR or superseded. A stale packet is not writing authorization. The drafting operation then has two context-separated phases.
 
-Specifically enforce:
-- **Interiority discipline in Limited 3rd POV:** Let Khanh experience claustrophobic dread, cognitive dissonance (IT engineer vs folk superstition), and retroactive taboo guilt without narrator lectures prematurely resolving the tension.
-- **Non-visual sensory dread:** Ground scenes in untraceable scents (embalming oil, well rot, damp incense) and micro-climate localized cold.
-- **Anti-jumpscare & Dual-layer clues:** Strictly forbid cheap theatrical jumpscares (phantom grins that blink away, arbitrary loud shocks). Every uncanny detail must carry dual-layer logic: visceral horror emotion on first read, and a fair-play detective/psychological clue on re-read.
+**Generative pass:** read writing-brief.md, scene-ecology.md, character-context.md and relevant accepted preceding prose. Do not open discovery-slate.md, preflight.md, qa-card.md, rejected scene engines, regression history, reviews, full directives or the style bible. Write the complete scene/chapter as people whose lives were already moving when the disturbance arrived. Follow the truth boundaries projected into the brief, but do not write explanations merely to prove compliance.
 
-Do not silently change:
-- approved scene outcome
-- established canon
-- character knowledge
-- physical/world rules
-- timeline
-- relationship trajectory
-- durable object/character state
+**Self-edit pass:** only after a complete draft exists, read qa-card.md and its named hard-source excerpts. Repair actual contradictions, continuity failures and demonstrated regression mechanisms while protecting what is alive in the draft. Do not retrofit every optional hypothesis into the prose.
 
-If a constraint makes the scene fail, stop at the smallest necessary scope and flag the conflict instead of rewriting the architecture.
+The writer may choose momentary preferences, practical actions, mistaken assumptions, warmth, tact, irritation, concessions and local consequences consistent with established character. Cooperation, direct speech and ordinary kindness need no hidden agenda. Agency means a choice affects what follows, not that everyone interrogates or wins.
 
-Output discipline:
-- Write draft exclusively to `revisions/chapter-work/CH-XX/draft.md` marked as `NON-CANON DRAFT`.
-- Do NOT perform self-auditing or self-approval in the drafting turn.
-- Do NOT write directly to `chapters/` or modify `continuity/state.md`. Canonization occurs only after Reviewer audit, Editor revision, and explicit author approval.
+Treat scene ecology as an affordance field, not a beat sheet. Select, combine, transform or omit its possibilities. You may invent transient customers, errands, work complications, minor social encounters and chapter-local events when they fit the place and people. They do not need to become clues, symbols or subplots. If an invention creates a durable cross-scene obligation, record it after drafting; do not suppress the scene in advance merely because it might matter.
+
+Narration may summarize routine work, supply useful relationship context, enter the approved viewpoint and vary distance. Dialogue may be long or short. Neither fragments nor decorative body reactions make it natural. Do not turn a clue record into an exchange merely to display every field.
+
+The main plot should enter, deform or recontextualize ordinary life rather than replace it. A quiet scene can still be horror when a precise impossible fact contaminates familiar work, kinship or memory. Preserve observable clue surfaces for the reader, including facts that characters overlook or misread, but do not explain the intended deduction or make every incidental detail evidence.
+
+Preserve approved outcome, durable relationships/state, chronology, knowledge and world rules. Rebuilding scene execution within those boundaries is authorized when drafting/revision is requested. A changed plot decision or relationship trajectory requires the author.
+
+Before handoff, self-edit the whole candidate for readable relationships, believable motives, repetitive information transfer, physical continuity and the effect of the ending. Use qa-card.md to test only dependencies whose failure would change knowledge, obligation or durable consequence. Correct defects you find while preserving intentional compression, silence, ambiguity and ordinary nonreaction. Self-editing is required; independent PASS belongs to review.
+
+Do not add dialogue or interior explanation merely to defend routine work against an imagined objection. When the packet establishes an ordinary family, trade or social baseline, the prose may let that baseline remain implicit. Retrospective horror can arise from a normal action acquiring a later meaning; the character need not anticipate that meaning for the action to be credible.
+
+Classify new details after drafting. Texture, transient interactions and chapter-local life that end inside the scene remain execution freedom; a promise, established prior event, custody change, future meeting, distinctive object fact or durable knowledge is a consequence-bearing delta and must be recorded outside the prose for later review. Do not ask approval for ordinary life merely because it is not in the main plot.
+
+Write clean prose only. Keep the locator-only candidate identity separate from writer-handoff and findings so a literary reviewer can read blind. Preserve existing candidates before writing a replacement; update session-state to the actual next operation.

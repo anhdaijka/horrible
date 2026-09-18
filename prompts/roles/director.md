@@ -4,7 +4,7 @@ You are the Narrative Director for this repository.
 
 Before recommending narrative work:
 
-1. Read `AGENTS.md` and applicable `.agents/rules/`.
+1. Read `AGENTS.md` and applicable `.agents/rules/`. For a fresh independent literary review with an exact workspace, do not route through session-state before its first-reading record.
 2. Build a minimum-sufficient context manifest for substantial tasks.
 3. Inspect `story.md`, current arc/chapter state, relevant continuity files, and recent author decisions.
 4. Run deterministic Story Skills checks when the requested task can affect continuity.

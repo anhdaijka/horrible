@@ -1,7 +1,7 @@
 ---
 name: "Case Zero — Đơn hàng cho người chưa chết"
 type: subplot
-status: active
+status: planned
 characters:
   - nguyen-minh-khanh
   - tran-thi-lan
@@ -25,176 +25,126 @@ acts: []
 
 # Case Zero — Đơn hàng cho người chưa chết
 
-> Canon reconciliation status: aligned to **DIR-01–DIR-04** and accepted author decisions through **D-059**. If this file conflicts with a newer direct author instruction or `author/directives/`, the higher source wins.
+> Thiết kế hậu reset, đồng bộ D-002; D-001 giữ phần không xung đột và DIR-01–DIR-07. Không có chương canon. Phase là cổng thông tin, không là số chương. Không dùng Git-history prose làm mẫu.
 
-## Core Hook
+## Lõi cảm xúc và lời hứa kinh dị
 
-A woman places an ordinary-looking personalized votive-paper order for a named man. Several days later, the man dies unexpectedly. Only after the death does the earlier administrative record become frightening: the same man's custom order was placed **before he died**.
+Người đàn bà đặt đồ mã cho Cường trước khi ông chết, dùng cái tên Thoa từng bị xóa khỏi gia đình. Đơn hàng vừa báo trước cái chết vừa buộc người sống gọi lại tên người bị chôn vùi. Chiếc radio đỏ là ký ức một cô gái có đời sống và sở thích riêng, không chỉ là dụng cụ chứa đáp án.
 
-The mùng 10 purchaser uses her left hand and identifies herself with the name `Vũ Thị Thoa`. Reader-facing investigation must initially preserve the possibility that Thoa is a living woman connected to the Vũ family; her 1996 death and supernatural status are protected by the D-054 / DIR-01 firewall.
+Đặt đồ mã cho người còn sống tự nó chưa bất khả thi. Sự bất an đến từ tổ hợp: Cường không được gia đình dự liệu sẽ chết, người đặt dùng tên người mất tích, vật mẫu gắn với quá khứ và cái chết đến sau đó. Không lộ giả thuyết bệnh nặng trước lúc nhân vật có lý do đặt câu hỏi.
 
-## Objective Author Truth
+## Canon khách quan
 
-### 1. Historical crime — 1996 (D-056 / DIR-02)
+### Bi kịch 1996
 
-- Vũ Thị Thoa, born 1974, is 22 in 1996.
-- The Vũ family needs money for eldest son Cường's wedding. A wealthy suitor wants Thoa and offers a large bride price; Cổn pressures Thoa to accept the marriage so the family can finance Cường's wedding.
-- Thoa refuses. During the violent dispute beside the lotus pond, Cường strikes/shoves her. She falls backward, hits the back of her head on a pond-side/submerged stone and becomes unconscious.
-- Cường and Cổn mistake her stillness for `ngất ăn vạ` and leave her there. Later that night Thủy finds Thoa dead from the head injury/blood loss and pleads for a proper funeral.
-- Cổn orders the death concealed to protect Cường and clan reputation. Cường submits and helps hide the body in the pond mud; Thủy is coerced into silence. Thoa's name is erased from the genealogy and the family spreads the story that she fled with a lover.
-- Thoa's Czech cassette radio was on `REC`, capturing the family dispute, fatal fall, later discovery and cover-up order.
-- Khanh's grandfather refuses involvement in the later spiritual request (`Không nhận lễ`). The Vũ family turns to an outside heterodox specialist; the radio is buried in connection with a green-bamboo water-binding talisman. Do not attribute the binding to Khanh's grandfather.
-- After the suitor cancels the proposed marriage, Cổn liquidates/pawns assets to preserve Cường's wedding and forces the long repayment burden onto 19-year-old Thủy, who spends decades as a garment worker.
+Thoa sinh 1974, chết ở tuổi 22 trong xung đột ép gả để lo tiền cưới Cường. Cường đánh/xô làm cô ngã đập đầu vào đá bên đầm; Cường và Cổn kiểm tra qua loa, tự trấn an theo điều có lợi cho mình rồi bỏ cơ hội gọi giúp đỡ. Ai kiểm tra gì cần thiết kế ở cảnh tái dựng; không tự chẩn đoán hoặc xác nhận khả năng cứu sống. Thủy tìm thấy chị đã chết lúc đêm, không chứng kiến cú xô. Cổn ra lệnh giấu xác; Cường làm theo; Thủy bị ép im lặng. Chuyện “bỏ theo trai” là lời che giấu.
 
-### 2. Thirty-year trigger — 2026
+Sau khi mất nguồn tiền sính lễ, Cổn bán/cầm cố tài sản và đẩy gánh nợ lên Thủy. Cô làm nhiều công việc, trong đó có nghề may; năm 2026 làm tại Yên Phong. Không suy ngược nhà máy hiện tại đã có từ 1996.
 
-- Road-widening / pond-side development makes the land extremely valuable and threatens to disturb the buried evidence.
-- The heterodox bamboo binding has decayed after roughly three decades as an **author-universe supernatural mechanism**, not a verified universal folk rule.
-- Cường attempts to cut Thủy out of the valuable land despite her decades of repayment labor.
-- Thủy launches a human intimidation/extortion campaign from mùng 8 through noon of the 13th: anonymous threats, ghost-audio material and defaced family imagery designed to weaponize Cường's guilt about Thoa.
+Radio gắn sở thích cá nhân, ký ức và một nét tự sửa/vẽ của Thoa được Thủy nhận ra về sau. Bỏ chức năng cassette ghi cuộc cãi vã hoặc làm chứng cứ âm thanh 1996. Không khóa việc đào thấy radio; nếu còn vật thật, nhận dạng vật không tự chứng minh nguyên nhân chết.
 
-### 3. Night of the 13th — locked forensic chronology (D-057 / D-058 / DIR-04)
+Ông nội Khanh từ chối một yêu cầu mập mờ nhằm ép buộc việc âm trước khi biết chuyện phạm tội. Người thầy bên ngoài thực hiện yểm; Bình khi ấy chỉ biết phần việc được giao, không biết nơi ấy có thi thể hoặc Cường gây chết người. Lời Bình chỉ giúp thu hẹp phần việc/vùng ông từng biết; vị trí tìm kiếm phải được đối chiếu với nguồn độc lập, không cần một băng thu sống sót để cung cấp đáp án.
 
-- **22:35–22:45:** Toàn confronts Cường at the foot of the stairs over the lotus-pond land deed. Cường scratches Toàn's neck and tears his work shirt. Toàn shoves Cường down/away, then leaves to smoke in his sand-truck cabin roughly 200m away.
-- **22:45–22:53:** Cường is alone. Hearing tape-like mechanical hiss and wet footsteps upstairs, he assumes Thủy is continuing her intimidation scheme.
-- **22:54:00–22:54:38:** Cường starts a Zalo voice message to Thủy while moving toward the stairs. At **22:54:32**, a genuine supernatural entity connected to Thoa breaks Cường's neck backwards in mid-air before the body lands.
-- **23:05–23:10:** Toàn returns, finds Cường dead and falsely concludes that his earlier shove killed his father. When Toàn checks Cường's hands to wipe away his own biological traces, he discovers an unnerving supernatural anomaly: Cường's 10 fingernails are impossibly clean, smooth and devoid of skin or blood traces (D-060).
-- There is **no Diazepam, sleeping pill or chemical sedative plot**.
+### Khởi phát 2026
 
-### 4. Thủy's true location and information silo (D-058)
+Khảo sát/thi công bờ đầm trước mùng 10 làm động phần chôn giấu đã suy yếu. Đây là trigger vật lý; không phải toàn bộ đầm đã bị đào hoặc hài cốt đã lộ. Giá đất và việc Cường tước phần Thủy làm bi kịch cũ lặp lại. Ba mươi năm là chiều dài tổn thương, không là đồng hồ bùa.
 
-- Thủy is physically on the Yên Phong night shift on the 13th and has a genuine biometric clock-in trail. She is not present at xóm Trại when Cường dies.
-- Toàn knows nothing about Thủy's intimidation/extortion campaign.
-- Thủy knows nothing about Toàn's 22:35–22:45 scuffle.
-- Both independently believe their own wrongdoing may have caused Cường's death. They do not coordinate a shared false story.
+Mùng 8 đến trưa 13, Thủy dùng lời đe dọa, âm thanh dọa ma và ảnh bị gạch mặt gây áp lực lên Cường. Mùng 10, Thoa thực sự đến tiệm đặt hàng. Người mua có nét họ Vũ và thao tác tay trái linh hoạt; CCTV đủ cho câu hỏi nhận dạng, không đủ khẳng định là Thủy/Thoa. Không có tuyến nữ trộm giống mặt.
 
-### 5. Lan Anh's Loyalty Trap (D-057 / DIR-04 / D-060)
+### Đêm 13 và chuỗi phát hiện thi thể
 
-- Toàn's neck carries Cường's fresh nail scratches and his work shirt is torn/blood-stained, even though Cường's fingernails were supernaturally wiped clean at the death scene (D-060).
-- Believing Toàn may have killed his father, Lan Anh hides the neck injuries with mourning cloth and later destroys the torn work shirt in the funeral/votive fire.
-- A surviving charred fabric/button clue can connect the destruction to Toàn. This is a human evidence-cover-up, not evidence that Toàn actually caused the supernatural killing.
+| Mốc | Sự kiện khách quan | Tri thức, dấu vết và giới hạn |
+|---|---|---|
+| 22:35–22:45 | Toàn đòi sổ đỏ; hai cha con ẩu đả. Cường cào cổ, xé áo; Toàn xô ông rồi ra xe ben cách khoảng 200m. | Toàn không biết chiến dịch Thủy. |
+| Sau 22:45 | Cường tự đứng dậy, còn hoạt động, nghe tiếng băng/bước chân và tưởng Thủy tiếp tục dọa. | Hoạt động sau ẩu đả là mắt xích cần chứng thực độc lập ở P5. |
+| Khoảng 22:54 | Cường bật ghi âm cục bộ để giữ bằng chứng dọa nạt, chưa gửi ai. Thoa giết ông bằng tổn thương cổ trước va đập; điện thoại rơi gần chiếu nghỉ. | 22:54:32 chỉ là neo nội bộ của sự kiện; không là giờ tử vong pháp y được biết sớm. Không khóa độ dài file. |
+| 23:05–23:10 | Toàn quay lại, thấy bố bất động, kiểm tra tay vì sợ để lại dấu vết và thấy móng sạch bất thường. | Mắt thường không nhìn ra “không có ADN”. Nỗi hoảng sợ không phải kết luận chuyên môn. |
+| Ngay sau đó | Toàn gọi Lan Anh đang ở phần sinh hoạt phía sau, báo bố nằm ở cầu thang. Cô gọi trợ giúp y tế và báo người nhà/cơ quan chức năng. | Không có một đêm bỏ xác không báo. Lan Anh không chứng kiến ẩu đả; Toàn thừa nhận riêng việc xô bố và cho cô thấy áo/vết cào. |
+| Trong lúc chờ trợ giúp | Toàn thay áo; Lan Anh cất chiếc áo bẩn, che vết thương bằng băng/vải thường. | Khăn tang chỉ xuất hiện khi tang đã được tổ chức. Không di chuyển xác để dàn dựng; cơ quan chức năng vẫn thấy và có thể hỏi về băng/vết thương. |
+| Cùng đêm | Thủy được báo trong ca làm; đồng nghiệp xác nhận cô ở xưởng. Cô xin rời ca sau khi nhận tin và về nhà; không cần đến trước lúc hiện trường bị hạn chế tiếp cận. | Hồ sơ giờ đi/về và thời gian di chuyển loại khả năng có mặt lúc Cường chết, không loại mọi hành vi trước/sau đó. |
+| Sau tin báo/thu máy | Thủy hỏi dồn điện thoại ở đâu, được người biết việc thu máy báo lại; lo đe dọa bị lộ và tìm cách tác động lời kể người nhà. | Không có lần tìm/lấy máy trước hạn chế tiếp cận. Haunting trong việc gia đình là cảnh riêng, không phục vụ custody máy. |
+| Lần khám đầu | Người xử lý hiện trường bảo vệ khu vực; chuyên môn tìm, ghi nhận và thu máy trong lần khám đầu tiên. | Không để máy ở đó nhiều ngày để phục vụ cú dọa. Giờ đến, thao tác cứu hộ/khám nghiệm cụ thể cần kiểm chứng. |
+| Từ sáng 14 | Lan Anh liên hệ tiệm mã để chuẩn bị tang; gia đình chờ các bước chuyên môn/bàn giao. | Chuẩn bị đồ không đồng nghĩa thi thể được nhập quan hoặc khách được nhìn thương tích. |
 
-### 6. Cường's trapped smartphone (D-059 / DIR-04)
+Cổn không có mặt tại chân cầu thang khi xô xát; ông được báo cùng người nhà. Tiếng động nghe từ các phần nhà khác chỉ là lời chứng giới hạn, không tạo nhân chứng toàn tri. Căn nhà và lối tiếp cận cần sơ đồ tối thiểu ở preflight cảnh hiện trường.
 
-- At the supernatural attack, Cường's smartphone flies into a recess around the second-floor stair landing and remains offline.
-- The staircase/upper scene is preserved/sealed on the morning of the 14th, leaving the phone trapped inside the restricted area.
-- The device contains Thủy's prior extortion/threat material, giving her an urgent real-world motive to retrieve/destroy it.
-- At dusk on the 14th, Thủy attempts to pass the seal, reaches roughly the seventh step, encounters Cường-haunting phenomena and retreats in terror.
-- At 19:30 the household Wi-Fi reconnects, allowing the queued 22:54 voice message to reach Thủy's device under the current story mechanism. Exact app/network behavior remains a technical verification gate before close-up procedural claims.
+Toàn kể mình vừa về và thấy bố nằm đó, che phần cãi vã trước đó. Đây là lời khai có thể bị đối chiếu. Lan Anh giữ áo vì hoảng loạn rồi mới hủy ở chặng tang gia; khoảng chậm đó và rủi ro bị phát hiện phải có mặt trong thiết kế.
 
-## Supernatural / Reader-Knowledge Architecture
+### Vật chứng và giới hạn kết luận
 
-### Cường is the early domestic haunting (D-054 / D-055 / DIR-01)
+- Chấn thương cổ nghiêm trọng khiến cái chết cần kiểm tra. Không khóa 180°, không cho người ngoài chẩn đoán bằng mắt; bàn giao thi thể và khâm liệm không có hạn bắt buộc theo ngày 15.
+- Bản ghi cục bộ chứng thực Cường còn nói/hoạt động sau xô xát và thứ tự âm thanh. Nó không tự chứng minh cổ gãy trước va đập, không thể xác định Thoa, cũng không tự loại mọi ảnh hưởng của thương tổn trước đó.
+- Móng tay sạch là một dị tượng ở lớp tác giả. Kết quả lấy mẫu nếu có chỉ trả lời phạm vi xét nghiệm, không tự giải oan Toàn.
+- Chấm công, camera/log, người làm cùng và thời gian đường đi hợp lại xác nhận ngoại phạm Thủy. Không có “vân tay tuyệt đối”.
+- Mảnh áo/cúc sống sót trong khe lò hoặc tro khi Khanh phụ dọn. Dấu riêng thuộc một đơn vị vận tải hư cấu, không thuộc toàn ngành xe ben. Mai nhận ra do công việc; mẫu áo khác/ảnh/lời người cấp áo hỗ trợ đối chiếu. Áo đã đốt không bỗng xuất hiện nguyên vẹn khi thu giữ.
+- Không có băng âm thanh giải án 1996. Nhận dạng hài cốt, phần việc Bình nhớ, lời Thủy về phát hiện xác/cưỡng ép và chi tiết lời Cổn kiểm tra được chịu phần làm rõ quá khứ. Nếu chứng cứ chưa đủ cho một kết luận, giữ giới hạn ấy; không để lời thú nhận tự xác minh toàn án.
+- Khanh giúp với sự đồng ý của người sở hữu dữ liệu, chuyển vật mình giữ và mô tả điều mình biết; không mở khóa máy tang vật hoặc tự phục hồi băng/ADN.
 
-Cường's actual supernatural death does **not** mean the early haunting is presented as Thoa. During the early Case Zero movement, the direct household/wake horror centers on the newly dead Cường: footsteps, scraping, apparition-like encounters, and the fear that he has returned to `bắt người đi theo`.
+## Bảng nguồn dị tượng — chỉ dành cho tác giả
 
-The household and village frame this through **Trùng tang**. That framing is a character/community belief and major red herring, not narrator-certified universal metaphysical law.
+| Giai đoạn | Nguồn | Phạm vi và cách kể |
+|---|---|---|
+| Trước khi Cường chết | Thoa | Đơn hàng; cuộc chạm trán đêm 13. Cảnh chạm trán đầy đủ để sau reveal; không gọi người mua là ma sớm. |
+| P2–P4 | Cường | Tiếng cào, bước chân/giọng vô nguồn, hiện diện trong nhà, cản Thủy. Không bắt mọi tiếng nước/băng thành mã định danh linh hồn. |
+| P1–P5 | Chưa định danh cho độc giả | Radio giấy/âm thanh gắn quá khứ có thể tạo câu hỏi, không xác nhận Thoa chết hay đang ám. |
+| Sau cổng P6 | Thoa | Radio, đầm và tên bị xóa được tái nghĩa, có xác nhận siêu nhiên đối với độc giả. |
+| Chi tiết không mang reveal | Có thể không quy nguồn | Môi trường và động vật được có chức năng cảm giác riêng; không cần biến mọi hiện tượng thành clue. |
 
-### Thoa-dead firewall
+Trùng tang là cách cộng đồng hiểu hồn Cường, không phải quy luật phổ quát. Cường vẫn mang tính chiếm hữu/đổ lỗi sau khi chết; việc Thoa giết ông không biến ông thành oan hồn vô tội hoặc tự động xóa lịch sử gây hại.
 
-Before the later Act 3 reveal:
+## Sáu chặng thông tin
 
-- narrator and characters must not establish that Thoa died in 1996;
-- Thoa must not be named as the ghost haunting the household;
-- historical testimony may establish disappearance, family conflict, erasure from genealogy, the `bỏ theo trai` cover story and the missing Czech radio;
-- administrative evidence may support the hypothesis that Thoa is legally/officially still a missing living person;
-- the woman on CCTV remains a living-suspect problem until human explanations are exhausted.
+| Phase | Công việc tự sự | Điều kiện ra khỏi chặng |
+|---|---|---|
+| P1 — Lời hứa kinh dị | Đơn có trước cái chết; tên Thoa; vật mẫu cá nhân và đời sống tiệm. | Người đọc nắm nghịch lý đủ sức kéo tiếp; chưa biết án 1996. |
+| P2 — Tang gia bị xâm nhập | Haunting Cường, người thấy/người phủ nhận, gia đình chịu sức ép thủ tục và tang. | Dị tượng có hậu quả hành động; không chỉ ảnh thờ đổi mặt rồi cú vỗ vai. |
+| P3 — Tội lỗi trần thế | Cho thấy hành vi giấu/hủy, nợ và áp lực đất qua nhiều POV. | Độc giả có mảnh hơn Khanh; chưa có confession toàn bộ. |
+| P4 — Thoa có thể còn sống | Ký ức mất tích, hồ sơ chưa xác định chết, CCTV và người biết gia đình. | Giả thuyết có thể bị kiểm tra; thiếu khai tử không được coi là bằng chứng còn sống. |
+| P5 — Các lời giải cụ thể thất bại | Ngoại phạm Thủy được kiểm chứng; phần ẩu đả và che giấu của Toàn/Lan Anh lộ. | Phân biệt tội người sống với cái chết chưa giải thích; chưa nhảy từ “loại hai người” sang “chỉ có ma”. |
+| P6 — Sự thật, trách nhiệm, dư ba | Tìm hài cốt và nhận dạng; lời chứng/chi tiết độc lập và hiện diện Thoa hội tụ theo thứ tự. | Tên Thoa được trả lại; người sống phải lựa chọn chịu trách nhiệm; dư ba có điểm kết. |
 
-Objective author truth remains that Thoa died in 1996 and is the supernatural executioner of Cường; reader-facing knowledge must earn that reveal later.
+P6 có các cổng con: **G6a** mở sự thật Thoa chết khi có chứng cứ nhận dạng đủ; **G6b** dựng lại tội 1996 bằng nhiều nguồn; **G6c** xác nhận Thoa là người đặt đơn/kẻ giết Cường qua trải nghiệm tự sự đã được gieo. Chứng cứ pháp lý và xác nhận siêu nhiên cho độc giả không nhập làm một.
 
-## Human Suspect / Red-Herring Network
+Không cố định 16–20 chương hoặc Chapter 10 reveal. Một chương có thể bắc cầu giữa phase nếu preflight ghi rõ. Khanh được tò mò, suy nghĩ một việc và phản ứng hợp lý từ đầu; không bị làm kém thông minh để độc giả đi trước.
 
-### Thủy
+## Động cơ, đời sống và lựa chọn — D-002
 
-Human wrongdoing: extortion/intimidation over the land and attempted destruction of digital evidence. Her night-13 Yên Phong alibi is **real**, not fake. Her left-hand deformity also prevents her from being the fluid left-handed mùng 10 purchaser as shown by the CCTV clue architecture.
+Thoa muốn được kể đúng sau báo oán. Gieo ký ức ấm, nét khó ưa và dự định chưa hoàn thành qua người có nguồn biết ở P4; chi tiết ví dụ trong brainstorm không mặc định đã xảy ra. Cô biết tiệm từ đời sống địa phương, chọn việc nhận đơn riêng/lưu sổ để tên mình được tiếp nhận. Không có ông nội bí mật sắp đặt.
 
-### Toàn
+Thủy muốn quyền lợi và khả năng sống riêng trước khi chọn nói thật dù chưa chắc được lợi. Cô từng thử tìm giúp đỡ và dựng đời sống riêng, cần chọn mốc/người biết khi lên cảnh. Không gán nguyên nhân chịu đựng cho khuyết tật/ngoại hình.
 
-Human wrongdoing: violent scuffle with Cường, concealment of scratches/torn shirt through Lan Anh, debt pressure and land motive. He believes he caused the fatal fall but did not cause the supernatural neck break.
+Cường có tình thương thật với con, đồng thời gây hại và bóc lột. Vợ Cường/mẹ Toàn đã mất vài năm trước hiện tại khi Toàn trưởng thành, không liên quan án/twist; chưa đặt tên, năm hoặc nguyên nhân. Lan Anh phải quyết định có xác nhận chuyện mình không chứng kiến khi Toàn yêu cầu; hướng kết là từ chối và nhận phần đã làm.
 
-### Lan Anh
+Khanh chịu sức ép vì đơn hàng của tiệm: lời đồn, khách hủy và người khuyên giữ kín; vẫn có người bênh tiệm. Anh chọn bảo toàn thông tin/cung cấp đúng nơi, trả giá bằng quan hệ và công việc, không tự nhận quyền điều tra. Mai vẫn là bạn thuần túy.
 
-Human wrongdoing: evidence concealment driven by loyalty to her husband. She is not independently established as part of Thủy's extortion campaign.
+## Giới hạn và các hướng cảnh haunting đã duyệt
 
-### Vũ Cổn
+Cường gắn với nhà/quan hệ quen thuộc, không toàn tri về nơi hay dữ liệu chưa tiếp cận. Thoa không sửa được hồ sơ, ký ức và quyết định người sống. Những giới hạn này phải được tôn trọng cả khi giải quyết đoạn kết.
 
-Historical wrongdoing: mastermind of the 1996 concealment and decades of patriarchal coercion. In the early haunting he publicly suppresses ghost/Trùng-tang talk and only later breaks after his own encounter with Cường's spirit.
+Dấu hiệu riêng của Cường là giọng gọi, đợi được đáp rồi gọi lại theo thói quen kiểm soát lúc sống. Có cảnh ban ngày hơn một người nghe từng phần nhưng hiểu khác; có cảnh Toàn định đáp/lên cầu thang, Lan Anh giữ lại rồi tiếng gọi chuyển sang cô. Không nhét mọi manh mối vào cùng một cảnh. Hậu quả: mất chỗ ngủ an toàn, phải đi cùng nhau hoặc không làm được việc thường ngày.
 
-### Thầy Bình
+Động vật/im lặng/lạnh là lựa chọn, không báo ma bắt buộc. Nghi lễ có thể tạm gắn kết người sống mà chưa giải hết haunting; thực hành cụ thể cần nguồn. Body horror dùng ít chi tiết có hậu quả, không góc cổ cố định hoặc biến động vật thành máy đo ma.
 
-Connected to the heterodox-binding history through the outside specialist's lineage/apprenticeship. His exact ritual actions, terminology and procedural role must remain inside verified cultural/research boundaries; he is not an infallible lore database.
+D-004 khóa thứ tự kể mở đầu: CH-01 mở sáng 14 với tin ông Cường xóm Trại chết và đơn đặt từ khi còn sống, rồi kết bằng coda tiếng gọi ngắn ở nhà Cường; không dùng toàn cảnh cầu thang. CH-02 dành trọn cho hồi tưởng sáng mùng 10 trong limited POV bà Lan, không quay lại ngày 14 ở cuối chương. Hồi tưởng phải cho độc giả trải nghiệm/thông tin mới từ cuộc nhận đơn, không chỉ diễn lại tên/ngày. Timeline thực tế giữ nguyên. Radio giấy chưa hoàn thiện trong cảnh đặt đơn. Không ép cảnh đủ số giác quan/clue/POV.
 
-### Đào Văn Sang
+## Ending-state sheet
 
-A land broker/speculator exploiting debt and family conflict around the road project. He adds mundane greed and leverage but does not know the supernatural/historical truth by default.
+**Hướng kết được duyệt bởi D-002; chưa phải manuscript state.** Cao trào là lựa chọn Thủy nói đúng phần chứng kiến và Lan Anh đặt giới hạn, khi Cổn còn muốn giữ thể diện. Chứng cứ đã tích lũy tạo sức nặng; không gom thủ tục và mọi reveal trong một đêm. Các mức án/quyền đất chưa chốt.
 
-### Left-handed female thief (D-053)
+| Tuyến | Yêu cầu đã chốt | Hướng kết đã duyệt / chi tiết còn phải thiết kế |
+|---|---|---|
+| Cổn | Quyền kiểm soát lời kể bị phá; phải đối diện việc che giấu. | Còn sống và nhận trách nhiệm trong lời khai; không chết để thoát đối chất. Tội danh/thời hiệu phải nghiên cứu. |
+| Thủy | Phân biệt nạn nhân bị ép im lặng với hành vi đe dọa 2026; được kể đúng phần mình biết. | Tự cung cấp dữ liệu và lời khai, bắt đầu đòi quyền lợi; không được xóa trách nhiệm vì khổ. |
+| Toàn | Xô xát, khai thiếu và che giấu bị làm rõ; không kết tội giết cha bằng vết cào. | Nhận phần mình làm, đối diện điều tra/nợ và lòng tin hỏng; chưa chốt mức án. |
+| Lan Anh | Đốt áo là lựa chọn có cái giá riêng. | Nói rõ phần đã giúp che giấu, ngừng bảo vệ chồng bằng nói dối; không mặc định ly hôn hay tha thứ. |
+| Bình | Không là kho lời giải; phải khai điều thực sự biết. | Cung cấp dấu mốc phần yểm mình từng phụ, thừa nhận giới hạn; trách nhiệm pháp lý phụ thuộc hành vi đã chứng minh. |
+| Đầm sen/Sang | Khai quật và tranh chấp phá kế hoạch chiếm lợi nhanh. | Việc chuyển nhượng bị đình lại trong truyện vì các bên không còn thống nhất; quyền sở hữu/chế tài chưa chốt. |
+| Cường | Haunting có điểm kết, không nhận danh hiệu oan hồn vô tội. | Một lần đối mặt cuối và sự rút lui quan sát được; cơ chế, người chứng kiến và dấu phân biệt với tạm yên còn cần thiết kế trước P6. Không tuyên bố số phận vĩnh viễn hoặc thú nhận làm ma tan. |
+| Thoa | Được nhận tên, nhận hài cốt và câu chuyện thật. | Được trả lại câu chuyện và có điểm dừng trong arc; không buộc cô tha thứ. Thủy được tự quyết giữ/gửi đi radio giấy; đường đi vật phải được chốt ở preflight, không tự bịa nghi lễ. |
+| Khanh | Giúp bằng lựa chọn có trách nhiệm, không thành người hành nghề tâm linh. | Trở lại nhịp công việc, lưu điều biết/chưa biết; mang thay đổi trong quan hệ với ký ức gia đình. |
 
-A living, left-handed cross-district serial burglar who lurked around xóm Trại and abruptly vanished after Cường's death. Because she is left-handed, gaunt, and resembles the family on blurry CCTV / paper ID records, police (Long) and Khanh mistakenly suspect her of being Vũ Thị Thoa returning alive for revenge. Her later arrest in Bắc Ninh and airtight alibis for mùng 10 and night 13 collapse the secular suspect model and force the narrative toward supernatural reality. (She never visited the votive shop; that order remains 100% Thoa's ghost).
+Trước preflight P6 cần hoàn thiện cơ chế kết Cường và custody/quyền lựa chọn radio giấy. D-002 đã chọn Cổn sống và cái chết nền của mẹ Toàn; không phê duyệt tử vong khác, bản án, sở hữu đất hoặc kết luận vĩnh viễn về linh hồn. Dư âm nằm trong sinh hoạt/quan hệ đã đổi; không thêm cú hù báo sequel để phá điểm dừng vừa đạt được.
 
-## Current Canonized Opening — Chapters 1–5
+## Cổng nghiên cứu
 
-The precise prose is authoritative only in the manuscript files; this arc records durable information order.
-
-### Chapter 1 — `Đơn hàng đoạt mệnh`
-
-The advance-order anomaly is established after Cường's death. The horror question is that a personalized order associated with him predates his unexpected death. No 1996 death reveal is allowed.
-
-### Chapter 2 — `Bàn tay trái`
-
-CCTV lookback establishes the mùng 10 purchaser and the left-handed impossibility. Thoa remains a person-name/identity question, not a confirmed dead woman.
-
-### Chapter 3 — `Rạp tang xóm Trại`
-
-Funeral-space dread escalates; Cường's grotesque neck trauma, the preserved staircase scene, Thủy's real physical left-hand deformity, rational denial and the first Cường-centered haunting pressure become materially important.
-
-### Chapter 4 — `Băng từ rỗng`
-
-Historical oral testimony preserves the **cover story**, not the truth: Thoa disappeared after a severe family conflict, was erased from family memory/genealogy, was rumored to have fled with a lover, and her Czech radio vanished. The chapter must not establish that she died. Cường/Trùng-tang fear intensifies while the paper radio behaves impossibly.
-
-### Chapter 5 — `Đêm áp Rằm`
-
-The trapped 22:54 voice-message mechanism, Cường-haunting pressure and physical/audio evidence make an ordinary staircase accident increasingly untenable. The identity of the entity that actually killed Cường remains locked.
-
-## Planned Slow-Burn Progression (16–20 chapter working scale)
-
-Chapter count is scaffolding rather than a quota. The following is a reveal architecture, not permission to override approved manuscripts.
-
-### Act I — Anomaly / funeral dread / Cường haunting
-
-Chapters 1–5 establish the impossible advance order, purchaser identity problem, physical death anomaly and Trùng-tang smoke screen while keeping Thoa's death hidden.
-
-### Act II — Human guilt and community memory
-
-- Toàn/Lan Anh's scuffle-evidence cover-up becomes visible through fair physical clues.
-- Thủy's extortion campaign and urgent smartphone-destruction motive become increasingly investigable.
-- Cổn's denial begins to fracture; Bình's ritual connection becomes suspicious without turning him into an exposition machine.
-- Community/oral testimony deepens the 1996 disappearance cover story without certifying Thoa's death.
-- Administrative identity investigation may strengthen the `living Thoa` hypothesis if procedurally verified.
-
-### Act III — Exhaustion of living explanations
-
-- Police/Khanh test the human suspect web.
-- **Thủy's night-13 alibi is confirmed rather than busted.** Investigation instead exposes her extortion and attempted evidence destruction.
-- Toàn's independent scuffle and Lan Anh's concealment are reconstructed.
-- The left-handed thief / impersonator hypothesis is tested and eliminated by genuine alibi/handwriting mismatch.
-- Human wrongdoing becomes clearer while still failing to explain the 22:54 supernatural mechanics.
-- The firewall around Thoa's true death can finally break at the author-approved reveal point.
-
-### Act IV — Collapse of the mundane model / buried truth
-
-- Forensic/audio sequencing confirms that the fatal neck break precedes impact.
-- The pond-development deadline forces excavation/recovery of the buried radio/talisman evidence.
-- The cassette recording exposes the 1996 forced-marriage conflict, accidental manslaughter and Cổn/Cường cover-up.
-- The supernatural executioner identity can be revealed as Thoa according to D-054/D-056/D-058.
-- Khanh eventually encounters grandfather's refusal record: `Không nhận lễ`.
-- Resolution should expose human responsibility without over-explaining the universe's cosmology.
-
-## Horror Contract
-
-- Horror first; mystery deepens horror rather than sterilizing it.
-- Early domestic supernatural pressure belongs to Cường's newly dead spirit and the community's Trùng-tang interpretation.
-- The deeper Thoa truth is protected by information order, not denied at author level.
-- Human red herrings must be genuinely causal and morally consequential even when they do not explain the supernatural killing.
-- Recontextualization and retroactive dread should make earlier clues more disturbing on reread.
-- Real funeral, police, identity-database, networking/app and ritual claims remain subject to their respective verification gates.
+Xem [research note](../../research/verified/case-zero-mechanics-audit-v1.md). Cần kiểm chứng trước cảnh cận: tổ chức công an 2026 và phân quyền; khám nghiệm/bàn giao; thương tổn và giá trị âm thanh; điện thoại/app ghi âm 2026; nhận dạng hài cốt; truy cập hồ sơ CMND/khai tử; nghi lễ/tang phục. Có thể lược bỏ chi tiết chưa chắc, nhưng không khóa một chuỗi cảnh phụ thuộc nó như đã xác minh.

@@ -6,7 +6,7 @@ Novel OS is **free-first** and deliberately layered. Core tools are small; optio
 |---|---|---:|---|
 | Agent runtime | Antigravity + Gemini | Core | director, planner, writer, reviewer, researcher |
 | Story system | Story Skills | Core | structured story state + deterministic continuity |
-| Craft | selected jwynia fiction skills | Core | story diagnosis, character, dialogue, scenes, prose, revision |
+| Craft reference | selected jwynia fiction skills | Explicit-only | diagnostic ideas when the author names a skill; never silently combined with Horrible roles |
 | Canon format | Markdown + YAML | Core | portable source of truth |
 | Versioning | Git | Core | history, diff, rollback |
 | Human UI | Obsidian | Recommended | story bible navigation and visual thinking |
@@ -29,6 +29,8 @@ Novel OS is **free-first** and deliberately layered. Core tools are small; optio
 Run `npm run capabilities` to detect optional CLI capabilities already available on the machine. Missing optional tools do not affect core readiness. See [`OPTIONAL_STACK.md`](OPTIONAL_STACK.md).
 
 ## Core skill selection
+
+All upstream entries below are installed explicit-only. Horrible generation, review and revision use `hr-source-*` roles; invoking an upstream skill does not grant it canon/state mutation authority or turn its craft advice into a production rule.
 
 Installed from jwynia by default:
 

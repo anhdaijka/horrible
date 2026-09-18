@@ -3,6 +3,7 @@ import { cpSync, existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, readd
 import { tmpdir } from 'node:os';
 import { basename, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { applyCreativityFirewall, cleanManagedSkillDirectory, isProjectOwnedSkill } from './lib/skill-install-policy.mjs';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 const lock = JSON.parse(readFileSync(join(root, 'config/upstreams.json'), 'utf8'));
@@ -41,9 +42,8 @@ try {
 
 mkdirSync(target, { recursive: true });
 if (clean) {
-  for (const entry of readdirSync(target)) {
-    if (entry !== '.gitkeep') rmSync(join(target, entry), { recursive: true, force: true });
-  }
+  const { removed, preserved } = cleanManagedSkillDirectory(target);
+  console.log(`Cleaned ${removed.length} upstream-managed skill(s); preserved ${preserved.length} project-owned entry/entries.`);
 }
 
 const temp = mkdtempSync(join(tmpdir(), 'novel-os-'));
@@ -54,6 +54,7 @@ try {
   for (const name of readdirSync(storySkillRoot)) {
     const source = join(storySkillRoot, name);
     if (!existsSync(join(source, 'SKILL.md'))) continue;
+    if (isProjectOwnedSkill(name)) throw new Error(`Upstream skill collides with project-owned namespace: ${name}`);
     copyDir(source, join(target, name));
   }
 
@@ -62,7 +63,9 @@ try {
   for (const rel of lock.jwynia.selected) {
     const source = join(craftRepo, rel);
     if (!existsSync(join(source, 'SKILL.md'))) throw new Error(`Missing selected skill: ${rel}`);
-    copyDir(source, join(target, basename(rel)));
+    const name = basename(rel);
+    if (isProjectOwnedSkill(name)) throw new Error(`Upstream skill collides with project-owned namespace: ${name}`);
+    copyDir(source, join(target, name));
   }
 
   if (withBetterWriting) {
@@ -73,6 +76,9 @@ try {
   } else {
     console.log('\n[3/3] Better Writing not requested (optional).');
   }
+
+  const firewall = applyCreativityFirewall(target);
+  console.log(`Creativity firewall: ${firewall.explicitOnly.length} upstream skill(s) set to explicit-only; ${firewall.preserved.length} project-owned skill(s) left discoverable.`);
 
   console.log('\nNovel OS bootstrap complete.');
   console.log(`Skills installed in ${target}`);

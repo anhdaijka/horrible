@@ -1,24 +1,11 @@
-﻿---
-description: Thẩm định phản biện đối kháng (Adversarial Red-Team Review) toàn văn bản thảo chương của Horrible theo 5 Cổng Thẩm Mỹ.
+---
+description: Horrible review with character-grounded context and versioned handoff.
 ---
 
-# /hr-review
+# /hr-review <chapter>
 
-1. Xác định số chương mục tiêu và đường dẫn bản thảo cần review (mặc định: `revisions/chapter-work/CH-XX/draft.md` hoặc `chapters/chapter-XX.md`).
-2. BẮT BUỘC dùng công cụ `list_dir` và `view_file` để đọc trực tiếp toàn bộ các tệp `.md` trong thư mục `author/directives/` (DIR-01 → DIR-07) trước khi tiến hành thẩm định.
-3. Đọc `.agents/skills/hr-source-review/SKILL.md` và `docs/playbooks/horrible-craft-review.md`.
-4. Nhập vai Reviewer đối kháng: đọc toàn văn L1-EOF, kiểm toán hai chiều theo 5 Cổng Thẩm Mỹ, trích dẫn tối thiểu 5 Spans nguyên văn có số dòng cụ thể.
-5. Xuất báo cáo thẩm định vào `revisions/chapter-work/CH-XX/review.md` theo mẫu `templates/review-report.md`.
-6. Đưa ra phán quyết `SEMANTIC_REVIEW: PASS | REVISE_REQUIRED | INCOMPLETE` và giữ `AUTHOR_ACCEPTANCE: PENDING`. Tuyệt đối không tự ý sửa bản thảo.
+Read .agents/skills/hr-source-review/SKILL.md and follow its role instructions.
 
----
+Do not begin from session-state. Read locator-only candidate.md and the full named prose first; record the actual first reading before opening handoff, prior reviews, context or brief. Then open the generative packet and qa-card, diagnose a prioritized set of root causes, separate OPTIONAL_EXPERIMENT from BLOCKER/MATERIAL_DEFECT, and name protected strengths. Test whether the chapter gives a specific horror experience, lives beyond plot delivery and leaves fair evidence for the reader without forcing character deductions; do not impose subplot or clue quotas. Bind the report to candidate hash and consequential basis; disclose actual independence. COMPROMISED context cannot issue an independent PASS.
 
-## Báo cáo kết thúc (bắt buộc sau mỗi lượt hoàn thành)
-
-**Changed files:**
-- `revisions/chapter-work/CH-XX/review.md` — created
-
-**Resulting commit:** *(nếu agent được phép commit)*
-`review: CH-XX adversarial review — <verdict: PASS | REVISE_REQUIRED> — <tóm tắt 1 finding chính>`
-
-**Next-step recommendation:** `<task> → <recommended model> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do: nếu PASS thì recommend revise nhẹ hoặc canonize; nếu REVISE_REQUIRED thì recommend revise với intensity phù hợp độ nặng của findings>`.
+Shared details: docs/playbooks/horrible-craft-review.md. No current PASS transfers to changed prose.

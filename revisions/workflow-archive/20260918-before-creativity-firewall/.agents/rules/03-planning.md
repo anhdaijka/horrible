@@ -1,0 +1,17 @@
+# Chapter preparation
+
+Before building a preflight, inspect current author intent and compare it with inherited design. Consult the design-dialogue section of docs/playbooks/horrible-craft-review.md. Present a concise decision brief: reader experience, consequential alternatives and tradeoffs, recommendation, open questions and approval basis. This is an editorial rationale, not a transcript of internal reasoning.
+
+Separate objective event chronology from presentation order, chapter allocation and reader/character knowledge. A flashback can preserve the first while changing the other three. Do not treat chronology validation as permission to choose chapter order.
+
+Author approval and packet readiness are different claims. Approval settles only the choices actually presented. Before declaring READY, identify each consequence-bearing hinge the chapter depends on, including causes that will be dramatized in a later flashback: what is perceived, what the person knows or plausibly infers, why that inference is available, what choice follows and what obligation it creates. Test at least one credible counter-reading where the hinge matters. Do this only for consequential hinges, not every beat or line.
+
+Do not classify routine action as a hinge merely because a later event will make it eerie in retrospect. A direct author account of family practice or a well-established occupational/social baseline may be sufficient without an on-page motive, warning, authorization check or defense against every hypothetical reaction. A hinge exists when materially different readings would change knowledge, choice, obligation or durable consequence. If they would not, remove the lock and leave the implementation to the writer instead of inventing explanatory machinery.
+
+If a hinge needs a new material story choice, create design-discussion.md (template provided), mark AWAITING_AUTHOR and ask the author before generating or relocking the writer packet. Offer viable, pressure-tested options; do not make the author invent a replacement merely because the first recommendation fails. Resolve source-answerable gaps yourself. Current explicit choices need no reconfirmation, but they do not approve unstated premises. When no consequential question remains, record the evidence for READY rather than a ceremonial approval round.
+
+After the gate is resolved, create internal preflight.md, situation-focused writing-brief.md and spoiler-safe character-context.md. No fixed fact count or required secret.
+Verify sources, outcomes, chronology, presentation, knowledge/reveal boundaries, durable state, factual dependencies and the causal hinges connecting them. A later-presented cause must be understood enough to support an earlier-presented consequence; this does not require drafting the later chapter or changing presentation order. Preserve relationships, useful address, ordinary priorities and practical context. Separate motives from instructions to the author.
+Character context selects facts and spoiler-safe source sections, not mandatory performance tics. Resolve source-answerable questions by reading; minor execution choices belong to the writer.
+
+For demonstrated recurring failures, carry forward a short mechanism-level regression test: symptom, consequence and observable counterexample. Do not carry rejected prose or a mandatory old solution. A restart does not close an unresolved regression risk.

@@ -1,13 +1,3 @@
-# Review Current Chapter
+# Review current candidate
 
-Use the Independent Reviewer role.
-
-1. Identify the chapter under review and its approved plan.
-2. Run deterministic checks first.
-3. Review the chapter without rewriting it.
-4. Separate deterministic findings from craft findings.
-5. For craft findings, use severity + location + evidence + smallest effective intervention.
-6. Check that the draft reaches the approved ending state without violating forbidden reveals.
-7. Finish with a concise revision priority order.
-
-Do not mutate canon and do not produce a full rewritten chapter unless the author explicitly asks after accepting the review.
+Given the exact workspace, run hr-source-review without reading session-state first: locator-only candidate.md and full prose, then record actual first reading. Only afterward open handoff, generative packet, qa-card, prior reviews and session-state for a prioritized contextual diagnosis. Separate BLOCKER/MATERIAL_DEFECT from OPTIONAL_EXPERIMENT and protect strengths. Run hr-source-safety against the same candidate bytes and consequential authority basis; do not require visible reactions. Record exact identity, source freshness and real independence; update handoff after both lanes.

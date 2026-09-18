@@ -36,15 +36,15 @@ A chapter may be quiet, funny or domestic, but the early novel must maintain a d
 - Everyday-life insight may reframe evidence; it must not conjure missing evidence.
 - Reader-facing clues should remain fair when a later reveal depends on them.
 - Police and professionals retain plausible competence. Khanh should not routinely outperform trained investigators at their own jobs.
-- **Do not let Khanh monologue-chain clues into case conclusions within a chapter.** Clue synthesis belongs exclusively to the reader until Act III/IV. Khanh receives a fragment, feels brief unease, and moves on.
-- **Do not place Khanh unnaturally at private scenes between suspects.** If a scene is private to Vũ family members or suspects with no plausible reason for Khanh's presence → mandatory Cinematic Off-POV (see DIR-03).
+- **Do not give Khanh unearned forensic knowledge or an answer-dumping monologue.** Local inference from available facts is allowed in any phase.
+- **Do not place Khanh unnaturally at private scenes between suspects.** If a scene is private to Vũ family members or suspects with no plausible reason for Khanh's presence → choose objective or an appropriate limited POV (see DIR-03).
 
 ## POV boundary (DIR-03, DIR-05)
 
-- The novel uses Rotating Focalization (Khanh Main Anchor ~50–60% + Rotating POV suspects ~25% + Cinematic Off-POV ~15% + Community Lore oral). See `author/style-bible.md §3` for full architecture.
+- The novel uses rotating focalization: Khanh is the recurring anchor; an appropriate participant's limited POV, objective observation or community oral voice may carry a scene when it belongs there. Do not allocate scenes to satisfy percentages.
 - **Off-POV scenes (Cinematic Fly-on-the-wall) cannot contain private interior thought or explanatory confession.** They are strictly observational — behavior, speech, space, physical evidence only.
 - **Rotating POV chapters** (Thủy/Toàn/Lan Anh/Cổn limited 3rd) are allowed only when they deepen supernatural dread or crime concealment from the inside. Do not use them to explain the mystery to the reader.
-- **Anti-Omnipresent Protagonist:** Never fabricate a pretext to put Khanh behind a bush or around a corner to witness a private confrontation. If the scene requires witnessing private suspects → switch to Off-POV.
+- **Anti-Omnipresent Protagonist:** Never fabricate a pretext to put Khanh behind a bush or around a corner to witness a private confrontation. If the scene requires witnessing private suspects → choose objective or an appropriate limited POV.
 
 ## Supernatural boundaries
 
@@ -106,7 +106,7 @@ Foreshadowing should create a question. It should not answer tomorrow's question
 - CCTV / AI enhancement producing impossible forensic certainty
 - convenient police-friend database lookups
 - escalating magical combat as the main resolution engine
-- **Khanh delivering an in-chapter interior monologue that chains physical evidence → suspect psychology → case conclusion** (Anti-Detective rule, DIR-05)
+- **Khanh delivering an unearned monologue that exceeds his information or spoon-feeds the complete case solution** (Anti-Detective rule, DIR-05)
 - **Forced purple-prose comparisons that import crime/forensic language as metaphor** (e.g., hoa gạo như máu, tiếng gió như cuống họng bị bóp) (DIR-05)
 
 ## Scope boundary
@@ -115,10 +115,22 @@ The series may expand geographically and thematically, including Japan, but shou
 
 Expansion should deepen fear, culture and consequence rather than simply increase supernatural power levels.
 
-## Case Zero Specific Boundary: The Thoa-Dead-Leak Firewall, Cường Haunting & Trùng Tang Paradigm (D-054, D-055)
+## Case Zero — firewall và hiện trường hậu reset (D-002, 2026-09-17)
 
-- In Case Zero (Chapters 1 through 9), the central domestic horror, uncanny dread, and supernatural haunting MUST focus exclusively on **Hồn ma ông Vũ Văn Cường (the unquiet spirit of the freshly dead man prior to and during the funeral rites)**.
-- Strictly forbid any narrator intrusion, character dialogue, or slip of tongue indicating that Thoa is dead, that Thoa is a ghost, or that the family is being haunted by Thoa's ghost before the Act 3 reveal (Chapter 10).
-- Thoa must remain strictly an enigmatic, living female suspect (the woman on CCTV) in the investigation led by Khanh and the police.
-- The suspects (Thủy, Toàn, Lan Anh, Cổn) are gripped by paralyzing terror of Cường's spirit because they all committed coercive or illicit acts around Cường immediately before/after his violent death (including extortion, violent family conflict, evidence concealment and suppression), without intending to cause the supernatural killing.
-- **The Trùng Tang Framing (D-055):** When Cường's spirit manifests or is discussed by characters and villagers, the haunting MUST be framed around folk belief in **Trùng Tang** (chết dữ phạm giờ, vong về đòi bắt người sống / bắt con cháu, anh em ruột thịt đi theo). Characters must use authentic folk-grief phrasing like *"Anh Cường về đòi bắt cả em đi"*, *"Bố mày về bắt người đi theo"*, *"Trùng tang rồi"*, strictly avoiding sterile procedural terms like "đòi mạng" or "uẩn khúc giết người". The entire village and readership must be led to perceive the haunting as an authentic, terrifying Trùng Tang crisis.
+- P1–P6 trong arc/ma trận thay các lịch chương cũ. G6a mới mở sự thật Thoa chết; G6b trách nhiệm 1996; G6c người đặt đơn/hung thủ siêu nhiên. Không để “inverted mystery” mở lời giải từ đầu.
+- Tên Thoa có thể xuất hiện ở P1; trước G6a, cô là người mất tích có thể còn sống. Không bảo đảm độc giả tin cô sống và không cấm họ tự nghi ngờ.
+- Sau Cường chết, haunting gia đình P2–P4 tập trung vào Cường. Đơn hàng trước cái chết có nguồn Thoa nhưng chưa định danh cho độc giả.
+- Trùng tang là cách diễn giải của một bộ phận gia đình/cộng đồng; Thắng và Cổn ban đầu có thể phủ nhận. Không narrator-certified doctrine hoặc yêu cầu toàn làng cùng tin.
+- Không dùng góc cổ 180°, móng sạch, một timestamp hoặc tiếng gãy xương để kết luận pháp y vượt chứng cứ.
+- Không hàng đợi Zalo, máy kẹt qua nhiều ngày hay gia đình tự miễn khám nghiệm. Tang và hiện trường theo DIR-04 đã sửa.
+- Không tái lập nữ trộm giống mặt, cúc bay đến chân, máy cassette kể toàn bộ vụ án hoặc cảnh ảnh đổi mặt + vỗ vai.
+- D-002 chọn Cổn sống, các lựa chọn nói thật có giá và Thủy quyết định với radio. Cơ chế Cường rút lui còn phải thiết kế; không tự thêm tử vong, mức án, quyền đất hoặc số phận vĩnh viễn của linh hồn.
+
+## D-002 supersession guards
+
+- No attempt by Thủy to retrieve the phone before restriction; she learns it is already collected.
+- No 1996 audio-evidence tape, protected-container recovery requirement or magical confession substitute.
+- A post-scuffle voice recording does not medically exclude earlier injury contribution.
+- No mandatory animal, insect-silence, cold, all-senses or fragmented-fear-dialogue checklist.
+- No default rule that paper offerings retained through Rằm attract spirits.
+- Development outcomes are approved design, not events already experienced in a canonized chapter. Current chapter count remains zero.

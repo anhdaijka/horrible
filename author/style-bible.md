@@ -1,6 +1,12 @@
-﻿# Style Bible — Horrible v2
+# Style Bible — Horrible v2
 
 > Author-approved after the opening reset. Supersedes the earlier style system that over-constrained horror through excessive normalization and ambiguity.
+>
+> **REFERENCE-ONLY CRAFT LIBRARY.** Do not load this whole file for preflight, generation, review or revision. Facts, relationships, reveal boundaries and explicit author decisions must be read from their active authority sources. A named section here may be consulted only after a demonstrated craft problem, and its examples remain optional hypotheses—not packet requirements, regression tests or automatic reasons to rewrite natural prose.
+
+## Case Zero routing — D-002 (2026-09-17)
+
+Use P1–P6 and G6a–G6c in the current arc/matrix. Later-act language means convergence, not a numbered chapter plan. The authoritative mechanisms are the revised DIR-02/DIR-04: radio-as-memory without a 1996 recording, local 2026 phone recording, competent scene handling, uncertain first identification and distinct evidential limits. No rejected scene or old chapter example is mandatory staging.
 
 ## 1. Language and register
 
@@ -37,24 +43,24 @@ This rule does not apply mechanically to YAML, registries or planning documents.
 
 Horrible không dùng Limited 3rd POV thuần túy qua Khanh. Cấu trúc chính thức:
 
-**1. Khanh Main Anchor POV** (~50–60%) — close 3rd limited.
+**1. Khanh Main Anchor POV** — close 3rd limited and the recurring home perspective.
 
 - Khanh là **Cognitive Bridge** (mắt xích nhận thức), không phải investigator.
 - Trong từng chương anh chỉ thu nhận một vài mảnh vụn rời rạc phát sinh tự nhiên trong sinh hoạt đời thường, bất an thoáng qua, rồi tiếp tục.
-- **Không xâu chuỗi thành kết luận vụ án trong chương.** Clue assembly thuộc độc giả, không thuộc Khanh, cho đến Act III/IV.
+- **Cho phép suy luận cục bộ từ điều thực biết.** Không ép Khanh ngu đi để giữ bí mật; cấm suy luận vượt nguồn và mớm toàn bộ đáp án.
 - Narrator sở hữu **storyteller authority** (foreshadow, frame, withhold, compress) mà không trở thành omniscient về private thoughts của người khác.
 
-**2. Rotating POV — người trong cuộc** (~25%) — limited 3rd sâu.
+**2. Rotating POV — người trong cuộc** — limited 3rd sâu when the scene belongs to that person's private experience.
 
 - Vào Thủy / Toàn / Lan Anh / Cổn khi họ đối diện với nỗi kinh hoàng tâm linh riêng tư hoặc hành vi che giấu tội lỗi từ bên trong.
 - Mục đích: đào sâu dread và động cơ con người — không để giải thích bí ẩn cho độc giả.
 - **Rotating POV không được phép là cánh cửa confession hoặc exposition hé cấu trúc.**
 
-**3. Cinematic Off-POV — Fly-on-the-wall** (~15%) — khách quan hoàn toàn.
+**3. Cinematic Off-POV — Fly-on-the-wall** — khách quan hoàn toàn when observation rather than interior access serves the scene.
 
 - Quan sát thuần túy: hành vi, lời nói, không gian, vật chứng vật lý.
 - **Tuyệt đối cấm interior thought, cấm confession giải thích.**
-- **BẮT BUỘC** khi Khanh không thể có mặt tự nhiên tại cảnh đó.
+- Chọn objective hoặc limited POV phù hợp khi Khanh không có mặt; không cân cảnh bằng tỷ lệ số học.
 
 **4. Community Lore & Oral** — Tiếng nói cộng đồng.
 
@@ -65,7 +71,7 @@ Horrible không dùng Limited 3rd POV thuần túy qua Khanh. Cấu trúc chính
 
 **Anti-Omnipresent Protagonist Guard — quy tắc cứng:**
 
-Tuyệt đối cấm ép Khanh có mặt gượng tạo tại cảnh riêng tư (nấp sau bụi tre, đi ngang qua đúng lúc tống tiền, ẩu đả — bất kỳ cách nào mà author phải brace lý do giả tạo). Nếu cảnh đó quan trọng để độc giả biết → chuyển sang Cinematic Off-POV, để câu chuyện tự nói.
+Tuyệt đối cấm ép Khanh có mặt gượng tạo tại cảnh riêng tư (nấp sau bụi tre, đi ngang qua đúng lúc tống tiền, ẩu đả — bất kỳ cách nào mà author phải brace lý do giả tạo). Nếu cảnh đó quan trọng để độc giả biết → chọn objective hoặc limited POV của người hiện diện. Limited POV không được né suy nghĩ thật bằng “chuyện ấy” để giấu đáp án.
 
 The narrator may:
 
@@ -115,17 +121,9 @@ If a mundane beat only proves that life is mundane, summarize or cut it.
 
 Do not spend thousands of words earning permission for the story to become horror.
 
-## 5.1. Spatial transitions & nostalgic grounding (SOLID narrative movement)
+## 5.1. Transitions
 
-Transitions between physical locations (e.g., walking from the market to a funeral in an alley) must not be treated as rushed mechanical connectors. They are critical pacing buffers and emotional amplifiers.
-
-Apply SOLID principles to narrative transit scenes:
-
-- **Single Responsibility (Pacing & Emotional State):** A walking transit beat has one job: ground the character's sensory transition, decelerate a rushed plot beat, and prepare the psychological threshold before entering a scene of dread.
-- **Open/Closed (Sensory Resonance, Closed Mystery):** Expand sensory and temporal texture (hometown changes, rustic mud and brick roads, childhood nostalgia) without leaking or altering established investigation locks.
-- **Liskov Substitution (POV Character Consistency):** Nostalgic reflections must strictly match the character's lived baseline (e.g., Khanh's sensory contrast between 3 years of sterile Tokyo concrete/subways and the uneven baked bricks of his hometown lane).
-- **Interface Segregation (No Clutter / Anti-Detail Bloat):** Do not dump trivia or incidental scenery for the sake of word count. Select 2–3 sharp, emotionally charged anchors (e.g., the old wooden plank bridge over the ditch, an old neighbor's living presence vs their sudden death) that directly serve the thematic contrast.
-- **Dependency Inversion (Contrast-Driven Dread):** The horror of death or supernatural anomaly should not rely on narrator lecturing; it must emerge from the visceral destruction of a warm, living childhood memory colliding with a cold, grotesque reality.
+A transition may be compressed, omitted or expanded. Expand it when movement through place changes emotion, relationship, expectation or dread; otherwise let it remain connective tissue. Nostalgia, sensory detail and contrast are available, not required structures.
 
 ## 6. Horror may be direct
 
@@ -202,7 +200,7 @@ The transferable quality is **narrative trust**: the reader feels the storytelle
 
 ## 9. Scene pressure
 
-Every scene should have pressure even when it has no supernatural event.
+Many scenes benefit from a live want, inconvenience or unanswered pressure, but repose, observation, humor and connective life may also earn their place through rhythm, attachment or contrast.
 
 Pressure may come from:
 
@@ -224,7 +222,7 @@ A scene without horror can still be compelling if somebody wants something and s
 
 Recurring or scene-important characters should not enter as floating names.
 
-On first real appearance, integrate roughly 2–4 memorable anchors while the person is doing something:
+On first real appearance, give the reader enough socially and physically meaningful context to recognize the person when the scene needs it. Possible anchors include:
 
 - approximate build / age impression;
 - hair / clothing / work-worn detail;
@@ -239,7 +237,7 @@ Physical description should create a baseline that later horror can disturb.
 
 ## 11. Body language
 
-Fear, grief, concealment and uncanny mismatch should often be visible in bodies before narrator labels them.
+Fear, grief, concealment and uncanny mismatch may be visible in behavior, named in thought, summarized by the narrator, spoken, suppressed or left for the reader to infer.
 
 Read behavior against **that person's normal baseline**.
 
@@ -257,9 +255,9 @@ Do not use universal body-language equations such as `looking away = lying`.
 
 ## 12. Frightening bodies / apparitions
 
-When depicting something supernatural, start with **observable wrongness**, but do not be afraid to let it become clearly impossible.
+**Observable wrongness** is one available way to depict the supernatural, not a required starting point.
 
-Possible escalation:
+One possible escalation:
 
 1. familiar;
 2. slightly mistimed;
@@ -271,32 +269,19 @@ A ghost does not always need pale skin, white clothing or hollow eyes.
 
 Sometimes the frightening part is that it looks exactly like a normal person who should not be there.
 
-### 12.1 Miêu tả cái chết: Ma mị, quái đản, khó giải thích (Eerie, Grotesque & Inexplicable Deaths)
+### 12.1 Thương tích và cảm giác sai lệch
 
-Khi miêu tả một cái chết hoặc hiện trường người chết, **tuyệt đối không miêu tả nhẹ tay hay biến nó thành một vụ tai nạn cơ học bằng phẳng, đơn điệu**. Phải dám đặc tả **kinh dị trực diện, quái đản và ghê rợn (visceral & grotesque body horror)**:
+Cho phép body horror khi cảnh cần; chọn chi tiết có sức nặng thay vì tăng gore để chứng minh thể loại. Với Case Zero, thương tích cổ nghiêm trọng không khóa góc 180° hoặc mức phá hủy cơ thể chưa được duyệt. Cái chết trước va đập là sự thật tác giả, không là điều người dự tang nhìn ra bằng mắt.
 
-- **Thương tổn thể xác ghê rợn, dị dạng (Grotesque Trauma):** Không ngần ngại đặc tả những chấn thương quái dị gây sốc thị giác: cổ bị bẻ gập/trẹo ngược hẳn ra phía sau hoặc sang bên theo góc bất khả thi; đốt sống cổ đâm lòi cả đầu xương trắng hếu rách toạc lớp da thịt đẫm máu; mắt trợn trừng lồi hẳn ra ngoài hốc mắt, tròng trắng dã vằn tia máu đỏ sọc; mười đầu ngón tay bật tung móng trơ cả đầu xương dính bết bột vôi tường; máu và bọt mép trào ộc ra nhưng hai hàm răng vẫn cắn chặt ken két hoặc khóe môi nhếch lên thành nụ cười méo xệch đông cứng.
-- **Nghịch lý vật lý & Cơ học quái đản:** Cú ngã hoặc tai nạn xảy ra ở địa hình không thể ngã (bậc thang thấp, quen thuộc 30 năm), vết thương tạo cảm giác như nạn nhân bị một sức mạnh vô hình vặn xoắn, bẻ gãy, dìm nát hoặc kéo giật tuột xuống chứ không phải rơi tự do; xác lạnh buốt như ngâm đáy giếng dù vừa mới tắt thở vài giây.
-- **Tương phản với tiếng cười gượng gạo (Folk Macabre Banter):** Đặt cạnh cảnh tượng ghê rợn đẫm máu ấy là những câu bông đùa tếu táo nửa đùa nửa thật của người đời ("khéo ma dắt bẻ cổ", "dưới âm đòi nợ"). Sự tếu táo đặt cạnh hiện trường vỡ xương lòi mắt tạo ra một sự rùng mình tột bực, đậm chất truyện ma dân gian man rợ và chân thực.
+Dữ liệu chuyên môn cần đúng nguồn. Không miêu tả “không có ADN” từ quan sát móng tay; không biến tiếng động trong bản ghi thành chẩn đoán.
 
-### 12.2 Chi tiết kinh dị ảo giác & Điểm neo nhận diện xã hội (Hallucinatory Dread & Social Recognition Baseline)
+### 12.2 Hiện diện và nhận diện xã hội
 
-Kinh dị trong truyện cần được cài cắm tinh tế ngay trong các bối cảnh đời thường và nghi lễ thông qua **những khoảnh khắc xuất thần / ảo giác lạnh gáy của nhân vật chính**, kết hợp với **phản ứng che giấu bí mật** và **nhịp nhận diện xã hội tự nhiên của làng quê Bắc Bộ**:
+Dị tượng có thể trực diện, nhưng không dùng ảnh thờ biến dạng rồi cú vỗ vai kéo về bình thường như một công thức. Cảnh cần để lại hậu quả: đường đi bị chặn, thao tác không làm được, quan hệ bị nghi ngờ hoặc một việc bình thường không còn diễn ra như trước.
 
-1. **Khoảnh khắc ảo giác kinh dị đột khởi (Momentary Hallucinatory Dread):**
-   - Giữa bầu không khí tang ma, miếu mạo hoặc nghi thức căng thẳng, cho nhân vật chính rơi vào trạng thái tê liệt giác quan: bất chợt nhìn vào linh cữu, di ảnh người chết hoặc vật chứng tâm linh và thấy hình ảnh bị biến dạng quái đản (tròng mắt người trong ảnh co rút, đảo nhẹ rồi găm thẳng ánh nhìn ma dại trừng trừng vào nhân vật; khóe môi rỉ máu đông cứng nhếch cười méo xệch; cảm giác người chết áp sát mặt mình).
-   - Đặc tả triệu chứng sinh lý tức thời: mồ hôi gáy lạnh toát, cổ họng nghẹn ứ, hai chân chôn chặt xuống đất, các ngón tay co quắp run rẩy, tim đập vỡ lồng ngực.
-   - Cắt đứt cơn ác mộng nội tâm bằng một va chạm vật lý đột ngột từ người sống (cú vỗ mạnh vào bả vai, tiếng gọi giật giọng, tiếng chén đĩa va chạm) để kéo nhân vật giật thót về thực tại. Sự tương phản giữa cơn ảo giác kinh hoàng cô độc và ngoại cảnh ồn ào trần tục làm tăng gấp đôi độ rợn ngợp.
+Nhân vật có thể lảng tránh khi có lý do xã hội; không bắt mọi câu trả lời phải ngập ngừng. Người làng có thể nhận ra Khanh ngay hoặc phải hỏi tùy mức quen và thời gian xa nhau. Không đặt quy trình nhận mặt cố định.
 
-2. **Gánh nặng bí mật & Phản xạ ngập ngừng, lảng tránh (Evasion & Secret Burden):**
-   - Nhân vật chính đang ôm giữ một chuỗi sự kiện dị thường, cấm kỵ (đơn hàng vàng mã của người chết, món đồ đoạt mệnh, điềm gở bủa vây).
-   - Khi người quen tình cờ chất vấn lý do xuất hiện ("Ơ nhà mày anh em họ hàng gì bên này mà qua đây?"), nhân vật **tuyệt đối không được trả lời trôi chảy ngay**. Phải luôn có một nhịp sững người, bối rối, ngập ngừng tìm cớ, rồi lảng tránh bằng những lý do xã giao bình thường ("người cùng làng", "mẹ bảo sang thắp nén nhang", "tiện đường ghé qua"). Sự giấu giếm này vừa tạo tính hợp lý tâm lý, vừa khắc họa sâu sắc nỗi cô độc của kẻ bị quỷ ám / dính vào điềm gở.
-
-3. **Quy trình nhận diện xã hội tự nhiên ở làng quê Bắc Bộ (Rural Social Recognition Baseline):**
-   - Người làng, nhất là các cụ già và đàn ông trung niên, **không bao giờ nhận diện ngay lập tức một thanh niên đi làm xa về** như thể đọc tên trên danh thiếp.
-   - Nhịp nhận diện phải trải qua các bước tự nhiên:
-     + *Nheo mắt quan sát nét mặt, vóc dáng* → *Đoán theo dòng dõi cha mẹ/họ hàng* ("Thằng này con cái nhà ai trong làng mà nom quen quen? Trông giông giống thằng nhà ông X bà Y ngoài chợ...?") → *Người bên cạnh nhận ra và xác nhận* ("À! Đúng thằng A con bà B chứ ai! Đi Nhật ba năm trời tít mít giờ mới thấy mặt!") → *Mới chuyển sang trêu chọc tếu táo chuyện đời tư* (vợ con, ế ẩm, gái ngoại quốc, giấu người yêu).
-   - Sự tếu táo, suồng sã và tò mò rất đỗi bình dị của các bô lão chính là lớp phông nền đời sống vững chắc nhất, tạo đòn bẩy tương phản đẩy tính logic đời thường và nỗi sợ kinh dị lên một tầm cao mới.
+Nét họ Vũ trong CCTV tạo khả năng nhận nhầm, không sao chép chính xác khuôn mặt Thủy hoặc xác nhận danh tính bằng độ nét không tồn tại.
 
 ## 13. Dialogue
 
@@ -558,51 +543,37 @@ Do not salvage scenes or dialogue from those prototypes by default.
 
 Rewrite the opening from a blank page.
 
-## 28. Chiều sâu kinh dị dài hơi: Khứu giác, Vật liệu cõi âm & Vi khí hậu tà khí (Sensory & Occult Materiality)
+## 28. Chất liệu giác quan và nghề mã — D-002
 
-Để một câu chuyện kinh dị đạt tầm vóc dài hơi và ám ảnh thâm sâu, nỗi sợ không thể chỉ phụ thuộc vào thị giác hay thính giác cơ học. Nó phải ngấm qua các tầng giác quan nguyên thủy nhất và chất liệu dân gian độc bản:
+### 28.1 Chọn dấu cảm giác theo cảnh
 
-### 28.1 Ám ảnh khứu giác & Vi khí hậu tụt nhiệt cục bộ (Olfactory Dread & Micro-climate of the Uncanny)
-- **Khứu giác là giác quan dẫn dụ cõi âm:** 
-  Tử khí và sự hiện diện của người chết trong văn hóa Việt không chỉ là mùi thối rữa sinh học tầm thường. Đó là một tổ hợp mùi ma quái, ngột ngạt: *mùi dầu chàm ngâm khăn liệm, mùi vải mục ngâm đáy giếng, mùi khói nhang bài ẩm mốc bám chặt vào vách vôi cũ, mùi cơm cúng nguội ngắt thiu nhạt, mùi mỡ cháy lẫn dầu hỏa thoang thoảng*.
-  - *Kỹ thuật cài cắm:* Mùi hương xuất hiện ở nơi **không hề có nguồn phát thực tế**. Giữa đêm khuya trong phòng riêng đóng kín cửa bật điều hòa, nhân vật bỗng ngửi thấy một luồng mùi vôi bột lẫn máu tanh sột soạt thổi qua cánh mũi; hoặc khi bưng bát cơm nóng hổi mẹ nấu, lại ngửi thấy mùi dầu gió và lá bưởi liệm xác.
-- **Vi khí hậu của tà khí (Micro-climate of the Uncanny):**
-  - Sự xâm nhập của cõi âm không bao giờ làm lạnh cả một ngôi nhà một cách kịch trường. Nó tạo ra **sự tụt nhiệt độ cục bộ theo từng mét vuông**: chỉ cần bước qua một ngưỡng cửa, đi ngang qua một chiếu nghỉ cầu thang, hay đứng trước một góc buồng tối, không khí lập tức buốt thấu xương như vừa thò chân xuống đáy giếng lạnh.
-  - Phản ứng sinh lý đi trước nhận thức: da thịt nhớp dính, lông tơ trên cánh tay và sau gáy dựng đứng, các đầu ngón tay tê buốt trước khi mắt nhìn thấy bất cứ bóng hình nào.
+Âm thanh, mùi, xúc giác, nhiệt độ hoặc hình ảnh đều là công cụ, không phải quota. Chọn một vài neo cụ thể có nguồn trong không gian hoặc là hiện tượng siêu nhiên đã duyệt. Không bắt mọi bóng ma làm lạnh cục bộ, tắt tiếng côn trùng hay tạo phản ứng sinh lý chồng lớp.
 
-### 28.2 "Tính linh của vật liệu" trong nghề vàng mã (The Occult Materiality of Votive Craft)
-Nghề vàng mã gia truyền của gia đình Khanh là bản sắc độc nhất vô nhị của bộ tiểu thuyết — đây là cửa ngõ kết nối và giao thương giữa hai cõi Âm và Dương:
-- **Xương thịt của đồ mã:**
-  Theo quan niệm của thợ mã cổ truyền: *nan tre vót nhọn là xương cốt, giấy bản giấy bổi dán hồ là da thịt, bột phẩm đỏ phẩm vàng là máu huyết, và nét bút điểm mắt/vẽ hoa văn chính là linh hồn*. Đồ mã khi làm xong không còn là đồ chơi giấy vô tri.
-- **Hiện tượng "hút vong" vào vật thể rỗng (The Hollow Vessel):**
-  Một món đồ mã tinh xảo (như chiếc cassette, hình nhân, con ngựa, ngôi nhà lầu) một khi đã hoàn thiện nhưng không được đem đốt ngay cho người nhận, mà bị lưu cữu lại trần gian qua đêm Rằm, nó trở thành **một cái xác rỗng không hồn**. Những vong hồn phiêu bạt, ma chết oan hoặc tà khí xung quanh sẽ chui vào ngụ cư, mượn lớp vỏ giấy bồi ấy để mượn hơi người sống.
-- **Cảm giác sờ chạm rợn tóc gáy:**
-  Tiếng giấy bản tự sột soạt cựa mình trong góc nhà tối khi cửa đóng then cài gió không lọt; cảm giác nan tre uốn lượn dưới tay dường như có mạch đập khe khẽ; mùi hồ dán nếp lên men chua nồng trong đêm mưa phùn.
+Không chứng nhận một hỗn hợp mùi là “tử khí trong văn hóa Việt” nếu thiếu nguồn. Vật liệu, kỹ thuật và đồ dùng tang ma cụ thể vẫn qua cultural reality gate.
 
-### 28.3 Linh tính động vật & Ám ảnh âm thanh (Animal Prescience & Acoustic Dread — DIR-06)
+### 28.2 Nghề mã: sự thật vật liệu khác với niềm tin về linh tính
 
-**Sự ngưng bặt đồng loạt:** Trước khi thực thể siêu nhiên xuất hiện, tiếng dế / ễnh ương / chó sủa đột ngột im bặt đồng loạt. Sự tĩnh lặng chết chóc này là tín hiệu báo động nguyên thủy — đáng sợ hơn bất kỳ âm thanh nào phát ra sau đó.
+Nghề gia đình và đồ làm theo đơn nối đời sống người sống với ký ức người chết. Chất liệu thực cần kiểm chứng. Hình ảnh “tre là xương, giấy là da” nếu dùng là ví von của nhân vật hoặc gia đình, không tự gán cho mọi thợ mã cổ truyền.
 
-**Linh tính động vật:** Chó sủa gằn / cào cửa / gầm vào góc tối trống không. Mèo xù lông, đồng tử giãn to, nhìn theo quỹ đạo di chuyển vô hình. Quạ báo tang, cú lợn kêu đêm, bướm đen đậu trên ban thờ. Dùng **sự SỢ HÃI của con vật** để show dị tượng — không phải bản thân con vật là mối đe dọa.
+**Bỏ luật mặc định “đồ mã để qua đêm Rằm hút vong”.** Đây chưa là sự thật văn hóa được xác minh, cũng không là quy luật siêu nhiên mặc định của Horrible. Muốn dùng như niềm tin phải chỉ rõ người tin và nguồn; muốn nâng thành luật truyện phải có quyết định riêng. Radio không tự thành vật chứa hồn vì chưa đem đốt.
 
-**Cấm tuyệt đối:** KHÔNG lạm dụng monster horror (động vật không đột biến thành quái vật). KHÔNG theatrical cat scare (mèo nhảy ra thét ré). Sợ hãi của chính con vật mới là thứ gây ám ảnh thực sự, chứ không phải con vật bị dùng như prop dọa người.
+### 28.3 Âm thanh và động vật — DIR-06
 
----
+Có thể dùng động vật, sự im lặng hoặc nhiệt độ khi cảnh có lý do; vắng chúng không là lỗi review. Không xem phản ứng con vật là phép kiểm chứng ma, không lấy cú/quạ/bướm làm điềm tang được narrator chứng nhận. Giọng gọi quen giữa ban ngày và thói quen vâng lời là hướng đặc trưng của Cường. Tránh jump scare rẻ, không cấm hiện hồn trực tiếp.
 
-## 29. Cấu trúc ăn mòn tâm lý, Địa lý tội lỗi & Chiều sâu bi kịch (Long-form Dread, Topography & Human Tragedy)
+## 29. Ám ảnh dài hơi và đời sống
 
-### 29.1 Địa lý tâm linh & Tầng địa chất tội lỗi tập thể (Layered Spiritual Topography & Collective Silence)
-Một câu chuyện kinh dị lớn đòi hỏi không gian phải có bề dày thời gian và tầng địa chất tâm linh:
-- **Lớp vỏ hiện đại đè lên miệng hố quá khứ:**
-  Dưới con đường rải nhựa phẳng phiu, bức tường nhà ống khang trang, quán nét hay sạp chợ sầm uất ngày nay... từng là bãi tha ma thời dịch tả, hố chôn nạn đói 1945, khúc sông đổi dòng trôi dạt xác chết, hoặc ngôi miếu hoang bị đập bỏ thời bài trừ mê tín. 
-- **Tội lỗi tập thể & Sự im lặng đồng lõa (Collective Complicity):**
-  Cái chết oan khiên hay một lời nguyền trong làng không bao giờ là tai nạn ngẫu nhiên. Đằng sau nó luôn là một vết thương cộng đồng chưa lành: một vụ án mạng bị che giấu vì danh dự dòng họ, sự ruồng bỏ một đứa trẻ, hoặc một giao ước hèn hạ của thế hệ cha ông. Khi vong linh thức tỉnh, nó không chỉ ám một cá nhân mà đòi nợ cả một cấu trúc làng xã.
+### 29.1 Quá khứ có sức nặng, không phải mọi nơi đều có đại tội
 
-### 29.2 Sự đồng lõa vô thức & Chiếc bẫy khế ước (Involuntary Complicity & Karmic Entanglement)
-Trong tiểu thuyết dài hơi, nhân vật chính tuyệt đối không thể là một "thám tử khách quan đứng ngoài ngắm cảnh":
-- **Chiếc bẫy tâm linh vô hình:**
-  Nhân vật bị cuốn sâu vào nghiệp chướng thông qua những hành động đời thường tưởng như vô hại: vô tình nhận một tờ tiền thối dính vôi bột người chết, thắp một nén nhang thứ tư sai quy tắc, giữ lại một cuộn băng hỏng, nhận một lời nhờ vả vu vơ trong giấc mơ...
-- Càng cố gắng duy trì logic lý tính của một kỹ sư IT vừa từ Nhật về, các mắt xích tâm linh càng thắt nghẹt. Đỉnh điểm của sự kinh dị là khi Khanh nhận ra: *mình không phải người đứng ngoài điều tra, mà từ lúc nào đã trở thành một quân cờ trong một nghi thức tế lễ ma quỷ đang tiếp diễn.*
+Case Zero khai thác sự xóa tên và đồng lõa gia đình. Những arc khác không bị buộc lặp án oan, cùng một đại phản diện, hay lời nguyền trùm làng. Lịch sử thật của địa điểm phải có nguồn; không tùy tiện gán hố chôn hay thảm họa cho một nơi có thật.
+
+Cộng đồng có người tử tế, người tò mò, người tránh phiền và người hưởng lợi. Một nhóm lời đồn nhỏ đủ gây áp lực; không kết tội cả làng bằng một giọng kể.
+
+### 29.2 Khanh có việc phải chọn, không bắt buộc mắc bẫy nghi lễ
+
+Ở Case Zero, điểm vướng cụ thể là tiệm gia đình và sổ đơn: bảo vệ tính nguyên vẹn của ghi chép trước lời đồn, khách hàng, quan hệ và áp lực công việc. Anh không được sửa hồ sơ hoặc gánh quyền điều tra chuyên môn.
+
+Bẫy tâm linh, phạm kỵ và cảm giác bị lây nhiễm chỉ dùng khi thiết kế cảnh thực sự cần; không bắt anh thành vật hiến tế qua một động tác vụn.
 
 ### 29.3 Độ trễ tâm lý & Sự ăn mòn đời thường (The Psychological Lag & Mundane Erosion)
 Kinh dị dài hơi sống bằng **The Slow Burn** — chất độc ngấm chậm vào từng tế bào nhận thức:
@@ -620,111 +591,44 @@ Kinh dị dài hơi sống bằng **The Slow Burn** — chất độc ngấm ch�
   Người chết trở về không phải để làm xiếc dọa người. Họ trở về vì uất ức ngút trời, vì bị lãng quên tàn nhẫn, vì mối tình si méo mó, hoặc vì sự hận thù không thể siêu thoát.
 - Đằng sau khuôn mặt bết máu, cái cổ gãy gập hay giọng nói ma dại trong băng từ luôn là **một bi kịch con người quặn thắt**. Khi bí ẩn được bóc tách, người đọc không chỉ rùng mình kinh sợ trước tà thuật hay quỷ quyệt, mà còn phải lặng người, nghẹn ngào trước những góc khuất tàn nhẫn và nỗi đau nhân sinh của cõi trần.
 
-## 30. Nghệ thuật Ám thị phạm cấm & Kinh dị hồi tố trong Khanh POV (Retroactive Taboo Dread & Spiritual Nocebo)
+## 30. Kinh dị hồi tố và ám thị phạm kỵ — công cụ tùy cảnh
 
-> **Scope note (DIR-05):** Kỹ thuật trong section này áp dụng đặc biệt trong các cảnh **Khanh POV**. Trong cảnh Off-POV hoặc Rotating POV (Thủy/Toàn/Lan Anh/Cổn), cơ chế tương tự được thay thế bằng quan sát khách quan hành vi bên ngoài và dread nội tâm không được đặt tên — không phải vòng xoáy nội tâm có lời.
+Chỉ dùng khi thiết kế đã duyệt cần cảm giác một hành động bình thường đổi nghĩa vì thông tin đến sau. Nó không là tiêu chuẩn bắt buộc mọi cảnh Khanh POV hay mọi lần xuất hiện ma.
 
-Đây là thủ pháp tâm lý kinh dị đỉnh cao trong văn hóa duy linh Á Đông: biến nỗi sợ từ "ngoại cảnh" (ma quỷ hù dọa) thành "nội tại" (tâm trí tự giam cầm và ăn mòn chính mình).
-
-### 30.1 Cơ chế tâm lý & Thuật ngữ biên kịch
-- **Ám thị phạm cấm hồi tố (Retroactive Taboo Dread / Guilt):** 
-  Nhân vật thực hiện một hành động hết sức bình thường, vô hại ở Hiện Tại. Nhưng ở Tương Lai (vài giờ hoặc vài chương sau), khi biết được hành động đó vi phạm một đại kỵ tâm linh, ý nghĩa của quá khứ bị "nhiễm độc hồi tố". Một luồng điện buốt lạnh chạy dọc sống lưng khi nhận thức bùng nổ: *"Trời ơi, lúc đó mình vừa làm cái gì thế này?!"*
-- **Hiệu ứng Nocebo tâm linh & Lời nguyền tự kỷ ám thị (Spiritual Nocebo & Folk Suggestion):**
-  Một người ngoài (thầy cúng, bô lão, người họ hàng khó tính) buông một lời phán xét kiêng kỵ ráo hoảnh ("Chết dở, ai lại làm thế trước bàn thờ người chết oan, phạm đại kỵ rồi!"). Lời phán đó **không nhất thiết phải đúng theo phong tục thật**, nhưng nó gieo một "mầm độc" vào tiềm thức. Từ giây phút đó, mọi sự cố ngẫu nhiên (tiếng thạch sùng tặc lưỡi, bóng đèn chập chờn, đau đầu, vấp ngã) đều bị não bộ quy chụp là quả báo.
-- **Bẫy vướng nghiệp chướng vô tri (The Unwitting Transgression / Karmic Tripwire):**
-  Bi kịch rợn ngợp nhất là người bình thường vô tình đạp trúng dây bẫy nghiệp chướng mà không hề hay biết. Cõi âm và luật tục tâm linh không quan tâm đến việc người trần "vô tình hay cố ý".
-
-### 30.2 Sức mạnh hủy diệt trong Limited 3rd POV (Ngôi thứ ba giới hạn qua Khanh)
-- **Lồng giam nhận thức (Epistemic Claustrophobia):**
-  Độc giả bị nhốt chặt trong lồng ngực và tâm trí của Khanh. Độc giả không có góc nhìn thượng đế để biết lời phán là thật hay dọa dẫm. Khi Khanh bế tắc và hoang mang, độc giả cũng nghẹt thở theo từng nhịp đập của anh.
-- **Sự giằng xé nội tâm độc bản (Kỹ sư IT vs. Tín ngưỡng làng quê):**
-  Khanh là kỹ sư phần mềm, 3 năm sống ở Tokyo hiện đại. Lý trí logic của anh gào thét: *"Toàn mê tín nhảm nhí, làm gì có chuyện vì một cử chỉ mà bị ma bắt"*. Nhưng trực giác văn hóa làng quê, gia đình làm nghề vàng mã, và những hiện tượng kỳ quái đã tận mắt chứng kiến lại dằn vặt: *"Nhưng nhỡ thật thì sao? Nhỡ vì cái sơ sẩy đó mà vong nó bám theo mình thì sao?"*. Sự giằng xé này tạo nên trạng thái **bí bách, ngột ngạt không lối thoát**.
-- **Khát khao giải thoát nút thắt (The Narrative Hook of Relief):**
-  Độc giả không chỉ theo dõi xem con ma ra sao, mà bị cuốn vào động lực bức thiết: *Làm thế nào để Khanh giải trừ được điềm gở này?*.
-
-### 30.3 Quy trình 3 bước triển khai cho Writer
-1. **Bước 1: Gài hành vi vi mô đời thường (The Micro-Action):**
-   Cho Khanh làm một hành động rất tự nhiên do lúng túng hoặc thói quen: đặt phong bì ngược đầu; quay lưng bước đi mà không lùi ba bước; vô thức nhặt chiếc bật lửa rơi gần bát nhang; đưa tay trái nhận đồ cúng; buột miệng trả lời một câu vu vơ khi nghe tiếng gọi đằng sau.
-2. **Bước 2: Kích nổ sự phạm kỵ (The Trigger):**
-   - *Nhánh A (Tự nhận thức muộn):* Sau đó, khi nghe người khác tình cờ kể về điều cấm kỵ đó, Khanh chết lặng, hai tay run bắn lên nhưng không dám thú nhận.
-   - *Nhánh B (Người khác phán xét):* Một người đứng cạnh nheo mắt nhìn chằm chằm, buông một câu ráo hoảnh cảnh báo điềm gở rồi bỏ đi, để lại Khanh đứng trơ trọi với sự hoảng loạn.
-3. **Bước 3: Vòng xoáy gặm nhấm & Tự kỷ ám thị (The Psychological Spiral):**
-   Khi đêm xuống hoặc khi ở một mình, từng âm thanh nhỏ, từng cơn gió lùa, từng bóng đổ xiên đều bị tâm trí kết nối với sự phạm kỵ ban sáng. Khanh tra cứu điện thoại trong đêm tối, càng đọc càng thấy các câu chuyện trùng khớp, đẩy sự bí bách và cô độc lên đỉnh điểm.
+- Gieo hành động tự nhiên, sau đó để lời kể/hiện tượng tác động tới cách nhân vật hiểu hành động ấy.
+- Phân biệt lời kiêng của nhân vật với phong tục được kiểm chứng và luật siêu nhiên tác giả chốt. Không bịa “nhận tay trái”, “nhang thứ tư”, “lùi ba bước” thành luật dân gian.
+- Để nỗi lo thay đổi một lựa chọn hoặc sinh hoạt cụ thể; không bắt run, tim đập, mồ hôi và nghẹn cùng lúc.
+- Người sợ được nói câu hoàn chỉnh, hỏi rõ hoặc hành động thực dụng. Limited POV được có suy nghĩ tự nhiên; objective không đọc suy nghĩ.
+- Không dùng thuật ngữ tâm lý như chẩn đoán y khoa đối với nhân vật khi chưa có căn cứ.
 
 ## 31. Kinh dị trinh thám: Nghệ thuật gieo mầm hoài nghi & Giá trị đọc lại (Detective-Horror Synergy: Fair Clues, Anti-Jumpscare & High Re-read Value)
 
 Sức mạnh và đẳng cấp lớn nhất của *Horrible* nằm ở sự giao thoa hoàn hảo giữa **Kinh dị tâm linh (Spiritual Horror)** và **Cấu trúc trinh thám suy luận (Fair-play Detective Mystery)**. Người đọc không chỉ thưởng thức nỗi sợ, mà còn bị cuốn vào một trò chơi trí tuệ đầy nghi kỵ.
 
-### 31.1 Triết lý Logic kép của manh mối (Dual-Layer Clues)
-Mỗi một chi tiết kỳ dị, bất thường hoặc gây ớn lạnh trên trang viết đều phải gánh vác **hai tầng logic đồng thời**:
-1. **Tầng cảm xúc (Horror Layer - Lần đọc đầu tiên):**
-   - Chi tiết tạo cảm giác gai người, bất an, chập chờn giữa cõi âm và cõi dương. Nó đánh vào nỗi sợ vô thức của độc giả, khiến họ hoang mang, nghi kỵ và rối bời.
-2. **Tầng điều tra (Detective Layer - Bản chất thực tế):**
-   - Chi tiết là một **manh mối điều tra công bằng (fair-play clue)** có cơ sở vững chắc: một tật bệnh cơ thể, một thói quen di truyền giữa các thành viên trong gia đình, một phản ứng co giật cơ mặt do sang chấn tâm lý, một vết ố vật lý của đồ mã, một dấu vết thời gian hay một tội lỗi bị che giấu 30 năm trước.
-   - *Quy tắc vàng:* Chi tiết không được phép là "hàng giả" (fake scare) do tác giả bịa ra để câu view. Khi gỡ bỏ lớp sương mù tâm linh, chi tiết đó phải hoàn toàn ăn khớp với hiện thực cơ học và tâm lý con người.
+### 31.1 Hai lớp ý nghĩa
 
-### 31.2 Kích hoạt quyền hoài nghi & Tự suy luận của độc giả (Reader's Epistemic Agency)
-Tác giả không bao giờ được "nhét sẵn đáp án" hoặc giải thích hộ độc giả:
-- Hãy để độc giả **tự nghi kỵ, tự đặt câu hỏi, tự giằng xé giữa các giả thuyết**:
-  - *Phe duy lý:* Sẽ tin rằng đây là một âm mưu tống tiền tinh vi, một vụ giả mạo, hoặc sự điên loạn của người nhà ông Cường.
-  - *Phe duy linh:* Sẽ tin chắc rằng vong hồn cô Thoa đã thực sự trỗi dậy đòi mạng và đòi lại chiếc đài cát-sét.
-  - *Phe trung gian:* Sẽ nhìn thấy sự đan cài ma quái giữa nghiệp báo tâm linh và bi kịch con người.
-- Càng hoài nghi, độc giả càng bị cuốn chặt vào từng trang sách. Họ đọc không chỉ để biết `con ma sẽ làm gì tiếp theo`, mà để **tìm kiếm bằng chứng xác minh cho niềm tin của chính họ**.
+Manh mối quan trọng có nghĩa lúc đầu và nghĩa hồi tố. Một dị tượng, chi tiết môi trường hoặc hành vi động vật vẫn được tồn tại vì tác dụng cảm giác riêng. Không yêu cầu mọi cảnh có clue hoặc mọi ma đều được giải thích thành cơ học đời thường.
 
-**Epistemic Asymmetry rule (DIR-05):** Khanh không xâu chuỗi manh mối thành kết luận ngay trong chương. Anh chỉ nhận một mảnh vụn tự nhiên, bất an thoáng qua, rồi tiếp tục sinh hoạt. Việc lắp ráp toàn bộ bức tranh **thuộc độc quyền của độc giả** cho đến Act III/IV.
+### 31.2 Quyền tự suy luận
 
-### 31.3 Đỉnh cao giá trị đọc lại (High Re-read Value & Cathartic Relief)
-- **Cú thở phào giải mã (The Cathartic Revelation):**
-  Khi nút thắt cuối cùng của vụ án/hồi truyện được tháo bỏ, sự thật hé lộ không được làm tiêu tan nỗi sợ, mà phải biến nỗi sợ thành **sự ngỡ ngàng, thán phục và ám ảnh sâu sắc**.
-- **Hiệu ứng "À ra thế!":**
-  Độc giả khi lật ngược lại các chương 1, 2, 3, 4, 5 sẽ giật mình phát hiện ra:
-  - *Hóa ra nét co giật cơ mặt méo miệng của cô Thủy ở rạp tang (Chương 4) không phải con ma dọa dẫm, mà là di chứng co giật cơ mặt sau cơn khóc nghẹn kiệt sức — đồng thời là thói quen cố hữu của chị em nhà họ Vũ khi ngập ngừng lắng nghe!*
-  - *Hóa ra cuộn băng cát-sét tự bật nắp (Chương 5) vừa mang hơi hướng tà khí, vừa gắn chặt với cơ chế lẫy nhựa lão hóa 30 năm của linh kiện cũ!*
-- Mọi manh mối đã được rải rác công bằng ngay trước mắt họ từ đầu, nhưng sự căng thẳng và nỗi sợ đã che mờ tầm mắt. Đây chính là linh hồn làm nên giá trị đọc lại vô giá của một tác phẩm kinh dị trinh thám đỉnh cao.
+Độc giả ghép phần các POV cung cấp. Khanh có thể suy nghĩ từng việc hợp lý mà không tự nhận vai điều tra viên. Không dùng định kiến “anh chưa đến hồi suy luận” để bắt anh bỏ qua điều hiển nhiên.
 
-## 32. Danh mục Cấm: Sáo rỗng Biểu cảm & Lười biếng Ngữ pháp của AI (Prohibited AI Clichés & Structural Crutches)
+Case Zero giữ Thoa sau cổng G6a/G6c. Các nghi phạm người sống bị bác bỏ từng giả thuyết cụ thể; điều này không tự chứng minh ma. Lời khai, vật chứng, sự thật tác giả và trải nghiệm siêu nhiên của người đọc phải tách mức khẳng định.
 
-Kinh nghiệm vận hành cho thấy các mô hình AI (kể cả khi viết, thẩm định hay biên tập) thường có xu hướng tự động trượt vào các mẫu câu melodrama rẻ tiền và các cấu trúc ngữ pháp lười biếng. Bất kỳ văn bản bản thảo nào vi phạm các lỗi sau đều bị coi là **KHÔNG ĐẠT TIÊU CHUẨN NGHỆ THUẬT** và phải bị phẫu thuật loại bỏ ngay lập tức:
+### 31.3 Giá trị đọc lại
 
-### 32.1. Nghiêm cấm các Mẫu câu Melodrama Sáo rỗng (Cheap Emotional Tropes)
-- **CẤM TUYỆT ĐỐI cụm "cắn chặt môi đến rỉ máu / rớm máu"**: Đây là mẫu biểu cảm cường điệu rẻ tiền của tiểu thuyết mạng mà AI lạm dụng vô thức khi nhân vật căng thẳng, sợ hãi hoặc mang cảm giác tội lỗi. Dù Tác giả đã nhiều lần sửa xóa, AI vẫn liên tục tự động tái lập.
-  - *Thay thế bằng*: Phản xạ cơ thể học thực tế và đa dạng của người dân Bắc Bộ:
-    - Cơ hàm bạnh ra, quai hàm giật giật, hai hàm răng nghiến chặt ken két hoặc va vào nhau lập cập;
-    - Nuốt khan một ngụm nước bọt đặc quánh, cổ họng nghẹn đắng, lồng ngực thắt nghẹn như người thiếu dưỡng khí;
-    - Mười đầu ngón tay bấu chặt vào mép chiếu cói / mép bàn gỗ / vạt áo;
-    - Nét mặt đờ đẫn đông cứng, ánh mắt dại đi, sống lưng lạnh toát.
-- **CẤM TUYỆT ĐỐI các cụm từ làm yếu câu (Weak Hedges & Filler Clichés)**:
-  - *"Dường như"*, *"dường như có một..."*: Làm loãng không khí kinh dị trực diện. Thay vì viết *"Cái đầu dường như đang nhúc nhích"*, hãy viết thẳng: *"Cái đầu từ từ nhúc nhích"*.
-  - *"Không khỏi"*, *"bất giác"*: Thói quen kể lể vụng về giải thích tâm lý thay vì để hành động tự cất tiếng nói.
+Tên Thoa trên đơn, radio cá nhân, việc giấu áo và ký ức mất tích được tái nghĩa sau reveal. Không lấy những ví dụ hoặc scene sequence của chương đã reset làm nghĩa vụ triển khai. Không dùng băng năm 1996 để giải án. Radio giữ ký ức cá nhân; lời chứng cần đối chiếu độc lập và kết thúc cần trả giá con người.
 
-### 32.2. Nghiêm cấm Cấu trúc "Gậy chống" Lười biếng (Lazy Expository Crutches)
-- **CẤM TUYỆT ĐỐI mô thức ngắt nhịp "Đó là...", "Đó chính là...", "Đấy là..."**:
-  - Mô thức AI lười biếng thường gặp: Câu trước vẽ ra một bóng người hoặc sự vật lờ mờ, câu sau thả một đoản văn cộc lốc: *"Một bóng người bước ra. Đó là Lan Anh."* hoặc *"Chiếc áo rơi xuống. Đó là chiếc áo của Toàn."*
-  - Đây là cách viết cơ học, làm đứt gãy dòng chảy giác quan và xúc cảm của người đọc.
-  - *Quy tắc thay thế*:
-    - Hòa quyện nhân vật vào chính hành động: *"Lan Anh lẳng lặng tách khỏi hàng con cháu quỳ lạy, rảo bước thoăn thoắt ra góc sân sau."*
-    - Để giác quan và hành vi khám phá tự dẫn dắt: *"Dưới đầu cành ổi khều nhẹ, lớp tàn tro bong ra, để lộ một mảnh cổ áo xanh công nhân đã cháy dở quăn queo..."*
+Ma trận hiện hành ghi rõ phase, nguồn tri thức và điều từng clue không thể chứng minh.
 
-### 32.3 Cấm Hội chứng Thám tử & Cấm So sánh gượng ép (Anti-Detective & Anti-Purple Prose — DIR-05)
+## 32. Craft guidance after the character-workflow reform
 
-- **CẤM Khanh độc thoại nội tâm xâu chuỗi bằng chứng pháp y thành danh sách kết luận.** Reviser phải cắt và thay bằng cảm giác bất an thoáng qua, ớn lạnh, bỏ qua rồi đi tiếp. Nếu Khanh cần suy nghĩ một điều gì đó, cho anh suy nghĩ MỘT điều nhỏ, tự nhiên — không phải một chuỗi deduction có đánh số.
-- **CẤM so sánh gượng ép mượn ngôn ngữ pháp y / án mạng làm ẩn dụ tự nhiên.** Không ví hoa gạo như máu, không ví tiếng gió như cuống họng bị bóp nghẹt, không ví chiều tà như cảnh hiện trường.
-- **CẤM các từ quá kịch tính:** bàng hoàng, chết sững, lạnh gáy xuất hiện ba lần trong một trang, ánh mắt sắc như dao, giọng lạnh như tiền.
-- **Văn phong target:** Tả thực, lạnh, sắc bén, tiết chế. Kinh dị đến từ sự bình thường bị vặn méo, không phải từ ngôn ngữ thổi phồng.\r\n\r\n## Final test before approving prose
+Current author approval of the workflow audit supersedes mechanical craft prohibitions in older sections. See docs/playbooks/literary-quality.md. Facts, relationships, reveal boundaries and explicit design choices remain binding; illustrative gestures, sensory patterns, cadence and technique suggestions are optional.
 
-Ask:
+Judge expressions by their actual effect. Repeated melodrama, ornamental metaphors and explanatory recaps may weaken a passage, but no automatic failure attaches to a grammatical construction or a word such as "dường như", "bất giác", "đó là". Do not replace every emotion with jaw, throat, fingers or breath.
 
-1. **Would a horror reader want to continue?**
-2. **What question or image is pulling them forward?**
-3. **Did the narrator accidentally explain a future reveal?**
-4. **Are characters behaving from what they know now?**
-5. **Is ordinary life increasing stakes or merely consuming pages?**
-6. **Is there at least one memorable emotional, uncanny or frightening element?**
-7. **Does the scene sound Vietnamese in relationship and social texture, not merely in nouns?**
-8. **If the supernatural is real here, did the prose allow it to be real?**
-9. **Has the prose tapped into non-visual sensory dread (olfactory, localized cold, tactile unease)?**
-10. **Does the horror reveal or foreshadow a human tragedy / karmic burden rather than just cheap shocks?**
-11. **Does the scene employ psychological trapping / retroactive taboo dread to create an inescapable, claustrophobic hook for the reader?**
-12. **Is the scare free of cheap jumpscares and theatrical phantoms? Does every uncanny detail carry a dual-layer logic (horror emotion + fair-play detective clue)?**
-13. **Does the scene preserve high re-read value, ensuring the reader will appreciate its foreshadowing upon rereading?**
-14. **Is the prose completely purged of cheap AI melodrama clichés ("cắn môi rỉ máu", "dường như") and lazy structural crutches ("đó là", "đó chính là", "đấy là")?**
+Allow narrative summary, supplied relationship context and interiority within the approved viewpoint. Dialogue can be direct, warm, complete, lengthy or brief. Personality is not a catchphrase; agency is not permanent aggression. Preserve logical limits on evidence and knowledge without suppressing ordinary thought.
+
+## Diagnostic use only
+
+When a demonstrated problem points here, ask only the question needed for that problem: does the passage hold attention, preserve knowledge boundaries, sound socially credible, and leave the intended emotional or frightening residue? Judge repeated constructions and melodrama by their effect in context. No word, sentence shape, sensory device, clue pattern or reread mechanism is categorically required or banned.

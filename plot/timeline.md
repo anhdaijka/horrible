@@ -5,27 +5,31 @@ story: horrible
 
 # Story Timeline
 
-## Backstory
+> Objective chronology under D-002, retaining non-conflicting D-001 facts. P1–P6 in the clue matrix control presentation, not occurrence.
 
-| When | Event | Arc | Chapter |
-|---|---|---|---|
-| Years before opening | Khanh spends several years working onsite in Japan as a software engineer | Volume 1 | - |
-| Summer 1996 | Thoa dies from accidental manslaughter after Cường strikes/shoves her during the forced-marriage/wedding-money conflict; Cổn and Cường conceal the death, while Thủy is coerced into silence | Case Zero | later reveal |
-| After the 1996 death | Khanh's grandfather refuses the Vũ family's spiritual request (`Không nhận lễ`); an outside heterodox specialist is used instead and the Czech radio/binding history is buried around the pond | Case Zero | later reveal |
+| When | Event | Presentation constraint |
+|---|---|---|
+| Summer 1996, afternoon | Forced-marriage dispute; Cường strikes/shoves Thoa; fatal head injury and abandonment | G6b reconstruction from independent sources; no cassette audio evidence |
+| Same night | Thủy finds her sister dead; Cổn orders concealment; Cường helps | Thủy knows discovery, not the earlier blow; no tape evidence of the crime |
+| Afterward | Grandfather refuses an opaque coercive request; outside specialist performs binding; Bình assists without knowing a body is involved | Partial knowledge; no precise grave map from grandfather |
+| Following decades | Thủy works to repay imposed debts through different jobs; by 2026 works at Yên Phong | Do not backdate present industrial employer to 1996 |
+| Several years before 2026 | Cường’s wife / Toàn’s mother dies after Toàn reaches adulthood | Background death approved D-002; name, year and cause unset, no crime/twist connection |
+| Before mùng 10, 2026 | Pond-bank survey/work disturbs weakened buried structure | Physical trigger; not discovery of remains yet |
+| Mùng 8 to noon 13 | Thủy's threat campaign against Cường | Revealed piecemeal P3–P5 |
+| Morning mùng 10 | Thoa places custom order under her own name for Cường | Revisited P1; ghost identity withheld |
+| 22:35–22:45 night 13 | Toàn/Cường scuffle; Toàn leaves for truck | Reconstructed P5 |
+| Around 22:54 | Cường makes local recording; Thoa kills him before impact | 22:54:32 internal author anchor only; no fixed file length or medical precision |
+| 23:05–23:10 | Toàn discovers body, examines hands, calls Lan Anh | Clean-nail account withheld until P5/G6b |
+| Immediately afterward | Lan Anh calls for help; Toàn conceals earlier fight; shirt hidden, ordinary bandage covers wounds | Rescue/reporting not delayed overnight; family does not stage body |
+| Same night, after notification | Thủy leaves work with recorded departure and witnesses, travels home; Cổn/household notified | Sources support she was at work during death window |
+| First examination | Authorized staff examine/preserve scene and collect phone | No multi-day abandoned phone |
+| After the phone has been collected | Thủy asks insistently and learns of collection from someone who knows; fears threats being recovered and tries to influence household accounts | No attempted retrieval; her domestic haunting occurs independently of evidence custody |
+| Morning 14 onward | Lan Anh buys/prepares funeral goods; body handling and release precede encoffining | Funeral preparation is not permission to interfere with examination |
+| Later, funeral-pressure phase | Lan Anh destroys hidden shirt; fragment found through practical cleanup | No old chapter number; no full shirt later confiscated |
+| P5–P6 story-present | Alibis/evidence converge, pond search, identification, independently checked details and accounts confronted | Multiple scenes and sufficient procedural time; no same-evening all-purpose laboratory result |
 
-## Opening present — Rằm tháng Giêng 2026-equivalent story time
+Mùng 10 precedes night 13 by three calendar dates. Use the dates in prose, not “four days before death.” The order is learned of on the 14th, which is a different interval.
 
-| When | Event | Arc | Narrative status |
-|---|---|---|---|
-| Mùng 8 → noon 13 | Thủy runs a ghost-themed intimidation/extortion campaign against Cường over the pond-side land | Case Zero | initially hidden |
-| Morning mùng 10 | The personalized votive order connected to Cường is placed at bà Lan's shop by the left-handed purchaser using the name `Vũ Thị Thoa` | Case Zero | later CCTV lookback |
-| 22:35–22:45 night 13 | Toàn and Cường violently scuffle over the land deed; Toàn leaves believing the encounter may later implicate him | Case Zero | later reconstruction |
-| 22:54:32 night 13 | A genuine supernatural entity connected to Thoa breaks Cường's neck in mid-air on the staircase; the body impacts afterward | Case Zero | objective author truth, reader reveal delayed |
-| 23:05–23:10 night 13 | Toàn returns, finds Cường dead and incorrectly believes his earlier shove caused the death | Case Zero | later reconstruction |
-| Morning 14 | Preliminary scene handling preserves/seals the upper staircase area, leaving Cường's smartphone trapped near the landing | Case Zero | D-059 / DIR-04 |
-| Day/evening 14 | Funeral activity, Cường-haunting pressure and the `Trùng tang / bắt người đi theo` interpretation intensify while Thoa's death remains behind the information firewall | Case Zero | Chapters 1–5 presentation |
-| 19:30 evening 14 | Household Wi-Fi reconnect supports the queued 22:54 voice-message story mechanism | Case Zero | Chapter 5 |
+Flashback, CCTV lookback and testimony may present earlier events later. No chapter boundaries or rejected scene sequence are implied.
 
-## Narrative-order rule
-
-Objective chronology and chapter presentation order are separate. CCTV playback, recordings, testimony and later reconstruction may show older events after newer story-present scenes without creating a timeline conflict.
+D-002 developmental beats: Thủy previously sought help and attempted independent living; exact chronology/people remain to be placed before using them as evidence. D-004 presentation: CH-01 opens morning 14 and ends with a short domestic-call coda; CH-02 is wholly a mùng 10 flashback in bà Lan limited POV and does not return to day 14. Event chronology remains mùng 10 order → night 13 death → morning 14 discovery. The paper radio is made after the order; never already completed at ordering time.

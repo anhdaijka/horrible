@@ -15,6 +15,11 @@ Contemporary Northern Vietnam. The opening story world is a fictional semi-urban
 |---|---|---|
 | Nhà và tiệm vàng mã của gia đình Khanh | home-and-shop | [family-votive-shop](locations/family-votive-shop.md) |
 | Ngã tư chợ quê Khanh | market-crossroads | [market-crossroads](locations/market-crossroads.md) |
+| Xóm Trại | village | [xom-trai](locations/xom-trai.md) |
+| Nhà Cường / không gian tang gia | building | [cuong-household-funeral](locations/cuong-household-funeral.md) |
+| Nhà thờ và khu nhà họ Vũ | building | [vu-ancestral-compound](locations/vu-ancestral-compound.md) |
+| Chợ Bến | town | [cho-ben](locations/cho-ben.md) |
+| Yên Phong, Bắc Ninh | region | [yen-phong-bac-ninh](locations/yen-phong-bac-ninh.md) |
 
 ## Systems
 

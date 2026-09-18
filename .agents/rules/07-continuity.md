@@ -2,6 +2,8 @@
 
 Run deterministic Story Skills checks before relying on LLM continuity judgment when a story has been initialized.
 
+These checks cover structured canon under `chapters/` and continuity metadata. They do not read non-canon chapter-work candidates or certify causal, literary, cultural or review quality. Report structural PASS separately from manual/model evaluation.
+
 Preferred sequence:
 1. `story validate .`
 2. `story links .`

@@ -56,7 +56,7 @@ cd novel-os
 npm run bootstrap
 ```
 
-`bootstrap` copies pinned upstream Story Skills and selected jwynia fiction skills into `.agents/skills/`. Generated skill files are git-ignored; pins live in `config/upstreams.json`. The bundled upstream `story-maintenance/scripts/story.js` becomes the local CLI, so normal story commands do not repeatedly download packages.
+`bootstrap` copies pinned upstream Story Skills and selected jwynia fiction skills into `.agents/skills/`. The creativity firewall marks every upstream skill explicit-only, so ordinary Horrible requests route only through project-owned `hr-source-*` roles unless the author names another skill. Project-owned roles are preserved even with `--clean`; upstream installs cannot claim that namespace. Generated upstream skill files are git-ignored; pins live in `config/upstreams.json`. The bundled upstream `story-maintenance/scripts/story.js` remains available to CLI wrappers.
 
 Initialize a story into this repository root:
 
@@ -68,6 +68,7 @@ Then run:
 
 ```bash
 npm run tooling:check
+npm run workflow:check
 npm run story:check
 npm run story:doctor
 npm run story:next
@@ -81,7 +82,7 @@ Open [`Home.md`](Home.md) in Obsidian. With Dataview enabled it becomes a lightw
 
 ## Agent roles
 
-Reusable bounded role prompts live under [`prompts/`](prompts/README.md): Director, Planner, Writer, Reviewer and Researcher. These complement rather than replace `.agents/rules/`.
+Reusable bounded role prompts live under [`prompts/`](prompts/README.md): Director, Preflight Planner, Writer, blind Literary Reviewer, Safety Reviewer, Reviser and Researcher. These complement rather than replace `.agents/rules/`.
 
 ## Optional Better Writing skill
 
@@ -93,31 +94,30 @@ Use it selectively for prose polish after story/continuity issues are resolved.
 
 ## Daily chapter loop
 
-1. **Plan** — chapter purpose, POV, start/end state, scenes, promises/questions, forbidden reveals.
-2. **Check** — run deterministic Story Skills checks.
-3. **Author approve** the plan.
-4. **Draft** using minimum sufficient context.
-5. **Review** structure, character, dialogue, prose, continuity separately.
-6. **Approve revision plan** before rewriting.
-7. **Revise** only the required scope.
-8. **Canon diff** — list proposed state changes.
-9. **Author approve** all/selected/reject.
-10. **Update story state**.
-11. **Validate again**.
-12. **Commit** the accepted transition.
+1. **Discovery-led preflight** — diverge through distinct scene engines, select for lived motion + ghost-horror pressure + reader-detective opportunity, then verify only consequence-bearing causal hinges.
+2. **Author gate** only when a material choice remains open.
+3. **Draft in two contexts** — complete the generative pass from brief, scene ecology, character context and accepted prose; only then open the separate QA card for self-edit. Keep locator-only candidate identity separate from writer handoff and deltas.
+4. **Literary review** — read only locator + prose first, then record contextual diagnosis; use the [literary standard](docs/playbooks/literary-quality.md).
+5. **Safety review** — separately check canon, impossible knowledge, incompatible later state/obligations, reveal and factual boundaries; absence of a visible reaction is not a defect.
+6. **Revise** literary problems at their true scale and safety problems conservatively.
+7. **Fresh dual review** after meaningful changes.
+8. **Canon diff + author acceptance** for the exact candidate.
+9. **Promote and validate** durable story state.
+10. **Validate again**.
+11. **Commit** the accepted transition.
 
 Full workflow: [`docs/WORKFLOW.md`](docs/WORKFLOW.md).
 
 ## Phase 3 lifecycle regression
 
-Novel OS now tests the complete operational ordering with a synthetic public-safe mystery. The canonical Story Skills project is generated temporarily from upstream; only Novel OS-specific golden artifacts are checked in.
+Novel OS tests deterministic operational ordering with a synthetic public-safe mystery. The fixture copies golden planning/review artifacts; it does not run an authoring agent or certify literary quality. The canonical Story Skills project is generated temporarily from upstream; only Novel OS-specific golden artifacts are checked in.
 
 ```bash
 npm run bootstrap
 npm run lifecycle:test
 ```
 
-The automated fixture covers `plan -> draft -> review -> canon diff -> author approval -> state update -> final validation` across three chapters, including a promise payoff and question resolution. Creative/model compliance is tested separately with [`evals/phase3-antigravity.md`](evals/phase3-antigravity.md). See [`docs/PHASE3_LIFECYCLE.md`](docs/PHASE3_LIFECYCLE.md).
+The automated fixture covers artifact/state transitions across three chapters, including a promise payoff and question resolution. Creative/model behavior is evaluated separately with paired cases in [`evals/horrible-workflow-regressions.md`](evals/horrible-workflow-regressions.md). See [`docs/PHASE3_LIFECYCLE.md`](docs/PHASE3_LIFECYCLE.md).
 
 ## Performance / stress testing
 

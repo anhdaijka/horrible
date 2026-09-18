@@ -39,18 +39,7 @@ Do not maximize reasoning effort for every prose sentence; it can create overwor
 
 ## Context packet for drafting
 
-Prefer:
-
-- approved chapter/scene brief
-- current continuity state
-- POV + present character files
-- current location/system facts
-- relevant promises/questions
-- previous scene
-- current arc
-- style/creative constitution
-
-Do not routinely load the entire manuscript even if the model supports a large context window.
+Separate discovery, generation and verification. Preflight explores engines internally, then projects only the selected affordance field. The generative pass receives writing-brief.md, scene-ecology.md, character-context.md, relevant accepted preceding prose and explicitly named lived-context excerpts. It does not preload discovery-slate/rejected engines, continuity matrices, qa-card.md, full character profiles, directives, style bible, reviews or generic craft skills. After a complete draft exists, the self-edit pass opens qa-card.md and its named hard-source excerpts. A large context window is capacity, not a target.
 
 ## Parallel agents
 

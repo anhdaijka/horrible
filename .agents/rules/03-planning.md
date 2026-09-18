@@ -1,19 +1,30 @@
-# Planning Rule
+# Chapter preparation
 
-Before prose drafting, establish an explicit plan containing:
-- chapter purpose
-- POV
-- starting state
-- ending state
-- scene list
-- causal progression
-- character movement
-- new information/revelations
-- promises planted/advanced/paid off
-- questions affected
-- continuity risks
-- forbidden or premature reveals
-- psychological knots / karmic tripwires (unwitting transgressions or taboo anxieties planned)
-- sensory & interior dread arc (how claustrophobic tension escalates in Limited 3rd POV)
+Before building a preflight, inspect current author intent and compare it with inherited design. Consult the design-dialogue and discovery sections of docs/playbooks/horrible-craft-review.md. This is a ghost-horror story with a mystery architecture in which the reader may connect evidence before any protagonist does. Plot truth matters, but the chapter must not become a container that exists only to deliver it.
 
-Planning output is a proposal. Do not draft until the author approves when the plan materially changes plot or character trajectory.
+Begin with divergent discovery before convergence. In `discovery-slate.md`, establish what life is already moving before the case intrudes, what people want that was not caused by the main plot, and how the supernatural disturbance can damage, contaminate or reframe that life. Explore enough materially different scene engines to expose a real choice; stop when alternatives become cosmetic rewrites. Consider different social situations, work pressures, points of entry, horror experiences, clue surfaces and aftermaths. These are hypotheses, not beats or promises to include everything.
+
+For each useful engine, test three reader-facing properties without scoring them mechanically:
+
+- **lived motion** — people have work, errands, affection, status, inconvenience or conflict with causes beyond the case;
+- **horror pressure** — something specifically uncanny, dreadful or spiritually disturbing enters, persists or gains a new meaning;
+- **reader-detective field** — observable facts, testimony, omissions or object behavior let the reader form and revise hypotheses without turning Khanh or another character into an all-solving investigator.
+
+Select or combine the engine with the strongest human and horror potential that preserves current story truth. Do not select merely because it is the easiest to validate. Keep rejected engines out of generative context. An execution-level engine does not need author approval. Ask only when the selection changes chapter purpose/outcome, reveal architecture, durable relationship/state, supernatural truth or another material author decision.
+
+Separate objective event chronology from presentation order, chapter allocation and reader/character knowledge. A flashback can preserve the first while changing the other three. Do not treat chronology validation as permission to choose chapter order.
+
+Author approval and packet readiness are different claims. Approval settles only the choices actually presented. Before declaring READY, identify each consequence-bearing hinge the chapter depends on, including causes that will be dramatized in a later flashback: what is perceived, what the person knows or plausibly infers, why that inference is available, what choice follows and what obligation it creates. Test at least one credible counter-reading where the hinge matters. Do this only for consequential hinges, not every beat or line.
+
+Do not classify routine action as a hinge merely because a later event will make it eerie in retrospect. A direct author account of family practice or a well-established occupational/social baseline may be sufficient without an on-page motive, warning, authorization check or defense against every hypothetical reaction. A hinge exists when materially different readings would change knowledge, choice, obligation or durable consequence. If they would not, remove the lock and leave the implementation to the writer instead of inventing explanatory machinery.
+
+If a hinge or discovery selection needs a new material story choice, create design-discussion.md (template provided), mark AWAITING_AUTHOR and ask the author before generating or relocking the writer packet. Offer viable, pressure-tested options; do not make the author invent a replacement merely because the first recommendation fails. Resolve source-answerable gaps yourself. Current explicit choices need no reconfirmation, but they do not approve unstated premises. When no consequential question remains, record the evidence for READY rather than a ceremonial approval round.
+
+After the gate is resolved, create internal `preflight.md`; generative `writing-brief.md`, `scene-ecology.md` and spoiler-safe `character-context.md`; and a separate `qa-card.md`. No fixed fact, subplot, clue or side-character count applies. The generative files must stand alone; causal tests, regression history and safety verification belong only in `qa-card.md`.
+Verify sources, outcomes, chronology, presentation, knowledge/reveal boundaries, durable state, factual dependencies and the causal hinges connecting them. A later-presented cause must be understood enough to support an earlier-presented consequence; this does not require drafting the later chapter or changing presentation order. Preserve relationships, useful address, ordinary priorities and practical context. Separate motives from instructions to the author.
+`scene-ecology.md` carries the selected situation's living field: independent pressures, available interactions, material processes, social traffic, horror intrusion and reader-visible clue affordances. They are possibilities and forces, not a scene outline. A strand may remain unrelated to the mystery, end locally or simply make the cost of the haunting human.
+Character context selects facts, relationship history, ongoing concerns, contradictions and spoiler-safe source sections. Do not copy body-language menus, catchphrases, example dialogue or prescribed reactions from character profiles. Resolve source-answerable questions by reading; execution choices belong to the writer.
+
+Classify invention by consequence, not by whether it came from a source file. Transient interaction, local inconvenience, ordinary work and chapter-local events are generative freedom. Record a candidate delta when an invention creates a cross-scene promise, distinctive durable fact, custody/state change, future meeting or new established history. Only a material change outside approved boundaries becomes an author decision. Do not make the writer prove every ordinary-life invention before using it.
+
+For demonstrated recurring failures, carry forward a short mechanism-level regression test: symptom, consequence and observable counterexample. Do not carry rejected prose or a mandatory old solution. A restart does not close an unresolved regression risk.

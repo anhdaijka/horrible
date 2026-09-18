@@ -5,6 +5,10 @@ story: horrible
 
 # Characters
 
+## Authority boundary for prose work
+
+Durable identity, relationships, history, knowledge and approved trajectory are authoritative. Sections named `Body-language baseline`, `Voice`, example gestures or sample phrases are optional observation reservoirs. Preflight must not copy them into generative character-context by default, and Writer must not treat them as required performance, catchphrases or recurring tics. Build voice from relationship, listener, situation and lived context.
+
 ## Core Family (Khanh's Household)
 | Name | Role | Status | Description | File |
 |---|---|---|---|---|
@@ -28,6 +32,10 @@ story: horrible
 |---|---|---|---|---|
 | Lê Văn Thắng | minor | alive | Bạn học cấp 3 của Khanh, thợ nhôm kính, phụ việc đám tang | [le-van-thang](le-van-thang.md) |
 | Đặng Văn Bình | supporting | alive | 58 tuổi, thầy cúng xóm Trại, đệ tử thầy cúng yểm bùa cọc tre 1996 | [dang-van-binh](dang-van-binh.md) |
-| Đặng Việt Long | supporting | alive | 42 tuổi, cán bộ CSHS công an huyện, phụ trách hiện trường | [dang-viet-long](dang-viet-long.md) |
+| Đặng Việt Long | supporting | alive | 42 tuổi, cán bộ tham gia điều tra/hiện trường; chức danh theo cơ cấu 2026 cần kiểm chứng | [dang-viet-long](dang-viet-long.md) |
 | Đào Văn Sang | minor | alive | 45 tuổi, cò đất xóm Trại, dòm ngó đất đầm sen mở đường | [dao-van-sang](dao-van-sang.md) |
 | Hoàng Ngọc Mai | supporting | alive | Bạn thân Khanh, phụ trách chuỗi cung ứng/logistics, mạng lưới tin tức | [hoang-ngoc-mai](hoang-ngoc-mai.md) |
+
+## Case Zero family background — D-002
+
+Vợ Cường/mẹ Toàn mất nhiều năm trước 2026, sau khi Toàn trưởng thành. Chưa có tên, năm mất hoặc nguyên nhân được chốt; không tạo hồ sơ nhân vật định danh mới hay tuyến án mạng phụ. Các hướng biến đổi nhân vật đã duyệt được ghi trong từng hồ sơ; không phải trạng thái phát sinh từ chương đã canonize.

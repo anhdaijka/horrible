@@ -1,64 +1,18 @@
 ---
 name: hr-source-preflight
-description: Thiết lập preflight định vị một chương cho Horrible trước khi viết (neo giác quan, khóa rò rỉ thông tin và chuỗi nhân quả).
+description: Discover and prepare Horrible ghost-horror chapter possibilities, scene ecology, reader-detective affordances and verified truth boundaries before prose.
 ---
 
-# hr-source-preflight
+# Horrible preflight
 
-Mọi đường dẫn bên dưới tính từ repository root `anhdaijka/horrible`.
-Bắt buộc đọc `docs/playbooks/horrible-craft-review.md` trước khi thực hiện.
+Read .agents/rules/03-planning.md and the discovery/preparation sections of docs/playbooks/horrible-craft-review.md. Before producing the packet, create `discovery-slate.md`: separate fixed truth from open execution, identify life already moving beyond the case, and explore materially different scene engines. Evaluate lived motion, a specific ghost-horror experience and a fair reader-detective field. The reader may connect evidence distributed across people, objects and viewpoints before Khanh does; do not turn a protagonist into the sole investigator or turn every ordinary detail into a clue.
 
-## Các bước thực hiện:
+Select or combine the strongest engine for human consequence, dread and mystery—not merely the easiest to validate. Execution-level selection is autonomous. Ask the author only if the selection changes chapter purpose/outcome, reveal architecture, durable relationship/state, supernatural truth or another material lock. Keep rejected engines out of Writer context.
 
-1. **Xác định chương mục tiêu & Nguồn thẩm quyền (Mandatory Reading)**:
-   - Xác định số chương (ví dụ `CH-01`).
-   - **BẮT BUỘC ĐỌC TOÀN BỘ CÁC FILE TRONG `author/directives/`** (DIR-01 → DIR-06): Mọi thiết lập trong preflight phải tuân thủ tuyệt đối các chỉ thị này.
-   - **BẮT BUỘC ĐỐI CHIẾU `plot/arcs/case-zero-clue-and-epistemic-matrix.md`**: Kiểm tra chương hiện tại phân phối những manh mối nào, ai được biết, ai bị khóa.
-   - Đọc `author/session-state.md`, `author/style-bible.md §3` (POV Architecture), và `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`.
-   - Đọc hồ sơ nhân vật liên quan trong `characters/` và các tài liệu văn hóa kiểm chứng trong `research/verified/`.
+Separate decisions the author actually approved from planner readiness. Identify only the consequence-bearing hinges the chapter depends on and test perception → inference → choice → consequence, including a cause dramatized in a later chapter. Use a credible counter-reading where it could change durable knowledge or behavior. Do not turn routine occupational or family behavior into a hinge just because it is later recontextualized; direct author experience may establish a family-specific baseline, and immaterial implementation belongs to the writer. Resolve source-answerable gaps yourself; when a new material choice remains, offer pressure-tested options in design-discussion.md, mark AWAITING_AUTHOR and stop before the generative packet.
 
-2. **Thiết lập 4 Trụ Cột Định Vị**:
+Once resolved, use the current templates to produce internal `preflight.md`; generative `writing-brief.md`, `scene-ecology.md` and `character-context.md`; and separate `qa-card.md`. Project compact spoiler-safe truth into generative files, but keep rejected engines, long exclusions, causal tests, regression history, safety checks and authority verification out of them. Scene ecology supplies independent pressures, material activity, social traffic, horror intrusion and clue affordances as optional forces—not a beat sheet. Character context carries relationships, ongoing lives and agency outside the case—not performance tics, body-language menus or sample lines. Do not point the writer at a section that also contains future solutions.
 
-   ### Trụ A — POV Allocation & Epistemic Asymmetry (DIR-03, DIR-05)
-   Phân định rõ từng cảnh theo bảng sau — BẮT BUỘC điền tường minh vào preflight:
+Classify inventions by consequence. Transient interaction, local work and chapter-local events are free; cross-scene promises, established history, custody/state changes and future obligations are candidate deltas; only material changes outside approved boundaries require author choice. Record evidence for truth readiness and creative readiness, the consequential authority basis and actual next action in session-state.
 
-   | Cảnh # | POV type | Nhân vật | Độc giả thấy gì | Khanh biết gì | Khóa thông tin |
-   |---|---|---|---|---|---|
-   | 1 | Khanh anchor / Off-POV / Rotating | ... | ... | ... | ... |
-
-   **Anti-Omnipresent Protagonist Guard:** Tuyệt đối CẤM ép Khanh nấp sau bụi cây rình rập hoặc vô tình đi ngang qua các cuộc đối đầu, tống tiền, ẩu đả riêng tư của nghi phạm. Cảnh kín của gia đình Vũ BẮT BUỘC dùng Cinematic Off-POV.
-
-   **Kỷ luật phân tán manh mối:** Khanh chỉ nhặt 1–2 mảnh rời rạc trong sinh hoạt đời thường. Độc giả là người tự ghép nối.
-
-   ### Trụ B — Sensory Anchors & Folk Horror Execution (DIR-06 — §28.3 Style Bible)
-   **Đây là trụ bị bỏ qua nhiều nhất trong các draft cũ. BẮT BUỘC xử lý tường minh.**
-
-   Với mỗi cảnh có yếu tố siêu nhiên hoặc áp bức không gian, xác định:
-   - **Âm thanh nền trước dị tượng:** Côn trùng (dế, ễnh ương) có đang kêu không? Nếu có → chúng ngưng bặt đột ngột như thế nào, vào thời điểm nào? Nếu không → vì sao sự im lặng sẵn có đó đáng sợ?
-   - **Hành vi động vật:** Chó/mèo trong cảnh làm gì? Có nhìn vào góc trống không? Có gầm gừ định hướng? Có im lặng bất thường không? *(Cấm: mèo nhảy ra thét ré — theatrical scare)*
-   - **Âm thanh biến dạng:** Âm thanh quen thuộc (gió, mưa, tiếng người) có bị bóp méo hoặc lạc nhịp không?
-   - **5 giác quan đầy đủ:** Thị / Thính / Khứu / Xúc / Vị — ghi nhận ít nhất 3 giác quan trong bối cảnh vật lý của cảnh.
-
-   ### Trụ C — Information & Psychological Logic Lock
-   - Phân định ranh giới nghiêm ngặt những gì nhân vật ĐƯỢC PHÉP biết và TUYỆT ĐỐI CẤM biết/lộ ra tại điểm thời gian này.
-   - **Strict Lore Firewall:** Tuyệt đối KHÔNG đưa danh tính thật của hung thủ, âm mưu tổng thể hay bất kỳ manh mối tương lai vào file preflight. Chỉ cung cấp đúng phần nổi của tảng băng POV nhìn thấy.
-   - Nếu nhân vật đang hoảng loạn/sang chấn: CẤM để nhân vật kể rành mạch chi tiết dị tượng.
-
-   ### Trụ D — Causal Chain (Chuỗi Nhân Quả)
-   Lập chuỗi diễn tiến mạch lạc:
-   `Bởi vì (Because) → Do đó (Therefore) → Nhưng (But) → Hậu quả / Ending Hook`
-
-3. **Tự kiểm tra DIR-compliance trước khi xuất preflight:**
-
-   Trả lời BẮT BUỘC các câu hỏi sau (ghi vào phần Open Questions nếu chưa giải quyết được):
-
-   - [ ] **DIR-05 / Anti-Omnipresent:** Cảnh riêng tư nào của nghi phạm trong chương này có Khanh không? Nếu có → đổi sang Off-POV.
-   - [ ] **DIR-06 / Animal Prescience:** Dị tượng hoặc áp bức không gian trong chương này đã có ít nhất một loại tín hiệu động vật / âm thanh chưa? Nếu chưa → đề xuất điểm chèn.
-   - [ ] **DIR-06 / Acoustic Dread:** Côn trùng im bặt hoặc âm thanh biến dạng đã được thiết kế vào cảnh build-up chưa?
-   - [ ] **DIR-05 / Epistemic Asymmetry:** Độc giả có thấy nhiều hơn Khanh trong ít nhất một cảnh không? Nếu không → thêm Off-POV hoặc điều chỉnh clue distribution.
-   - [ ] **Rotating POV balance:** Chương có ít nhất một cảnh Rotating POV (Thủy/Toàn/Lan Anh/Cổn) hoặc Off-POV không, hay 100% là Khanh anchor? (100% Khanh anchor là vi phạm DIR-05 nếu cảnh đòi hỏi otherwise.)
-
-4. **Interactive Consultation (Tham vấn Tác giả / Open Questions)**:
-   - Lưu kết quả nháp vào `revisions/chapter-work/CH-XX/preflight.md` theo mẫu `templates/chapter-preflight.md`.
-   - Bắt buộc điền mục **5. Open Questions**: Đặt 2–4 câu hỏi để xin ý kiến Tác giả (nguy cơ lộ manh mối? điểm chèn animal dread hợp lý nhất? POV nào cho cảnh X?). Dừng lại và chờ phản hồi.
-   - Sau khi Tác giả trả lời, cập nhật lại file preflight. Kết thúc bằng: `PREFLIGHT READY` và `AUTHOR GATE: PENDING`. Không tự ý chuyển giao cho Writer.
+Shared operating details: docs/playbooks/horrible-craft-review.md. Load only the section relevant to this role.

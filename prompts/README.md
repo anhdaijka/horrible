@@ -1,17 +1,7 @@
-# Agent Role Prompts
+# Agent roles
 
-These are reusable role contracts for Antigravity sessions/subagents. They are not a second rules system: `.agents/rules/` remains authoritative.
+Maintained role contracts live in .agents/skills/hr-source-*/SKILL.md; role prompts point to them to avoid competing instructions.
 
-Use the smallest role that matches the task:
+Divergent discovery (life + ghost-horror + reader-detective engines) → material author gate only when needed → truth/creative readiness → self-contained generative brief/ecology/context → complete draft → separate QA-informed self-edit/handoff → locator-only blind reading then contextual literary diagnosis → material safety contradictions → triaged revision and renewed review → exact candidate/diff acceptance → canonization.
 
-- [`director.md`](roles/director.md) — orchestrate, inspect state, merge feedback
-- [`planner.md`](roles/planner.md) — plan arcs/chapters/scenes without drafting prose
-- [`writer.md`](roles/writer.md) — execute an approved scene plan
-- [`reviewer.md`](roles/reviewer.md) — diagnose without immediately rewriting
-- [`researcher.md`](roles/researcher.md) — gather evidence without canonizing it
-
-Recommended pattern:
-
-`Director -> Planner -> Author approval -> Writer -> Reviewer(s) -> Director synthesis -> Author approval -> Revision -> Canon diff -> Author approval`
-
-Do not let parallel subagents write canonical state concurrently.
+Scene trials are available for recurring failures, not required for every chapter. Upstream craft skills are explicit-only and cannot silently join a Horrible role or mutate canon outside this lifecycle. Use docs/playbooks/horrible-craft-review.md for candidate identity, authority freshness and context discipline.

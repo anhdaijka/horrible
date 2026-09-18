@@ -9,27 +9,39 @@ knowledge-state: []
 
 # Continuity State
 
-## Active Canon State
+## Manuscript state
 
-No chapters canonized. Repository is in pre-draft state.
+No chapters canonized. Pre-draft after the 2026-09-16 reset. The locks below are author-approved design, not events accepted from manuscript.
 
-## Objective Case Zero locks that outrank inference from any prose
+## Case Zero author locks — D-002, retaining non-conflicting D-001 facts (2026-09-17)
 
-- **D-056 / DIR-02:** Thoa died in 1996 from accidental manslaughter after Cường struck/shoved her during the forced-marriage/wedding-money dispute; Cổn and Cường concealed the death. Thủy discovered the body and was coerced into silence, not a co-killer.
-- **D-057 / DIR-04:** There is no Diazepam/sedative plot. Toàn's human red herring is the 22:35–22:45 violent scuffle, scratched neck, torn work shirt and Lan Anh's evidence-destruction loyalty trap.
-- **D-058 / DIR-04:** Thủy was genuinely at the Yên Phong night shift on the 13th. Her alibi for that night is real. Toàn knows nothing of her intimidation campaign; Thủy knows nothing of Toàn's scuffle.
-- **D-058:** Thoa's genuine supernatural entity kills Cường at 22:54:32 by breaking his neck in mid-air before impact.
-- **D-054 / DIR-01:** Early domestic haunting is Cường's newly dead spirit. Thoa's death/ghost status and executioner identity remain behind the reader-facing firewall until the later reveal.
-- **D-059 / DIR-04:** Cường's smartphone remains trapped in the sealed second-floor landing area; Thủy's attempt to destroy it is blocked by supernatural Cường-haunting, and the 19:30 Wi-Fi reconnect releases the queued 22:54 message.
-- **D-060 / DIR-04:** Supernatural erasure of fingernail tissue/scratches on Cường's corpse; Toàn's panic remains as he remembers the scuffle, unaware of the erasure.
-- **D-053:** The advance votive shop order on mùng 10 is 100% Thoa's ghost. The secular left-handed female thief lurked around xóm Trại and vanished after night 13, creating the police/Khanh "Living Thoa" illusion until her later arrest and alibis shatter the living-suspect hypothesis.
+- Thoa died in 1996 after Cường struck/shoved her; Cổn and Cường concealed the body. Thủy discovered her sister dead and was coerced into silence.
+- Thoa placed the mùng 10 order and kills Cường at the internal author-time 22:54:32 on night 13, before impact. No fixed injury angle or early forensic timestamp.
+- Toàn/Cường scuffle 22:35–22:45. No sedatives. Toàn and Thủy do not know each other's wrongdoing.
+- Thủy's night-13 alibi is real and supported by multiple sources. She returns only after the death notification.
+- Lan Anh hides the torn shirt and wounds, later burns the shirt. A fragment survives; no complete shirt returns as evidence.
+- Cường's phone holds a local recording and prior threats. Thủy asks about the phone and learns it has been collected; no attempted retrieval. Her domestic haunting is independent of custody. The phone is collected in the first professional scene examination. No queued Zalo/Wi-Fi release.
+- Clean nails are an author-level uncanny event. Visual cleanliness and negative forensic sampling do not establish absence of all DNA or innocence.
+- Early domestic haunting is Cường. Thoa's death remains withheld until G6a; historical responsibility unfolds G6b; supernatural executioner/order identity is confirmed for the reader G6c.
+- The living-Thoa hypothesis uses limited footage, oral memory and unresolved records. The lookalike thief branch is retired; no exact Thủy-face duplication.
+- Work at the pond before mùng 10 disturbs an already weakened binding; thirty years is not an exact supernatural timer.
+- Grandfather refuses an opaque coercive request without knowing the killing/body location. Bình knows partial binding work, not the 1996 killing.
+- No cassette audio evidence of 1996. Radio carries personal memory/recognition; excavation of the physical radio is not required. Testimony, remains, independently checked details and supernatural experience retain distinct roles.
 
-## Epistemic / cultural guard
+## Information / factual gates
 
-- `Trùng tang` is the community/character framing and red herring, not narrator-certified universal supernatural law.
-- Exact police/autopsy, identity-database, Zalo/network and ritual mechanics remain subject to verified procedural/technical research when written in close detail.
-- `author/directives/` and the newest author decisions outrank stale planning text in lower-priority files.
+Trùng tang is community belief, not universal metaphysical law. P1–P6 are presentation gates, not chapter numbers. Exact procedures, technical recovery and ritual details require verified sources. Planning outcomes do not update current character/object/knowledge arrays.
 
 ## Current handoff
 
-- No chapter canonized. Ready for preflight CH-01.
+Use [arc](../plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md) and [matrix](../plot/case-zero-clue-and-epistemic-matrix.md). D-004 resolves opening presentation: CH-01 morning 14 plus short domestic-call coda; CH-02 wholly mùng 10 in bà Lan limited POV with no return to day 14. Objective chronology is unchanged. There is no active CH-01 workspace, preflight, packet, prose, candidate, hash or review: every prior CH-01 preparation/draft artifact was deleted at the author's request on 2026-09-18. Do not reconstruct those attempts from chat, Git history, workflow reports or archives. The next operation is a fresh `/hr-preflight CH-01` under the current workflow. Before P6: design the mechanism/witness/sign of Cường’s final withdrawal and the paper-radio custody; legal outcomes remain unset.
+
+## Additional approved design — D-002
+
+- Thoa wants acknowledgment after vengeance; she knows the shop from local life and chooses its custom-order record, without grandfather orchestration.
+- Thủy wants material independence, has previous failed attempts to seek help/live separately, and later chooses truthful testimony. Exact episodic details require scene planning.
+- Lan Anh refuses to attest what she did not witness. Khanh preserves shop information despite relationship/work pressure; community reactions differ.
+- Cường has genuine affection for his son alongside harmful behavior. His wife / Toàn’s mother died several years before 2026 after Toàn reached adulthood; no crime/twist link, no exact name/date/cause set.
+- Cường’s calls repeat familiar control in his house/relationships; he is not omniscient. Thoa cannot rewrite everyone’s memory, records or decisions.
+- Cổn lives to lose control over the family narrative. Ending direction gives Thủy a choice over the paper radio; no forced forgiveness, no automatic confession-exorcism.
+- These are design locks, not accepted chapter events. Current-chapter and all state arrays remain empty/zero.

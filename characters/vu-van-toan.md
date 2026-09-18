@@ -14,6 +14,8 @@ relationships:
     type: paternal-aunt
   - character: nguyen-minh-khanh
     type: village-acquaintance
+  - character: dao-van-sang
+    type: business-prey
 locations:
   - cuong-household-funeral
   - xom-trai
@@ -36,7 +38,7 @@ The 30-year-old eldest son and lineage heir of the deceased Vũ Văn Cường, a
 In Case Zero (**D-050**, **D-054**, **DIR-01**, **D-058**, **D-060**):
 - **Financial Desperation & Land Scheme:** Drowning in massive debts (over a billion VND) from truck installments and illicit gambling/land speculation, Toàn desperately sought to seize the multi-billion-dong lotus pond plot before the district's road project commenced.
 - **Violent Scuffle & Fatal Guilt (22:35 – 22:45 Night of 13th):** Cornered by debt deadlines, Toàn confronted Cường at the foot of the stairs to demand the land deed (*sổ đỏ*). Cường furiously refused, cursing him. A violent physical struggle erupted; Cường fiercely gouged his fingernails into Toàn's neck and tore his work shirt before Toàn shoved him backward and stormed outside to smoke in his sand truck cabin (parked ~200m away at the sand lot).
-- **Body Discovery, Uncanny Erasure & Cover-up (23:05 – 23:10):** Returning 20–25 minutes later to retrieve his motorbike, Toàn discovered Cường lying dead at the foot of the stairs with his neck broken backwards. Paralyzed by terror, believing his violent 22:45 push caused Cường's fatal fall, Toàn frantically inspected Cường's hands to wipe away his own DNA/blood traces, only to be paralyzed by a terrifying supernatural anomaly: Cường's 10 fingernails were impossibly, unnervingly clean, smooth, and pale, with zero skin debris or blood traces (D-060). Terrified that an invisible entity had touched the scene, and fearing the deep claw marks on his neck and the blood-stained torn shirt would convict him of patricide, Toàn begs Lan Anh to help him. Lan Anh wraps a mourning headband tightly around his neck to conceal the wounds, and takes the torn bloody shirt to secretly burn in the funeral incinerator in Chapter 6.
+- **Body discovery and concealment:** Toàn returns around 23:05–23:10, finds his father unresponsive, and checks his hands in fear of leaving traces. Their unnerving cleanliness is not a visual DNA test. He calls Lan Anh, who calls for help; privately he admits pushing Cường and shows his torn shirt/wounds. He omits the earlier fight in his first public account. Lan Anh hides the shirt; ordinary dressing covers the wounds before mourning clothes exist. She destroys the shirt later during funeral pressure, leaving a fragment through an imperfect burn. See D-001 post-reset and DIR-04 for the chain; no inherited Chapter 6 staging.
 
 ## Core traits
 
@@ -47,14 +49,22 @@ Anxious, volatile, easily startled, cornered by financial ruin, outwardly trying
 Around 30 years old, stocky build, rough sunburnt skin from driving trucks, short crew-cut hair, bloodshot eyes with dark bags from sleepless nights.
 
 Key physical anchors:
-- Constant nervous tick: crushing empty Thăng Long cigarette packs in his jacket pocket, or fumbling with a plastic lighter.
-- Coarse mourning attire of unbleached hemp cloth (*áo xô gai thô ráp*), with a crookedly tied mourning headband.
-- Shaky knees and trembling hands whenever Cường's corpse or the topic of the staircase fall is mentioned.
+- Optional situational behavior: handling a cigarette pack or lighter when it serves the scene; no compulsory tic or repeated brand cue.
+- Funeral clothing depends on the actual time and verified/local household practice; this profile does not establish a universal ritual outfit.
+- Fear can alter his choices, patience or attention; no automatic shaking reaction to each mention of the death.
 
 ## Narrative reference
 
-Referred to in narration and dialogue as `Toàn`, `anh Toàn`, or `thằng Toàn`. Addressed by Khanh as `anh Toàn` (established in Chapter 5 revision).
+Referred to in narration and dialogue as `Toàn`, `anh Toàn`, or `thằng Toàn`. Addressed by Khanh as `anh Toàn` (social address appropriate to his older age; no rejected chapter is authority).
 
 ## Voice
 
-Hoarse, hurried, dropping into defensive, guttural snaps when challenged, but lapsing into terrified stammers in the presence of his grandfather Vũ Cổn or when alone near the corpse.
+His speech depends on listener and situation. Under pressure he may become defensive or hurried, but may also speak plainly, cooperate or try to maintain ordinary family life. No mandatory guttural voice, stammer or fragment pattern. His relationship with his father and wife should affect choices, not merely vocal effects.
+
+## Family and moral pressure — D-002
+
+His mother died years before 2026, after he became an adult; her name, exact date and cause are not locked. His father’s real affection makes grief and anger coexist.
+
+He asks Lan Anh to support an account containing something she did not witness. Her refusal becomes a consequential break in his assumed entitlement to loyalty. In a later haunting scene, he answers/goes toward his father’s familiar call before Lan Anh interrupts; the call then targets her. Do not stage that entire escalation in CH-01 or use it to disclose the concealed fight early.
+
+A 2026 recording of Cường speaking after the scuffle cannot medically rule out a contribution from earlier injuries. Objective supernatural cause, Toàn’s fear and investigators’ conclusions remain distinct.

@@ -19,7 +19,7 @@ Optional prose skill:
 npm run bootstrap -- --with-better-writing
 ```
 
-The bootstrap uses exact commits from `config/upstreams.json` and copies skills to `.agents/skills/`.
+The bootstrap uses exact commits from `config/upstreams.json` and copies upstream skills to `.agents/skills/`. It then marks every upstream skill explicit-only through `agents/openai.yaml`; project-owned `hr-source-*` roles remain normally discoverable, survive `--clean`, and cannot be replaced by an upstream name. Run `npm run skills:firewall` to repair the policy on an existing installation without reinstalling.
 
 ## 3. Initialize the story schema
 
@@ -44,15 +44,17 @@ npm run init-story -- "The Tide Room" \
 Complete, at minimum:
 
 - `author/creative-constitution.md`
-- `author/style-bible.md`
 - `author/boundaries.md`
 
 Record important decisions in `author/decisions.md`.
+
+`author/style-bible.md` is an optional reference library, not a default runtime packet. Add or consult a named section only when a demonstrated prose problem needs it; do not preload the whole file into drafting.
 
 ## 5. Validate
 
 ```bash
 npm run story:check
+npm run workflow:check
 npm run story:doctor
 npm run story:report
 ```
@@ -77,4 +79,4 @@ Act as Narrative Director. Read the repository contract and current story state.
 npm run upstreams:check
 ```
 
-Do not casually update dependencies during an active revision. Pin changes, reinstall with `npm run bootstrap -- --clean`, then rerun all story checks.
+Do not casually update dependencies during an active revision. Pin changes, reinstall with `npm run bootstrap -- --clean`, then run `npm run tooling:check`, `npm run workflow:check` and all story checks.

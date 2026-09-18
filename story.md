@@ -1,4 +1,4 @@
-﻿---
+---
 title: Horrible
 schema-version: 2
 genre: horror
@@ -46,4 +46,4 @@ Working thematic title: **Những chuyện tưởng đã kết thúc**.
 
 Case Zero — `Đơn hàng cho người chưa chết` — is the active opening arc. **Repository is in pre-draft state. No chapters canonized (full reset 2026-09-16).** Current Case Zero authority comes from the newest direct author instruction, `author/directives/`, `author/decisions.md`, continuity/character registries, verified research and the active arc plan in that order.
 
-The earlier opening-reset note is historical only and must not be used to treat the current canonized opening as unestablished.
+D-002 (2026-09-17), following the author’s “Duyệt toàn bộ theo đề xuất”, approves the 36 brainstorm recommendations and revised CH-01 structure. P1–P6 still govern revelation. CH-01 preflight is READY / APPROVED DESIGN; no prose or manuscript canon has been created. The next authorized workflow is drafting from that preflight, not resurrecting any rejected opening.

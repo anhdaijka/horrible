@@ -1,62 +1,12 @@
-# Quality Gates
+# Quality and readiness
 
-Quality is not a single score. A chapter passes through independent gates.
+1. Discovery sufficiency: materially different engines were considered before convergence; selected execution has lived motion, a specific ghost-horror pressure and fair reader-detective affordances. No fixed engine, subplot or clue quota.
+2. Input sufficiency: approval scope is explicit; verified truth, relationships, practical context and scene ecology support consequence-bearing hinges without turning possibilities into beats.
+3. Draft handoff: generative pass from brief/ecology/context completed before QA context; prose then self-edited against the separate qa-card; locator-only identity, separate handoff/deltas and prior versions preserved.
+4. Literary review: locator + full prose first, then contextual diagnosis under docs/playbooks/literary-quality.md, including plot-dominance, horror effect and reader-detective fairness. No score or technique quota; COMPROMISED cannot issue independent PASS.
+5. Safety: verified facts, relationships, knowledge/reveals, incompatible later state/obligations and cultural/professional claims; no required visible reaction; transient local life is not treated as a canon defect merely because it was invented.
+6. Revision: execution may be rebuilt within approved design even when a requested review lane is pending; missing lanes are recorded, and renewed reviews remain required.
+7. Acceptance: matching candidate bytes and consequential authority basis, independent literary PASS, safety PASS, explicit acceptance and approved durable-state diff.
+8. Promotion: prose only, continuity/registry updates, relevant validation.
 
-## Gate 1 — Plan
-
-Required:
-
-- clear chapter purpose
-- POV
-- start state and end state
-- causal scene sequence
-- character movement
-- information revealed/withheld
-- promises/questions affected
-- continuity risks
-- forbidden reveals/outcomes
-- explicit author approval
-
-## Gate 2 — Draft integrity
-
-Required:
-
-- follows approved outcome
-- preserves POV and knowledge state
-- does not silently retcon world/character facts
-- does not introduce required durable canon as an unmarked assumption
-- reaches an intentional turn/decision/state transition
-
-## Gate 3 — Deterministic health
-
-Run Story Skills validation, links, and continuity. Errors block canonization. Warnings require review but may be intentional.
-
-## Gate 4 — Craft review
-
-Review separately:
-
-- scene purpose / structure
-- causality / escalation
-- character agency / motivation
-- dialogue / subtext
-- POV / information control
-- prose specificity / rhythm / repetition
-- genre promise
-
-A craft issue needs textual evidence and a smallest effective intervention.
-
-## Gate 5 — Revision
-
-Revise the accepted issue list, not the entire chapter by default. Re-run deterministic checks if continuity-relevant facts changed.
-
-## Gate 6 — Canon diff
-
-List proposed durable changes by category: character, relationship, knowledge, object, promise, question, timeline, world rule.
-
-## Gate 7 — Author approval
-
-Accept all, accept selected, or reject. Only accepted changes may be written to canonical state.
-
-## Gate 8 — Final validation + Git
-
-Run checks again and create a semantic commit for the accepted narrative transition.
+Structural checks do not certify literary improvement. `npm run workflow:check` verifies contract wiring and bootstrap preservation only. Paired manual/model cases live in evals/horrible-workflow-regressions.md. A scene trial is useful after repeated failure but is not a mandatory extra gate on all chapters.

@@ -4,6 +4,10 @@ on:
   push:
     paths:
       - 'scripts/**'
+      - '.agents/rules/**'
+      - '.agents/skills/hr-source-*/**'
+      - '.agents/workflows/**'
+      - 'evals/**'
       - 'prompts/**'
       - 'templates/**'
       - 'author/session-state.md'
@@ -14,6 +18,10 @@ on:
   pull_request:
     paths:
       - 'scripts/**'
+      - '.agents/rules/**'
+      - '.agents/skills/hr-source-*/**'
+      - '.agents/workflows/**'
+      - 'evals/**'
       - 'prompts/**'
       - 'templates/**'
       - 'author/session-state.md'
@@ -40,6 +48,8 @@ jobs:
         run: npm run capabilities
       - name: Install pinned skills
         run: npm run bootstrap -- --clean
+      - name: Check Horrible workflow contracts and preserved project skills
+        run: npm run workflow:check
       - name: Run Novel OS doctor
         run: npm run os:doctor
       - name: Verify core Story Skill

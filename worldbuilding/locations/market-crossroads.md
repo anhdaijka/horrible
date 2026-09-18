@@ -6,6 +6,7 @@ notable-characters:
   - tran-thi-lan
   - nguyen-van-hung
   - hoang-ngoc-mai
+  - le-van-thang
 tags:
   - market
   - logistics

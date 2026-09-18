@@ -6,17 +6,17 @@ Phase 3 turns the architecture into a reproducible authoring loop.
 
 ### Deterministic lifecycle
 
-`npm run lifecycle:test` creates a temporary Story Skills project with the pinned local upstream CLI and exercises:
+`npm run lifecycle:test` creates a temporary Story Skills project with the pinned local upstream CLI and exercises deterministic artifact/state transitions:
 
 `plan -> draft -> review -> canon diff -> simulated author approval -> state update -> final validation`
 
-It also carries a promise and an open question across three chapters, then pays/resolves them in Chapter 03. The test runs `wordcount`, `reindex`, `validate`, `links`, `continuity`, and `report` before and after canonical mutation.
+Planning/review/canon-diff artifacts are golden fixtures, not outputs from an agent. The test also carries a promise and an open question across three chapters, then pays/resolves them in Chapter 03. It runs `wordcount`, `reindex`, `validate`, `links`, `continuity`, and `report` before and after canonical mutation. A PASS does not certify role compliance or prose quality.
 
 The temporary project is deleted after the test.
 
 ### Creative/runtime evaluation
 
-`evals/phase3-antigravity.md` tests the part deterministic CI cannot: whether the current Gemini/Antigravity runtime follows the Director/Writer/Reviewer contracts and produces bounded, evidence-based creative work.
+`evals/horrible-workflow-regressions.md` supplies paired failure/valid cases for the part deterministic CI cannot: whether the current runtime distinguishes approval from readiness, follows causal implications, protects blind review and avoids false-positive gates. Record each actual run; the file itself is not a passing result.
 
 ## Why the sample is not committed as a full Story Skills project
 

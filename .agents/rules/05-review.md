@@ -1,48 +1,13 @@
-# Review Rule: Adversarial Red-Team Review Protocol
+# Review and repair
 
-Review before rewriting. Mọi quy trình thẩm định cho **Horrible** bắt buộc tuân thủ `docs/playbooks/horrible-craft-review.md`.
+Use docs/playbooks/literary-quality.md as a reader-oriented standard, not a scorecard.
 
-## 1. Adversarial Red-Team Review Protocol (Giao thức Phản biện Đối kháng)
+Literary review records a blind first reading from prose plus locator-only identity, then a contextual diagnosis using the generative packet and qa-card. Evaluate only dimensions material to the actual reading experience and work's scope. Prioritize root causes over an exhaustive inventory. Classify findings as BLOCKER, MATERIAL_DEFECT or OPTIONAL_EXPERIMENT; an optional preference cannot by itself produce REVISE_REQUIRED. Record concrete protected strengths so revision does not flatten what already works. Diagnose when every person/action exists only to carry plot, when ordinary life is merely decorative, when mystery data displaces the ghost-horror experience, or when a character explains deductions the reader should make. At a consequential dependency, state a credible competing reading only when it breaks intended knowledge or later behavior. No requirement that every line or scene accomplish every function; no mandatory subplot or clue count.
 
-1. **Triệt tiêu Thiên kiến Tự khen (Anti-Sycophancy)**:
-   - Reviewer BẮT BUỘC rũ bỏ góc nhìn của người viết để nhập vai **Biên tập viên Đối kháng Khắc nghiệt**.
-   - Giả định bản thảo **LUÔN CÓ LỖI TIỀM ẨN** (head-hopping ngầm, narrator giảng bài, dán nhãn cảm xúc, rò rỉ lore sớm, thoại kịch tuồng, phong tục sai lệch) cho đến khi tìm đủ bằng chứng chứng minh điều ngược lại.
-   - CẤM TUYỆT ĐỐI phán quyết "PASS" chung chung không có dẫn chứng số dòng.
-2. **Độ phủ Đọc toàn văn (Full-Read Coverage)**:
-   - Đọc toàn văn từ dòng đầu đến dòng cuối (`L1-EOF`).
-   - Báo cáo độ phủ đọc chia thành từng dải tối đa 120 dòng kèm ít nhất một nhận xét quan sát cụ thể trên trang văn bản.
-3. **Kỷ luật Cưỡng chế Bằng chứng (Mandatory Span-Level Evidence)**:
-   - Mọi báo cáo thẩm định BẮT BUỘC phải trích dẫn tối thiểu 4 spans nguyên bản kèm số dòng cụ thể:
-     - *Span 1*: Khẩu khí / Đối thoại đời thường miền Bắc.
-     - *Span 2*: Chi tiết nghề mã / Không gian nồm ẩm Bắc Bộ.
-     - *Span 3*: Phản xạ thể xác trước nỗi sợ (Physicality of Dread).
-     - *Span 4*: Dị tượng kỳ quái / Dư ba kết chương.
+Safety review verifies hard facts and knowledge against authority sources, including kinship and address. It flags impossible knowledge, incompatible later action/state or a dropped material obligation—not the absence of a visible reaction. Transient interactions and chapter-local life are not canon defects merely because no source prescribed them; evaluate whether they create a contradiction or durable obligation. A fact with a literary consequence is shared between lanes: flag the contradiction in safety and repair its whole interaction in revision. Do not send it back and forth as someone else's responsibility.
 
----
+A substantial scene rewrite is permitted within approved outcomes and durable boundaries. Local canon repair must still sound human. Correcting a pronoun alone does not repair a missing relationship.
 
-## 2. 5 Cổng Thẩm Mỹ Bắt Buộc (SOLID 5-Gate Review Runner)
+Both reviews name the exact candidate path, SHA-256 and consequential authority basis used. Any prose change invalidates old PASS. A changed decision/source dependency invalidates the affected part of a review even when prose bytes are unchanged; recheck only the affected scope and its consequences. Independent full reading is required before acceptance; disclose contaminated context.
 
-- **Gate A: Information Order, Opening Reveal Lock & POV Discipline**: Khanh Limited 3rd POV độc nhất, 0 head-hopping, 0 narrator giảng bài, Opening Reveal Lock nghiêm ngặt theo D-051.
-- **Gate B: Cultural Reality Gate & Folk Grounding**: Đồ mã, tục tang ma, khâm liệm, giỗ chạp chuẩn xác theo `research/verified/`, không bịa đặt bừa bãi phong tục thật.
-- **Gate C: Horror-Promise, Psychological Trapping & Retroactive Dread**: Visceral dread, ngột ngạt, triệt tiêu jumpscare rẻ tiền, logic hai tầng (điều tra duy lý song hành cùng dị tượng siêu nhiên thật).
-- **Gate D: Voice, Dialogue Cadence & Physicality**: Khẩu ngữ Bắc Bộ tự nhiên vụn vỡ lảng tránh, cấm thoại kịch tuồng / lore-dump, phản xạ sinh lý/vật lý thay cho nhãn cảm xúc trừu tượng.
-- **Gate E: Substantiality, Pacing & Word Count**: Dải vàng 2.500 – 3.500 từ; nhịp kể chậm rãi, dư ba kết chương.
-
----
-
-## 3. Quy Chuẩn Đề Xuất & Báo Cáo
-
-Mọi vấn đề phát hiện phải ghi rõ:
-- `ID`: `[F-XX]`
-- `Severity`: `CRITICAL / MAJOR / MINOR / OPTIONAL`
-- `Location`: dòng cụ thể trong bản thảo (`Lxx-Lyy`)
-- `Context`: `NARRATOR` (Lời dẫn) hoặc `DIALOGUE` (Lời thoại)
-- `Problem`: bản chất vi phạm
-- `Why it matters`: tác động đến cốt truyện, góc nhìn hoặc độ rợn
-- `Evidence`: trích đoạn nguyên văn
-- `Recommended intervention`: can thiệp nhỏ nhất đề xuất cho Editor
-
-Sử dụng biểu mẫu chuẩn tại `templates/review-report.md`.
-Kết luận bằng:
-- `SEMANTIC_REVIEW: PASS | REVISE_REQUIRED | INCOMPLETE`
-- `AUTHOR_ACCEPTANCE: PENDING`
+When a prior candidate exposed a recurring failure, review the mechanism-level regression test without treating the old wording or repair as a model. A changed workspace or restarted draft does not itself close the risk.

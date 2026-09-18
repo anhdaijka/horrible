@@ -1,14 +1,3 @@
-# Plan Next Chapter
+# Prepare chapter context
 
-Use the Story Planner role.
-
-1. Run or inspect current deterministic story health.
-2. Build a context manifest.
-3. Read current arc, continuity state, involved characters, active promises/questions, and the previous accepted narrative transition.
-4. Produce a bounded chapter plan using `templates/chapter-plan.md` if available.
-5. Include explicit forbidden reveals/outcomes and continuity risks.
-6. End with exactly:
-
-`AUTHOR GATE: PENDING`
-
-Do not draft finished prose and do not mark your own plan approved.
+Follow hr-source-preflight. Before convergence, create an internal discovery slate with materially different scene engines, existing life, ghost-horror pressure and reader-detective affordances. Select an execution-level engine autonomously; ask only for a material unresolved choice. Then distinguish approval from truth + creative readiness, pressure-test only consequence-bearing hinges and produce internal preflight plus generative writing brief/scene ecology/character context and a separate post-generation qa-card. Update all active handoff surfaces.

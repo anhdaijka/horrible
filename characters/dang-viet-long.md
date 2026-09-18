@@ -12,7 +12,6 @@ relationships:
     type: investigation-subject (deceased)
 locations:
   - cuong-household-funeral
-  - district-police-station
   - xom-trai
 tags:
   - police-investigator
@@ -25,12 +24,16 @@ tags:
 
 ## Role
 
-A 42-year-old criminal investigation officer (*cán bộ điều tra hình sự*) with the district police, assigned to oversee public order and death investigations across the communes around Chợ Bến and xóm Trại. He is a native of the region whose family has deep ancestral roots in the village.
+A 42-year-old police officer participating in the authorized investigation of Cường’s death, with local knowledge around Chợ Bến and xóm Trại. His precise post/assignment must fit the 2026 organization; do not identify him as district police. See the mechanics research note before naming ranks or powers.
 
-In Case Zero (**D-043**, **D-050**, **D-051**, **D-052**, **D-059**, **DIR-04**, **D-060**):
-- **Morning 14 scene preservation:** Long participates in the preliminary handling of Cường's death on the morning of the 14th. The severe neck injury makes the staircase a material scene of interest, while preliminary inspection notes that Cường's fingernails are eerily devoid of foreign biological tissue (D-060). Under D-059/DIR-04, the route to the second-floor staircase is sealed that morning, which is why Cường's smartphone remains trapped in the landing recess rather than being casually recovered by family members.
-- **Chapter 3 / afternoon follow-through:** By the time Khanh is present at the funeral, the staircase seal and Long's procedural suspicion already exist. The family pressure surrounding encoffining/autopsy avoidance is a later interaction layered on top of the earlier scene preservation, not the moment when the staircase is first sealed.
-- **Administrative Investigation (later Case Zero):** Long becomes a key investigative counterpart to Khanh. The current story plan allows an administrative inquiry into the mysterious identity `Vũ Thị Thoa`, including older paper identity records and the absence of an ordinary death record, but exact access paths, database behavior and legal classification remain subject to the project's procedural verification gate before close-up prose.
+In Case Zero under D-001 post-reset:
+
+- Coordinates preservation and appropriate professional handling after the household reports the death. Scene examination does not wait for a funeral.
+- The phone is located, documented and collected in the first professional examination; analysis can take time. He does not abandon it behind a seal for days.
+- Distinguishes visible nail cleanliness from forensic sample findings. Neither alone excludes Toàn.
+- Administrative inquiry into Thoa uses authorized channels, limited old records and oral testimony. Lack of a death entry is not evidence she is alive.
+- Shares only information he may legitimately disclose; Khanh has no general police-database or seized-phone access.
+- Does not announce supernatural guilt as a legal conclusion. Physical evidence, witness claims and the reader’s supernatural experience are separate.
 
 ## Core traits
 
@@ -52,3 +55,7 @@ Referred to in narration as `Long`, `anh Long`, or `cán bộ Long`. Addressed b
 ## Voice
 
 Measured, low-pitched, calm and authoritative; speaks in concise, precise investigative terms without emotional exaggeration.
+
+## Evidential boundaries — D-002
+
+The phone has already been collected when Thủy asks about it; no early-arrival retrieval loophole is necessary. Post-scuffle speech establishes only that the speaker could speak at that point, not medical exclusion of earlier injury. There is no 1996 audio proof to recover. Testimony, remains and corroborated details have separate provenance and limits; do not fast-forward all examinations and legal outcomes into one climactic night.

@@ -170,7 +170,9 @@ try {
     preCanonChecksMs: preCanonMs,
     postCanonChecksMs: postCanonMs,
     deterministicChecksMs: totalMs,
-    result: 'pass'
+    result: 'deterministic-fixture-pass',
+    agentBehaviorExercised: false,
+    literaryQualityCertified: false
   }, null, 2));
 
   const budget = Number(process.env.NOVEL_OS_LIFECYCLE_BUDGET_MS || 0);

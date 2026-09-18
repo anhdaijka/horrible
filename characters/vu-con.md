@@ -14,6 +14,8 @@ relationships:
     type: eldest-grandson
   - character: lan-anh
     type: eldest-granddaughter-in-law
+  - character: dang-viet-long
+    type: village-clan-elder
 locations:
   - cuong-household-funeral
   - vu-ancestral-compound
@@ -23,7 +25,7 @@ tags:
   - patriarch
   - fourth-accomplice
   - 1996-cover-up-mastermind
-  - autopsy-waiver
+  - pressure-over-funeral-timing
 ---
 
 # Vũ Cổn (Trưởng tộc Vũ Cổn)
@@ -34,9 +36,9 @@ The 76-year-old Patriarch (*Trưởng tộc*) of the Vũ lineage in xóm Trại.
 
 In Case Zero (**D-050**, **D-054**, **D-056**, **DIR-01**, **DIR-02**):
 - **1996 Cover-Up Mastermind:** In summer 1996, obsessed with clan pride and terrified that his eldest son Cường (sole male lineage heir) would face criminal consequences for accidental manslaughter after striking Thoa, Ông Cổn ordered the cover-up. He made Cường help conceal Thoa's corpse in the lotus pond mud, coerced Thủy into silence after she pleaded for a proper funeral, erased Thoa's name from the genealogy, and fabricated the slander that Thoa "fled with a lover".
-- **Rejected binding request:** Cổn's side of the family later sought spiritual intervention. Khanh's grandfather refused the matter (`Không nhận lễ`). The Vũ family then turned to an outside heterodox ritual specialist, whose binding involved the buried Czech cassette radio and a green-bamboo water-binding talisman. Khanh's grandfather did **not** perform the binding.
+- **Rejected binding request:** Grandfather hears an opaque request to constrain an unwanted presence and refuses before learning about a death/body. The family then uses an outside specialist. Bình, a younger assistant, knows only the portion of binding work he was given. Neither is automatically omniscient about the crime.
 - **30-Year Debt Exploitation:** When the suitor canceled the betrothal and left zero dowry, Ông Cổn fire-sold oxen, pawned clan land to fund Cường's wedding, and dumped 30 years of grueling debt repayment onto 19-year-old youngest daughter Thủy, robbing her of her youth.
-- **Autopsy Suppression (2026):** When Cường died violently with his neck snapped backwards on the night of the 13th, Ông Cổn pressured the family to avoid a forensic autopsy and preserve the planned encoffining schedule, protecting clan reputation and keeping attention away from the household's buried history. Exact police/legal handling remains subject to the project's procedural verification gate.
+- **Funeral pressure (2026):** Cổn presses for speed and clan privacy, but his wishes cannot authorize bypassing required scene/body handling. Funeral preparation precedes release; encoffining follows appropriate professional steps. No autopsy-waiver mechanism.
 - **Cognitive Stance (DIR-01):** In the early stages, Ông Cổn is rationalist and autocratic, violently shutting down talk of `trùng tang` or ghosts. Only later, after confronting Cường's vengeful spirit directly, does his denial collapse and he secretly sponsor Thầy Bình's ritual under the public pretext of `giải trùng tang`.
 
 ## Core traits
@@ -59,3 +61,7 @@ Referred to in narration and dialogue as `ông Cổn`, `ông Vũ Cổn`, `ông T
 ## Voice
 
 Rasping, sharp and commanding; prone to explosive curses and barking orders to silence dissent.
+
+## Approved ending direction — D-002
+
+Cổn remains alive. He loses sole control over the family’s account when Thủy and Lan Anh make costly truth-telling choices. Resistance may persist; survival does not promise repentance, forgiveness or a particular criminal sentence. No all-explaining confession or single-night completion of recovery, identification and legal process.

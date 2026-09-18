@@ -75,3 +75,7 @@ Mọi Agent khi thực hiện nhiệm vụ cam kết:
 - **KHÔNG** ép thoại gãy khúc hay phản ứng sinh lý dày đặc như một công thức humanization/horror.
 - **KHÔNG** resurrect evidence plot đã bị D-057 xóa (Diazepam/thuốc an thần).
 - **KẾT HỢP** off-POV, khẩu truyền và kiểm chứng hồi tố khi chúng phục vụ đúng mục tiêu scene, không như quota bắt buộc.
+
+## 5. Lựa chọn điểm nhìn công bằng — D-002
+
+Cảnh không có Khanh được chọn objective hoặc limited POV của nhân vật hiện diện. Objective không đọc ý nghĩ; limited không né đúng suy nghĩ nhân vật đang có bằng từ mơ hồ để giấu đáp án. Không bắt chương nào cũng có nhiều POV, độc giả biết hơn, hoặc khẩu truyền. Hội thoại sợ hãi vẫn có thể đầy đủ, rõ nghĩa.

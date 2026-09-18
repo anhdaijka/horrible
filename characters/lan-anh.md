@@ -17,7 +17,7 @@ relationships:
 locations:
   - cuong-household-funeral
   - xom-trai
-  - votive-shop-cho-ben
+  - family-votive-shop
 tags:
   - case-zero-suspect
   - eldest-daughter-in-law
@@ -33,18 +33,22 @@ The 27-year-old eldest daughter-in-law (*con dâu trưởng*) of Vũ Văn Cườ
 
 ## Durable Case Zero canon
 
-- **Opening connection:** On the morning of 14th Giêng, Lan Anh's need for funeral goods connects the Cường household to the earlier mùng 10 custom order. The exact prose/micro-choreography of Chapter 1 belongs to the approved manuscript and should not be regenerated from this profile.
+- **Opening connection:** From morning 14, buying/preparing funeral goods links the household to the mùng 10 order. This does not establish that the body is already released or encoffined. The opening scene must be newly planned.
 - **Family knowledge boundary:** In the early arc Lan Anh does not possess the buried 1996 objective truth. She can truthfully say that her known household has no living relative named Thoa without thereby proving what happened to Thoa.
 - **Patriarchal pressure:** Cổn places heavy pressure on her around funeral handling and the family's attempt to avoid deeper forensic disruption. Exact legal/procedural language remains subject to the project's verification gate.
 - **The Loyalty Trap (D-057 / D-058 / DIR-04):** After Toàn returns and believes his earlier shove caused Cường's death, Lan Anh helps conceal the evidence that could make him look like a patricide suspect. Durable canon is:
-  - Cường's fresh nail scratches are hidden around Toàn's neck with mourning cloth;
+  - fresh scratches are initially covered with ordinary dressing; mourning clothing may conceal them later, but does not make them invisible to investigators;
   - Toàn's torn, blood-stained work shirt is removed for destruction in the funeral/votive fire;
   - the shirt has a distinctive metal button associated with his sand-truck workwear;
   - this cover-up is motivated by Lan Anh's belief that Toàn may have killed Cường, even though objective author truth says he did not cause the supernatural neck break.
 
-### Chapter 6 gate
+### Discovery and shirt custody — D-001 post-reset
 
-The **exact staging** of the shirt destruction — timing, who witnesses it, where any surviving fragment lands, and how Khanh first links the clue — belongs to the Chapter 6 revision currently behind `AUTHOR GATE: PENDING`. Do not promote those draft-specific beats into durable character canon until the author approves the chapter.
+Lan Anh is in the household's rear living area when Toàn calls after finding Cường. She calls medical/official help and family promptly. Toàn tells her about the push and shows the damage, but she was not a witness to the fight. She conceals the shirt before later burning it, a separate decision with its own opportunity and risk.
+
+The surviving fragment is found through practical cleanup, not blown to Khanh. A company workwear mark identifies a group, not a unique person; corroboration uses another garment, an image or a supplier/witness. The complete destroyed shirt cannot later be seized.
+
+No Chapter 6 pending revision or approved manuscript exists after reset. New staging belongs to a future approved preflight in P2/P3.
 
 ## Core traits
 
@@ -63,3 +67,9 @@ Referred to in narration and dialogue as `Lan Anh` or `chị Lan Anh` according 
 ## Voice
 
 Usually soft and deferential around elders, but capable of abrupt practical decisions under pressure. Dialogue should remain natural rather than mechanically breathless or fragmented.
+
+## Chosen trajectory — D-002
+
+Lan Anh comes directly to the shop on morning 14 in CH-01. She buys/prepares goods; this is not proof of body release or completed funeral rites. She returns before the short household coda.
+
+Her husband’s mother died years earlier, after Toàn became an adult; do not invent a hidden mother-in-law plot. After the loyalty-driven concealment, Toàn asks her to attest an unwitnessed fact. She refuses. This choice costs something in their marriage and family position; it does not erase the shirt destruction or turn her into an instant detective.

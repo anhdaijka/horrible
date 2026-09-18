@@ -19,6 +19,8 @@
     "story:build:docx": "node scripts/story.mjs build . --format docx",
     "story:build:epub": "node scripts/story.mjs build . --format epub",
     "tooling:check": "node scripts/tooling-check.mjs",
+    "workflow:check": "node scripts/workflow-contract-test.mjs",
+    "skills:firewall": "node scripts/apply-creativity-firewall.mjs",
     "os:doctor": "node scripts/os-doctor.mjs",
     "capabilities": "node scripts/capabilities.mjs",
     "upstreams:check": "node scripts/check-upstreams.mjs",

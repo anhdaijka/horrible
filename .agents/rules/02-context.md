@@ -1,23 +1,15 @@
-# Context Policy — Always On
+# Context routing
 
-Use minimum sufficient context. Do not load the entire manuscript by default.
+Use sufficient context for the people and situation, not a fixed token or fact quota.
 
-For any substantial planning, drafting, or review task, first establish a small context manifest in working notes or the response:
+Preflight/safety read the applicable author sources, character relationships, continuity, scene design and verified research. Separate durable facts, approved design and optional craft advice.
 
-- **must read** — files required to answer correctly
-- **read if triggered** — older prose/lore only if a concrete question requires it
-- **excluded** — material intentionally not loaded, especially rejected ideas and unrelated arcs
+Writer context has two phases. During the generative pass, read only writing-brief.md, scene-ecology.md, character-context.md, relevant accepted preceding prose and any explicitly named lived-context excerpt. Do not read discovery-slate.md, preflight.md, qa-card.md, rejected scene engines, regression tests, safety checklists, review findings, full directives or the style bible before a complete draft exists. The purpose is to inhabit a living situation rather than answer an audit or compare outlines. After the complete generative draft exists, open qa-card.md and the named hard-source excerpts for self-edit. A section name is not a safe boundary when it contains future material: project the needed fact into character-context instead. A missing relationship, form of address or practical fact is a reason to open a narrow source, not to guess or abandon concrete life.
 
-For scene drafting, prefer:
-1. approved scene/chapter specification
-2. current continuity state
-3. POV and present characters
-4. relevant world/location/system facts
-5. active promises/questions implicated by the scene
-6. previous scene and, when necessary, previous chapter
-7. current arc
-8. story/style constitution
+Literary review has two phases. For the first phase, read only a locator-only candidate record and the complete prose. Do not read session-state, writer handoff, prior findings, packet, rationale or repair proposal before recording the reading experience. Then consult session-state, character context, relevant brief and authority basis to diagnose intention versus execution. Preserve the first-read findings. Prior exposure to the prose, brief, rationale, diagnosis or drafting must be disclosed; a new message or model is not a fresh context. If a clean first phase cannot be achieved, use COMPROMISED and never simulate a blind reading.
 
-Older prose is lower priority than current structured state. If there is a conflict, structured canon wins.
+Reviser reads the candidate, character context, explicit author feedback and every available review; consult exact authority sources when needed. A requested revision may proceed with a missing review lane if that absence is recorded, but promotion remains blocked. Safety review may flag voice-related facts such as kinship, address and knowledge. The editor owns their literary consequences.
 
-Do not use context-window capacity as a reason to load more files. Expand context only when a specific unresolved dependency requires it.
+Generic craft skills are diagnostic aids. Their advice about fragments, concision, hidden agendas or multifunctional detail never becomes a universal production rule. Do not recover rejected prose as a model.
+
+Upstream skills are explicit-only in this repository. Do not implicitly combine generic `chapter-writing`, `drafting`, `dialogue`, `prose-style`, `revision-continuity` or other upstream craft workflows with a Horrible role. If the author explicitly invokes one, treat it as a bounded diagnostic reference: it may not write directly to `chapters/`, update canon/state, impose a universal technique or bypass the Horrible candidate and acceptance workflow. Project role skills and current author instructions control those mutations.

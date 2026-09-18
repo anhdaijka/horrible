@@ -5,6 +5,7 @@ notable-characters:
   - nguyen-minh-khanh
   - tran-thi-lan
   - nguyen-van-hung
+  - lan-anh
 tags:
   - family-home
   - votive-paper

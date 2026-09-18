@@ -1,28 +1,26 @@
-# DIR-07 — Horror-Mystery Craft Architecture: Clue Design, Dread Escalation & Inverted Detection
+# DIR-07 — Horror-Mystery Craft Architecture: Clue Design, Dread Escalation & Asymmetric Mystery
 
 > **CẤP THẨM QUYỀN**: `AUTHOR MANDATE — HIGHEST CREATIVE AUTHORITY`
 > **Phạm vi áp dụng**: Toàn bộ tác phẩm — áp dụng cho mọi draft, preflight và review.
 
 ---
 
-## §1. Khung Triết Lý Cốt Lõi: "Inverted Detective Horror" — Mô Hình Của Horrible
+## §1. Khung triết lý — Asymmetric Horror Mystery
 
-Horrible không phải là tiểu thuyết trinh thám thuần túy. Nó là **Inverted Detective Horror** — một mô hình lai ghép giữa:
+Đồng bộ D-002 (2026-09-17): độc giả đi trước Khanh ở các mảnh tội người sống, nhưng vẫn cùng chịu firewall về Thoa. Không gọi Case Zero là inverted mystery với lời giải/hung thủ được tiết lộ từ đầu.
 
-- **Higashino's Inverted Structure**: Độc giả biết *ai* và *cơ chế* của tội ác trước khi nhân vật chính biết. Căng thẳng đến từ việc xem nhân vật dần lần tìm ra thứ độc giả đã thấy.
-- **Jackson's Atmospheric Dread**: Sự quen thuộc bị vặn méo từ bên trong; nỗi sợ hãi đến từ sự bình thường *không còn bình thường nữa*, không phải từ con quỷ nhảy ra.
-- **Vietnamese Oral Horror**: Cộng đồng như một nhân chứng tập thể; khẩu truyền là cơ chế vừa che giấu vừa phơi bày; người chết không được phép an nghỉ vì người sống chưa xong nợ.
+- Góc nhìn phân tán cho thấy hành vi, mối quan hệ và che giấu khác nhau.
+- Bất an đến từ sự quen thuộc đổi nghĩa và hậu quả tích tụ.
+- Khẩu truyền vừa giữ ký ức vừa bóp méo nó; lời kể chưa là sự thật khách quan.
 
-**Hệ quả thực hành**: Khanh **không bao giờ là thám tử**. Anh là **Cognitive Bridge** — mắt xích nhận thức mà thông qua đó, các mảnh vỡ sự thật cuối cùng được độc giả lắp ráp thành bức tranh đầy đủ.
-
----
+Khanh là Cognitive Bridge có quyền suy nghĩ hợp lý từng việc, không phải người giải đáp mọi clue. G6a/G6b/G6c trong arc điều khiển các mức tiết lộ; không dùng “độc giả biết nhiều hơn” để phá khóa 1996.
 
 ## §2. Hệ Thống Manh Mối Hai Tầng (Dual-Layer Clue Architecture)
 
 Mỗi manh mối quan trọng phải được thiết kế với **hai lớp ý nghĩa đồng thời**:
 
 ### Lớp Bề Mặt (Surface Layer — First Read)
-Clue xuất hiện như một chi tiết đời thường, bình thường, hoặc thú vị — nhưng KHÔNG đáng ngờ rõ ràng. Nó được giấu trong hành động, đối thoại, hoặc bối cảnh vật lý tự nhiên.
+Clue có nghĩa hợp lý ở lần đọc đầu, có thể bình thường hoặc đáng ngờ; không bắt mọi clue phải vô hại. Nó được giấu trong hành động, đối thoại, hoặc bối cảnh vật lý tự nhiên.
 
 > **Ví dụ Case Zero:** Chiếc cúc kim loại dập hình ngôi sao trong đống tro (C-05) — lần đầu xuất hiện như đồ linh tinh trong tang gia. Bình thường. Không đáng chú ý.
 
@@ -38,22 +36,22 @@ Sau khi độc giả biết sự thật, họ nhìn lại và nhận ra clue đ�
 
 ## §3. Kiến Trúc Manh Mối Theo Tầng Tri Thức (Epistemic Architecture)
 
-Horrible dùng **4-Tier Epistemic Design** — mọi cảnh phải có ít nhất một layer tri thức bất đối xứng:
+Horrible dùng **4-Tier Epistemic Design**. Cảnh mang manh mối cần ghi rõ chênh lệch tri thức; cảnh đời thường/atmosphere không phải tạo thêm clue cho đủ quota:
 
 ```
 TIER 1 (Author Canon) → Toàn bộ sự thật
 TIER 2 (Reader) → Nhìn thấy hành vi của nhiều nghi phạm qua Off-POV; 
-                   luôn đi trước Khanh 1–2 bước
+                   có thể đi trước Khanh ở những mảnh được chọn
 TIER 3 (Suspects) → Mỗi nghi phạm biết phần của mình; bị siloed khỏi 
                      nhau (Thủy không biết Toàn; Toàn không biết Thủy)
 TIER 4 (Khanh)  → Chỉ thấy phần nổi; nhận mảnh vụn đời thường; 
-                   không xâu chuỗi đến Act III/IV
+                   được suy luận cục bộ theo nguồn thực biết
 ```
 
 **Quy tắc thiết kế cảnh:** Trước khi viết bất kỳ cảnh nào có clue, tác giả/agent phải hỏi:
 - *Độc giả biết gì ở thời điểm này mà Khanh chưa biết?* → Đây là nguồn gốc của Dramatic Irony.
 - *Nghi phạm trong cảnh này che giấu gì, và sự che giấu đó vô tình để lộ gì?*
-- *Clue này có hai lớp ý nghĩa không? Lớp bề mặt có vô hại không?*
+- *Clue này có hai lớp ý nghĩa không? Nghĩa bề mặt có hợp lý và nghĩa hồi tố có được gieo đủ không?*
 
 ---
 
@@ -67,7 +65,7 @@ Cấu trúc leo thang dread không phải là tăng cường độ liên tục. 
 ```
 
 ### Phase 1 — Normalcy Investment (Đầu tư vào bình thường)
-Trước khi bất cứ điều gì siêu nhiên xảy ra, tác giả phải **làm cho thế giới bình thường này đáng yêu**. Buổi sáng quán nước, tiếng Thắng bông đùa, mùi hương nhang, tập quán lễ nghĩa. Đây không phải filler — đây là **nền để mọi thứ sụp đổ sau đó mới đau**.
+Tác giả cần cho người đọc lý do gắn bó với đời thường, có thể đan ngay với siêu nhiên. Buổi sáng quán nước, tiếng Thắng bông đùa, mùi hương nhang, tập quán lễ nghĩa. Đây không phải filler — đây là **nền để mọi thứ sụp đổ sau đó mới đau**.
 
 > Quy tắc: Cảnh bình thường càng cụ thể và thuyết phục, cảnh kinh dị sau đó càng đáng sợ.
 
@@ -78,10 +76,10 @@ Không phải con quỷ nhảy ra. Mà là thứ gì đó **không hoàn toàn �
 - Một chi tiết nhỏ trong hành vi nghi phạm không khớp với lời nói của họ
 - Toàn cứ nhìn về phía cầu thang rồi nhìn đi
 
-**Kỹ thuật cốt lõi: "Show the fear of the animal, not the thing itself."** Con chó gầm vào góc tối trống không đáng sợ hơn bất kỳ mô tả nào về thứ đang ở trong góc đó.
+**Lựa chọn, không quota:** phản ứng động vật có thể hữu ích nếu được đặt tự nhiên; tiếng gọi ban ngày hoặc hành vi vâng lời quen thuộc cũng đủ tạo horror. Không mặc định động vật đáng sợ hơn hiện diện trực tiếp.
 
 ### Phase 3 — Suspense Through Inevitability (Căng thẳng qua sự không thể tránh)
-Vì độc giả biết sự thật (về vụ ngộ sát Thoa, về Toàn ẩu đả, về điện thoại bị kẹt) trước Khanh, mỗi tình huống mà Khanh vô tình bước gần đến sự thật đều tạo ra căng thẳng cực độ — **không phải vì cái gì sẽ xảy ra tiếp theo, mà vì độc giả đã biết và đang chờ Khanh nhận ra**.
+Độc giả có thể thấy dấu che giấu/vết cào của Toàn hoặc việc Thủy hỏi gấp về điện thoại đã bị thu trước Khanh. Họ chờ những mảnh ấy va vào đời sống của anh; vẫn chưa biết Thoa chết trước G6a hoặc toàn bộ cơ chế án mạng. Điện thoại đã được thu lần khám đầu, không còn kẹt chờ reveal.
 
 ### Phase 4 — The Wait Technique
 Trong văn xuôi: tạo kỳ vọng rằng điều gì đó sẽ xảy ra, rồi **trì hoãn nó**. Kéo dài khoảnh khắc trước khi dị tượng xuất hiện. Câu văn dài, chậm, mô tả chi tiết bình thường — rồi một câu ngắn chát đặt cuối đoạn.
@@ -95,13 +93,13 @@ Trong văn xuôi: tạo kỳ vọng rằng điều gì đó sẽ xảy ra, rồi
 Horrible dùng kiểu red herring **đặc biệt và đạo đức hơn** so với mystery thông thường: các nghi phạm **thật sự có tội** về một thứ, chỉ không phải tội bị cáo buộc. Đây là thiết kế cực kỳ tinh vi.
 
 ### Nguyên tắc "Two-Faced Evidence":
-Mỗi bằng chứng phải có khả năng đọc theo hai hướng đồng thời, cho đến khi Act III:
+Những bằng chứng dùng làm nghi binh cần hỗ trợ cách hiểu ban đầu và nghĩa thật, theo phase của matrix:
 
 | Bằng chứng | Đọc #1 (Red Herring) | Đọc #2 (True Meaning) |
 |---|---|---|
-| Vết cào cổ của Toàn | Toàn ẩu đả với Cường → có thể là hung thủ | Toàn không giết được bằng ẩu đả (móng tay Cường sạch) → bằng chứng anh vô tội về án mạng siêu nhiên |
+| Vết cào cổ của Toàn | Toàn ẩu đả với Cường → có thể là hung thủ | Xác nhận có xô xát, nhưng chưa định ra nguyên nhân tử vong; móng sạch không giải oan |
 | Lan Anh đốt áo | Che giấu bằng chứng giết người | Bẫy trung thành — cô tin chồng có tội nhưng thực ra anh vô tội về cái chết siêu nhiên |
-| Thủy hoảng loạn, cố vào tầng 2 | Thủy là hung thủ muốn phi tang | Thủy sợ điện thoại chứa chứng cứ tống tiền — vô tội về cái chết |
+| Thủy hỏi gấp điện thoại và tìm cách tác động lời kể của người nhà | Có thể đang che vai trò trong cái chết | Cô sợ chứng cứ đe dọa trên máy đã bị thu; không đua lên tầng 2 lấy máy |
 
 **Thiết kế nguyên tắc:** Khi viết cảnh red herring, luôn hỏi: *Hành động này của nhân vật có thể giải thích bằng cả hai giả thuyết (có tội / vô tội về cái chết) một cách hợp lý không?*
 
@@ -121,7 +119,7 @@ Red herring hiệu quả nhất là khi nhân vật có **lý do riêng biệt, 
 
 **Cách sử dụng:** Lời đồn và khẩu truyền của cộng đồng (Thắng, Mai, bà cụ Tứ) vừa là clue vừa là misdirection. Độc giả phải học cách tách **hạt nhân sự thật** ra khỏi **lớp giải thích sai**.
 
-> Ví dụ: "Nghe nói con bé Thoa ngày xưa bỏ đi theo trai, ông Cổn khóc suốt ba ngày..." → Hạt nhân thật: Thoa "bỏ đi" là có thật. Lớp giải thích sai: "bỏ theo trai" là câu chuyện gia đình tung ra. Độc giả nhận ra điều này trước Khanh.
+> Ví dụ: "Nghe nói con bé Thoa ngày xưa bỏ đi theo trai, ông Cổn khóc suốt ba ngày..." → Hạt nhân thật: Thoa vắng khỏi đời sống cộng đồng. Lớp giải thích sai: "bỏ theo trai" là câu chuyện gia đình tung ra. Độc giả nhận ra điều này trước Khanh.
 
 ---
 
@@ -158,13 +156,13 @@ Horrible phải thỏa mãn **tiêu chuẩn fair-play** của mystery trong khi 
 ### Nguyên tắc "horror override":
 Fair-play áp dụng cho **human crime layer**. Supernatural layer có thể duy trì ambiguity và không cần giải thích cơ chế — đây là horror, không phải hard sci-fi.
 
-> Clue về móng tay Cường sạch (C-03) phải fair-play: nó phải có mặt trong văn xuôi sớm đủ để sau này độc giả nhìn lại và nói "Ồ, nó ở đó." Nhưng cơ chế nào xóa đi dấu vết — supernatural hay không — không cần giải thích hoàn toàn.
+> C-03: P3 gieo hành vi né tránh; P5/G6b mới được trình bày điều Toàn thấy và kết quả xét nghiệm giới hạn. Không lộ nội dung móng tay qua độc thoại sớm. Những manh mối khác phải đủ nâng giả thuyết ẩu đả trước khi C-03 tới; không dùng thông tin giấu kín để đòi độc giả đã phải giải ra.
 
 ---
 
 ## §9. Recontextualization Design — Thiết Kế Để Đọc Lại Sướng Hơn
 
-Mọi chương của Horrible phải qua **"Reread Test"** trước khi được chấp thuận:
+Những cảnh có manh mối/reveal-bearing detail cần qua **"Reread Test"**; cảnh nghỉ hoặc gắn bó nhân vật không bị buộc có một twist ẩn:
 
 *Sau khi độc giả biết toàn bộ sự thật (Act IV), họ đọc lại chương này — liệu ít nhất một chi tiết sẽ trở nên đáng sợ hơn, buồn hơn, hoặc có ý nghĩa hoàn toàn khác không?*
 
@@ -172,7 +170,7 @@ Mọi chương của Horrible phải qua **"Reread Test"** trước khi được
 
 1. **Chi tiết hành vi nghi phạm** — Hành động bình thường trở nên có tội/đau khổ khi biết động cơ thật. (Lan Anh cẩn thận quấn khăn tang quanh cổ Toàn — *cô đang che vết cào*)
 2. **Lời nói đa nghĩa** — Câu nói bình thường hóa ra có hai nghĩa; nghĩa thứ hai chỉ rõ sau reveal. (Cổn nói "Thoa nó đi rồi" — nghĩa thật: cô ấy đã chết từ năm đó)
-3. **Chi tiết môi trường có mặt từ đầu** — Chiếc đài đỏ trong đơn hàng mùng 10; tiếng băng rè từ đầm sen; bùa tre bị mục. Ở lần đọc lại, chúng không còn là chi tiết — chúng là bằng chứng về 30 năm oan ức.
+3. **Chi tiết môi trường có mặt từ đầu** — Chiếc đài đỏ trong đơn hàng mùng 10; dấu sửa/nét vẽ riêng trên radio; dấu tác động vật lý ở đầm theo nguồn kiểm chứng. Ở lần đọc lại, chúng không còn là chi tiết — chúng là bằng chứng về 30 năm oan ức.
 
 ---
 
@@ -183,8 +181,8 @@ Trước khi viết bất kỳ cảnh nào, kiểm tra:
 - [ ] **Clue layer:** Cảnh này chứa bao nhiêu clue? Chúng được giấu ở đâu (trong hành động / lời thoại / bối cảnh vật lý)? Chúng có dual-layer không?
 - [ ] **Epistemic tier:** Độc giả ở tier nào so với Khanh trong cảnh này? Độc giả có đang thấy điều Khanh không thấy không?
 - [ ] **Dread escalation:** Cảnh này ở đâu trong kiến trúc nhịp thở? Nó build-up, pay-off, hay nhịp thở?
-- [ ] **Acoustic design:** Âm thanh nền trong cảnh là gì? Nếu có siêu nhiên: côn trùng có ngưng bặt không? Có âm thanh biến dạng không?
-- [ ] **Animal signal:** Có động vật trong/gần cảnh không? Hành vi của chúng thể hiện gì?
+- [ ] **Sensory design:** Chọn dấu cảm giác phù hợp cảnh; không bắt đủ giác quan, im côn trùng, lạnh hay biến giọng.
+- [ ] **Animal signal (nếu dùng):** Có tự nhiên, cụ thể và không đóng vai máy dò ma không? Vắng động vật là hợp lệ.
 - [ ] **Red herring integrity:** Nếu cảnh chứa hành vi đáng ngờ của nghi phạm — hành vi đó có thể giải thích bằng cả hai giả thuyết (tội/vô tội về cái chết) không?
-- [ ] **Reread value:** Sau Act IV, chi tiết nào trong cảnh này sẽ trở nên có ý nghĩa khác?
+- [ ] **Reread value (nếu cảnh gieo clue):** Chi tiết quan trọng đổi nghĩa thế nào? Cảnh không gieo clue ghi N/A.
 - [ ] **Fair-play:** Clue trong cảnh này có đủ mặt trên trang giấy để độc giả chú ý suy luận không?

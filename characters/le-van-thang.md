@@ -24,7 +24,7 @@ tags:
 
 Khanh's former high school classmate from the district high school (trường huyện). Thắng represents the grounded, ordinary trajectory of rural youth who stayed behind: married early, has a child, and works as a technician at the glass and aluminum workshop near the market crossroads.
 
-In Chapter 3 (`Rạp tang xóm Trại`), Thắng appears at ông Vũ Văn Cường's wake to help with manual chores (carrying chairs, boiling tea, serving visitors) because his maternal cousin-aunt (cô họ bên ngoại) is Cường's sister-in-law.
+In the funeral-pressure phase, Thắng helps with practical tasks (chairs, tea, visitors) because his maternal cousin-aunt is Cường’s sister-in-law. His exact entrance and actions need a new preflight; the rejected chapter is not authority.
 
 ## Core traits
 

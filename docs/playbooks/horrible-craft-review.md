@@ -1,123 +1,78 @@
-# Sổ Tay Thẩm Định & Biên Tập Độc Lập Cho Tiểu Thuyết Horrible
-## (Horrible Craft & Evidence Review Playbook)
+# Horrible chapter operating playbook
 
-> **Cơ sở thẩm quyền tối cao**: `author/directives/` (DIR-01 và các chỉ thị của Tác giả), `AGENTS.md`, `author/creative-constitution.md`, `author/boundaries.md`, `author/style-bible.md`, `author/decisions.md` (đặc biệt D-050, D-051, D-054, D-055), và `continuity/state.md`. Mọi đường dẫn trong văn bản này tính từ repository root `anhdaijka/horrible`.
+## Design dialogue — before locking a packet, and when design becomes a problem
+Read sources first. Briefly state what the author wants the reader to experience, what is settled and where inherited design conflicts with current intent. Show useful editorial reasons, not hidden reasoning traces.
 
----
+Consider the decisions that matter here, rather than asking a fixed questionnaire:
+- Event chronology versus presentation order/chapter cuts; what readers know before and after each move, compared with viewpoint characters.
+- What specifically makes the scene frightening or mysterious, why it matters to these people, and whether the effect depends on order, viewpoint or withholding.
+- The benefit of a flashback: does it change the meaning of something already read, provide dramatic irony or reveal a new problem, rather than repeat exposition? Keep temporal transitions legible and the present-day narrative worth returning to.
+- Whether a manifestation, consequence, uncanny transaction, social fear or intimate habit best serves this scene. No mandatory escalation, ambiguity, supernatural event or horror-device quota per chapter.
+- Practical/character causality, fair disclosure and dependencies on unresolved cultural or canon choices.
 
-## I. Nguyên Tắc Thẩm Quyền & Phân Lập Vai Trò
+For a consequential open choice, offer meaningful alternatives (usually two or three), their reader-facing tradeoffs and a recommendation. Ask a focused answerable question. Batch only decisions needed for the next bounded work; defer remote arc questions.
 
-1. **Tác giả là thẩm quyền tối cao**: Trợ lý AI và các vai trò (Writer, Reviewer, Editor) chỉ được đề xuất, chấp bút nháp, thẩm định và sửa đổi cục bộ. Không ai được tự ý phong một bản thảo thành canon hay tự ý sửa đổi canon files (`chapters/`, `continuity/state.md`) khi chưa có lệnh rõ ràng của Tác giả.
-2. **Quy tắc Tam quyền phân lập**:
-   - **Người chấp bút (Writer - `/hr-write`)**: Tập trung 100% vào việc hiện thực hóa văn phong, ngũ quan, thể xác hóa cảm xúc và khẩu ngữ đời thường theo đề cương đã duyệt. Không tự đánh giá, không tự khen, không tự cấp quyền PASS.
-   - **Người thẩm định độc lập (Reviewer - `/hr-review`)**: Hoạt động với tư duy **Adversarial Red-Team** (phản biện đối kháng khắc nghiệt). Đọc độc lập, kiểm tra toàn văn từ L1 đến EOF, soi chiếu qua 5 Cổng Thẩm Mỹ đặc thù của Horrible, trích dẫn số dòng và chứng cứ nguyên văn, tuyệt đối không tự ý sửa đổi văn bản.
-   - **Biên tập viên độc lập (Editor / Reviser - `/hr-revise`)**: Đóng vai trò bác sĩ phẫu thuật văn học. Tiếp nhận bản nháp và báo cáo review để tiến hành các can thiệp nhỏ nhất có hiệu quả (*smallest effective intervention*). Không viết lại cả chương cho lỗi một vài đoạn; xuất bản sửa `revised.md` kèm bảng đối soát trạng thái xử lý lỗi.
-3. **Kỷ luật ngữ cảnh (Context Discipline)**:
-   - Ưu tiên thực hiện lượt review trong một lượt gọi mới hoặc phiên mới để rũ bỏ hoàn toàn thiên kiến lập luận của Writer.
-   - Nếu chạy trong cùng phiên làm việc, Reviewer phải đánh dấu `SAME-CONTEXT AUDIT` và bắt buộc bám sát từng dòng chữ trên trang giấy, không dựa vào ý định của prompt trước đó.
+Approval settles only the alternatives actually presented. Before declaring a packet READY, pressure-test each consequence-bearing hinge the chapter needs: perception, available knowledge/inference, choice and downstream obligation. Test a credible counter-reading when it could change later knowledge or behavior. A flashback may be presented later, but enough of its causal account must be resolved before writing an earlier-presented consequence. This does not require outlining or drafting the entire later chapter.
 
----
+Pressure-testing is not a demand that every ordinary action survive adversarial proof. `Busy`, `routine`, `not the seller's business` or another source-grounded social/occupational baseline can be a complete account. Ask whether the proposed prose contradicts that baseline or creates incompatible later knowledge—not why the character failed to investigate every possibility. When alternatives do not change story consequence, prune the lock instead of manufacturing justification, procedure or dialogue.
 
-## II. Gói Không Gian Làm Việc Theo Chương (Chapter Workspace)
+Classify the result:
+- SOURCE-RESOLVABLE: read the relevant source, do not offload retrieval to the author.
+- EXECUTION: dialogue, incidental action and rhythm within approved design; decide and self-edit.
+- AUTHOR-DESIGN: chapter purpose/cuts, consequential presentation/reveal order, POV architecture, horror commitment, canon or trajectory; ask before locking.
+- ALREADY-DECIDED: cite the actual compatible instruction; do not reask for form's sake.
 
-Mọi hoạt động phát triển văn thảo của từng chương phải được cách ly trong thư mục làm việc đệm:
-`revisions/chapter-work/CH-XX/` (với `XX` là số chương hai chữ số, ví dụ `CH-01`):
+If AUTHOR-DESIGN remains unresolved, save design-discussion.md with AWAITING_AUTHOR, update session-state, ask in the response and stop affected preparation/drafting. Recommendations are not approvals. A workflow approval does not accept unselected story options. Offer pressure-tested replacements when a recommendation fails; do not offload invention to the author. When all material choices and causal dependencies are settled, record the evidence for readiness and proceed; no ritual questions needed.
+New author intent or credible evidence of a design failure reopens only affected decisions. Inherited approval is not a reason to suppress a useful alternative, nor permission to silently replace the chosen version.
 
-- `preflight.md`: Đề cương phân cảnh, sensory anchors, emotional physicality, và information locks đã được Tác giả duyệt.
-- `draft.md`: Bản thảo văn xuôi do Writer viết ra (trạng thái `NON-CANON DRAFT`).
-- `review.md`: Báo cáo thẩm định chi tiết do Reviewer lập (theo mẫu `templates/review-report.md`).
-- `revised.md`: Bản thảo đã được Editor phẫu thuật sửa chữa theo các findings.
+At drafting, revision or safety stages, use the same boundary: source lookup for missing facts, autonomous execution repair, author question for material redesign. Reviewers complete their diagnosis and label design alternatives as proposals, not mandatory repairs; blind reviewers do this only after their first-read record. Do not rewrite approved architecture to satisfy a reviewer without author choice.
 
-Chỉ sau khi Tác giả đọc `revised.md` và ra lệnh phê duyệt (`AUTHOR ACCEPTANCE: APPROVED`), bản thảo mới được chép vào cây thư mục chính thức: `chapters/chapter-XX.md` và cập nhật `continuity/state.md`.
+## Discovery — before convergence
 
----
+Preflight begins with a divergent internal `discovery-slate.md`, not a beat outline. Establish what these people would already be doing, wanting, avoiding or finishing if the case did not advance today. Look for material processes, social traffic, private concerns and relationships with causes outside the main plot. Then explore materially different ways the ghostly disturbance can enter, persist or retroactively contaminate that life.
 
-## III. Quy Trình Thẩm Định Đối Kháng (Adversarial Red-Team Protocol)
+Every useful scene engine should offer three things without becoming a scorecard: lived motion, a specific ghost-horror pressure, and a fair field in which the reader can notice or connect evidence that characters hold separately or misread. Vary the situation, point of intrusion, human cost, horror mode, clue surface or aftermath. Stop when alternatives are cosmetic. Do not generate a fixed number for ceremony.
 
-### 1. Đọc toàn văn tuần tự (Full-Read Coverage)
-- Reviewer BẮT BUỘC phải đọc bản thảo hiện tại tuần tự từ **L1 đến EOF**.
-- Tuyệt đối không dùng tìm kiếm từ khóa cục bộ (`grep`) hay đọc tóm tắt để thay thế cho việc đọc toàn văn.
-- Ghi nhận độ phủ đọc (Full-Read Coverage) theo từng dải dòng tối đa 120 dòng (ví dụ `L1-L85`, `L86-L195`,...), mỗi dải phải có ít nhất một nhận xét quan sát thực tế.
+Select or combine for literary and horror potential, not merely the lowest continuity risk. Execution-level selection is planner authority. Ask the author only if it changes purpose/outcome, reveal architecture, durable relationship/state, supernatural truth or another material lock. Rejected engines stay internal; the Writer receives only the selected affordance field.
 
-### 2. 5 Cổng Thẩm Mỹ Chuyên Biệt Của Horrible (SOLID 5-Gate Review Runner)
+The reader is the primary detective of the series. Evidence can be distributed through ordinary commerce, family memory, objects, testimony, community speech and rotating viewpoints. Khanh can connect local facts but need not witness or solve everything. State what must remain observable without prescribing the correct deduction. Atmosphere, affection and incidental life may remain non-clues.
 
-Reviewer phải mổ xẻ bản thảo độc lập qua 5 cổng sau:
+## Preparation
+Read current author instruction and source state. Complete divergent discovery, then resolve the design-dialogue gate only if a material choice remains. Produce internal discovery-slate.md + preflight.md; generative writing-brief.md + scene-ecology.md + character-context.md; and separate qa-card.md. Verify outcome, knowledge, chronology, facts and consequence-bearing causal hinges internally. Project compact truth, kinship, shared history, continuing life, independent pressures, horror intrusion and clue affordances into the generative files; keep rejected engines, long exclusions, causal tests, regression history, safety checks and authority receipts out. There is no fact, subplot, clue or hidden-agenda quota.
 
-#### Cổng A: Information-Order Lock, Opening Reveal Lock & POV Discipline
-- **Limited 3rd POV & Anti-Author Intrusion**: Cấm ngặt Narrator đứng ra giảng bài. Toàn bộ cảnh có bị rò rỉ góc nhìn (Head-hopping) không? Có đoạn văn nào Narrator tóm tắt tiểu sử nhân vật, tự giải thích phong tục văn hóa hộ độc giả, hoặc tự chốt hạ suy luận thay vì để nhân vật hành động không? (Bắt buộc dùng rule "Show, don't Tell" cho mọi lập luận).
-- **Khóa thứ tự thông tin (Information-Order Lock)**: Có giải thích giả thuyết thông thường trước khi dị tượng kỳ quái xuất hiện không? Có trấn an độc giả rằng chi tiết này vô hại không?
-- **Opening Reveal Lock & Anti-Thoa-Dead-Leak Gate (Theo D-051 & D-054)**:
-  - Với Chương 1: Sự hoảng loạn của Lan Anh chỉ được giới hạn ở việc ông Cường sáng mùng 10 còn sống mà tiệm lại có đơn đặt đồ chết mang tên ông; trong nhà không có ai tên Thoa. Tuyệt đối CẤM nhắc đến vụ án 1996, đài Tiệp Khắc, hoặc bùa cọc tre.
-  - Với Toàn bộ Case Zero (Chương 1–9): Mọi hiện tượng kinh dị ma quái trong gia đình xóm Trại BẮT BUỘC phải xoay quanh **Hồn ma ông Vũ Văn Cường (người chết dữ chưa nhập quan)**. TUYỆT ĐỐI CẤM để nhân vật hay tự sự hé lộ, ám chỉ hoặc coi Thoa là người đã chết / hồn ma báo oán trước Chương 10. Thoa phải được duy trì 100% dưới tư cách **nghi phạm người sống** trên camera Dahua. Mọi vi phạm rò rỉ Thoa đã chết đều bị đánh `CRITICAL FAIL`.
+Generative Writer may read named lived-context excerpts when the packet lacks human texture. Use exact safe excerpts/ranges; if a section also contains future solutions, project the needed fact into character-context instead. Full profiles, directives, style guides, discovery slate and rejected engines are not generative context. Restoring established relationships or inventing transient chapter-local life does not reopen approved plot design.
 
+## Draft and self-edit
+Writer first uses only writing-brief.md, scene-ecology.md, character-context.md and relevant accepted preceding prose. Ecology is an affordance field, not a beat sheet. Local events, transient interactions, momentary attitudes, mistakes, cooperation, rhythm, summary and interiority are available within approved boundaries. The haunting should enter or change a life already in motion, while observable evidence remains available for reader inference without explanation. Only after a complete draft exists does Writer open qa-card.md for a self-edit pass. Rewriting execution is different from changing plot or relationship trajectory.
 
-#### Cổng B: Cultural Reality Gate & Folk Grounding
-- **Tính xác thực phong tục**: Các chi tiết về vàng mã, tục khâm liệm, tang ma, giỗ chạp, 49/100 ngày, bùa trấn thủy, bát hương, bàn thờ... có đúng với thực tế văn hóa đồng bằng Bắc Bộ không?
-- **Đối chiếu nguồn nghiên cứu**: Kiểm tra đối chiếu với `research/verified/`. Nếu là chi tiết tâm linh dị biệt, phải được thể hiện là niềm tin/lời đồn của nhân vật, tuyệt đối không biến thành "sự thật văn hóa narrator chứng nhận".
-- **Tách bạch 4 tầng thực tế**:
-  `Thực tế nghiên cứu → Lời đồn/Nhân vật tin → Dị tượng quan sát được → Chân lý siêu nhiên tác giả thiết lập`.
+Read and self-edit the complete result before delivery: intelligible relationships, proportionate behavior, actual choices, selective dialogue, object continuity and emotional effect. Use qa-card.md to test only material dependencies and demonstrated recurring mechanisms. Do not add explanation merely to show the test was performed. Classify details that create later obligations separately from local texture. This is not independent review. Prose stays clean; candidate.md is locator-only and writer-handoff.md records phase order/self-edit/deltas away from blind intake. Preserve existing work before replacement; update all active handoff surfaces.
 
-#### Cổng C: Horror-Promise, Psychological Trapping & Retroactive Dread (Tuân thủ DIR-01)
-- **Tâm điểm Hồn ma Cường (Theo DIR-01)**: Mọi dị tượng rùng rợn, quấy phá, tiếng cào, bóng ma, đòi mạng BẮT BUỘC phải xoay quanh Hồn ma ông Cường (người chết dữ). TUYỆT ĐỐI CẤM lôi ma Thoa vào làm chất liệu kinh dị sớm.
-- **Xung đột nhận thức (Cognitive Conflict) & Gaslighting Dread (Theo DIR-01)**: CẤM để 100% nhân vật đồng thanh hùa vào tin ma quỷ. Phải có sự đối kháng sâu sắc: Kẻ nhìn thấy ma (Thủy, bà con họ hàng thức đêm, Khanh) hoảng loạn, cô độc; Người duy lý (Thắng, ông Cổn giai đoạn đầu) dùng logic đời thường và sự mệt mỏi để gạt đi (*"Khéo thức đêm mệt quá hoa mắt", "Đừng nghe lời đồn dị nghị làm bối rối tang gia"*).
-- **Dread & ngột ngạt**: Cảnh có đem lại cảm giác ớn lạnh từ từ (slow-burn creep), áp lực ngột ngạt của sự ô uế tâm linh hay điềm báo rủi ro không?
-- **Triệt tiêu Jumpscare rẻ tiền**: Có lạm dụng các thủ pháp giật gân rẻ tiền (bóng đen lướt qua vô cớ, tiếng động hú hét vô nghĩa) không? Dị tượng có dựa trên logic hai tầng (vừa có thể là hành vi con người đáng ngờ, vừa mang dấu vết siêu nhiên không thể chối cãi)?
-- **Anti-Spoiler & Logical Grounding**: Bắt lỗi các hiện tượng siêu nhiên bị bóc trần quá sớm (Villain Lore-dumping, Deus Ex Machina Info-dump). Cảnh báo các vi phạm về logic nghề nghiệp (Professionalism Break: công an, bác sĩ phải duy lý ban đầu) và logic sinh tồn. Tuyệt đối không để nhân vật hoảng loạn tự khai chi tiết máu me (gore) rành mạch.
-- **Va chạm nhận thức**: Cảnh có thể hiện được sự xung đột giữa tư duy kỹ sư IT duy lý của Khanh với thế giới mê tín tâm linh thôn quê không?
+When repairing a demonstrated recurring failure, a scene trial may test a named hypothesis before a full rewrite. Record what the trial establishes before scaling. It is not a new compulsory stage for every chapter.
 
-#### Cổng D: Voice, Dialogue Cadence & Physicality
-- **Khẩu ngữ Bắc Bộ tự nhiên**: Lời thoại có tự nhiên, vụn vỡ, ngập ngừng, lảng tránh đúng chất người làng quê miền Bắc không?
-- **Cấm thoại kịch tuồng & Lore-dump**: Cấm nhân vật nói năng như đọc sách giáo khoa tâm linh, cấm dùng thoại để nhồi nhét lore cho độc giả.
-- **Trauma Physicality (Thể xác hóa sang chấn)**: Cảm xúc sợ hãi, bàng hoàng có được diễn tả bằng phản xạ sinh lý/vật lý cụ thể (mồ hôi chua, gót chân va vào góc bàn, khớp tay trắng bệch, cổ họng nghẹn đắng) thay vì dán nhãn trừu tượng không? NHẤN MẠNH: Nhân vật đang sốc/hoảng loạn phải bị "khóa ngôn ngữ" (nấc nghẹn, lặp từ, ngắt quãng), tuyệt đối cấm miêu tả chi tiết dị tượng rành mạch (gore) qua lời kể của họ.
-- **Thanh lọc Sáo rỗng & Gậy chống AI (Section 32 Style Bible)**:
-  - Bắt buộc gắn cờ `MAJOR` đối với bất kỳ câu chữ nào lặp lại mẫu biểu cảm sáo rỗng rẻ tiền: *"cắn chặt môi đến rỉ máu / rớm máu"*.
-  - Bắt buộc gắn cờ `MAJOR` đối với cấu trúc ngắt nhịp gậy chống lười biếng của AI: *"Đó là...", "Đó chính là...", "Đấy là..."*.
-  - Bắt buộc gắn cờ `MINOR` với các cụm từ làm yếu câu như *"dường như"*, *"bất giác"*, *"không khỏi"*.
-- **Xưng hô chuẩn mực**: Tuân thủ `author/style-bible.md` (Khanh gọi `bà Lan / mẹ anh`, `ông Hùng / bố anh`, `chị Hạnh`, người lớn tuổi dùng `ông/bà + tên`, không gọi trống không `Lan`, `Hùng`, `Thủy` trong lời dẫn).
+## Literary review
+Use docs/playbooks/literary-quality.md. Start from the requested workspace, not session-state. Read locator-only candidate.md and the entire named prose first. Record the first-read experience without handoff, prior findings, brief or rationale. Then inspect session-state, generative packet, qa-card and authority basis; add contextual diagnosis without retroactively erasing that experience. Prioritize root causes, classify optional experiments separately and name protected strengths. Diagnose plot-dominance, lived pressure, ghost-horror effect and reader-detective fairness without imposing side-story or clue quotas.
 
-#### Cổng E: Substantiality, Pacing & Word Count
-- **Dung lượng tiêu chuẩn**: Độ dài chương nằm trong dải vàng **2.500 – 3.500 từ** (không dưới 2.000 từ, không vượt quá 4.500 từ nếu không có lý do chia phân cảnh).
-- **Pacing**: Nhịp kể có đủ khoảng lặng đời sống (đèn huỳnh quang chập chờn, bụi giấy mã, tiếng xe máy ngoài ngã tư chợ) để làm đòn bẩy cho sự dị thường không?
-- **Dư ba kết chương**: Đoạn kết có để lại một câu hỏi nhức nhối hoặc hình ảnh rợn ngợp kéo độc giả sang chương sau không?
+FRESH requires actual absence of prior exposure to this candidate's prose, planning/rationale, diagnosis and writing. Same task history or changing models cannot erase context. A compromised reviewer can provide useful provisional findings but cannot simulate a blind reading or issue final independent PASS.
 
----
+Review the appropriate scale: a scene trial is not a whole chapter, and an opening need not resolve an arc. Quote enough evidence to locate causes, not to meet a span quota.
 
-## IV. Cấu Trúc Báo Cáo Thẩm Định & Phân Loại Lỗi
+## Safety review and overlap
+Verify canon, chronology, knowledge/reveal order, relationships/address, physical/custody state and real cultural/professional claims against sources. At consequential dependencies, flag only impossible knowledge, incompatible later action/state or a dropped material obligation. Do not demand a visible reaction to establish that a fact was perceived. Real-world claims need evidence or explicit belief/local framing.
 
-Mọi lỗi phát hiện trong `review.md` phải được phân loại rõ ràng:
+Safety may identify a mother–son relationship error; literary revision handles how restoring it changes the conversation. Neither lane may dismiss a shared issue as exclusively the other's job. Safety does not prescribe preferred cadence or aesthetic devices.
 
-1. **Mức độ nghiêm trọng (Severity)**:
-   - `CRITICAL`: Vi phạm Information-Order Lock (leak lore sớm), phá vỡ Limited POV (head-hopping, Author Intrusion/Narrator giảng bài), sai lệch cốt truyện D-050/D-051. Bắt buộc sửa.
-   - `MAJOR`: Dán nhãn tâm lý lười biếng, diễn giải nội tâm rườm rà bằng lời dẫn thay vì hành động (Tell thay vì Show), thoại kịch tuồng, sai phong tục, jumpscare rẻ tiền. Phải đập bỏ các đoạn văn "Tell" dài dòng.
-   - `MINOR`: Lặp từ, nhịp câu sượng, xưng hô chưa thật chuẩn xác, chi tiết giác quan còn mờ.
-   - `OPTIONAL`: Đề xuất cải thiện giọng văn hoặc tăng cường độ tương phản thẩm mỹ.
-2. **Cấu trúc mỗi Finding**:
-   - **ID & Severity**: `[F-01] [CRITICAL / MAJOR / MINOR / OPTIONAL]`
-   - **Vị trí**: Dòng cụ thể `Lxx-Lyy` trong `draft.md`
-   - **Phân loại**: `NARRATOR` (Lời dẫn) hoặc `DIALOGUE` (Lời thoại)
-   - **Vấn đề**: Bản chất vi phạm (ví dụ: "Narrator giải thích tâm lý thay vì tả phản xạ vật lý")
-   - **Dẫn chứng**: Trích đoạn nguyên văn
-   - **Tại sao nghiêm trọng**: Tác hại đến góc nhìn hoặc độ rợn của truyện
-   - **Can thiệp nhỏ nhất đề xuất (Smallest Effective Intervention)**: Cách sửa cụ thể ngắn gọn
-3. **Trích xuất 4 Spans nguyên văn bắt buộc**:
-   - *Span 1*: Khẩu khí / Đối thoại đời thường miền Bắc (`Lx-Ly`)
-   - *Span 2*: Chi tiết nghề mã / Không khí đời sống chợ búa (`Lx-Ly`)
-   - *Span 3*: Phản xạ thể xác trước nỗi sợ / Giác quan nồm ẩm (`Lx-Ly`)
-   - *Span 4*: Dị tượng kỳ quái / Dư ba kết chương (`Lx-Ly`)
-4. **Phán quyết cuối cùng**:
-   - `SEMANTIC_REVIEW: PASS | REVISE_REQUIRED | INCOMPLETE`
-   - `AUTHOR_ACCEPTANCE: PENDING`
+## Revision and authorization
+Rebuild an exchange or whole scene when the literary diagnosis warrants it, preserving approved outcomes, knowledge, chronology and durable relationships/rules. Explicit author feedback may authorize revision before both review lanes exist; record missing lanes, and do not promote until all gates pass. No additional approval for execution-only rewriting under a revision request. Ask for changes to plot purpose/outcome, reveal architecture, new durable history, relationship trajectory or supernatural rule.
 
----
+Resolve author instructions and BLOCKER/MATERIAL_DEFECT findings with evidence. OPTIONAL_EXPERIMENT suggestions remain optional unless selected; reject suggestions that flatten protected strengths or conflict with one another. Output revised prose separately from revision-audit.md. Self-edit after repair.
 
-## V. Quy Trình Phẫu Thuật Biên Tập (Surgical Revision)
+## Candidate identity and acceptance
+candidate.md and both reviews carry exact path, SHA-256 and consequential authority basis. Compute file identity from bytes; do not invent it. Any content change invalidates earlier PASS. An affected change to a decision/source dependency requires scoped recheck even when bytes do not change. The initial independent literary pass reads the full candidate; do not substitute searching for reading.
 
-Khi bước vào vai trò Editor (`/hr-revise`):
+Canonization requires matching current candidate/basis identities, independent literary PASS, safety PASS, explicit author acceptance of that candidate and its approved durable-state diff. Transfer manuscript prose only, update registries and validate. Approval of a scene trial is not approval of a complete chapter.
 
-1. **Nguyên tắc can thiệp nhỏ nhất (Smallest Effective Intervention)**:
-   - Không được viết lại (rewrite) cả chương khi chỉ có một vài phân đoạn mắc lỗi.
-   - Bác sĩ phẫu thuật chỉ mổ đúng khối u: cắt bỏ câu thuyết giảng của narrator, băm nhỏ câu thoại dài dòng, chèn phản xạ cơ thể vào chỗ dán nhãn cảm xúc.
-2. **Bảo tồn tính toàn vẹn của cốt truyện**:
-   - Tuyệt đối không tự ý thay đổi outcome của cảnh, không giải quyết các open slot mà Tác giả chưa chốt, không tự sáng tác thêm lore mới ngoài canon.
-3. **Bảng nghiệm thu (Revision Audit)**:
-   - Trong `revised.md` hoặc phần báo cáo bàn giao, Editor phải liệt kê danh sách toàn bộ các Findings từ `review.md` và ghi rõ trạng thái: `RESOLVED` (kèm vị trí dòng mới) hoặc `UNRESOLVED / NEEDS_AUTHOR` (nếu liên quan đến quyết định sáng tạo của Tác giả).
+## Handoff and preservation
+Record actual non-canon progress, active workspace, candidate scope and next command in session-state after each operation. Do not overwrite an existing draft just because the router says write. Before a broad workflow redesign, copy the actual working-tree instruction set and verify a manifest. Mark archives historical; they do not supply active instructions.
+
+## Evidence limits
+Skill/schema/link checks prove structure only. Report separately whether prose was tried, self-edited, independently reviewed or accepted. See the literary standard for craft research provenance. Do not promise an author's level of quality on the strength of validators.

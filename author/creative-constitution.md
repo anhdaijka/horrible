@@ -2,6 +2,12 @@
 
 > Author-approved creative constitution after the opening reset. This supersedes the earlier `normal-first / ambiguity-preferred` interpretation that produced discarded prototypes. Newer direct author instructions and `author/directives/` still outrank this file when they are more specific.
 
+## Case Zero implementation — D-002 (2026-09-17)
+
+Case Zero uses **asymmetric horror mystery**: readers can see more of the living suspects' conduct without knowing Thoa's death or executioner identity before the gates. The active arc/matrix use P1–P6; references below to late Act III/IV mean the convergence function, not inherited chapter numbers. New opening prose must be planned from the reset state.
+
+The order reclaims Thoa's erased name and announces Cường's death. Human accountability is established by converging sources; supernatural confirmation for readers is not a substitute for forensic proof. No technical mechanism may stand in for research.
+
 ## Premise
 
 `Horrible` is a long-running Northern Vietnamese **ghost / spiritual horror novel** with mystery structure, contemporary life and cultural realism.
@@ -98,12 +104,12 @@ The narrator should create **questions**, not answer future questions prematurel
 
 Horrible dùng **Rotating Focalization / Multi-POV** — không phải Limited 3rd POV thuần túy:
 
-1. **Khanh Main Anchor POV** (~50–60%): close 3rd limited. Khanh là Cognitive Bridge (mắt xích nhận thức), không phải investigator. Anh thu nhận mảnh vụn đời thường tự nhiên, bất an thoáng qua, rồi tiếp tục — không xâu chuỗi thành kết luận trong chương.
-2. **Rotating POV người trong cuộc** (~25%): limited 3rd sâu vào Thủy/Toàn/Lan Anh/Cổn khi họ đối diện với nỗi kinh hoàng tâm linh riêng tư hoặc hành vi che giấu tội lỗi.
-3. **Cinematic Off-POV Fly-on-the-wall** (~15%): khách quan, không có interior thought, không confession. BẮt buộc khi Khanh không thể có mặt tự nhiên tại cảnh đó.
+1. **Khanh Main Anchor POV**: close 3rd limited và là điểm trở về quen thuộc. Khanh là Cognitive Bridge (mắt xích nhận thức), không phải investigator. Anh thu nhận mảnh vụn đời thường tự nhiên, có quyền suy luận cục bộ theo thông tin thực biết và chọn cách giữ tính nguyên vẹn của sổ đơn.
+2. **Rotating POV người trong cuộc**: limited 3rd sâu vào Thủy/Toàn/Lan Anh/Cổn khi cảnh thực sự thuộc về trải nghiệm riêng của họ.
+3. **Cinematic Off-POV Fly-on-the-wall**: khách quan, không có interior thought, không confession, dùng khi quan sát phục vụ cảnh tốt hơn interior access. Không cân POV bằng tỷ lệ số học.
 4. **Community Lore & Oral**: Thắng, Mai, bà cụ Tứ, công an Long — tiếng nói cộng đồng.
 
-**Anti-Omnipresent Protagonist (guard cứng):** Tuyệt đối cấm ép Khanh có mặt gượng tạo tại cảnh riêng tư giữa ngư phạm (nấp sau bụi tre, đi ngang qua đúng lúc tống tiền, ẩu đả). Nếu cảnh là riêng tư giữa gia đình Vũ → bắt buộc chuyển sang Cinematic Off-POV.
+**Anti-Omnipresent Protagonist (guard cứng):** Tuyệt đối cấm ép Khanh có mặt gượng tạo tại cảnh riêng tư giữa ngư phạm (nấp sau bụi tre, đi ngang qua đúng lúc tống tiền, ẩu đả). Nếu cảnh là riêng tư giữa gia đình Vũ → chọn objective hoặc limited POV phù hợp, không giấu suy nghĩ thiếu công bằng.
 
 Xem `author/style-bible.md §3` để biết kỷ luật đầy đủ.
 
@@ -207,7 +213,7 @@ Mystery is structural support; horror is atmospheric and thematic truth.
 - Fair clues matter when a reveal depends on them.
 - The reader should sometimes know more than Khanh and sometimes less.
 
-**Epistemic Asymmetry — ngưyên tắc thiết kế chủ đạo** của Case Zero và mọi arc có mystery layer: độc giả luôn đi trước Khanh một nhịp trong việc ghép nối human crime layer. Sự chênh lệch nhận thức này tạo ra Dramatic Irony — độc giả thấy ngưy hiểm đang rình rập trong khi Khanh chỉ nhìn thấy mảnh vụn đời thường. Đây là nguồn gốc của dread sâu nhất trong tác phẩm, không phải jumpscare.
+**Epistemic Asymmetry — ngưyên tắc thiết kế chủ đạo** của Case Zero và mọi arc có mystery layer: độc giả có thể đi trước Khanh ở những mảnh được chọn trong việc ghép nối human crime layer. Sự chênh lệch nhận thức này tạo ra Dramatic Irony — độc giả thấy ngưy hiểm đang rình rập trong khi Khanh chỉ nhìn thấy mảnh vụn đời thường. Đây là nguồn gốc của dread sâu nhất trong tác phẩm, không phải jumpscare.
 
 ## The dead
 
@@ -268,7 +274,7 @@ Khanh remains:
 
 His skepticism must not function as an authorial brake on horror. He can be wrong.
 
-**Khanh là Observer và Cognitive Bridge, không phải investigator.** Trong từng chương anh chỉ tiếp nhận một vài mảnh vụn rời rạc phát sinh tự nhiên trong sinh hoạt đời thường. Anh không xâu chuỗi chúng thành kết luận vụ án trong chương. Anh kết nối các mảnh ghép chỉ ở Act III/IV khi biến cố dồn ép anh vào bước đường cùng.
+**Khanh là Observer và Cognitive Bridge, không phải investigator.** Trong từng chương anh chỉ tiếp nhận một vài mảnh vụn rời rạc phát sinh tự nhiên trong sinh hoạt đời thường. Anh có thể kết nối dữ kiện cục bộ khi đủ nguồn; không biến anh thành người giải án toàn năng hoặc bắt bỏ qua điều hiển nhiên.
 
 Long arcs remain:
 
@@ -313,3 +319,9 @@ Escalate through **depth, consequence and strangeness**, not power levels.
 - Do not let investigation dominate the novel.
 - Preserve Vietnamese ordinary life, humor and social texture because they make the horror hurt more.
 - Research living traditions carefully; never use research caution as an excuse to make the fictional supernatural timid.
+
+## D-002 — approved development direction
+
+Case Zero’s emotional center is erasure within a family: fear can become compassion without resolving all unease. Thoa remains a former person, not perfect justice. Radio is memory, not a recovered 1996 confession; human accountability needs independent corroboration. Cường’s familiar commanding call is his haunting signature; no compulsory animal/silence/cold package.
+
+Across later cases, connections grow through lives and choices rather than a single mastermind. The workplace direction is a dead worker still being assigned work/accountability; exact technology and metaphysical answer remain open. Warm family life, platonic Khanh–Mai friendship and varied endings are protected.

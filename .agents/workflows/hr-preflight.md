@@ -1,24 +1,13 @@
-﻿---
-description: Lập preflight định vị một chương cho Horrible (neo giác quan, khóa thứ tự thông tin và chuỗi nhân quả).
+---
+description: Horrible preflight with character-grounded context and versioned handoff.
 ---
 
-# /hr-preflight
+# /hr-preflight <chapter>
 
-1. Xác định số chương (ví dụ `CH-01`, `chapter-01`) từ yêu cầu hoặc ngữ cảnh phiên làm việc; chỉ hỏi nếu chưa rõ mục tiêu.
-2. BẮT BUỘC dùng công cụ `list_dir` và `view_file` để đọc trực tiếp toàn bộ các tệp `.md` trong thư mục `author/directives/` (DIR-01 → DIR-07).
-3. Đọc `.agents/skills/hr-source-preflight/SKILL.md` và thực thi đầy đủ quy trình trong skill. Chú ý áp dụng Strict Lore Firewall.
-4. Xuất kết quả nháp vào `revisions/chapter-work/CH-XX/preflight.md` theo mẫu `templates/chapter-preflight.md`, bắt buộc điền mục **5. Open Questions**.
-5. Dừng lại, báo cáo Tác giả và chờ Tác giả trả lời Open Questions.
-6. Sau khi nhận phản hồi, cập nhật preflight và đổi trạng thái thành `PREFLIGHT READY` & `AUTHOR GATE: PENDING`. Tuyệt đối không tự ý chuyển sang bước viết văn xuôi.
+Read .agents/skills/hr-source-preflight/SKILL.md and follow its role instructions.
 
----
+First compare author intent with inherited design, then perform divergent discovery in `discovery-slate.md`: life already moving, materially different scene engines, ghost-horror experience and reader-detective affordances. Select for literary/horror potential rather than validation convenience. Execution-level selection is autonomous; if a new material story choice remains, save design-discussion.md with viable tested options, ask the author and stop at AWAITING_AUTHOR.
 
-## Báo cáo kết thúc (bắt buộc sau mỗi lượt hoàn thành)
+Otherwise test consequence-bearing causal hinges and cross-chapter dependencies, record truth + creative READY evidence and the consequential authority basis, then build internal preflight.md; generative writing-brief.md + scene-ecology.md + character-context.md; and separate qa-card.md. Keep rejected engines and regression/safety material out of generative context. Update every active handoff surface to the actual gate, not automatically to write.
 
-**Changed files:**
-- `revisions/chapter-work/CH-XX/preflight.md` — created / updated
-
-**Resulting commit:** *(nếu agent được phép commit)*
-`plan: preflight CH-XX — <mô tả ngắn bối cảnh và hook chương>`
-
-**Next-step recommendation:** `<task> → <recommended model> / <low | medium | high | xhigh | max | ultra>` — `<một câu lý do tại sao chọn agent và intensity này cho bước viết tiếp theo>`.
+Shared details: docs/playbooks/horrible-craft-review.md. No current PASS transfers to changed prose.

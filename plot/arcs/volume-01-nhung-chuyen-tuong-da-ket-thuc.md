@@ -35,3 +35,10 @@ Chapter counts and exact later-case mechanics remain development navigation rath
 ## Ending state
 
 Khanh has not chosen a paranormal career. He has, however, begun to keep a private evidence-oriented record distinguishing what seems certain from what remains uncertain.
+
+## Author-approved directions — D-002 (questions 34–36)
+
+- Link cases through people, obligations, work and consequences of choices; do not introduce one mastermind behind every haunting.
+- The workplace case develops the premise of a deceased person still assigned tasks/accountability. The pressure must belong to recognizable work life, not merely a haunted-device trick. Exact software behavior, incident sequence, evidence and metaphysical answer are not yet locked; research only when a concrete technical claim is needed.
+- Keep family warmth, humor and Khanh–Mai’s platonic friendship alive. Later endings may be confirmed supernatural, human, mixed or unresolved. Do not repeat the same family crime or answer-withheld formula.
+- The current full arc remains Case Zero; these directions do not authorize a fixed book/chapter count or drafting later cases without preflight.

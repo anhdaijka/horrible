@@ -1,236 +1,130 @@
 # Novel OS — Agent Contract
 
-This repository is a long-form fiction project. Follow this contract before any creative task.
+This repository is a long-form fiction project. `anhdaijka/horrible@main` is the only active development workspace for **Horrible**.
 
-## Startup
+## Startup and authority
 
-`anhdaijka/horrible@main` is the only active development workspace for **Horrible**.
-
-At the start of every new session:
-
-1. Read `author/session-state.md` first.
-2. Follow its `Current next action` unless the author gives a newer instruction.
-3. For planning/drafting/revision, read:
-   - `author/directives/` (all files; author directives have highest repository creative/aesthetic authority, below newer direct author instruction);
-   - `author/creative-constitution.md`;
-   - `author/boundaries.md`;
-   - `author/style-bible.md`.
-4. Read `author/decisions.md`, `continuity/state.md`, `story.md`, and only the specific canon/development/research files needed.
-5. Do **not** reload Discovery 01–15 by default.
-
-Use minimum sufficient context.
-
-## Authority
-
-- The author's newest direct instruction is final authority on canon and creative direction.
-- Author directives in `author/directives/` are binding repository mandates unless superseded by a newer direct author instruction.
-- Repository source files beat chat memory, latent memory and generated summaries.
-- Do not silently canonize, retcon or resurrect rejected material.
+1. Read `author/session-state.md` first and follow its current next action unless the author gives a newer instruction. Exception: an independent literary reviewer given an exact chapter workspace begins with locator-only `candidate.md` and prose; it reads session-state only after recording the first reading.
+2. The author's newest direct instruction outranks repository documents. Current repository source outranks chat memory, generated summaries, and historical artifacts.
+3. Load context by role according to `.agents/rules/02-context.md`. Minimum sufficient context is mandatory; indiscriminate context loading is not safety.
+4. Do not silently canonize, retcon, resurrect rejected material, or turn development material into manuscript authority.
 
 ## Historical opening-reset guard
 
-Three generations of opening material have been author-rejected:
+The old `Tiếng chợ` / `Người đặt` prototypes, the later rejected Chapter 1–2 implementation, the replacement Chapters 1–6 removed on 2026-09-16, and every CH-01 preparation/prose workspace removed on 2026-09-18 are historical only. Do not recover or quote them as a prose model unless the author explicitly asks. Do not reconstruct the removed CH-01 attempts from chat, Git history, workflow reports or archives.
 
-1. the old prototypes `Tiếng chợ` / `Người đặt`;
-2. a later ChatGPT-written Chapter 1–2 implementation rejected and deleted during the opening reset;
-3. replacement Chapters 1–6 (author-approved and canonized at various stages) — all subsequently author-rejected and removed on 2026-09-16 as part of a full manuscript reset.
+No chapter is currently canonized. `chapters/` contains only the empty registry. Generated root bibles and consolidation files are convenience artifacts and never outrank current `author/`, `continuity/`, `plot/`, `characters/`, `research/verified/`, or direct author instruction.
 
-**Current state:** No chapters are canonized. Repository is in pre-draft state. `chapters/` contains only `_index.md` (empty registry).
+## Creative–safety separation
 
-Do not:
-- recover rejected prose/dialogue from Git history unless the author explicitly asks;
-- quote rejected versions as a prose model;
-- resurrect rejected scene sequences, clue staging or knowledge state merely because they once existed;
-- treat any Git-history chapter prose as current manuscript authority.
+The active process protects literary life and story truth through separate roles:
 
-Generated root files such as `HORRIBLE_CANON_BIBLE.md`, `HORRIBLE_REVIEW_CONTEXT.md` and `CONSOLIDATION_REPORT.md` are convenience/index artifacts only. They may contain stale snapshots and never outrank `author/`, `continuity/`, `plot/`, `characters/`, `research/verified/`, or current author instruction.
+- Preflight begins with divergent discovery: life already moving, materially different scene engines, a specific ghost-horror experience and a reader-detective field. It selects the strongest execution autonomously, asks only unresolved material questions, then creates internal `discovery-slate.md` + `preflight.md`; generative `writing-brief.md` + `scene-ecology.md` + `character-context.md`; and separate `qa-card.md`.
+- Writer completes a generative pass from `writing-brief.md`, `scene-ecology.md`, `character-context.md` and relevant accepted prose only. It must not preload discovery/rejected engines, `qa-card.md`, preflight, regression history, reviews, full directives, style bible or generic craft skills. After a complete draft exists, it opens `qa-card.md` and named hard-source excerpts for self-edit. Preserve relationships, address and ordinary life without exposing future solutions.
+- Literary reviewer reads locator-only candidate identity and prose before session-state, writer handoff, prior findings or packet; then uses context to diagnose intent versus execution without erasing first impressions.
+- Safety reviewer checks canon, chronology, knowledge, reveal order, durable state, cultural/professional facts, rejected-material contamination and only those implications whose failure creates a contradictory action, obligation or later state.
+- Writer and reviser self-edit before handoff. `candidate.md` remains locator-only; self-edit, deltas and rationale belong in `writer-handoff.md` or revision audit. Reviews and acceptance bind to exact candidate bytes and consequential authority basis.
+- Canonization requires fresh literary PASS, safety PASS, and explicit author acceptance for the same candidate.
 
-## Horror-promise gate
+See `.agents/rules/writing-workflow.md`, `docs/playbooks/horrible-craft-review.md` and `docs/playbooks/literary-quality.md`. Craft suggestions in style guides, character profiles or generic skills are optional techniques; source facts and current author choices remain authoritative. Do not turn concision, fragments, hidden agendas or physical reactions into universal requirements.
 
-Before approving an opening chapter or major arc scene, ask:
+## Creative freedom boundary
 
-1. What does the horror reader get here?
-2. What disturbing question, image, supernatural promise or consequence pulls them forward?
-3. Is ordinary life increasing credibility/attachment, or merely consuming pages?
-4. Did narrator exposition leak a later reveal?
-5. Are we accidentally treating ambiguity or mundane explanation as mandatory sophistication?
-6. Is the scene free of cheap theatrical jumpscares, and do **important reveal-bearing clues** carry enough emotional/horror weight and fair-play setup for reread value?
+Inside an approved brief, the writer owns wording, rhythm, scene micro-order, dialogue tactics, silence, gesture, incidental action, sensory selection, image, and small non-durable detail. No mandatory word count, clue count, sensory inventory, body-reaction quota, clipped-dialogue pattern, or universal ambiguity requirement applies.
 
-Do **not** require every anomaly, sensory detail or supernatural manifestation to double as a detective clue. Atmosphere, character detail and direct haunting may exist for their own narrative function.
+The writer may not silently change:
 
-**Realism is the floor, not the ceiling. Ambiguity is optional. Fictional ghosts may be real.**
+- plot outcome or chapter purpose;
+- established knowledge or reveal order;
+- chronology or location;
+- relationship trajectory;
+- durable character/object state;
+- supernatural rule;
+- real cultural or professional fact.
 
-Do not suppress a strong supernatural scene merely because real-world evidence for ghosts does not exist. Research gates apply to **real cultural claims**, not to whether fictional supernatural events may happen.
+The writer may choose temporary attitudes, errors, cooperation and local consequences consistent with the people. Narration may summarize, supply context and enter the approved viewpoint. For missing established facts, consult targeted sources; ask the author only for a new material design choice.
+
+## Horror promise
+
+An opening or major arc scene should give the horror reader a disturbing experience, question, image, supernatural promise, or consequence. Ordinary life should build attachment or credibility, not consume pages by default. Important reveal-bearing clues need enough weight and fair-play setup for reread value, but atmosphere, character detail, and direct haunting may exist without becoming detective clues.
+
+Realism is the floor, not the ceiling. Ambiguity is optional. Fictional ghosts may be real. Avoid cheap theatrical jumpscares, narrator explanations that leak later reveals, and mandatory mundane explanations.
+
+## Discovery-led scene ecology and reader-detective mystery
+
+The main plot should interrupt, deform or recontextualize lives already in motion. Work, money, errands, affection, embarrassment, family obligations, community traffic and private concerns may have their own local causes and endings. They do not need to become clues, symbols or permanent subplots. A concentrated scene may omit them when concentration strengthens the horror; there is no side-story quota.
+
+Before locking a packet, explore materially different scene engines rather than immediately converting the approved outcome into beats. Select for human life, ghostly pressure and fair mystery, not merely ease of continuity validation. Rejected engines remain internal and do not enter Writer context.
+
+The reader is the story's primary detective. Evidence may be distributed across viewpoints, testimony, records, objects, ordinary routines and omissions so the reader can form and revise hypotheses before any one character assembles them. Khanh remains a recurring cognitive bridge, not an all-solving investigator. State what must remain observable without prescribing the reader's deduction, and do not turn every atmospheric or human detail into evidence.
+
+Transient interactions, local inconveniences and chapter-local events are execution freedom. Cross-scene promises, established backstory, custody/state changes, future meetings or other durable obligations are recorded as candidate deltas. Only material changes outside approved boundaries require author choice.
 
 ## Cultural reality gate
 
-The novel uses real Vietnamese religious, spiritual, funeral, ancestor, folk-cultural and votive-paper contexts. Plausible-sounding invention is not acceptable as cultural fact.
-
-Before writing a concrete claim about:
-
-- vàng mã / hàng mã products, trade, terminology or production;
-- funerals, memorials, giỗ, 49/100-day observances, burial/cremation/cải táng;
-- ancestor altars and household practice;
-- Buddhism, Đạo Mẫu / Thờ Mẫu, hầu đồng or practitioner roles;
-- đình / đền / chùa / phủ / miếu;
-- thầy cúng, thầy bói and ritual specialists;
-- taboos, trùng tang, grave/death beliefs;
-- named folklore presented as regional tradition;
-- legal/site rules around ritual burning;
-
-check `research/verified/` first.
-
-If the detail is not verified:
-
-1. research it;
-2. omit it;
-3. mark it clearly as family-specific / fictional-local practice; or
-4. frame it as character belief/hearsay rather than narrator-certified fact.
+Concrete claims about Vietnamese ritual, religion, funerals, ancestor practice, vàng mã/hàng mã trade, named folklore, taboos, ritual specialists, or legal/site rules require `research/verified/` support. If not verified, research it, omit it, mark it family-specific/fictional-local, or attribute it as character belief or hearsay.
 
 Keep these layers separate:
 
 `research fact → testimony/belief → observed event → author-canon supernatural truth`
 
-The final layer is fictional and may be genuinely supernatural.
+The safety reviewer enforces this gate. The writer receives only the verified hard boundary needed for the scene.
 
-## Psychological / retroactive-dread gate
+## Information and social reality
 
-For scenes where taboo guilt, contamination anxiety or retroactive dread is actually part of the approved design, check whether the ordinary action becomes more disturbing after later information and whether Khanh's reasoning conflicts naturally with inherited/local anxiety.
+Characters may reason only from information plausibly available at that moment unless an approved storyteller frame gives the reader more. Preflight and review test only implications whose violation would create contradictory knowledge, action, obligation or durable state. They do not require a visible reaction, question or explanation merely because a person perceived a fact. Distinguish objective chronology from narrative presentation order; a cause narrated later may still need resolution before drafting its earlier-presented consequence.
 
-This is a **tool, not a quota**. Do not force a karmic tripwire, taboo transgression, bodily panic checklist or rational-vs-folk debate into every uncanny scene.
+For a recurring character's first manuscript appearance, preflight must verify durable physical and social-address anchors if they matter. The writing brief should project only what the scene needs. Do not convert every emotion into trembling, sweat, breath, heartbeat, or another stacked physiological reaction.
 
-## Prose social-address + physicality gate
+## Chapter workflow
 
-Before a recurring character's first real manuscript appearance:
+- `/hr-preflight <chapter>` (`hr-source-preflight`) → divergent `discovery-slate.md`; design discussion/author gate only for material choices; after resolution: internal `preflight.md`, generative `writing-brief.md` + `scene-ecology.md` + `character-context.md`, separate `qa-card.md`
+- `/hr-write <chapter>` (`hr-source-writer`) → generative pass first, QA-informed self-edit second, then prose `draft.md` + locator-only `candidate.md` + separate `writer-handoff.md`
+- `/hr-review <chapter>` (`hr-source-review`) → blind `literary-review.md`
+- `/hr-safety <chapter>` (`hr-source-safety`) → `safety-review.md`
+- `/hr-revise <chapter>` (`hr-source-revision`) → prose-only `revised.md` + `revision-audit.md`
+- `/hr-canonize <chapter>` → promotion after both reviews and author acceptance
 
-1. check their character file for `Narrative reference`, `Physical presence` and `Body-language baseline`;
-2. if durable physical anchors are missing, establish them before improvising contradictory bodies across chapters;
-3. integrate only a few physical details into action;
-4. use natural Vietnamese kinship or `ông/bà + tên` for older adults in narration;
-5. use deviation from baseline as **one possible** evidence channel for fear/uncanny wrongness.
+Use a new suffixed workspace for a restarted chapter. Preserve old workspaces as historical artifacts; do not overwrite them.
 
-Do not convert every emotion into trembling, heartbeat, sweat, breath or other stacked physiological reactions.
+All upstream skills are installed explicit-only by the creativity firewall. Do not implicitly combine generic writing/revision/dialogue/prose skills with a Horrible role. When the author explicitly invokes one, it is a bounded diagnostic aid and may not write directly to `chapters/`, update continuity/canon, impose universal craft rules, or bypass the role workflow and author gates.
 
-Internal YAML and planning shorthand may keep bare canonical names.
+## Review, revision, and canonization authority
 
-## Information-order gate
+Literary review may recommend a substantial rewrite when the scene engine is false or inert. Safety repairs should use the smallest change that restores hard truth. Ask explicit author approval before changing plot/chapter purpose, canon/timeline, relationship trajectory, supernatural rules or durable knowledge/state. Rebuilding scene execution at any scale within those approved boundaries is allowed when drafting/revision is requested.
 
-Characters may reason only from information plausibly available at that moment unless a deliberate storyteller frame gives the reader more.
+After accepted prose creates durable state, prepare the canon diff, apply only approved state, update continuity/registries, and run continuity/link validation.
 
-Foreshadowing should create questions.
+## Git and validation
 
-Do not leak future logic by:
+`main` is the active source of truth. Preserve unrelated working-tree changes. Semantic commit prefixes are preferred: `plan:`, `draft:`, `revise:`, `canon:`, `research:`, `style:`, `workflow:`.
 
-- explaining a mundane hypothesis before the anomaly exists;
-- asking the exact future-reveal question too early;
-- reassuring the reader that a detail is harmless;
-- explaining why a character is not afraid after the action already shows it.
+Do not claim success if relevant validation failed or was not run.
 
-Always distinguish **objective chronology** from **narrative presentation order**. CCTV playback, recordings, flashbacks and testimony can show older events in later chapters without creating a timeline conflict.
+## Task reporting format
 
-## Drafting boundary
+Every compatible repository-task response must end with:
 
-The writer may invent wording, gesture, micro-action, sensory realization and dialogue execution inside an approved scene plan.
-
-The writer may not silently change:
-
-- plot outcome;
-- established knowledge;
-- timeline;
-- relationship trajectory;
-- durable character/object state;
-- supernatural rule;
-- real cultural fact.
-
-If a new material canon choice is required, ask the author before making it.
-
-## Review / revision boundary
-
-For local prose/mechanical issues that preserve approved structure/canon, revise directly when requested.
-
-Ask explicit author approval only for material changes to:
-
-- plot/chapter purpose;
-- canon/timeline;
-- relationship trajectory;
-- supernatural/world rule;
-- durable character knowledge/state;
-- major scene architecture/substantial rewrite.
-
-A rejected draft never becomes authority merely because it existed in Git history.
-
-## Canonization
-
-After an approved manuscript creates durable state:
-
-1. prepare canon diff;
-2. apply approved state only;
-3. update continuity/registries;
-4. run continuity/link validation.
-
-Development material is not canon merely because it exists.
-
-## Git
-
-`main` is the active source of truth.
-
-Semantic commit prefixes are preferred: `plan:`, `draft:`, `revise:`, `canon:`, `research:`, `style:`.
-
-## Skills and Workflows
-
-Chapter operations use `.agents/workflows/hr-*.md` and the four `hr-source-*` skills:
-- `/hr-preflight <chapter>` (`hr-source-preflight`): chuẩn bị preflight, neo giác quan, đối chiếu Ma trận Manh mối, khóa thứ tự thông tin trước khi viết;
-- `/hr-write <chapter>` (`hr-source-writer`): chấp bút bản thảo non-canon vào `revisions/chapter-work/CH-XX/draft.md`;
-- `/hr-review <chapter>` (`hr-source-review`): thẩm định đối kháng độc lập theo các cổng craft của Horrible, xuất `review.md`;
-- `/hr-revise <chapter>` (`hr-source-revision`): biên tập phẫu thuật can thiệp nhỏ nhất có hiệu quả, xuất `revised.md`;
-- `/hr-canonize <chapter>`: tự động hóa thúc đẩy bản thảo vào `chapters/`, cập nhật `continuity/state.md`, đồng bộ Ma trận Manh mối và bàn giao phiên.
-
-Xem `docs/playbooks/horrible-craft-review.md` để nắm quy trình thẩm định và định tuyến thẩm quyền.
-
-Use structured story-state tools for deterministic maintenance and craft tools for diagnosis. Avoid duplicate persistence systems.
-
-## Task Reporting Format
-
-Every compatible repo-task response (preflight, write, review, revise, canonize, research, refactor) **must end** with the following block:
-
-```
+```text
 **Changed files:**
 - `<path>` — <what changed>
 
 **Resulting commit:** `<prefix: short description>`
 
-**Next-step recommendation:** <task> → <Astra | Sol | Terra | Luna | Claude Opus 4.8 | Gemini 3.x> / <low | medium | high | xhigh | max | ultra> — <một câu lý do>.
+**Next-step recommendation:** `<concrete next task> → <model> / <effort>` — <why this is the lowest sufficient routing>.
 ```
 
-### Agent / Model recommendation
+If no next action is authorized, use `None`.
 
-Based on task profile — use as guidance, not a hard rule. Models evolve; re-evaluate when new releases change the landscape.
+### Cost-first routing
 
-| Task | Recommended model | Rationale |
+Choose for the actual next task, not the task just completed. Use the lowest model and effort that preserve authority, canon, information order, and literary quality.
+
+| Next task | Lowest sufficient default | Raise only when |
 |---|---|---|
-| **Preflight + prose drafting** | Claude Opus 4.8 / Sonnet 4.6 | Best prose naturalness, voice preservation, sustained coherence over long context, highest instruction-adherence for multi-constraint creative tasks |
-| **Research, cultural fact-check, world-consistency** | Gemini 3.x / o3 | Native web access, real-time synthesis, strong at grounding claims in verifiable sources |
-| **Continuity sync, canon diffs, registry updates, structured tasks** | GPT-4o / o3 | Fast, reliable tool use, strong at structured output and multi-step mechanical tasks |
-| **Surgical revision, line editing, voice preservation** | Claude Opus 4.8 | Lowest risk of “AI-ifying” prose; best at preserving author voice in targeted edits |
+| Link/schema/index/format check, typo, short report | **Luna / low** | Multi-file conflict or canon judgment → Terra |
+| Registry/continuity sync, approved preflight, structured workflow change | **Terra / low–medium** | Conflicting sources or narrative consequence analysis → Sol |
+| Chapter draft from approved brief, independent literary review, multi-lock revision | **Sol / medium** | Opening/reveal has unresolved evidence or cultural gates → Sol/high or Astra/high |
+| Multi-arc design, major canon conflict, irreversible reveal architecture | **Sol / high** | Long-range coordination across many sources without a stable spec → Astra/high–xhigh |
 
-> *As of Sep 2026: o4-mini retired Feb 2026. Gemini 2.5 Pro being phased out; use Gemini 3.x successor. Claude flagship is Opus 4.8 with Sonnet 4.6 as cost-effective alternative. OpenAI flagship is GPT-5 for general tasks, o3 for reasoning-heavy analysis.*
-
-### OpenAI model tier reference (GPT-6 / GPT-5.6 family)
-
-| Model | Tier | Best for |
-|---|---|---|
-| **GPT-6 Astra** | Flagship (released Sep 3, 2026) | Long-horizon agentic tasks, computer use, multi-step complex workflows, advanced reasoning. Use for preflight + write when maximum sustained focus is needed. |
-| **GPT-5.6 Sol** | Most capable GPT-5.6 tier | Complex professional work, deep analysis, coding. Use for world-consistency checking and research-heavy tasks within the GPT-5.6 family. |
-| **GPT-5.6 Terra** | Balanced | Everyday structured work. Use for continuity sync, registry updates, canon diffs — good performance/cost ratio. |
-| **GPT-5.6 Luna** | Cost-efficient | Quick, high-volume, budget-sensitive tasks. Use for light annotation, index updates, link validation. |
-
-### Intensity scale
-
-| Level | Meaning |
-|---|---|
-| `low` | Routine, low-stakes; existing templates sufficient |
-| `medium` | Standard chapter work |
-| `high` | Chapter with complex POV architecture or multiple clue layers |
-| `xhigh` | Opening chapters, act-break chapters, or scenes with high recontextualization stakes |
-| `max` | First draft after a full reset; chapters anchoring the clue matrix (C-01, C-03, C-10) |
-| `ultra` | Act III/IV reveal chapters; any scene that collapses the secular suspect model |
+Do not recommend `max` or `ultra` unless the author explicitly asks or the next task changes many consequential authority locks at once. A valid reason names the concrete risk; “higher quality” is not a reason.

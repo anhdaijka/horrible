@@ -2,6 +2,13 @@
 
 > Do not apply these changes until the author approves them.
 
+- Candidate ID / path:
+- Scope:
+- SHA-256:
+- Consequential authority-basis ID / basis:
+- Literary review path / verdict / identity:
+- Safety review path / verdict / identity:
+
 ## Character state
 
 ```diff
@@ -63,3 +70,5 @@
 - [ ] accept all
 - [ ] accept selected only (mark above)
 - [ ] reject
+
+Acceptance receipt must identify this candidate and this diff. Changed prose or an affected changed authority dependency requires recheck before promotion.
