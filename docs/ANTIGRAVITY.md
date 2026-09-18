@@ -1,5 +1,11 @@
 # Antigravity / Gemini Operating Guide
 
+## Mandatory entry contract
+
+Gemini CLI automatically loads the root `GEMINI.md`; in this repository that file is a fail-closed operating contract. `.gemini/settings.json` disables YOLO/always-allow behavior and installs session, turn and mutation-tool guards. A guard failure must stop the operation. Do not disable hooks, use an archive copy of `GEMINI.md`, or treat natural-language requests as a way around the matching `/hr-*` route.
+
+After any instruction/configuration change, run `npm run gemini:check`. `npm run workflow:check` includes the same integrity audit. These checks prove wiring and reset integrity, not that a model produced good literature or that an external runtime can never ignore context.
+
 ## Main role: Narrative Director
 
 The main agent should coordinate the work rather than indiscriminately write prose. It chooses relevant skills/context, runs checks, creates bounded tasks, merges reviews, and presents author decisions.

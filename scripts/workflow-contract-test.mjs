@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { spawnSync } from 'node:child_process';
 import { applyCreativityFirewall, cleanManagedSkillDirectory } from './lib/skill-install-policy.mjs';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
@@ -56,6 +57,25 @@ try {
   requireText('.agents/workflows/hr-canonize.md', ['consequential authority basis', 'no affected stale dependency']);
   requireText('prompts/session/export-manuscript.md', ['explicitly authorized typo/format correction', 'review/approval workflow']);
   requireText('evals/horrible-workflow-regressions.md', ['Failure case', 'Valid contrast case', 'Blind-review contamination', 'Creativity firewall routing', 'Generative context separation', 'Safety and ordinary nonreaction', 'Review triage', 'Discovery before convergence', 'Scene ecology versus plot delivery', 'Ghost-horror and reader-detective contract']);
+  requireText('GEMINI.md', ['Fail-closed startup', 'Mandatory routing', 'Non-negotiable phase boundaries', 'Machine-enforced guard', 'MUST NOT write directly to `chapters/`']);
+  requireText('.gemini/settings.json', ['"disableYoloMode": true', '"disableAlwaysAllow": true', 'horrible-workflow-session-guard', 'horrible-workflow-turn-guard', 'horrible-workflow-write-guard', 'horrible-workflow-replace-guard', 'horrible-workflow-shell-guard']);
+  requireText('.gemini/hooks/workflow-guard.mjs', ['auditGeminiWorkflow', 'exitCode = 2']);
+
+  const safeHook = spawnSync(process.execPath, ['.gemini/hooks/workflow-guard.mjs', 'tool'], {
+    cwd: root,
+    input: JSON.stringify({ tool_name: 'write_file', tool_input: { file_path: 'notes/safe.md' } }),
+    encoding: 'utf8'
+  });
+  if (safeHook.status !== 0) throw new Error(`Gemini guard rejected an unrelated write: ${safeHook.stderr}`);
+
+  const blockedHook = spawnSync(process.execPath, ['.gemini/hooks/workflow-guard.mjs', 'tool'], {
+    cwd: root,
+    input: JSON.stringify({ tool_name: 'write_file', tool_input: { file_path: 'revisions/chapter-work/CH-01-v5/draft.md' } }),
+    encoding: 'utf8'
+  });
+  if (blockedHook.status !== 2 || !blockedHook.stderr.includes('protected historical/reset target')) {
+    throw new Error('Gemini guard did not hard-block restoration of a deleted CH-01 artifact.');
+  }
 
   console.log(JSON.stringify({
     result: 'pass',

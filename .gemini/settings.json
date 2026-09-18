@@ -1,0 +1,68 @@
+{
+  "security": {
+    "disableYoloMode": true,
+    "disableAlwaysAllow": true,
+    "enablePermanentToolApproval": false,
+    "folderTrust": {
+      "enabled": true
+    }
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [
+          {
+            "name": "horrible-workflow-session-guard",
+            "type": "command",
+            "command": "node .gemini/hooks/workflow-guard.mjs session"
+          }
+        ]
+      }
+    ],
+    "BeforeAgent": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "name": "horrible-workflow-turn-guard",
+            "type": "command",
+            "command": "node .gemini/hooks/workflow-guard.mjs agent"
+          }
+        ]
+      }
+    ],
+    "BeforeTool": [
+      {
+        "matcher": "write_file",
+        "hooks": [
+          {
+            "name": "horrible-workflow-write-guard",
+            "type": "command",
+            "command": "node .gemini/hooks/workflow-guard.mjs tool"
+          }
+        ]
+      },
+      {
+        "matcher": "replace",
+        "hooks": [
+          {
+            "name": "horrible-workflow-replace-guard",
+            "type": "command",
+            "command": "node .gemini/hooks/workflow-guard.mjs tool"
+          }
+        ]
+      },
+      {
+        "matcher": "run_shell_command",
+        "hooks": [
+          {
+            "name": "horrible-workflow-shell-guard",
+            "type": "command",
+            "command": "node .gemini/hooks/workflow-guard.mjs tool"
+          }
+        ]
+      }
+    ]
+  }
+}

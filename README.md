@@ -68,6 +68,7 @@ Then run:
 
 ```bash
 npm run tooling:check
+npm run gemini:check
 npm run workflow:check
 npm run story:check
 npm run story:doctor

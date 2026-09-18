@@ -3,6 +3,10 @@ type: promise-registry
 story: horrible
 ---
 
-# Promises / Setups
+# Promises And Payoffs
 
-No manuscript promises have been planted yet.
+## Registry
+
+| Promise | Status | Planted | File |
+|---------|--------|---------|------|
+| *No promises yet* | | | |

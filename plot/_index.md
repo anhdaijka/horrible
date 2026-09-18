@@ -13,9 +13,9 @@ structure: serialized-volume
 ## Arcs
 
 | Name | Type | Status | File |
-|---|---|---|---|
-| Volume 1 — Những chuyện tưởng đã kết thúc | main | planned | [volume-01-nhung-chuyen-tuong-da-ket-thuc](arcs/volume-01-nhung-chuyen-tuong-da-ket-thuc.md) |
+|------|------|--------|------|
 | Case Zero — Đơn hàng cho người chưa chết | subplot | planned | [case-zero-don-hang-cho-nguoi-chua-chet](arcs/case-zero-don-hang-cho-nguoi-chua-chet.md) |
+| Volume 1 — Những chuyện tưởng đã kết thúc | main | planned | [volume-01-nhung-chuyen-tuong-da-ket-thuc](arcs/volume-01-nhung-chuyen-tuong-da-ket-thuc.md) |
 
 ## Theme Tracking
 

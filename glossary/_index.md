@@ -5,4 +5,8 @@ story: horrible
 
 # Glossary
 
-No glossary terms are canonized yet. Add terms only when on-page usage or continuity benefits from a shared definition.
+## Registry
+
+| Term | Category | File |
+|------|----------|------|
+| *No terms yet* | | |

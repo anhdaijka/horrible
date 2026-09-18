@@ -18,11 +18,25 @@ At consequential hinges, record credible competing readings when they would chan
 ## Contextual diagnosis — after first-read record
 Sources consulted; intended versus achieved effect. Preserve first-read observations. Include relationships/address and knowledge where they affect literary credibility.
 
+## Craft Invariants & Anti-Cliché Audit (Negative Craft Matrix)
+- Naming discipline (No full-name narrative spam; given name + kinship/social role only): PASS | DEFECT (quote location)
+- POV boundary & Anti-Head-Hopping (No jumping into non-anchor minds; non-anchor characters observable only): PASS | DEFECT (quote location)
+- Show Don't Tell & Anti-Jargon (No pseudo-intellectual tell, sociological jargon, or narrator spoon-feeding): PASS | DEFECT (quote location)
+- Anti-AI Ending & Anti-Purple Prose (No slow cinematic dissolve/fade-out on empty room; no inflated melodrama): PASS | DEFECT (quote location)
+
+*(Note: Any DEFECT in this audit automatically maps to a MATERIAL_DEFECT finding below and requires REVISE_REQUIRED)*
+
+## Everyday Uncanny Audit (Domestic Dread Calibration)
+- Contaminated Everyday Objects & Micro-defamiliarization (Các vật dụng thân thuộc có sai lệch vi mô gây bất an): SATISFACTORY | DEFECT (details)
+- Somatic Inertia & Living Reflexes (Quán tính cơ thể và phản xạ thói quen của người sống): SATISFACTORY | DEFECT (details)
+- Grotesque Everyday-Death Juxtaposition (Sự chênh lệch giữa dòng chảy mưu sinh và cõi âm): SATISFACTORY | DEFECT (details)
+- Domestic Dread Lingering Effect (Độ ám ảnh đời thường sau khi đọc xong, không jumpscare rẻ tiền): SATISFACTORY | DEFECT (details)
+
 ## Findings and protected strengths
 Prioritize root causes rather than cataloguing every possible improvement.
 
 - BLOCKER: foundational failure preventing a credible complete reading or intended chapter function.
-- MATERIAL_DEFECT: clear defect with a reader-facing consequence that warrants repair.
+- MATERIAL_DEFECT: clear defect with a reader-facing consequence that warrants repair (including any Negative Craft Matrix failure).
 - OPTIONAL_EXPERIMENT: preference or possible enhancement; never sufficient by itself for REVISE_REQUIRED.
 
 For each finding: location, quotation, cause, consequence and appropriate scale of repair. Then name concrete protected strengths that revision must preserve. Cross-reference safety findings where relevant. No device quotas or total score; use docs/playbooks/literary-quality.md.

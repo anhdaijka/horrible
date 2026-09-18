@@ -11,24 +11,31 @@ Contemporary Northern Vietnam. The opening story world is a fictional semi-urban
 
 ## Locations
 
-| Name | Type | File |
-|---|---|---|
-| Nhà và tiệm vàng mã của gia đình Khanh | home-and-shop | [family-votive-shop](locations/family-votive-shop.md) |
-| Ngã tư chợ quê Khanh | market-crossroads | [market-crossroads](locations/market-crossroads.md) |
-| Xóm Trại | village | [xom-trai](locations/xom-trai.md) |
-| Nhà Cường / không gian tang gia | building | [cuong-household-funeral](locations/cuong-household-funeral.md) |
-| Nhà thờ và khu nhà họ Vũ | building | [vu-ancestral-compound](locations/vu-ancestral-compound.md) |
-| Chợ Bến | town | [cho-ben](locations/cho-ben.md) |
-| Yên Phong, Bắc Ninh | region | [yen-phong-bac-ninh](locations/yen-phong-bac-ninh.md) |
+| Name | Type | Region | File |
+|------|------|--------|------|
+| Chợ Bến | Town | Bắc Ninh hư cấu | [cho-ben](locations/cho-ben.md) |
+| Nhà Cường / không gian tang gia | Building | Xóm Trại | [cuong-household-funeral](locations/cuong-household-funeral.md) |
+| Nhà và tiệm vàng mã của gia đình Khanh | Home And Shop |  | [family-votive-shop](locations/family-votive-shop.md) |
+| Ngã tư chợ quê Khanh | Market Crossroads |  | [market-crossroads](locations/market-crossroads.md) |
+| Nhà thờ và khu nhà họ Vũ | Building | Xóm Trại | [vu-ancestral-compound](locations/vu-ancestral-compound.md) |
+| Xóm Trại | Village | Chợ Bến, Bắc Ninh hư cấu | [xom-trai](locations/xom-trai.md) |
+| Yên Phong, Bắc Ninh | Region | Bắc Ninh | [yen-phong-bac-ninh](locations/yen-phong-bac-ninh.md) |
 
 ## Systems
 
-No Story Skills system entity is required for Chapter 1.
+| Name | Type | File |
+|------|------|------|
+| *No systems yet* | | |
 
 ## Factions
 
-No Story Skills faction entity is required for Chapter 1.
+| Name | Type | Status | File |
+|------|------|--------|------|
+| *No factions yet* | | | |
 
 ## Artifacts
 
-No Story Skills artifact entity is required for Chapter 1.
+| Name | Type | Status | File |
+|------|------|--------|------|
+| Custom Paper Cassette Radio | Object | uncollected | [custom-paper-cassette-radio](artifacts/custom-paper-cassette-radio.md) |
+| Votive Shop Ledger | Object | active | [votive-shop-ledger](artifacts/votive-shop-ledger.md) |

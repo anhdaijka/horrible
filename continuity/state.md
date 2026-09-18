@@ -1,17 +1,54 @@
 ---
 type: continuity-state
 story: horrible
-current-chapter: 0
-character-state: []
-object-state: []
-knowledge-state: []
+current-chapter: 1
+character-state:
+  - character: nguyen-minh-khanh
+    location: family-votive-shop
+    physical: healthy, resting after 3 years onsite in Tokyo
+    emotional: observant, disturbed by the advance votive order
+  - character: tran-thi-lan
+    location: family-votive-shop
+    physical: tired from peak Vu Lan season
+    emotional: wary of spiritual taboo regarding custom votive item
+  - character: lan-anh
+    location: xom-trai
+    physical: exhausted after sleepless night of family death
+    emotional: terrified, suspicious of pre-planned revenge, shaken by Toan's hostility
+  - character: vu-van-toan
+    location: cuong-household-funeral
+    physical: bloodshot eyes, bruised/tense
+    emotional: paranoid, defensive over Thoa's name and hearing dead father's voice
+  - character: vu-van-cuong
+    location: cuong-household-funeral
+    physical: deceased (died night of July 13 at foot of stairs)
+    emotional: deceased / lingering domestic voice presence
+object-state:
+  - artifact: custom-paper-cassette-radio
+    owner: vu-thi-thoa
+    location: family-votive-shop
+    status: active
+  - artifact: votive-shop-ledger
+    owner: tran-thi-lan
+    location: family-votive-shop
+    status: active
+knowledge-state:
+  - character: nguyen-minh-khanh
+    knows: Vũ Thị Thoa ordered custom radio on July 10 for Vũ Văn Cường pickup July 14; Cường died night of 13
+    learned-in: chapter-01
+  - character: lan-anh
+    knows: Custom paper radio ordered under Vũ Thị Thoa for father-in-law before death; Toàn panicked violently at Thoa's name
+    learned-in: chapter-01
+  - character: vu-van-toan
+    knows: Lan Anh discovered the Thoa votive order at Lan's shop; heard father's voice call his name from empty stairs
+    learned-in: chapter-01
 ---
 
 # Continuity State
 
 ## Manuscript state
 
-No chapters canonized. Pre-draft after the 2026-09-16 reset. The locks below are author-approved design, not events accepted from manuscript.
+**1 chapter canonized.** Chapter 1 (`chapters/chapter-01.md`) is canonical manuscript.
 
 ## Case Zero author locks — D-002, retaining non-conflicting D-001 facts (2026-09-17)
 
@@ -30,18 +67,10 @@ No chapters canonized. Pre-draft after the 2026-09-16 reset. The locks below are
 
 ## Information / factual gates
 
-Trùng tang is community belief, not universal metaphysical law. P1–P6 are presentation gates, not chapter numbers. Exact procedures, technical recovery and ritual details require verified sources. Planning outcomes do not update current character/object/knowledge arrays.
+Trùng tang is community belief, not universal metaphysical law. P1–P6 are presentation gates, not chapter numbers. Exact procedures, technical recovery and ritual details require verified sources.
 
 ## Current handoff
 
-Use [arc](../plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md) and [matrix](../plot/case-zero-clue-and-epistemic-matrix.md). D-004 resolves opening presentation: CH-01 morning 14 plus short domestic-call coda; CH-02 wholly mùng 10 in bà Lan limited POV with no return to day 14. Objective chronology is unchanged. There is no active CH-01 workspace, preflight, packet, prose, candidate, hash or review: every prior CH-01 preparation/draft artifact was deleted at the author's request on 2026-09-18. Do not reconstruct those attempts from chat, Git history, workflow reports or archives. The next operation is a fresh `/hr-preflight CH-01` under the current workflow. Before P6: design the mechanism/witness/sign of Cường’s final withdrawal and the paper-radio custody; legal outcomes remain unset.
-
-## Additional approved design — D-002
-
-- Thoa wants acknowledgment after vengeance; she knows the shop from local life and chooses its custom-order record, without grandfather orchestration.
-- Thủy wants material independence, has previous failed attempts to seek help/live separately, and later chooses truthful testimony. Exact episodic details require scene planning.
-- Lan Anh refuses to attest what she did not witness. Khanh preserves shop information despite relationship/work pressure; community reactions differ.
-- Cường has genuine affection for his son alongside harmful behavior. His wife / Toàn’s mother died several years before 2026 after Toàn reached adulthood; no crime/twist link, no exact name/date/cause set.
-- Cường’s calls repeat familiar control in his house/relationships; he is not omniscient. Thoa cannot rewrite everyone’s memory, records or decisions.
-- Cổn lives to lose control over the family narrative. Ending direction gives Thủy a choice over the paper radio; no forced forgiveness, no automatic confession-exorcism.
-- These are design locks, not accepted chapter events. Current-chapter and all state arrays remain empty/zero.
+Chapter 1 is canonized in `chapters/chapter-01.md`.
+Next chapter is Chapter 2 (`CH-02`), dedicated wholly to the July 10 (mùng 10) flashback in bà Lan limited POV at the votive shop per D-003 and D-004, applying the Everyday Uncanny Framework and verified folk horror materials (`research/verified/folk-horror-materials-v1.md`).
+Next operation: `/hr-preflight CH-02`.

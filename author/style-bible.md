@@ -35,6 +35,8 @@ In Khanh-close POV:
 - nearby older generation may use `anh/chị + tên`;
 - same-age peers such as Mai may use bare given names when natural.
 
+**Tuyệt đối cấm xưng hô cả họ và tên trong văn kể:** Không dùng `Nguyễn Minh Khanh`, `Vũ Văn Toàn`, `Vũ Văn Cường` trong câu trần thuật đời thường. Chỉ gọi bằng tên riêng kèm vai vế/địa vị xã hội (`Khanh`, `anh`, `Toàn`, `chị Lan Anh`). Họ tên đầy đủ chỉ xuất hiện khi nhân vật đọc văn bản, sổ sách, hóa đơn hoặc giấy tờ pháp lý. Trùng tên thì phân biệt bằng vai vế thế hệ hoặc tên đệm/nghề nghiệp (`cu Cường`, `cụ Cường già / ông Cường Đặng`).
+
 Do not use bare `Lan`, `Hùng`, `Nhân`, `Thủy` in manuscript narration merely because metadata does.
 
 This rule does not apply mechanically to YAML, registries or planning documents.

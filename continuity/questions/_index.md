@@ -3,6 +3,10 @@ type: question-registry
 story: horrible
 ---
 
-# Open Questions
+# Continuity Questions
 
-No manuscript questions have been planted yet. Development-only mysteries remain outside Story Skills until they become on-page story questions.
+## Registry
+
+| Question | Status | Introduced | File |
+|----------|--------|------------|------|
+| *No questions yet* | | | |

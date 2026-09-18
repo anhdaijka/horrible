@@ -122,9 +122,9 @@ Choose for the actual next task, not the task just completed. Use the lowest mod
 
 | Next task | Lowest sufficient default | Raise only when |
 |---|---|---|
-| Link/schema/index/format check, typo, short report | **Luna / low** | Multi-file conflict or canon judgment → Terra |
-| Registry/continuity sync, approved preflight, structured workflow change | **Terra / low–medium** | Conflicting sources or narrative consequence analysis → Sol |
-| Chapter draft from approved brief, independent literary review, multi-lock revision | **Sol / medium** | Opening/reveal has unresolved evidence or cultural gates → Sol/high or Astra/high |
-| Multi-arc design, major canon conflict, irreversible reveal architecture | **Sol / high** | Long-range coordination across many sources without a stable spec → Astra/high–xhigh |
+| Link/schema/index/format check, typo, short report | **Gemini 3.6 Flash / low** | Multi-file conflict or canon judgment → Gemini 3.7 Flash |
+| Registry/continuity sync, approved preflight, structured workflow change | **Gemini 3.7 Flash / low–medium** | Conflicting sources or narrative consequence analysis → Gemini 3.8 Flash |
+| Chapter draft from approved brief, independent literary review, multi-lock revision | **Gemini 3.8 Flash / medium** | Opening/reveal has unresolved evidence or cultural gates → Gemini 3.8 Flash / high or Gemini 3.1 Pro / high |
+| Multi-arc design, major canon conflict, irreversible reveal architecture | **Gemini 3.8 Flash / high** | Long-range coordination across many sources without a stable spec → Gemini 3.1 Pro / high–max |
 
-Do not recommend `max` or `ultra` unless the author explicitly asks or the next task changes many consequential authority locks at once. A valid reason names the concrete risk; “higher quality” is not a reason.
+Do not recommend `Gemini 3.1 Pro / max` unless the author explicitly asks or the next task changes many consequential authority locks at once. A valid reason names the concrete risk; "higher quality" is not a reason.

@@ -17,15 +17,17 @@ Không nhầm D-001/D-002 hậu reset với log lưu trữ. Generated bibles/ind
 
 ## Current manuscript state
 
-**0 chương canonized.** Không có workspace, preflight, packet, prose, candidate hay review CH-01 hiện hành. Toàn bộ các lần chuẩn bị/viết CH-01 trước đây đã bị xóa theo chỉ thị tác giả ngày 2026-09-18.
+**1 chương canonized.** Chương 1 (`chapters/chapter-01.md`, 2.678 từ, SHA-256: `76927A30AB1AAC02CBDCB21473EE735FBDC87B736A34EAF15359A8CBC33F0EA4`, basis `CH-01-B1`) đã chính thức được nghiệm thu và đưa vào canon manuscript.
 
 ## Current next action
 
-D-004 đã khóa: CH-01 mở sáng 14, kết bằng coda tiếng gọi ngắn; CH-02 là toàn bộ hồi tưởng mùng 10 trong limited POV bà Lan và không quay lại ngày 14. Timeline sự kiện không đổi.
+**CH-02 PREFLIGHT READY.** Gói tiền trạm (Preflight Packet) cho Chương 2 (`CH-02`, basis `CH-02-B1`) đã hoàn tất đầy đủ:
+- `discovery-slate.md`: Khám phá phân kỳ 3 scene engines và ma trận Neo Đời Thường Kỳ Dị (Everyday Uncanny Anchors) từ `research/verified/folk-horror-materials-v1.md`.
+- `preflight.md`: Khóa thiết kế basis `CH-02-B1`, trạng thái READY.
+- `writing-brief.md`, `scene-ecology.md`, `character-context.md`: Packet tạo sinh cho Writer (bám sát Limited POV bà Lan mùng 10, yêu cầu đài cassette giấy C-10, sổ đơn C-01, không head-hopping, không hồi kết về sáng 14).
+- `qa-card.md`: Thẻ kiểm tra độc lập sau bản thảo.
 
-**PRE_CHAPTER_RESET.** Chưa viết CH-01 hoặc CH-02. Không candidate, hash, review hay handoff cũ nào còn thẩm quyền. Không tái dựng prose/packet cũ từ chat, Git history, báo cáo workflow hoặc bản lưu; chỉ tác giả mới có thể yêu cầu phục hồi riêng.
-
-Bước kế: `/hr-preflight CH-01` từ đầu bằng Discovery-Led Preflight hiện hành. Preflight phải reasoning lại scene engine, đời sống đang diễn ra, trải nghiệm kinh dị và trường suy luận của độc giả; chỉ mang các khóa canon/thiết kế còn hiệu lực vào packet mới. Nếu còn lựa chọn hệ quả lớn chưa được tác giả quyết định, phải mở design dialogue và chờ.
+Bước kế: `/hr-write CH-02` — Khởi động quá trình tạo sinh bản thảo Chương 2 cho Writer theo đúng quy trình phân tầng.
 
 Workflow hiện có Creativity Firewall và Discovery-Led Preflight: upstream craft skills chỉ chạy khi được gọi đích danh; discovery phân kỳ tách khỏi generative context; generative context tách khỏi QA; scene ecology mở đời sống/kinh dị/manh mối mà không thành beat sheet; độc giả là trục suy luận chính, Khanh không thành điều tra viên toàn năng. Approval tách khỏi readiness, locator khỏi handoff, prose hash khỏi source freshness và structural checks khỏi literary evaluation. Không quota engine, subplot, clue, câu hỏi, thoại, hidden agenda, phản ứng cơ thể hoặc chi tiết mới.
 
