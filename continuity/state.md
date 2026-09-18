@@ -1,12 +1,12 @@
 ---
 type: continuity-state
 story: horrible
-current-chapter: 1
+current-chapter: 2
 character-state:
   - character: nguyen-minh-khanh
     location: family-votive-shop
     physical: healthy, resting after 3 years onsite in Tokyo
-    emotional: observant, disturbed by the advance votive order
+    emotional: observant, deeply disturbed by the CCTV footage of Thoa looking directly into the camera across time
   - character: tran-thi-lan
     location: family-votive-shop
     physical: tired from peak Vu Lan season
@@ -34,8 +34,8 @@ object-state:
     status: active
 knowledge-state:
   - character: nguyen-minh-khanh
-    knows: Vũ Thị Thoa ordered custom radio on July 10 for Vũ Văn Cường pickup July 14; Cường died night of 13
-    learned-in: chapter-01
+    knows: Vũ Thị Thoa ordered custom radio on July 10 for Vũ Văn Cường pickup July 14; Cường died night of 13; CCTV footage (10/07/2026 09:24:18) shows Thoa's facial recognition glitch and unblinking stare into the lens
+    learned-in: chapter-02
   - character: lan-anh
     knows: Custom paper radio ordered under Vũ Thị Thoa for father-in-law before death; Toàn panicked violently at Thoa's name
     learned-in: chapter-01
@@ -48,7 +48,7 @@ knowledge-state:
 
 ## Manuscript state
 
-**1 chapter canonized.** Chapter 1 (`chapters/chapter-01.md`) is canonical manuscript.
+**2 chapters canonized.** Chapters 1 & 2 (`chapters/chapter-01.md`, `chapters/chapter-02.md`, total 7,393 words) are canonical manuscript.
 
 ## Case Zero author locks — D-002, retaining non-conflicting D-001 facts (2026-09-17)
 
@@ -71,6 +71,6 @@ Trùng tang is community belief, not universal metaphysical law. P1–P6 are pre
 
 ## Current handoff
 
-Chapter 1 is canonized in `chapters/chapter-01.md`.
-Next chapter is Chapter 2 (`CH-02`), dedicated wholly to the July 10 (mùng 10) flashback in bà Lan limited POV at the votive shop per D-003 and D-004, applying the Everyday Uncanny Framework and verified folk horror materials (`research/verified/folk-horror-materials-v1.md`).
-Next operation: `/hr-preflight CH-02`.
+Chapters 1 & 2 are canonized.
+Next chapter is Chapter 3 (`CH-03`).
+Next operation: `/hr-preflight CH-03`.

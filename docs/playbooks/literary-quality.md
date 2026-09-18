@@ -85,6 +85,20 @@ Mọi vai trò (Preflight, Writer, Reviewer) phải quán triệt và khai thác
 
 Kho chất liệu dân gian thực chứng chi tiết (kiêng cấm vẽ mắt hình nhân mã, tục che gương soi bằng vải trắng, bát cơm quả trứng đũa bông xơ tre, nồi nước xông lá bưởi gừng bồ kết, nỗi sợ trùng tang liên táng, tiếng chó sủa cắn ma đêm khuya, bùn lầy đầm sen tàn) được chuẩn hóa tại [folk-horror-materials-v1.md](../../research/verified/folk-horror-materials-v1.md). Mọi vai trò sáng tác và thẩm định phải sử dụng tài liệu này làm nguồn dữ liệu thực chứng bắt buộc.
 
+## Kho Thủ Pháp Kinh Dị Tâm Lý - Điện Ảnh Nâng Cao (Advanced Horror Craft Matrix)
+
+Để hiện thực hóa Khung Hiện Thực Kỳ Dị thành những trang văn có sức lay động và ám ảnh tột độ, tác phẩm trang bị một hệ thống gồm **14 thủ pháp kinh dị tâm lý, điện ảnh và văn học đỉnh cao** được chuẩn hóa tại [advanced-horror-craft-lexicon.md](advanced-horror-craft-lexicon.md), bao gồm 5 cụm chuyên sâu:
+
+1. **Thao túng góc nhìn & Tự sự:** *Perceptual Shift / Pull-Back Reveal* (ảo ảnh chuyển dịch góc nhìn & kéo lùi ống kính), *Epistemic Dissociation* (hố sâu nhận thức & nghi hoặc chính mình), *Dramatic Asymmetry* (bất đối xứng nhận thức / độc giả đi trước nhân vật), *Decentered Observation* (quan sát lệch tâm / ma quỷ ở rìa khung hình).
+2. **Lạ hóa không gian & Ngưỡng cửa:** *Spatial Dissonance* (bất thường hình học & sai lệch kích thước), *Liminal Entrapment* (bẫy ngưỡng cửa / bậu cửa, cầu thang, chạng vạng), *Negative Space* (khoảng chân không tự sự & sự im lặng có chủ đích).
+3. **Âm học tâm lý & Giác quan:** *Acoustic Evaporation* (hố hút âm thanh & sự im bặt đột ngột), *Auditory Phantom* (dị tượng âm thanh chọn lọc & nhịp cơ khí), *Somatic Contamination* (ô nhiễm xúc giác & lạnh buốt cục bộ).
+4. **Dị tượng kỹ thuật số & Thời đại:** *Digital Glitch & Machine Dread* (lỗi nhận diện máy móc / khung tracking giật lag), *Temporal Bleed* (chảy máu thời gian & lệch pha kỹ thuật số).
+5. **Bẫy xã hội & Quán tính dân gian:** *Verbal Inertia* (quán tính khẩu ngữ & lỡ lời chiêu vong), *Collective Gaslighting* (âm mưu im lặng & nỗi sợ gia tộc).
+
+**Nguyên tắc vận hành tự động trong workflow:**
+- Trong giai đoạn Tiền trạm (`Preflight` / `discovery-slate.md`), Agent tự động đối soát cẩm nang để lựa chọn **1–2 thủ pháp chủ đạo** phù hợp nhất làm động cơ phân cảnh.
+- Tuyệt đối cấm nhồi nhét theo chỉ tiêu (quota). Thủ pháp chỉ là phương tiện để bộc lộ sự thật tâm lý và bi kịch con người, không biến câu chuyện thành màn phô diễn kỹ thuật hay jumpscare phim hạng B.
+
 ## Craft advice and authority
 
-Established facts and explicit current author choices remain binding. Techniques in style guides or generic skills are tools, not required performances. Complete sentences, direct feelings, long speech, kindness and ordinary talk are allowed. No universal requirement for fragments, hidden agendas, power shifts, body beats or double-duty details. Vi phạm các mục trong Negative Craft Matrix cấu thành **MATERIAL_DEFECT** bắt buộc sửa chữa. Thiếu vắng hoàn toàn các neo đời thường kỳ dị (Everyday Uncanny Anchors) khiến cảnh kinh dị trở nên trơ khấc, sáo rỗng hoặc đậm mùi kịch bản phim phương Tây cấu thành khuyết tật văn học cần bổ sung.
+Established facts and explicit current author choices remain binding. Techniques in style guides or generic skills are tools, not required performances. Complete sentences, direct feelings, long speech, kindness and ordinary talk are allowed. No universal requirement for fragments, hidden agendas, power shifts, body beats or double-duty details. Vi phạm các mục trong Negative Craft Matrix cấu thành **MATERIAL_DEFECT** bắt buộc sửa chữa. Thiếu vắng hoàn toàn các neo đời thường kỳ dị (Everyday Uncanny Anchors) hoặc lạm dụng thủ pháp kinh dị thành jumpscare giật gân rẻ tiền cấu thành khuyết tật văn học cần chẩn đoán và điều chỉnh.

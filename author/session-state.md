@@ -17,17 +17,16 @@ Không nhầm D-001/D-002 hậu reset với log lưu trữ. Generated bibles/ind
 
 ## Current manuscript state
 
-**1 chương canonized.** Chương 1 (`chapters/chapter-01.md`, 2.678 từ, SHA-256: `76927A30AB1AAC02CBDCB21473EE735FBDC87B736A34EAF15359A8CBC33F0EA4`, basis `CH-01-B1`) đã chính thức được nghiệm thu và đưa vào canon manuscript.
+**2 chương canonized.**
+- Chương 1 (`chapters/chapter-01.md`, 3.898 từ, SHA-256: `76927A30AB1AAC02CBDCB21473EE735FBDC87B736A34EAF15359A8CBC33F0EA4`, basis `CH-01-B1`).
+- Chương 2 (`chapters/chapter-02.md`, 3.495 từ, SHA-256: `28A651FB7C5C413ED8CE34FB3AEF35B0176FFFD28C2E0E0E6EE65FD87BCB2E24`, basis `CH-02-B2`).
+Tổng dung lượng bản thảo: 7.393 từ.
 
 ## Current next action
 
-**CH-02 PREFLIGHT READY.** Gói tiền trạm (Preflight Packet) cho Chương 2 (`CH-02`, basis `CH-02-B1`) đã hoàn tất đầy đủ:
-- `discovery-slate.md`: Khám phá phân kỳ 3 scene engines và ma trận Neo Đời Thường Kỳ Dị (Everyday Uncanny Anchors) từ `research/verified/folk-horror-materials-v1.md`.
-- `preflight.md`: Khóa thiết kế basis `CH-02-B1`, trạng thái READY.
-- `writing-brief.md`, `scene-ecology.md`, `character-context.md`: Packet tạo sinh cho Writer (bám sát Limited POV bà Lan mùng 10, yêu cầu đài cassette giấy C-10, sổ đơn C-01, không head-hopping, không hồi kết về sáng 14).
-- `qa-card.md`: Thẻ kiểm tra độc lập sau bản thảo.
+**CH-02 CANONIZED.** Chương 2 đã chính thức được nghiệm thu và sáp nhập vào canon bản thảo sau khi đạt đủ Literary PASS, Safety PASS và nghiệm thu tác giả.
 
-Bước kế: `/hr-write CH-02` — Khởi động quá trình tạo sinh bản thảo Chương 2 cho Writer theo đúng quy trình phân tầng.
+Bước kế: `/hr-preflight CH-03` — Khởi động quy trình Preflight cho Chương 3.
 
 Workflow hiện có Creativity Firewall và Discovery-Led Preflight: upstream craft skills chỉ chạy khi được gọi đích danh; discovery phân kỳ tách khỏi generative context; generative context tách khỏi QA; scene ecology mở đời sống/kinh dị/manh mối mà không thành beat sheet; độc giả là trục suy luận chính, Khanh không thành điều tra viên toàn năng. Approval tách khỏi readiness, locator khỏi handoff, prose hash khỏi source freshness và structural checks khỏi literary evaluation. Không quota engine, subplot, clue, câu hỏi, thoại, hidden agenda, phản ứng cơ thể hoặc chi tiết mới.
 

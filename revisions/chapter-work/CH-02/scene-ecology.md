@@ -12,8 +12,9 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
 
 ## Independent wants and pressures
 
-- **Bà Lan (55 tuổi):** Muốn nhanh chóng giải quyết mớ nan tre và hồ dán trước khi hồ bị vữa/chua quá; muốn nhận thêm các đơn hàng đặt riêng có giá công cao để bù chi phí mùa Rằm; có thói quen hỏi cặn kẽ quan hệ họ hàng xóm Trại để tránh giao nhầm hàng.
-- **Người phụ nữ đặt hàng (Vũ Thị Thoa):** Muốn đặt làm đúng mẫu chiếc đài cassette kỷ vật xưa cho Vũ Văn Cường với chi tiết vạch đỏ AM chính xác; muốn để lại đúng họ tên thật của mình ("Vũ Thị Thoa") trong sổ đơn; hẹn nhận hàng vào đúng sáng 14; trả tiền cọc sòng phẳng.
+- **Bà Lan (55 tuổi):** Muốn nhanh chóng giải quyết mớ nan tre và hồ dán trước khi hồ bị chua quá; nhận thêm đơn hàng đặt riêng có giá công cao; xác minh cặn kẽ quan hệ họ hàng xóm Trại để tránh giao nhầm hàng.
+- **Người phụ nữ đặt hàng (Vũ Thị Thoa):** Muốn đặt làm đúng mẫu chiếc đài cassette kỷ vật xưa cho Vũ Văn Cường với chi tiết vạch đỏ AM chính xác; để lại đúng họ tên "Vũ Thị Thoa" trong sổ đơn; hẹn nhận hàng sáng 14; trả tiền cọc phẳng phiu.
+- **Khanh (Sáng 14 - Người quan sát khung):** Tò mò muốn đối chiếu người phụ nữ tên Thoa trong sổ đơn với camera an ninh sau phản ứng hoảng sợ của Lan Anh; bất ngờ bị đòn giáng tâm lý kinh hoàng từ ánh mắt nhìn thẳng qua camera.
 
 ## Available collisions & Craft interactions
 
@@ -29,18 +30,23 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
    - Thoảng qua mùi bùn ao ngai ngái quyện lá sen khô giữa không khí đặc quánh mùi hồ nếp chua và phẩm nhuộm.
 5. **Ghi sổ & Khách rời đi:**
    - Bà Lan mở cuốn sổ đơn mùng 10, cầm bút ghi lại họ tên người đặt "Vũ Thị Thoa", người nhận "Vũ Văn Cường", hẹn lấy "sáng 14" (C-01).
-   - Khách chào khẽ rồi quay bước ra ngõ nắng gắt.
-   - Bà Lan nhìn theo, thoáng thấy bóng lưng mảnh khảnh và gờ má cao quen thuộc gợi nhớ dòng họ Vũ xóm Trại, nhưng gạt đi để tiếp tục công việc nhào hồ vót nan.
+   - Bà Lan cúi xuống kéo ngăn kéo cất tiền cọc.
+6. **Cú bẻ cua chuyển dịch góc nhìn & Kéo lùi ống kính (Pull-Back Reveal):**
+   - Âm thanh chợ búa nhỏ dần; góc nhìn từ từ nâng cao lên mắt camera góc rộng trên xà nhà.
+   - Người phụ nữ khựng lại ở bậu cửa 4 giây.
+   - Ô vuông xanh nhận diện khuôn mặt giật lag liên tục.
+   - Người phụ nữ từ từ ngửa mặt lên nhìn trân trân không chớp mắt vào ống kính camera.
+   - Kéo lùi ống kính hé lộ Khanh đang ngồi nhìn trân trân vào màn hình điện thoại sáng 14 giữa tiệm mã, nhận ra ánh mắt ấy đang nhìn thẳng vào mình.
 
 ## Horror intrusion (Everyday Uncanny Anchors)
 
-- **Chiếc đài giấy cổ giữa thời hiện đại:** Sự lạc lõng đến rợn người của một kỷ vật 30 năm trước được đặt làm riêng cho một người đang còn sống.
-- **Hàng hình nhân không vẽ mắt:** Sự bất động của người phụ nữ đứng cạnh những gương mặt giấy bồi trắng toát không có con ngươi tạo nên ấn tượng thị giác ma mị (Uncanny Valley).
-- **Xúc giác & Khứu giác bất thường:** Bàn tay lạnh buốt và mùi bùn ao sen ngai ngái xuất hiện giữa trưa hè nắng gắt Bắc Bộ.
-- **Sự trớ trêu của thời gian:** Hẹn lấy hàng vào "sáng 14" — thời điểm mà chỉ vài giờ sau, Cường sẽ nằm chết dưới chân cầu thang.
+- **Chiếc đài giấy cổ giữa thời hiện đại:** Sự lạc lõng đến rợn người của một kỷ vật 30 năm trước.
+- **Hàng hình nhân không vẽ mắt:** Sự bất động của người phụ nữ đứng cạnh những gương mặt giấy bồi trắng toát không có con ngươi (Uncanny Valley).
+- **Xúc giác & Khứu giác bất thường:** Bàn tay lạnh buốt và mùi bùn ao sen ngai ngái giữa trưa hè nắng gắt.
+- **Cái nhìn xuyên thấu qua màn hình kỹ thuật số:** Ô vuông nhận diện khuôn mặt giật lag và đôi mắt phẳng lặng nhìn xuyên qua 4 ngày thời gian từ mùng 10 sang ngày 14.
 
 ## Reader-detective affordances
 
-- C-01: Cuốn sổ đơn mùng 10 được bà Lan ghi nhận chân thực.
-- C-10: Nguồn gốc và yêu cầu chế tác chiếc đài cassette giấy thủ công.
-- Dấu hiệu nhận dạng họ Vũ và sự thuận tay trái tự nhiên của người khách.
+- C-01: Cuốn sổ đơn mùng 10.
+- C-10: Chiếc đài cassette giấy thủ công có vạch đỏ AM.
+- Dữ liệu CCTV `10/07/2026 09:24:18`.

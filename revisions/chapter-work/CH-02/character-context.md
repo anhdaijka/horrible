@@ -16,16 +16,19 @@ Writer-safe selection; no future solution.
   - Thuận tay trái tự nhiên: dùng tay trái chỉ dẫn chi tiết, vẽ phác hoặc đưa tiền cọc một cách thuần thục.
   - Giọng nói: nhẹ, trong trẻo, điềm tĩnh, phát âm chuẩn giọng Bắc Bộ xưa.
   - Tự xưng là `Vũ Thị Thoa`, gọi bà Lan là `bác` / `cô`, xưng `cháu`.
-  - Không có bất kỳ dòng mô tả suy nghĩ nội tâm hay độc thoại nào; toàn bộ diện mạo và hành vi được quan sát qua góc nhìn của bà Lan.
+  - Không có bất kỳ dòng mô tả suy nghĩ nội tâm hay độc thoại nào; toàn bộ diện mạo và hành vi được quan sát qua góc nhìn của bà Lan và ống kính camera.
+- **Nguyễn Minh Khanh (27 tuổi — Xuất hiện ở cú kéo lùi góc nhìn cuối chương):**
+  - Kỹ sư IT, ngồi sau quầy thu ngân sáng 14, tò mò tua lại video camera giám sát mùng 10.
+  - Bị đòn tâm lý rợn ngợp khi nhận ra ánh mắt trong đoạn video đang nhìn thẳng vào mắt mình qua màn hình điện thoại.
+  - Ngôi thứ ba trần thuật: `Khanh`, `anh`.
 
 ## People beyond the plot
 
-- **Bà Lan:** Nhịp sống của một phụ nữ trung niên gắn liền với tiệm mã gia truyền, bận rộn giữa mùa Rằm tháng Bảy, lo lắng về độ chua của hồ nếp, giá nguyên liệu nan tre và việc hoàn thành các đơn hàng thủ công đúng hẹn.
-- **Người phụ nữ (Thoa):** Sự hiện diện tĩnh lặng, bình thản nhưng mang theo ký ức sâu sắc về một kỷ vật đã mất và quyết tâm để lại tên mình trên trang sổ của cõi dương.
+- **Bà Lan:** Nhịp sống gắn liền với tiệm mã gia truyền, bận rộn giữa mùa Rằm, lo lắng về hồ nếp, nan tre và đơn hàng thủ công.
+- **Thoa:** Sự hiện diện tĩnh lặng, bình thản nhưng mang theo ký ức sâu sắc và quyết tâm để lại tên mình trên trang sổ của cõi dương và mắt camera.
+- **Khanh:** Thói quen kỹ thuật duy lý bị lay chuyển dữ dội bởi một hiện tượng siêu nhiên phi logic.
 
 ## Knowledge and viewpoint
 
-- **POV Trần Thị Lan (Limited third-person):**
-  - Giới hạn hoàn toàn trong nhận thức và cảm xúc của sáng mùng 10.
-  - Bà không hề biết trước biến cố đêm 13 tại xóm Trại.
-  - Tiếp nhận mọi chi tiết (chiếc đài, vạch đỏ AM, tên người nhận, tên người đặt, tiền cọc buốt lạnh) như một phần của cuộc sống buôn bán thường nhật có đôi nét lạ lùng.
+- **Ảo ảnh POV (90% đầu chương):** POV giới hạn của bà Lan sáng mùng 10.
+- **Cú Reveal (10% cuối chương):** POV Khanh sáng 14 nhìn vào màn hình điện thoại, tạo sự kết nối lạnh gáy giữa hai mốc thời gian.
