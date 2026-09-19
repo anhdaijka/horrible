@@ -25,8 +25,8 @@ Spoiler-safe character affordance. Carries relationships, ongoing lives and agen
 - **Tâm lý & Giọng kể truyền khẩu (Oral Horror):**
   - Tuy là thợ thuyền to khỏe, vui vẻ nhưng Thắng rất nhát ma và sợ các kiêng kỵ tâm linh họ Vũ.
   - Cảm thấy rợn tóc gáy, gai lạnh sống lưng khi bước vào ngõ xóm Trại; tin vào lời đồn dân gian về "oan hồn đầm sen" ba mươi năm trước bắt người đòi mạng.
-  - Thu lượm được những lời xì xào của người lớn trong họ sau đêm canh xác (tiếng gọi người sống *"Toàn đâu!"*, tiếng bước chân kẽo kẹt, dấu chân bùn rỉ ra từ giường xác) và thì thào kể lại cho bạn nghe như một trải nghiệm rùng mình có thật.
-  - Để ý thấy sự biến đổi đáng sợ của Toàn: Toàn mắt đỏ ngầu như ma ám, cài cúc áo kín mít lên tận cổ họng giữa trưa hè gần 40 độ; Thắng chỉ muốn xong việc sớm để chuồn khỏi đám tang.
+  - Thu lượm được những lời xì xào của người làng và thợ phụ đám tang (hơi lạnh hầm đá giữa trưa hè, nén nhang trên bát cơm quả trứng đũa bông tự tắt ngấm, góc vải che gương tủ buồng quàn bị tuột để lộ mắt trừng trừng, tiếng chó quanh xóm hú cắn ma về phía đầm sen tàn, các cụ họ Vũ hoảng sợ Trùng Tang) và thì thào kể lại cho Khanh nghe như một trải nghiệm rùng mình có thật.
+  - Để ý thấy sự biến đổi đáng sợ của Toàn: Toàn mắt đỏ ngầu vằn máu, tay run giật, cài cúc áo sơ mi kín mít lên tận cổ họng giữa trưa hè gần 40 độ, ai chào cũng giật thót mình như người bị ma ám; Thắng chỉ muốn xong việc sớm để chuồn khỏi đám tang.
 - **Mục tiêu trong cảnh:** Giao đồ tang và bàn ghế cho xóm Trại cho tròn việc họ hàng; rủ Khanh đi cùng để xong việc đi ăn phở; chia sẻ nỗi sợ hãi với bạn nối khố; bị các bác trong họ giữ lại đun nước tiếp khách nên nhờ Khanh cời lò củi phụ để sớm thoát thân.
 
 ## 4. Đào Văn Sang (45 tuổi, "Cò đất" Sang)

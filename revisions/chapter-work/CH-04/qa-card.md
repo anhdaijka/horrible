@@ -26,7 +26,7 @@ Open only after a complete generative draft exists. This file is not part of the
 ## Horror and reader-detective contract
 
 - **Ma trận đời thường kỳ dị & Kinh dị truyền khẩu (Everyday Uncanny & Oral Dread):**
-  - Lời kể rỉ tai của Thắng bên chén nước chè / điếu thuốc Thăng Long mang lại cảm giác rợn gáy nguyên thủy (sự câm bặt của làng quê, tiếng gọi ma quái, vệt nước bùn tõe ngón từ giường quàn).
+  - Lời kể rỉ tai của Thắng bên chén nước chè / điếu thuốc Thăng Long mang lại cảm giác rợn gáy nguyên thủy (hơi lạnh buốt hầm đá giữa trưa hè, nén nhang trên bát cơm quả trứng đũa bông tự tắt ngấm, góc vải che gương bị tuột, tiếng chó hú "cắn ma" về phía đầm sen tàn, các bô lão hoảng sợ Trùng Tang). Tuyệt đối không lặp lại tiếng gọi "Toàn đâu" (vốn là trải nghiệm riêng tư của Toàn/Lan Anh ở CH-03).
   - Sự đối lập gai góc giữa hội hè Vu Lan rộn rã ngoài ngã tư và không khí tang ma u uất, tanh nồng mùi bùn đầm sen ở xóm Trại.
   - Dị tượng ban ngày (*Daylight Horror*): Vệt bùn khô hình bàn tay cào trượt trên kính chắn gió xe ben của Toàn (*Decentered Observation*); luồng gió lạnh từ đầm sen làm tro than bay mù mịt và ảo ảnh bóng ma ngoẹo đầu thoáng hiện trên mảnh gương vỡ góc rào.
 - **Cung cấp chứng cứ công bằng cho độc giả:**

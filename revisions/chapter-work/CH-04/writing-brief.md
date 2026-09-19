@@ -22,11 +22,13 @@ Scene ecology: scene-ecology.md
    - Mai (Hoàng Ngọc Mai) điều phối các xe tải chở rau củ quả, nói chuyện oang oang qua điện thoại, trêu chọc Khanh về chuyện "kỹ sư Tokyo về bán mã"; quan hệ thuần túy bằng hữu thân thiết từ nhỏ, không lãng mạn.
    - Thắng (Lê Văn Thắng) ghé tiệm lấy thêm đồ tang cho họ hàng xóm Trại, rủ Khanh ôm bọc đồ tang ngồi sau xe máy chạy sang quẳng xuống rồi hai đứa đi ăn phở; khi sang tới nơi, Thắng bị họ hàng giữ lại phụ đun nước tiếp khách nên kéo Khanh nán lại giúp một tay cời lò củi sân sau.
 3. **Kinh dị truyền khẩu từ miệng Thắng (Oral Horror & Folk Dread):**
-   - Trong lúc ngồi uống chén nước chè hoặc ngồi ghé bậc thềm sau bếp hút điếu thuốc Thăng Long đợi nước sôi, Thắng hạ giọng kể cho Khanh nghe những dị tượng kinh hoàng người trong họ xì xào từ đêm canh xác hôm qua:
-     - Hiện tượng câm bặt âm thanh côn trùng, chó sủa giữa đêm (Acoustic Evaporation).
-     - Bậc thang gỗ lim kẽo kẹt rên rỉ và tiếng ho khàn đục sặc bọt máu của ông Cường quát *"Toàn đâu!"* vang dội giữa đêm.
-     - Vệt nước bùn rỉ ra từ mép giường quàn in dấu chân trần tõe ngón bốc mùi bùn đầm sen tanh tưởi mà gia đình vội lau chùi giấu khách viếng.
-   - **Tâm lý & suy nghĩ riêng của Thắng:** Dù là thợ thuyền khỏe mạnh, Thắng thực sự khiếp vía: cảm giác gai lạnh sau gáy khi bước vào ngõ, nhắc lại tin đồn ba mươi năm trước từng có người mất tích chết oan ở đầm sen, và hoảng hốt nhận xét về vẻ bất thường của Toàn: *"Mày nhìn thằng Toàn sáng nay mà xem, mắt đỏ ngầu vằn máu, giữa trưa hè nực nội gần bốn mươi độ mà cài cúc áo sơ mi kín mít lên tận cổ họng như người bị ma ám!"*.
+   - Trong lúc ngồi uống chén nước chè hoặc ngồi ghé bậc thềm sau bếp hút điếu thuốc Thăng Long đợi nước sôi, Thắng hạ giọng kể cho Khanh nghe những dị tượng rợn người người làng và thợ phụ kháo nhau:
+     - Hơi lạnh buốt như hầm đá bốc ra từ buồng quàn giữa trưa hè nực nội và mùi tanh lợ của bùn đầm sen mà nồi nước xông lá bưởi bồ kết đun sôi sùng sục ngoài hiên không át nổi.
+     - Bát cơm quả trứng cắm chiếc đũa bông đầu giường thi thể có nén nhang cứ cháy dở một nửa là tự tắt ngúm, bật lửa châm lại bị gió quẩn thổi phụt dù phòng kín gió; tàn nhang cong quắp kỳ dị.
+     - Tấm vải trắng phủ gương tủ áo trong buồng quàn (theo tục kiêng người chết soi gương) sáng nay tự tuột rơi một góc, người vào dọn nhìn thấy ảo ảnh mắt người chết trừng trừng trong kính đen ngòm.
+     - Đàn chó quanh xóm Trại đồng loạt ngửa mõm lên trời rú từng chặp dài não nề hướng về phía đầm sen tàn ("chó cắn ma").
+     - Nỗi sợ Trùng Tang: Cụ Cổn và các bô lão họ Vũ ngồi chụm đầu bấm độn từ mờ sáng vì Cường chết vào giờ Hợi (giờ Trùng), người trong họ xì xào bàn chuyện đi chùa Hàm Long gửi vong nhốt trùng.
+   - **Tâm lý & suy nghĩ riêng của Thắng:** Dù là thợ thuyền khỏe mạnh, Thắng thực sự khiếp vía: gai ốc nổi khắp cánh tay, cảm giác gai lạnh sau gáy khi bước vào ngõ, nhắc lại tin đồn "đất nghịch" ba mươi năm trước từng có cô gái trẻ mất tích chết oan ở đầm sen, và hoảng hốt nhận xét về vẻ ma ám của Toàn: *"Mày nhìn thằng Toàn sáng nay mà xem: tay thì giật giật, mắt đỏ ngầu vằn máu, giữa trưa hè nực nội gần bốn mươi độ mà cài cúc áo sơ mi kín mít lên tận cổ họng, ai chào cũng giật thót mình như kẻ bị ma ám!"*.
 4. **Kịch tính thế tục — Cò Sang siết nợ (C-06):**
    - Đào Văn Sang xuất hiện tại đám tang với vẻ ngoài bảnh bao nhưng lộ rõ bản chất kền kền săn mồi.
    - Sang chặn Toàn ở lối ngõ sau giáp bờ đầm sen, gằn giọng đòi các khoản nợ xe ben quá hạn và ép Toàn thế chấp mảnh đất đầm sen trước khi dự án mở đường liên xã công bố quy hoạch. Toàn hoảng loạn, áo vẫn cài kín mít che cổ, run rẩy tìm cách thoái thác.

@@ -28,11 +28,13 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
    - Mai trêu Khanh về sự lóng ngóng của "kỹ sư onsite Tokyo" khi đếm tiền mã; Khanh cằn nhằn đáp lại; sự gắn kết tự nhiên của tình bạn thiếu thời.
    - Thắng ghé tiệm lấy đồ tang khẩn cấp cho họ hàng xóm Trại, rủ Khanh ôm bọc đồ ngồi sau xe máy chạy sang quẳng xuống rồi đi ăn phở.
 2. **Uống nước chè / hút thuốc & Câu chuyện kinh dị truyền khẩu của Thắng (Oral Horror):**
-   - Đến đầu ngõ xóm Trại hoặc khi ngồi ghé bậc thềm sau bếp hút điếu thuốc lá Thăng Long trong lúc đợi nước sôi, Thắng kéo Khanh lại thì thầm:
-     - Kể về sự im bặt quái đản của cả làng nửa đêm hôm trước (không tiếng chó sủa, không tiếng ễnh ương).
-     - Tiếng bậc thang gỗ lim kẽo kẹt rên rỉ và tiếng ho sặc bọt máu của ông Cường quát giật giọng *"Toàn đâu!"* dội xuống buồng ngủ giữa đêm.
-     - Vệt nước bùn rỉ ra từ mép giường quàn xác in hằn dấu chân trần tõe ngón nồng nặc mùi bùn đầm sen tanh tưởi mà gia đình vội lau chùi giấu khách viếng.
-   - **Tâm lý và suy nghĩ của Thắng:** Thắng rùng mình bảo cứ bước chân vào ngõ xóm Trại là thấy lạnh toát sau gáy; nhắc lại chuyện đầm sen ba mươi năm trước từng có oan hồn chết đuối; chỉ trỏ về phía Toàn đang ngồi thu lu ở bậu cửa: *"Mày nhìn thằng Toàn sáng nay mà xem, mắt đỏ ngầu vằn máu, giữa trưa hè nực nội gần bốn mươi độ mà cài cúc áo sơ mi kín mít lên tận cổ họng như người bị ma ám!"*.
+   - Đến đầu ngõ xóm Trại hoặc khi ngồi ghé bậc thềm sau bếp hút điếu thuốc lá Thăng Long trong lúc đợi nước sôi, Thắng kéo Khanh lại thì thầm những điều mắt thấy tai nghe rợn tóc gáy:
+     - Hơi lạnh buốt thấu xương như hầm đá phả ra từ buồng quàn giữa trưa hè nực nội và mùi tanh lợ của bùn đầm sen mà nồi nước xông lá bưởi bồ kết ngoài hiên không át nổi.
+     - Bát cơm quả trứng cắm chiếc đũa bông đầu giường thi thể có nén nhang thắp lên cứ cháy dở một nửa là tự tắt ngúm, bật lửa châm lại bị gió quẩn thổi phụt dù phòng kín gió; tàn nhang cong quắp kỳ dị.
+     - Tấm vải trắng phủ gương tủ áo trong buồng quàn (theo tục kiêng người chết soi gương) sáng nay tự tuột rơi một góc, người vào dọn nhìn thấy ảo ảnh mắt người chết trừng trừng trong kính đen ngòm.
+     - Đàn chó quanh xóm Trại nửa đêm đồng loạt ngửa mõm lên trời rú từng chặp dài não nề hướng về phía đầm sen tàn ("chó cắn ma").
+     - Nỗi sợ Trùng Tang: Cụ Cổn và các bô lão họ Vũ ngồi chụm đầu bấm độn từ mờ sáng vì Cường chết vào giờ Hợi (giờ Trùng), người trong họ xì xào bàn chuyện đi chùa Hàm Long gửi vong nhốt trùng.
+   - **Tâm lý và suy nghĩ của Thắng:** Thắng rùng mình bảo cứ bước chân vào ngõ xóm Trại là thấy gai ốc nổi dọc cánh tay, gáy lạnh toát; nhắc lại chuyện đất nghịch ở đầm sen ba mươi năm trước từng có cô gái trẻ chết oan không tìm thấy xác; chỉ trỏ về phía Toàn đang ngồi thu lu ở bậu cửa: *"Mày nhìn thằng Toàn sáng nay mà xem: tay thì giật giật, hai mắt đỏ ngầu vằn máu, giữa trưa hè nực nội gần bốn mươi độ mà cài cúc áo sơ mi kín mít lên tận cổ họng, ai chào cũng giật thót mình như người bị ma ám!"*.
 3. **Không khí tang gia xóm Trại & Chờ đợi ở sân sau:**
    - Thắng dỡ đồ xuống sân thì bị các bác trong họ kéo lại sai việc đun nước sôi tiếp khách viếng; Thắng ái ngại bảo Khanh chờ năm mười phút ở sân sau giáp bếp lò củi và nhờ Khanh phụ cời lò một tay.
    - Khanh đứng ở góc sân sau, quan sát sự ngột ngạt và vẻ hoảng loạn phòng vệ của vợ chồng Toàn — Lan Anh.
@@ -46,7 +48,7 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
 
 ## Horror intrusion (Everyday Uncanny Anchors)
 
-- **Kinh dị truyền khẩu bên ấm nước chè (Oral Dread):** Nỗi rùng mình lây lan qua lời kể thì thào của Thắng—hiện tượng câm bặt âm thanh côn trùng chó sủa (Acoustic Evaporation), tiếng gọi người sống từ cổ họng người chết đục ngầu máu, và dấu chân bùn trần tõe ngón rỉ ra từ giường quàn.
+- **Kinh dị truyền khẩu bên ấm nước chè (Oral Dread):** Nỗi rùng mình lây lan qua lời kể thì thào của Thắng—hơi lạnh hầm đá và mùi tanh bùn đầm sen, nén nhang trên bát cơm quả trứng đũa bông tự tắt ngúm, góc vải che gương bị tuột, tiếng chó quanh xóm hú "cắn ma" về phía đầm sen tàn, và các bô lão họ Vũ hoảng loạn bấm độn sợ Trùng Tang.
 - **Vệt bùn khô hình bàn tay trên kính xe ben (*Decentered Observation*):** Chiếc xe ben chở cát của Toàn đỗ chỏng chơ đầu ngõ; trên lớp bụi kính chắn gió in hằn một vệt bùn lầy khô cong hình bàn tay người cào trượt dài xuống, các ngón tay tõe ra giống hệt dấu vết ở đầm sen.
 - **Mùi khói vải cháy quyện mùi bồ kết:** Mùi khét lẹt nhân tạo của vải sợi tổng hợp bị thiêu đốt hòa cùng mùi thảo mộc giải uế tạo nên thứ mùi buồn nôn, ngột ngạt.
 - **Ảo ảnh trên mảnh gương vỡ góc vườn:** Trong lúc tro than bay mù mịt theo cơn gió từ đầm sen thốc lên, Khanh thoáng thấy trong mảnh gương vỡ ném bên bờ rào một bóng người ướt sũng với chiếc cổ ngoẹo sang một bên đứng lặng lẽ sau lưng Toàn.
