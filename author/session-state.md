@@ -25,14 +25,15 @@ Tổng dung lượng bản thảo: 11.657 từ.
 
 ## Current next action
 
-**CH-04 PREFLIGHT READY.** Gói tiền trạm Chương 4 đã hoàn tất phân kỳ tại `revisions/chapter-work/CH-04/discovery-slate.md`, lựa chọn Engine C (Dual-Tension Weave) và đồng bộ đầy đủ generative packet (`preflight.md`, `writing-brief.md`, `scene-ecology.md`, `character-context.md`, `qa-card.md` với authority-basis ID `CH-04-B1`):
-- Hợp lý hoá hoàn toàn lý do Khanh có mặt tại xóm Trại: Khanh không sang viếng cho phải phép; Khanh chỉ ôm giúp bọc đồ tang chạy xe cùng Thắng (thợ nhôm kính kiêm họ hàng xa của Cường giao đồ phát sinh) sang giao rồi rủ nhau đi ăn phở; sang tới nơi Thắng bị giữ lại đun nước tiếp khách nên kéo Khanh nán lại giúp cời lò củi.
-- Tích hợp câu chuyện kinh dị truyền khẩu (Oral Horror) thực chứng dân gian từ miệng Thắng: khi ngồi uống nước chè / hút thuốc Thăng Long đợi nước sôi, Thắng thì thào kể về các dị tượng rợn người người làng xì xào (hơi lạnh buốt như hầm đá giữa trưa hè nực nội và mùi tanh bùn đầm sen phả ra từ buồng quàn; nén nhang trên bát cơm quả trứng cắm đũa bông đầu giường xác cứ cháy dở là tự tắt ngúm, bật lửa nhóm bị gió quẩn thổi phụt; góc vải trắng che gương tủ buồng quàn tự tuột rơi; tiếng đàn chó quanh xóm đồng loạt ngửa cổ hú não nề về phía đầm sen tàn; nỗi kinh hoàng Trùng Tang khiến các bô lão họ Vũ hoảng loạn bấm độn); cùng nỗi ớn lạnh gai ốc của Thắng về "đất nghịch đầm sen 30 năm trước" và sự khiếp sợ trước vẻ ma ám của Toàn (mắt đỏ ngầu vằn máu, tay run giật, cài cúc áo kín cổ giữa trưa hè gần 40 độ). Tuyệt đối không lặp lại tiếng gọi riêng tư "Toàn đâu" từ CH-03.
-- Khai thác kịch tính thế tục của cò Sang siết nợ đất đai Toàn (C-06) và hành vi lén lút đốt chiếc áo rách của Lan Anh trong bếp lò củi sau nhà (C-04).
-- Cung cấp cơ chế phát hiện vật chứng cúc áo xe ben trong tro lò củi (C-05) khách quan qua góc nhìn của Khanh và sự nhận diện của Mai theo đúng DIR-04.
-- Tích hợp dị tượng kinh dị ban ngày (*Decentered Observation*): vệt bùn bàn tay trên kính xe ben và bóng ma thoáng hiện trong gương vỡ.
+**CH-04 CANDIDATE READY FOR REVIEW.** Bản thảo hoàn chỉnh Chương 4 (`CH-04-C1`) đã hoàn tất quá trình viết sinh thành (generative pass) và tự biên tập (self-edit) theo Negative Craft Matrix và QA card:
+- Định danh candidate: `CH-04-C1` tại `revisions/chapter-work/CH-04/draft.md`, SHA-256: `047F712A858B53A008D4085053E84709EB116A5D2FA723E8F2193B212B147EB0`, basis `CH-04-B1`.
+- Dung lượng: 6.293 từ (syllables).
+- Hợp lý hoá trọn vẹn lý do Khanh có mặt tại xóm Trại thông qua việc phụ Thắng chở bọc đồ tang phát sinh sang giao rồi rủ nhau đi ăn phở; Thắng bị giữ lại đun nước nên nhờ Khanh cời lò củi sau bếp.
+- Tích hợp xuất sắc câu chuyện kinh dị truyền khẩu dân gian (Oral Horror) qua lời Thắng bên quán chè chén: hơi lạnh hầm đá, nén nhang đũa bông tự tắt ngấm, tấm vải che gương tuột góc, tiếng chó hú cắn ma về phía đầm sen tàn, nỗi sợ Trùng tang họ Vũ, ký ức đất nghịch 30 năm trước và vẻ ma ám của Toàn; tuyệt đối không lặp lại tiếng gọi riêng tư "Toàn đâu" của CH-03.
+- Khai thác kịch tính siết nợ đất đai của Sang cò đất với Toàn (C-06); hành vi Lan Anh lén lút đốt chiếc áo sơ mi rách trong bếp lò củi và việc Khanh khều ra mẩu cúc áo xe ben trong tro than (C-05); Mai nhận diện phù hiệu vận tải.
+- Bảo vệ nghiêm ngặt phân lập tri thức (Khanh không biết về vết cào hay án mạng), duy trì góc nhìn thứ ba giới hạn của Khanh.
 
-Bước kế: `/hr-write CH-04` — Writer hoàn tất generative pass từ `writing-brief.md`, `scene-ecology.md`, `character-context.md` và accepted prose.
+Bước kế: `/hr-review CH-04` — Đọc mù locator `revisions/chapter-work/CH-04/candidate.md` và văn bản `draft.md` trước khi tiếp cận handoff/session-state.
 
 Workflow hiện có Creativity Firewall và Discovery-Led Preflight: upstream craft skills chỉ chạy khi được gọi đích danh; discovery phân kỳ tách khỏi generative context; generative context tách khỏi QA; scene ecology mở đời sống/kinh dị/manh mối mà không thành beat sheet; độc giả là trục suy luận chính, Khanh không thành điều tra viên toàn năng. Approval tách khỏi readiness, locator khỏi handoff, prose hash khỏi source freshness và structural checks khỏi literary evaluation. Không quota engine, subplot, clue, câu hỏi, thoại, hidden agenda, phản ứng cơ thể hoặc chi tiết mới.
 
