@@ -1,7 +1,7 @@
 ---
 type: continuity-state
 story: horrible
-current-chapter: 2
+current-chapter: 3
 character-state:
   - character: nguyen-minh-khanh
     location: family-votive-shop
@@ -12,17 +12,25 @@ character-state:
     physical: tired from peak Vu Lan season
     emotional: wary of spiritual taboo regarding custom votive item
   - character: lan-anh
-    location: xom-trai
-    physical: exhausted after sleepless night of family death
-    emotional: terrified, suspicious of pre-planned revenge, shaken by Toan's hostility
+    location: cuong-household-funeral
+    physical: exhausted, hypervigilant, fingers numb from clutching basket and covering Toan's mouth
+    emotional: traumatized by hearing dead father-in-law call her name, suspicious of Toan's scuffle and Thuy's obsession with the phone
   - character: vu-van-toan
     location: cuong-household-funeral
-    physical: bloodshot eyes, bruised/tense
-    emotional: paranoid, defensive over Thoa's name and hearing dead father's voice
+    physical: bloodshot eyes, buttoned-up shirt hiding 3 bloody nail scratches on neck
+    emotional: terrified of being arrested or dragged away by father's ghost, desperate to hide the scuffle and bury Thoa's name
+  - character: vu-thi-thuy
+    location: cuong-household-funeral
+    physical: exhausted after night shift at Yen Phong garment factory, left hand contracted in pocket
+    emotional: panicked that Cuong's seized phone contains her threat messages
+  - character: vu-con
+    location: cuong-household-funeral
+    physical: elderly (~80), milky sharp eyes, wearing silk mo ga shirt
+    emotional: cold, tyrannical, bent on suppressing Trung tang rumors and controlling the funeral for Vu family pride
   - character: vu-van-cuong
     location: cuong-household-funeral
-    physical: deceased (died night of July 13 at foot of stairs)
-    emotional: deceased / lingering domestic voice presence
+    physical: deceased (shrouded on bed, grey socks, tied toes, broken neck/trachea)
+    emotional: deceased / haunting family through commanding voice on stairs and wet pond footprints
 object-state:
   - artifact: custom-paper-cassette-radio
     owner: vu-thi-thoa
@@ -37,18 +45,24 @@ knowledge-state:
     knows: Vũ Thị Thoa ordered custom radio on July 10 for Vũ Văn Cường pickup July 14; Cường died night of 13; CCTV footage (10/07/2026 09:24:18) shows Thoa's facial recognition glitch and unblinking stare into the lens
     learned-in: chapter-02
   - character: lan-anh
-    knows: Custom paper radio ordered under Vũ Thị Thoa for father-in-law before death; Toàn panicked violently at Thoa's name
-    learned-in: chapter-01
+    knows: Custom paper radio ordered under Vũ Thị Thoa for father-in-law before death; Toàn had scuffle with Cường night 13 over lotus pond red book leaving 3 bloody scratches on Toàn's neck; police seized Cường's phone; heard Cường's ghost call Toàn and then call her own name on night vigil; saw wet muddy footprint beside corpse bed
+    learned-in: chapter-03
   - character: vu-van-toan
-    knows: Lan Anh discovered the Thoa votive order at Lan's shop; heard father's voice call his name from empty stairs
-    learned-in: chapter-01
+    knows: Lan Anh discovered the Thoa votive order at Lan's shop; police examining neck injury and haven't signed handover; father's voice called him and Lan Anh from stairs during night vigil; Lan Anh saw his neck scratches and knows about the scuffle
+    learned-in: chapter-03
+  - character: vu-thi-thuy
+    knows: Police sealed and took Cường's phone during morning scene examination
+    learned-in: chapter-03
+  - character: vu-con
+    knows: Forensic investigators withheld handover due to neck bruising/dislocation, delaying casketing
+    learned-in: chapter-03
 ---
 
 # Continuity State
 
 ## Manuscript state
 
-**2 chapters canonized.** Chapters 1 & 2 (`chapters/chapter-01.md`, `chapters/chapter-02.md`, total 7,393 words) are canonical manuscript.
+**3 chapters canonized.** Chapters 1, 2 & 3 (`chapters/chapter-01.md`, `chapters/chapter-02.md`, `chapters/chapter-03.md`, total 11,657 words) are canonical manuscript.
 
 ## Case Zero author locks — D-002, retaining non-conflicting D-001 facts (2026-09-17)
 
@@ -71,6 +85,6 @@ Trùng tang is community belief, not universal metaphysical law. P1–P6 are pre
 
 ## Current handoff
 
-Chapters 1 & 2 are canonized.
-Next chapter is Chapter 3 (`CH-03`).
-Next operation: `/hr-preflight CH-03`.
+Chapters 1, 2 & 3 are canonized.
+Next chapter is Chapter 4 (`CH-04`).
+Next operation: `/hr-preflight CH-04`.
