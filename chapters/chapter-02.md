@@ -20,7 +20,7 @@ word-count: 3500
 
 1. **Không gian tiệm mã sáng mùng 10:** Bà Lan tất bật chuẩn bị mùa Rằm giữa mùi hồ nếp lên men và hàng hình nhân mã kiêng cấm điểm nhãn.
 2. **Khách lạ đặt hàng:** Người phụ nữ ăn mặc kín đáo lam lũ dưới vành nón lá che nửa mặt tự xưng là Vũ Thị Thoa bước vào, đặt làm chiếc đài cassette giấy bồi thủ công nan tre dán giấy xi măng có vạch đỏ AM cho người anh "Vũ Văn Cường" (xóm Trại).
-3. **Nghiệp vụ tiểu thương & Tập quán dân gian:** Bà Lan ngạc nhiên vì Cường còn sống nhưng tự hợp lý hóa theo tập quán cúng tiến hình giải hạn; ghi thông tin vào cuốn sổ đơn mùng 10.
+3. **Ghi sổ đơn hàng:** Bà Lan cắm cúi ghi nhận thông tin người nhận "Vũ Văn Cường - xóm Trại" và người đặt "Vũ Thị Thoa", hẹn giao sáng 14 theo đúng nghiệp vụ bận rộn mùa Rằm mà không hề hay biết người nhận vẫn đang sống.
 4. **Tiền cọc trao tay:** Thoa đặt cọc hai tờ tiền cotton 50.000đ cũ phẳng phiu cẩn thận vuốt nếp gấp; giao dịch hoàn tất rồi cô gái rảo bước rời đi.
 5. **Cú chuyển dịch quang học (One-Shot Pull-Back Reveal):** Âm thanh chợ búa bóp nghẹt thành tiếng loa điện thoại, góc nhìn nâng bổng lên mắt cá camera; người phụ nữ ngước nhìn chuẩn xác vào camera giấu kín trước khi ngón tay Khanh bấm dừng màn hình, kéo lùi ra thực tại trưa ngày 14.
 
@@ -102,31 +102,13 @@ Bà cầm chiếc bút bi cạn mực, vẩy vẩy mấy cái xuống mặt bàn
 
 — Vũ Văn Cường. Xóm Trại.
 
-Ngòi bút bi của bà Lan đang ấn xuống mặt giấy bỗng khựng lại.
-
-Bà ngước mắt lên nhìn người phụ nữ:
-
-— Cường nào xóm Trại? Xóm Trại có hai ba người tên Cường cơ. Cường con nhà cụ Cổn làm bến xe... hay là cụ Cường già bên họ Đặng?
-
-— Cường con ông Cổn.
-
-Bà Lan tròn mắt, buột miệng bật cười:
-
-— Ơ hay cái cô này! Cô có nhầm không đấy?! Ông Cường nhà cụ Cổn người ta vẫn đang sống sờ sờ ra đấy cơ mà! Sáng hôm kia tôi vừa thấy ông ấy cưỡi con xe Cub đi qua đầu ngõ đón cháu nội kia kìa! Người đang sống nhăn răng lại đi đặt đài mã cúng là cúng thế nào?!
-
-Người phụ nữ không cười, khóe môi dưới vành nón lá vẫn điềm tĩnh:
-
-— Bác cứ ghi vào sổ giúp tôi. Đến sáng mười bốn là cần dùng rồi.
-
-Bà Lan nhìn người khách, thấy vẻ đoan trang nghiêm túc thì chép miệng. Trong nghề buôn bán vàng mã mùa Vu Lan, chuyện người nhà đi sắm đồ cúng sớm cho các khóa lễ tiến hình hay trả nợ tào quan cầu thọ cho người ốm nặng cũng không phải chuyện hiếm. Nhiều nhà thầy bói phán phải đốt đồ chuộc mệnh trước ngày rằm để qua cơn tai ương, người ta vẫn đến đặt đồ mã mang tên người sống.
-
-*Chắc nhà cụ Cổn lại làm lễ cầu an giải hạn gì đây...* — Bà Lan tự nhủ thầm.
-
-Bà đặt ngòi bút xuống trang sổ ngày mùng mười, cẩn thận nắn nót viết từng chữ:
+Bà Lan cắm cúi đặt ngòi bút bi xuống trang sổ ngày mùng mười, cẩn thận nắn nót viết từng chữ vào cột người nhận:
 
 *Vũ Văn Cường — xóm Trại — Đài cassette giấy bồi có vạch đỏ AM.*
 
-— Hẹn sáng mười bốn lấy à? — Bà Lan hỏi lại.
+Quanh năm buôn bán, khách đến tiệm đặt đồ cúng giỗ tứ phương bà đều ghi nhận răm rắp theo lệ, cốt sao đúng tên đúng tuổi để người cõi âm nhận được đồ, tuyệt nhiên không hơi đâu đi dò hỏi việc nhà người khác.
+
+— Hẹn sáng mười bốn lấy đúng không? — Bà Lan hỏi lại, mắt vẫn không rời trang sổ.
 
 — Vâng. Sáng mười bốn.
 

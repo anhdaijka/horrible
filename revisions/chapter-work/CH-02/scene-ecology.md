@@ -24,7 +24,7 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
    - Xưng hô lịch thiệp người lớn thôn quê: *"Tôi — Bác"*, *"Cho anh trai tôi"*.
    - Khách yêu cầu làm đài cassette giấy bồi thay vì mua đồ in sẵn hiện đại.
    - Miêu tả chi tiết kỹ thuật: khung nan tre mỏng, giấy xi măng phẳng phiu dán hồ nếp, ô kính bóng, cần ăng-ten nan tre quấn giấy bạc, và một vạch đỏ vẽ tay bằng mực tàu đánh dấu trên thang tần số AM phát thanh miền Bắc xưa.
-   - Bà Lan hỏi xác minh: *"Cường xóm Trại nhà nào? Cường con ông Cổn hay Cường nào?"* -> Khách xác nhận là Cường con ông Cổn.
+   - Bà Lan cắm cúi ghi chép vào cuốn sổ đơn theo đúng lệ buôn bán, không hỏi han tọc mạch việc riêng của khách.
 4. **Khoảnh khắc giao dịch tiền cọc:**
    - Khách dùng tay trái rút ra hai tờ tiền cotton 50.000đ cũ phẳng phiu cẩn thận vuốt nếp gấp. Làn da mu bàn tay trắng muốt không tì vết.
    - Giao dịch diễn ra thuận lợi, bà Lan nhận tiền cọc cất vào ngăn kéo gỗ.

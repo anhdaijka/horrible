@@ -6,9 +6,8 @@ Writer-safe selection; no future solution.
 
 - **Trần Thị Lan (55 tuổi):**
   - Mẹ Khanh; chủ tiệm vàng mã lâu năm tại thị trấn/huyện lỵ Bắc Ninh.
-  - Sắc sảo, thực tế, quen việc, dạn dày trong ứng xử buôn bán. Luôn để tâm đến sổ sách, tiền cọc và đúng hẹn giao hàng.
-  - Có thói quen xác minh kỹ họ hàng làng xóm để tránh nhầm lẫn hàng mã (hỏi rõ Cường xóm Trại con nhà ai).
-  - Nhìn nhận người khách dưới góc độ một người đàn bà thôn quê kín đáo, lam lũ cùng thế hệ với ông Cường xóm Trại đến đặt đồ giải hạn cho anh trai.
+  - Có thói quen ghi chép cẩn thận thông tin người nhận và người đặt để tránh thất lạc đồ cúng, tuyệt đối không can thiệp hay tò mò việc riêng của khách.
+  - Nhìn nhận người khách dưới góc độ một người đàn bà thôn quê kín đáo, lam lũ cùng thế hệ với ông Cường xóm Trại đến đặt đồ cúng cho anh trai.
   - Xưng hô với khách: xưng `tôi` / `bác`, gọi khách là `cô`.
   - Ngôi thứ ba trần thuật: `bà Lan`, `bà`.
 - **Người phụ nữ đặt hàng (Vũ Thị Thoa — 22 tuổi theo diện mạo siêu nhiên, 52 tuổi nếu còn sống theo hồ sơ hộ tịch):**

@@ -22,7 +22,7 @@ Scene ecology: scene-ecology.md
    - Xưng hô trung tính, lịch thiệp người lớn thôn quê: *"Tôi — Bác"*, *"Cho anh trai tôi"*. Bà Lan tưởng đây là phụ nữ trung niên cùng thế hệ với ông Cường xóm Trại đi sắm đồ giải hạn/cầu thọ cho anh trai.
    - Dấu hiệu siêu nhiên chỉ thoảng qua: bàn tay trái thon dài cử động thuần thục, da dẻ dưới vành nón trắng bệch không tì vết chân chim.
    - Khách yêu cầu làm đài cassette giấy bồi thủ công: khung tre dán giấy xi măng, cửa sổ bóng kính, ăng-ten nan tre quấn giấy bạc, vạch đỏ vẽ tay bằng mực tàu trên thang tần số AM miền Bắc xưa.
-   - Bà Lan hỏi xác minh: *"Cường xóm Trại nhà nào? Cường con nhà cụ Cổn làm bến xe... hay là cụ Cường già bên họ Đặng?"* -> Khách xác nhận đúng Cường con ông Cổn.
+   - Bà Lan cắm cúi ghi nhận răm rắp theo nghiệp vụ sổ sách mùa Rằm: Người nhận "Vũ Văn Cường - xóm Trại", đài cassette vạch đỏ AM, hẹn lấy sáng 14 (C-01). Bà Lan hoàn toàn không biết và không bận tâm người nhận là ai hay còn sống, mặc định là đơn cúng giỗ người đã khuất theo lệ thường.
    - Khách dùng tay trái rút ra tờ tiền giấy cotton cũ phẳng phiu đặt cọc. Giao dịch diễn ra bình thường, tiền cọc cotton được cất vào ngăn kéo.
    - Bà Lan mở sổ ghi thông tin: Người nhận "Vũ Văn Cường", người đặt "Vũ Thị Thoa", hẹn lấy "sáng 14" (C-01).
    - Khách bước ra cửa.

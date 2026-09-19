@@ -74,31 +74,13 @@ Bà cầm chiếc bút bi cạn mực, vẩy vẩy mấy cái xuống mặt bàn
 
 — Vũ Văn Cường. Xóm Trại.
 
-Ngòi bút bi của bà Lan đang ấn xuống mặt giấy bỗng khựng lại.
-
-Bà ngước mắt lên nhìn người phụ nữ:
-
-— Cường nào xóm Trại? Xóm Trại có hai ba người tên Cường cơ. Cường con nhà cụ Cổn làm bến xe... hay là cụ Cường già bên họ Đặng?
-
-— Cường con ông Cổn.
-
-Bà Lan tròn mắt, buột miệng bật cười:
-
-— Ơ hay cái cô này! Cô có nhầm không đấy?! Ông Cường nhà cụ Cổn người ta vẫn đang sống sờ sờ ra đấy cơ mà! Sáng hôm kia tôi vừa thấy ông ấy cưỡi con xe Cub đi qua đầu ngõ đón cháu nội kia kìa! Người đang sống nhăn răng lại đi đặt đài mã cúng là cúng thế nào?!
-
-Người phụ nữ không cười, khóe môi dưới vành nón lá vẫn điềm tĩnh:
-
-— Bác cứ ghi vào sổ giúp tôi. Đến sáng mười bốn là cần dùng rồi.
-
-Bà Lan nhìn người khách, thấy vẻ đoan trang nghiêm túc thì chép miệng. Trong nghề buôn bán vàng mã mùa Vu Lan, chuyện người nhà đi sắm đồ cúng sớm cho các khóa lễ tiến hình hay trả nợ tào quan cầu thọ cho người ốm nặng cũng không phải chuyện hiếm. Nhiều nhà thầy bói phán phải đốt đồ chuộc mệnh trước ngày rằm để qua cơn tai ương, người ta vẫn đến đặt đồ mã mang tên người sống.
-
-*Chắc nhà cụ Cổn lại làm lễ cầu an giải hạn gì đây...* — Bà Lan tự nhủ thầm.
-
-Bà đặt ngòi bút xuống trang sổ ngày mùng mười, cẩn thận nắn nót viết từng chữ:
+Bà Lan cắm cúi đặt ngòi bút bi xuống trang sổ ngày mùng mười, cẩn thận nắn nót viết từng chữ vào cột người nhận:
 
 *Vũ Văn Cường — xóm Trại — Đài cassette giấy bồi có vạch đỏ AM.*
 
-— Hẹn sáng mười bốn lấy à? — Bà Lan hỏi lại.
+Quanh năm buôn bán, khách đến tiệm đặt đồ cúng giỗ tứ phương bà đều ghi nhận răm rắp theo lệ, cốt sao đúng tên đúng tuổi để người cõi âm nhận được đồ, tuyệt nhiên không hơi đâu đi dò hỏi việc nhà người khác.
+
+— Hẹn sáng mười bốn lấy đúng không? — Bà Lan hỏi lại, mắt vẫn không rời trang sổ.
 
 — Vâng. Sáng mười bốn.
 
