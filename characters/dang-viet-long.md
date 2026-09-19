@@ -31,6 +31,7 @@ In Case Zero under D-001 post-reset:
 - Coordinates preservation and appropriate professional handling after the household reports the death. Scene examination does not wait for a funeral.
 - The phone is located, documented and collected in the first professional examination; analysis can take time. He does not abandon it behind a seal for days.
 - Distinguishes visible nail cleanliness from forensic sample findings. Neither alone excludes Toàn.
+- Source of inquiry into votive shop (D-005): Long's visit to bà Lan's shop is spurred entirely by public trade rumors at Chợ Bến crossroads (where bà Lan attempted to deliver the radio labeled "Vũ Văn Cường" on the morning of the 14th and Lan Anh refused) combined with Cường's suspicious neck trauma. It is NOT initiated by any report or confession from the Vũ family.
 - Administrative inquiry into Thoa uses authorized channels, limited old records and oral testimony. Lack of a death entry is not evidence she is alive.
 - Shares only information he may legitimately disclose; Khanh has no general police-database or seized-phone access.
 - Does not announce supernatural guilt as a legal conclusion. Physical evidence, witness claims and the reader’s supernatural experience are separate.

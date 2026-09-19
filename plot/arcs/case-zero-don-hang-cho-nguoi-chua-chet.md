@@ -68,16 +68,17 @@ Mùng 8 đến trưa 13, Thủy dùng lời đe dọa, âm thanh dọa ma và �
 
 Cổn không có mặt tại chân cầu thang khi xô xát; ông được báo cùng người nhà. Tiếng động nghe từ các phần nhà khác chỉ là lời chứng giới hạn, không tạo nhân chứng toàn tri. Căn nhà và lối tiếp cận cần sơ đồ tối thiểu ở preflight cảnh hiện trường.
 
-Toàn kể mình vừa về và thấy bố nằm đó, che phần cãi vã trước đó. Đây là lời khai có thể bị đối chiếu. Lan Anh giữ áo vì hoảng loạn rồi mới hủy ở chặng tang gia; khoảng chậm đó và rủi ro bị phát hiện phải có mặt trong thiết kế.
+Toàn kể mình vừa về và thấy bố nằm đó, che phần cãi vã trước đó. Đây là lời khai có thể bị đối chiếu. Hắn cấm triệt để Lan Anh nhắc đến cái tên Thoa trước bất kỳ ai (kể cả công an) vì sợ lộ vụ 1996 và vết cào cổ đêm 13 (D-005). Lan Anh không hề báo công an về chiếc đài; việc cán bộ Long tìm đến tiệm bà Lan hoàn toàn bắt nguồn từ tin đồn thương mại tại ngã tư Chợ Bến sáng 14 khi bà Lan mang đài đi giao trước mặt người làng (D-005). Toàn mang mặc cảm tự ti sâu sắc trước học vấn ưu tú của Khanh, cộng thêm ghen tuông vì Lan Anh thời trẻ từng để ý Khanh, nên luôn theo dõi, dè chừng và thù địch khi thấy Khanh dính líu đến chuyện tiệm mã (D-005). Lan Anh giữ áo vì hoảng loạn rồi mới hủy ở chặng tang gia; khoảng chậm đó và rủi ro bị phát hiện phải có mặt trong thiết kế.
 
 ### Vật chứng và giới hạn kết luận
 
 - Chấn thương cổ nghiêm trọng khiến cái chết cần kiểm tra. Không khóa 180°, không cho người ngoài chẩn đoán bằng mắt; bàn giao thi thể và khâm liệm không có hạn bắt buộc theo ngày 15.
 - Bản ghi cục bộ chứng thực Cường còn nói/hoạt động sau xô xát và thứ tự âm thanh. Nó không tự chứng minh cổ gãy trước va đập, không thể xác định Thoa, cũng không tự loại mọi ảnh hưởng của thương tổn trước đó.
-- Móng tay sạch là một dị tượng ở lớp tác giả. Kết quả lấy mẫu nếu có chỉ trả lời phạm vi xét nghiệm, không tự giải oan Toàn.
+- Móng tay sạch là một dị tượng ở lớp tác giả. Kết quả lấy mẫu nếu có chỉ trả lời phạm vi xét nghiệm, không tự giải oan Toàn. Đối với Toàn, dị tượng móng tay sạch C-03 ban đầu khiến hắn thở phào nhưng sau đó đẩy hắn vào nỗi kinh hoàng sởn gai ốc (D-005): hoặc có thế lực ma quái xóa dấu vết để dành hắn cho một hình phạt ghê rợn hơn, hoặc có kẻ thứ ba giết Cường rồi dọn dẹp hiện trường, đẩy Toàn vào trạng thái nghi thần nghi quỷ, hoảng loạn thần kinh ở P3–P5.
 - Chấm công, camera/log, người làm cùng và thời gian đường đi hợp lại xác nhận ngoại phạm Thủy. Không có “vân tay tuyệt đối”.
 - Mảnh áo/cúc sống sót trong khe lò hoặc tro khi Khanh phụ dọn. Dấu riêng thuộc một đơn vị vận tải hư cấu, không thuộc toàn ngành xe ben. Mai nhận ra do công việc; mẫu áo khác/ảnh/lời người cấp áo hỗ trợ đối chiếu. Áo đã đốt không bỗng xuất hiện nguyên vẹn khi thu giữ.
 - Không có băng âm thanh giải án 1996. Nhận dạng hài cốt, phần việc Bình nhớ, lời Thủy về phát hiện xác/cưỡng ép và chi tiết lời Cổn kiểm tra được chịu phần làm rõ quá khứ. Nếu chứng cứ chưa đủ cho một kết luận, giữ giới hạn ấy; không để lời thú nhận tự xác minh toàn án.
+- Bút tích 1996 của cụ đồ (C-12) xuất phát từ sự thấu suốt quy luật Nhân Quả và cấm kỵ nghề làm đồ mã, không phải bói toán tiên tri 30 năm (D-005).
 - Khanh giúp với sự đồng ý của người sở hữu dữ liệu, chuyển vật mình giữ và mô tả điều mình biết; không mở khóa máy tang vật hoặc tự phục hồi băng/ADN.
 
 ## Bảng nguồn dị tượng — chỉ dành cho tác giả

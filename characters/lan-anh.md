@@ -34,7 +34,8 @@ The 27-year-old eldest daughter-in-law (*con dâu trưởng*) of Vũ Văn Cườ
 ## Durable Case Zero canon
 
 - **Opening connection:** From morning 14, buying/preparing funeral goods links the household to the mùng 10 order. This does not establish that the body is already released or encoffined. The opening scene must be newly planned.
-- **Family knowledge boundary:** In the early arc Lan Anh does not possess the buried 1996 objective truth. She can truthfully say that her known household has no living relative named Thoa without thereby proving what happened to Thoa.
+- **Family knowledge boundary & gag order (D-005):** In the early arc Lan Anh does not possess the buried 1996 objective truth. She is strictly forbidden by Toàn from mentioning the name Thoa to anyone (neighbors, elders, or police). She did NOT report the votive radio incident to the police; Officer Long's investigation of the shop is spurred purely by market gossip at Chợ Bến crossroads.
+- **Past admiration for Khanh & marital tension (D-005):** Lan Anh is 1–2 years older than Khanh. In her youth, she admired/had feelings for Khanh (an elite student who became a software engineer). A past confession of this to Toàn inadvertently stoked his chronic insecurity and hostility toward Khanh.
 - **Patriarchal pressure:** Cổn places heavy pressure on her around funeral handling and the family's attempt to avoid deeper forensic disruption. Exact legal/procedural language remains subject to the project's verification gate.
 - **The Loyalty Trap (D-057 / D-058 / DIR-04):** After Toàn returns and believes his earlier shove caused Cường's death, Lan Anh helps conceal the evidence that could make him look like a patricide suspect. Durable canon is:
   - fresh scratches are initially covered with ordinary dressing; mourning clothing may conceal them later, but does not make them invisible to investigators;

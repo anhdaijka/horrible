@@ -92,3 +92,25 @@ Tại thời điểm D-003, chưa chốt vị trí coda, điểm nhìn và đi�
 - Timeline khách quan không đổi: đặt đơn mùng 10 → Cường chết đêm 13 → đơn được tái nghĩa sáng 14.
 
 Phê duyệt này khóa chapter allocation, POV CH-02 và vị trí coda; chưa duyệt prose. CH-01 dùng Khanh làm điểm tựa nhận thức tại tiệm theo kiến trúc POV hiện hành; coda gia đình dùng objective off-POV để không ép Khanh xuất hiện và không giấu nội tâm đã cấp cho một nghi phạm. Việc thể hiện cụ thể nằm trong packet/drafting nếu không đổi reveal hoặc outcome.
+
+## D-005 — Case Zero: Khóa canon về nguồn tin điều tra, tâm lý Toàn, móng tay sạch C-03 và bút tích C-12 (2026-09-19)
+
+**AUTHOR APPROVAL: APPROVED.** Chỉ thị trực tiếp của tác giả: xác lập các chi tiết thiết kế thành dữ kiện canon lâu dài xuyên suốt Case Zero nhằm bảo đảm tính nhất quán và ngăn ngừa conflict ở toàn bộ các chương về sau (P1–P6).
+
+### 1. Nguồn tin điều tra của Cán bộ Long về tiệm vàng mã
+- **Nguồn gốc thực tế:** Cán bộ Long đến tiệm bà Lan hoàn toàn KHÔNG PHẢI do gia đình ông Cường (Toàn hay Lan Anh) khai báo hay trình báo. Toàn cấm tiệt Lan Anh hé răng nửa lời về cái tên Thoa vì sợ công an đào bới việc cũ.
+- **Cơ chế lan truyền:** Sáng 14, bà Lan mang chiếc đài cassette mã có dán mác "Vũ Văn Cường" sang giao tại ngã tư Chợ Bến đúng lúc Lan Anh đang mua đồ lễ/đồ cúng trước mặt người làng và tiểu thương. Lan Anh hoảng loạn từ chối nhận. Cảnh tượng va chạm và lời từ chối bất thường này diễn ra công khai, lập tức biến thành lời bàn tán, xì xào khắp chợ.
+- **Động cơ cán bộ Long:** Khi ông Cường chết bất thường với chấn thương cổ nghiêm trọng, tin đồn về "chiếc đài mã giao trước khi chết" đến tai Cán bộ Long (phụ trách địa bàn). Long tìm đến tiệm bà Lan để xác minh nguồn tin dân sự nhằm phục vụ nghiệp vụ điều tra, hoàn toàn độc lập với nội bộ gia đình họ Vũ.
+
+### 2. Lệnh cấm của Toàn đối với Lan Anh và tâm lý đối với Khanh
+- **Lệnh cấm triệt để về cái tên Thoa:** Toàn cấm tuyệt đối Lan Anh nhắc đến tên Thoa trước mặt người ngoài lẫn cơ quan điều tra. Lý do: Toàn khiếp sợ công an sẽ đào sâu vào quá khứ dòng họ, phát hiện ra sự thật cô Thoa đã thực sự chết năm 1996; đồng thời lo sợ việc điều tra gắt gao sẽ làm bại lộ vết cào trên cổ hắn do vụ ẩu đả đêm 13.
+- **Mặc cảm tự ti và sự dè chừng đối với Khanh:** Toàn lái xe ben thô lậu, ít học, nợ nần ngập đầu vì cờ bạc và xe cộ, luôn mang mặc cảm tự ti sâu sắc trước Khanh (học sinh trường chuyên ưu tú, kỹ sư làm việc cho công ty Nhật). Hơn nữa, Lan Anh (dù hơn Khanh 1–2 tuổi) thời trẻ từng ngưỡng mộ, để ý Khanh (từng tâm sự chuyện cũ với Toàn). Do đó, Toàn luôn nhìn Khanh với ánh mắt soi mói, thù địch và cảnh giác cao độ. Hắn nghi ngờ Khanh tò mò chuyện chiếc đài mã ở tiệm mẹ, luôn đề phòng Khanh xen vào chuyện nhà mình, sẵn sàng dùng quá khứ học hành của Khanh để mỉa mai, phòng thủ.
+
+### 3. Nghịch lý kinh dị móng tay sạch (C-03) — Vòng xoáy tâm lý của Toàn
+- **Diễn tiến tâm lý:** Đêm 13, Toàn hoảng loạn tột độ vì sợ cơ quan pháp y sẽ phát hiện mô da/ADN của mình dưới móng tay Cường sau vụ xô xát cào cấu ở chân cầu thang.
+- **Dị tượng kinh dị:** Khi có kết quả/tin tức rằng móng tay ông Cường sạch bóng kỳ dị, không hề có mô da hay dấu vết xô xát, Toàn ban đầu thở phào nhưng ngay sau đó rơi vào nỗi kinh hoàng sởn gai ốc. Sự sạch sẽ phi lý, phản tự nhiên này khiến Toàn hoang mang cực độ: Hoặc có một thế lực ma quái vô hình đang xóa dấu vết để dành hắn cho một hình phạt ghê rợn hơn; hoặc có một kẻ thứ ba bí ẩn đã hiện diện, giết cha hắn rồi dọn dẹp hiện trường. Điều này đẩy thần kinh Toàn vào trạng thái bức bối, nhạy cảm, nghi thần nghi quỷ đến bờ vực hoảng loạn ở các chặng sau (P3–P5).
+
+### 4. Bút tích 1996 của cụ đồ / ông nội (C-12) — Lời răn Nhân Quả xuyên thời gian
+- **Bản chất tri thức:** Cụ đồ (ông nội Khanh) năm 1996 từ chối làm đồ mã yểm đầm sen cho họ Vũ không phải nhờ bói toán hay thuật tiên tri trước tương lai 30 năm, mà xuất phát từ sự thấu suốt sâu sắc về quy luật Nhân Quả và cấm kỵ đạo đức của nghề làm đồ mã truyền thống.
+- **Ý nghĩa lời răn:** Dòng chữ *"Tuyệt đối không nhận lễ!"* ghi lại lời răn con cháu không được tiếp tay cho tà ý, không nhận lễ phi nghĩa của người sống mưu hại cõi âm. Lời răn 30 năm trước trở thành lời cảnh báo rợn gáy xuyên thời gian giáng xuống hiện tại: tiệm nhà Khanh đã vô tình phạm vào cấm kỵ khi nhận đơn hàng chiếc đài mùng 10 cho người chưa chết.
+
