@@ -122,7 +122,7 @@ Lan Anh nhìn chằm chằm vào chiếc đài giấy trên tay Khanh. Hơi th�
 
 — Không... không phải nhà cháu đặt... Bố cháu lúc sống không nghe đài này bao giờ... nhà cháu cũng chẳng có ai tên là Thoa cả!
 
-— Cháu nghĩ kỹ lại xem! — Giọng bà Lan bắt đầu lạc đi, vừa kinh ngạc vừa sốt ruột — Họ Vũ mà! Ở đất này ngoài họ Vũ xóm Trại nhà cháu ra thì còn ai vào đây nữa?
+— Cháu nghĩ kỹ lại xem! — Giọng bà Lan bắt đầu lạc đi, vừa kinh ngạc vừa hoang mang — Thì trong sổ ghi rành rành là Vũ Văn Cường ở xóm Trại đây này! Chẳng lẽ lại có người trùng cả họ lẫn tên với bố chồng cháu ở cùng cái xóm ấy?
 
 Lan Anh đứng sững giữa gian nhà sực mùi giấy bồi. Sắc mặt cô tái dại đi, đôi môi run rẩy mấp máy không thốt nên lời. Bàn tay nắm quai chiếc túi vải bấu chặt đến trắng bệch cả khớp ngón.
 
@@ -192,26 +192,20 @@ Một câu hỏi không lời bóp nghẹt tâm trí Khanh: *Người phụ nữ
 
 ***
 
-Cùng thời điểm đó, tại căn nhà hai tầng kiểu cũ của ông Cường ở sâu trong ngõ xóm Trại.
+Tiếng chiếc xe máy cà tàng của Lan Anh nổ máy rồ ga, vội vã lao vụt ra ngoài nắng gắt, cuốn theo làn bụi mỏng hướng về phía xóm Trại.
 
-Không khí tang tóc vừa ập xuống căn nhà chưa đầy nửa ngày, mang theo cái ngột ngạt khó thở của một gia đình vừa có người chết bất đắc kỳ tử. Mùi dầu gió ngai ngái quyện với mùi khói hương bài mỏng tang chưa kịp đậm đặc. Trên chiếc bàn nước bằng gỗ lim cũ kỹ ở gian giữa, nửa chén chè xanh nguội ngắt từ chiều hôm qua của ông Cường vẫn còn nguyên lớp váng ố vàng trên miệng chén. Bên cạnh đó, chiếc gạt tàn thủy tinh đầy ắp những đầu lọc thuốc lá Thăng Long cháy dở.
+Con đường đất chạy dọc ven đầm sen tàn dẫn sâu vào ngõ cụt dường như bị bóp nghẹt dưới cái nắng oi nồng của buổi trưa áp Rằm. Gió từ mặt đầm bốc lên mùi bùn héo ngai ngái, xộc thẳng vào căn nhà hai tầng kiểu cũ xây từ những năm chín mươi của ông Cường.
 
-Dưới bậc thềm xi măng dẫn ra sân sau, đôi dép tổ ong màu cháo lòng đã mòn vẹt gót của ông Cường vẫn nằm chỏng chơ một chiếc úp một chiếc ngửa, như thể người đi chỉ vừa mới cởi ra bước vào nhà cách đây vài phút.
+Không khí tang tóc vừa ập xuống chưa đầy nửa ngày, mang theo cái ngột ngạt khó thở của một gia đình có người chết bất đắc kỳ tử. Dưới tầng trệt, gian nhà ngoài sực mùi dầu gió quyện với khói hương bài mỏng tang chưa kịp đậm đặc. Trên chiếc bàn nước bằng gỗ lim cũ kỹ, nửa chén chè xanh nguội ngắt từ chiều hôm qua của ông Cường vẫn còn nguyên lớp váng ố vàng trên miệng chén. Bên cạnh đó, chiếc gạt tàn thủy tinh đầy ắp những đầu lọc thuốc lá Thăng Long cháy dở. Dưới bậc thềm xi măng dẫn ra sân sau, đôi dép tổ ong màu cháo lòng đã mòn vẹt gót của ông vẫn nằm chỏng chơ một chiếc úp một chiếc ngửa, như thể người đi chỉ vừa mới cởi ra bước vào nhà cách đây vài phút.
 
-Trong nhà vắng ngắt. Đám đàn ông trong họ và cụ Cổn đã kéo nhau lên gian thờ tầng hai để bàn việc xem giờ liệm và chọn đất mộ. Toàn đang ngồi gục đầu ở góc phản gỗ, hai bàn tay thô ráp bấu chặt vào mép gối, hơi thở nặng nề và đôi mắt đỏ ngầu vằn lên những tia máu vì hoảng loạn sau cuộc điện thoại với vợ.
+Tiếng cãi vã nặng nề, gay gắt của đám đàn ông trong họ tộc cùng giọng quát the thé của cụ Cổn vọng ràn rạt từ gian thờ trên gác hai xuống qua trần vôi nứt nẻ. Họ đang giằng co từng giờ khâm liệm, từng khoảnh đất đào huyệt ngoài đồng bãi.
 
-Chiếc quạt trần ba cánh màu xanh xỉn treo trên trần nhà quay đều đều, phát ra tiếng rít kim loại kẽo kẹt rền rĩ theo từng vòng quay cọ xát của trục sắt cũ.
+Dưới nhà vắng ngắt. Ngay sát vách buồng ngủ quàn thi thể lạnh lẽo, Toàn ngồi gục đầu ở góc phản gỗ. Chiếc điện thoại vừa dập máy bị ném chỏng chơ trên chiếu cói. Hai bàn tay thô ráp của anh bấu chặt vào gấu quần, móng tay cắm sâu vào da thịt. Khuôn mặt Toàn xám xịt, đôi mắt đỏ ngầu vằn lên những tia máu hoảng loạn. 
 
-Bỗng nhiên, từ khoảng tối chân cầu thang dẫn lên tầng hai—nơi đêm qua người ta nhấc thi thể ông Cường lên—vang lên một tiếng gọi cộc cằn, khàn đặc:
+Chiếc quạt trần ba cánh màu xanh xỉn treo trên trần nhà quay đều đều, phát ra tiếng rít kim loại kẽo kẹt rền rĩ theo từng vòng quay của trục sắt cũ.
 
-— *Toàn đâu!*
+Toàn ngước mắt nhìn trừng trừng vào khoảng tối dưới chân cầu thang gỗ lim — ngay nơi đêm qua người ta tìm thấy thi thể ông Cường ngã gãy cổ nằm bất động. Giữa cái oi nồm hầm hập của buổi trưa mùa hạ, từ khoảng tối sâu hun hút ấy bỗng phả ra một làn hơi lạnh buốt, ngai ngái mùi đất ẩm.
 
-Giữa tiếng quạt trần kẽo kẹt, theo thói quen bao năm, Toàn bất giác buột miệng:
+Không có một bóng người. Chỉ có bậc gạch xi măng im lìm và cánh cửa buồng quàn xác khép hờ bên cạnh.
 
-— Dạ, con...
-
-Chữ "đây" nghẹn ứ lại nơi cuống họng.
-
-Toàn sững sờ, hai mắt dại đi.
-
-Dưới chân cầu thang tối om, không có một ai.
+Toàn nhìn vệt nắng chói chang ngoài hiên đang dần ngả bóng. Một nỗi khiếp đảm âm ỉ bóp nghẹt lồng ngực anh: đám người họ hàng trên gác rồi cũng sẽ về hết khi trời tối, và đêm nay... chỉ còn lại vợ chồng anh ngồi lại trong căn nhà này để canh xác bố.

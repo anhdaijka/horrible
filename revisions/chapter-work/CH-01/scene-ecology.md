@@ -25,7 +25,7 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
 5. Lan Anh bảo xem lại sổ -> Mở sổ đọc họ tên đầy đủ: "Vũ Văn Cường" (người đặt: "Vũ Thị Thoa").
 6. **Chiếc đài giấy & Nỗi ám ảnh trả thù:**
    - Khanh mang chiếc đài giấy ra: làm thủ công tỉ mỉ bằng nan tre chuốt mỏng, giấy xi măng dán hồ, có vạch đỏ vẽ tay trên thang tần số như phục dựng một kỷ vật có thật.
-   - Lan Anh sững người, suy nghĩ về họ Vũ và chợt nảy sinh phán đoán logic: Có kẻ nào đó thù oán đã lên kế hoạch trả thù/rủa bố chồng chết trước ngày 14.
+   - Lan Anh sững người khi nhìn tên đầy đủ trong sổ và chiếc đài giấy, chợt nảy sinh phán đoán logic: Có kẻ nào đó thù oán đã lên kế hoạch trả thù/rủa bố chồng chết trước ngày 14.
    - Lan Anh rút điện thoại gọi ngay cho Toàn: vừa hỏi về cái tên "Vũ Thị Thoa", vừa ngập ngừng hỏi: *"Anh có nghĩ là... có ai thù oán... trả thù bố không?"*
 7. **Phản ứng hoảng loạn của Toàn & Sự mắc kẹt của món đồ:**
    - Toàn bị đòn tâm lý kép (sợ lộ bí mật Thoa, sợ công an/pháp y điều tra án mạng làm lộ vụ xô xát đêm qua) $\rightarrow$ hoảng sợ dồn dập, gắt gỏng bắt Lan Anh im lặng, lấy đồ tang rồi về ngay.
@@ -35,7 +35,7 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
 ## Horror intrusion
 
 - Sự kinh dị len lỏi qua chính các phán đoán logic thực tế (nghi vấn trả thù, chiếc đài phục dựng ký ức cũ, sự hoảng loạn giấu giếm của Toàn).
-- **Coda tại nhà Cường:** Căn nhà còn vương hơi ấm người sống (chén chè dở, đôi dép tổ ong cũ). Tiếng gọi giật giọng cộc cằn của Cường vang lên khiến người nhà theo phản xạ 30 năm vô thức buột miệng: *"Dạ, con đây..."* rồi mới chết lặng nhận ra ông đã chết.
+- **Coda tại nhà Cường:** Chuyển cảnh mượt mà ven đầm sen về căn nhà hai tầng đồng bộ không gian/thời gian với CH-03 (buổi trưa ngày 14). Căn nhà còn vương hơi ấm người sống (chén chè dở, đôi dép tổ ong cũ), đám họ hàng cãi vã trên gác hai. Toàn hoảng loạn sau cuộc gọi của vợ, nhìn vào khoảng tối chân cầu thang gỗ lim phả ra làn hơi lạnh buốt ngai ngái mùi đất ẩm, dấy lên dự cảm khiếp đảm về đêm canh xác sắp tới (chuẩn bị bệ phóng cho đại cảnh đêm CH-03 mà không spoil tiếng gọi ma ban ngày).
 
 ## Reader-detective affordances
 

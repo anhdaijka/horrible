@@ -1,30 +1,26 @@
 # Writer handoff — CH-02
 
-- Candidate ID / path / SHA-256: CH-02-C1 / revisions/chapter-work/CH-02/draft.md / 28A651FB7C5C413ED8CE34FB3AEF35B0176FFFD28C2E0E0E6EE65FD87BCB2E24
-- Packet and consequential authority-basis ID / basis: CH-02-B2 / D-001, D-003, D-004, Author Instruction 2026-09-18 (Perceptual Shift & CCTV Reveal), revisions/chapter-work/CH-02/preflight.md
-- Writer self-edit: completed (Negative Craft Matrix & Advanced Horror Craft Lexicon audit applied: naming discipline, single POV bà Lan with perceptual shift transition to Khanh, anti-tell, anti-purple prose, anti-AI cinematic ending, everyday uncanny anchors, digital-spectral glitch).
-- Scene-trial hypothesis/result, if applicable: N/A (complete chapter draft)
+- Candidate ID / path / SHA-256: CH-02-C3 / revisions/chapter-work/CH-02/revised.md / D8BB922DDF9EEA960D65BACD0F8CC02B6DEC262EA3E763FC1A101A81FD416FA0
+- Packet and consequential authority-basis ID / basis: CH-02-B3 / D-001, D-003, D-004, Author Instruction 2026-09-18 (Perceptual Shift & CCTV Reveal), Author Revision Instruction 2026-09-19 (Thoa Living Cover & Seamless One-Shot Pull-Back Reveal), Author Epistemic Calibration 2026-09-19 (Dual-Layer Perception Architecture: Nón lá & 52yo Ambiguity vs 1996 22yo CCTV Freeze), revisions/chapter-work/CH-02/preflight.md
+- Writer self-edit: completed (Restored Thoa living human cover, removed bà Lan họ Vũ thought, eliminated scene break *** and all narrator explanations in CCTV reveal, executed seamless one-shot pull-back, resolved 52yo vs 22yo epistemic conflict via Dual-Layer Perception Architecture).
+- Supersedes: CH-02-C2
 
 ## Targeted verification
 
-Xác nhận quy trình tự biên tập nghiêm ngặt theo Negative Craft Matrix và Advanced Horror Craft Lexicon:
-1. **Quy chuẩn định danh (Naming Discipline):**
-   - Không spam họ tên hành chính (`Trần Thị Lan`, `Nguyễn Minh Khanh`) trong văn miêu tả. Chỉ dùng `bà Lan`, `bà`, `Khanh`, `anh`.
-   - Họ tên đầy đủ chỉ xuất hiện trong trang sổ ghi chép đơn hàng ("Vũ Văn Cường", "Vũ Thị Thoa") và đối thoại xác minh danh tính.
-2. **Kỷ luật điểm nhìn & Chuyển dịch góc nhìn (Perceptual Shift & Pull-Back Reveal):**
-   - 90% đầu chương bám chặt lăng kính giới hạn của bà Lan sáng mùng 10: đầy ắp xúc giác đời thường (mùi hồ nếp chua thiu, bụi phẩm đỏ kẽ móng, hàng hình nhân không vẽ mắt, ngón tay buốt lạnh, mùi bùn ao sen ngai ngái). Hoàn toàn không head-hopping vào nội tâm người khách.
-   - 10% cuối chương chuyển dịch mượt mà bằng âm học (tiếng chợ búa lịm dần, tiếng quạt trần nổi lên) và quang học (góc nhìn nâng lên camera xà nhà) trước khi giật lùi kéo ra bàn tay cầm điện thoại của Khanh sáng 14.
-3. **Chống sáo rỗng & Jumpscare rẻ tiền (Anti-Cliché & Anti-Tell):**
-   - Không có ma làm mặt quỷ, không nhe răng cười quái dị; sử dụng ô vuông xanh tracking khuôn mặt giật lag và cái nhìn tĩnh lặng tuyệt đối không chớp mắt vào thấu kính.
-   - Không có câu văn tell mang tính giải thích tri thức, không có narrator nhảy ra tóm tắt ý nghĩa.
-   - Kết thúc sắc bén, lạnh gáy ngay tại khoảnh khắc nhận thức của Khanh về ánh mắt xuyên thời gian.
+1. **Bảo toàn vỏ bọc người sống của Thoa & Kiến trúc nhận thức hai tầng:**
+   - Xóa bỏ mọi mô tả mang tính bóng ma lộ liễu.
+   - Thoa xuất hiện dưới vành nón lá sụp che nửa mặt, áo xanh sờn mép vai, quần lụa đen chấm gót, tiếng dép lê *xoạt, xoạt*.
+   - Xưng hô người lớn thôn quê (*"Tôi — Bác"*, *"Cho anh trai tôi"*). Bà Lan đinh ninh đây là người phụ nữ trung niên cùng thế hệ ông Cường đi sắm đồ giải hạn cho anh trai, hoàn toàn tương thích với giả thuyết điều tra của công an Long ở P4/CH-05.
+2. **Loại bỏ xung đột tri thức nhân vật của bà Lan:**
+   - Xóa bỏ câu nghĩ về nét mặt họ Vũ xóm Trại. Bà Lan chỉ tiếp đón khách và so tên trên sổ đơn, ngạc nhiên vì người sống đi đặt đồ mã.
+3. **Thực hiện cú One-Shot Pull-Back Reveal liền mạch:**
+   - Xóa bỏ hoàn toàn dấu ngắt cảnh `***` và mọi lời kể lể giải thích của narrator.
+   - Chuyển dịch liền mạch từ góc nhìn bà Lan sang màn hình điện thoại: tiếng chợ búa bóp nghẹt thành loa điện thoại, góc nhìn méo mắt cá nâng lên xà nhà, ô tracking xanh giật lag quanh vành nón lá, người phụ nữ ngước nhìn chuẩn xác vào camera giấu kín 4 giây khi nón trượt ra sau để lộ dung mạo thiếu nữ đôi mươi năm 1996, ngón tay Khanh bấm dừng màn hình, kéo lùi ra bàn tay Khanh trưa 14 giữa tiếng chổi quét của mẹ, rồi Khanh ngước nhìn lên góc xà bám mạng nhện.
 
 ## Consequence-bearing deltas
 
-- Không có thay đổi về tình tiết, tri thức, mốc thời gian hay quan hệ nhân vật so với brief `CH-02-B2`.
-- Hoàn thành bản thảo trọn vẹn 3.551 từ.
+- Bảo vệ vững chắc tính hợp lý của chuỗi điều tra P4 và sự xuất hiện của cán bộ Long ở CH-05, đồng thời tối đa hóa hiệu ứng rùng rợn của dung mạo đóng băng năm 1996.
 
 ## Handoff
 
-Current review status: CANONIZED (CH-02-C1 promoted to chapters/chapter-02.md).
-Next operation: /hr-preflight CH-03.
+- Trạng thái candidate: `CH-02-C3` đã sẵn sàng cho fresh review / canonize.

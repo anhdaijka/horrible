@@ -8,18 +8,20 @@ Writer-safe selection; no future solution.
   - Mẹ Khanh; chủ tiệm vàng mã lâu năm tại thị trấn/huyện lỵ Bắc Ninh.
   - Sắc sảo, thực tế, quen việc, dạn dày trong ứng xử buôn bán. Luôn để tâm đến sổ sách, tiền cọc và đúng hẹn giao hàng.
   - Có thói quen xác minh kỹ họ hàng làng xóm để tránh nhầm lẫn hàng mã (hỏi rõ Cường xóm Trại con nhà ai).
-  - Thấy người khách hơi kỳ lạ về gu đặt đồ và tướng mạo, nhưng nhìn nhận đơn thuần dưới góc độ một đơn hàng riêng có cọc sòng phẳng.
-  - Xưng hô với khách: xưng `bác` hoặc `cô`, gọi khách là `cháu` / `cô`.
+  - Nhìn nhận người khách dưới góc độ một người đàn bà thôn quê kín đáo, lam lũ cùng thế hệ với ông Cường xóm Trại đến đặt đồ giải hạn cho anh trai.
+  - Xưng hô với khách: xưng `tôi` / `bác`, gọi khách là `cô`.
   - Ngôi thứ ba trần thuật: `bà Lan`, `bà`.
-- **Người phụ nữ đặt hàng (Vũ Thị Thoa — 22 tuổi theo diện mạo):**
-  - Dáng người mảnh mai, da trắng tái, gò má cao, mắt phượng dài, cằm thon (nét mặt đặc trưng của dòng họ Vũ xóm Trại).
+- **Người phụ nữ đặt hàng (Vũ Thị Thoa — 22 tuổi theo diện mạo siêu nhiên, 52 tuổi nếu còn sống theo hồ sơ hộ tịch):**
+  - Dáng người mảnh mai, gầy gò, ăn mặc giản dị kín đáo (áo sơ mi cộc tay xanh nhạt sờn mép, quần lụa đen chấm gót, đội nón lá cũ che sụp nửa mặt).
+  - Ban ngày tại tiệm: Mang vỏ bọc người sống bình thường, che giấu nhân dạng dưới vành nón lá nghiêng. Không lộ liễu ma quái, không gán ghép nhận diện họ Vũ của bà Lan.
   - Thuận tay trái tự nhiên: dùng tay trái chỉ dẫn chi tiết, vẽ phác hoặc đưa tiền cọc một cách thuần thục.
-  - Giọng nói: nhẹ, trong trẻo, điềm tĩnh, phát âm chuẩn giọng Bắc Bộ xưa.
-  - Tự xưng là `Vũ Thị Thoa`, gọi bà Lan là `bác` / `cô`, xưng `cháu`.
+  - Giọng nói: nhỏ nhẹ, trầm tĩnh, phát âm chuẩn giọng Bắc Bộ xưa.
+  - Xưng hô: xưng `tôi`, gọi bà Lan là `bác`; nói `cho anh trai tôi`, `anh tôi chỉ nghe loại đài ấy thôi`.
+  - Trên camera (CCTV): Khi ngửa mặt lên nhìn vào thấu kính, nón lá trượt nhẹ ra sau, bóc trần gương mặt thiếu nữ đôi mươi mơn mởn, da trắng bệch không nếp nhăn thời gian — dung mạo đóng băng vĩnh viễn ở tuổi 22 mùa thu 1996.
   - Không có bất kỳ dòng mô tả suy nghĩ nội tâm hay độc thoại nào; toàn bộ diện mạo và hành vi được quan sát qua góc nhìn của bà Lan và ống kính camera.
 - **Nguyễn Minh Khanh (27 tuổi — Xuất hiện ở cú kéo lùi góc nhìn cuối chương):**
   - Kỹ sư IT, ngồi sau quầy thu ngân sáng 14, tò mò tua lại video camera giám sát mùng 10.
-  - Bị đòn tâm lý rợn ngợp khi nhận ra ánh mắt trong đoạn video đang nhìn thẳng vào mắt mình qua màn hình điện thoại.
+  - Bị đòn tâm lý rợn ngợp khi nhận ra ánh mắt trong đoạn video đang nhìn thẳng vào mắt mình qua màn hình điện thoại, và nhận diện gương mặt người con gái đôi mươi nhìn thẳng vào camera giấu kín.
   - Ngôi thứ ba trần thuật: `Khanh`, `anh`.
 
 ## People beyond the plot
