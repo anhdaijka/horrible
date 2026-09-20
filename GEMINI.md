@@ -46,9 +46,10 @@ Gemini MUST:
 - keep prose separate from locator, handoff, review and audit material;
 - update `author/session-state.md` and every affected active handoff surface after a workflow operation;
 - run the checks required by the route and report failures honestly;
-- stop rather than invent approval, facts, cultural practice, durable state or a missing causal choice.
+- stop rather than invent approval, facts, cultural practice, durable state or a missing causal choice;
+- read `docs/failure-memory.md` before any generative or revision pass, and compare every delivered passage against its anti-pattern signatures before committing — a structural match to a rejected pattern is a regression requiring rewrite, not a wording change.
 
-Gemini MUST NOT write directly to `chapters/`, continuity/canon state, or an existing candidate as a shortcut. It MUST NOT use workflow snapshots as live instructions, resurrect the deleted CH-01 versions, claim that validation certifies literary quality, or silently collapse multiple roles into one contaminated pass.
+Gemini MUST NOT write directly to `chapters/`, continuity/canon state, or an existing candidate as a shortcut. It MUST NOT use workflow snapshots as live instructions, resurrect the deleted CH-01 versions, claim that validation certifies literary quality, or silently collapse multiple roles into one contaminated pass. It MUST NOT declare a revision complete if the delivered text shares a structural anti-pattern signature with any entry in `docs/failure-memory.md`.
 
 ## Machine-enforced guard
 
