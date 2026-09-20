@@ -1,249 +1,257 @@
+---
+title: "Chương 5: Bút tích năm Bính Tý"
+number: 5
+pov: nguyen-minh-khanh
+locations:
+  - family-votive-shop
+characters:
+  - nguyen-minh-khanh
+  - tran-thi-lan
+  - dang-viet-long
+arcs-advanced:
+  - case-zero-don-hang-cho-nguoi-chua-chet
+status: final
+word-count: 4338
+---
+
 # Chương 5: Bút tích năm Bính Tý
 
-Nắng quái chiều ngày Rằm tháng Bảy rớt lại trên mái tôn tiệm vàng mã những vệt vàng vọt như phẩm nhuộm cũ.
+Trời đứng bóng rồi ngả dần về hướng tây, nắng quái tháng Bảy hắt một vệt vàng ệch, nhạt thếch qua ngã tư Chợ Bến.
 
-Sau ba ngày cao điểm của phiên chợ Vu Lan, ngã tư Chợ Bến rệu rã và xẹp xuống như một chiếc bánh đa ngấm nước mưa. Những sạp hoa cúc đại đóa, hàng trầu cau, phản thịt lợn và chậu cá chép phóng sinh đã thu dọn từ sớm, để lại trên mặt đường nhựa loang lổ những vũng nước đọng đen ngòm cùng xác lá chuối, cọng rơm khô và những dải dây nilon đỏ vương vãi. Thỉnh thoảng, một chiếc xe tải chở cát chạy vụt qua ngã tư, kéo theo một luồng gió thốc cuốn đám bụi đường cùng tàn tro vàng mã bay xao xác lên không trung, rồi lại lả tả rớt xuống mặt đường nhựa nóng bỏng.
+Gian nhà ngoài của tiệm vàng mã ngột ngạt như một cái lò ủ trấu. Mùi hồ nếp lên men chua loét quẩn quanh dưới mái tôn thấp tè, quyện chặt vào mùi giấy bồi ẩm mốc và lớp khói nhang bài cháy dở từ buổi sáng. Những cỗ ngựa giấy hồng, ngựa bạch đứng xếp hàng dọc lối đi chật hẹp, mắt vẽ bằng mực tàu đen nhánh trân trân nhìn ra khoảng sân gạch rêu phong.
 
-Bên trong tiệm, không khí ngột ngạt mùi giấy bổi ẩm mốc quyện với mùi phẩm điều và hồ dán nếp chua nồng. Hàng mã tồn sau ngày Rằm chất đống ngổn ngang từ sàn nhà lên tận xà gồ: mấy con ngựa giấy hồng, ngựa trắng ế khách đứng chen chúc quay mặt vào vách vôi loang lổ; từng cọc tiền âm phủ, vàng thỏi bọc giấy bóng kính và những thếp áo chúng sinh ngũ sắc bị khách bới tung nằm xộc xệch trên các kệ gỗ. 
+Bà Lan ngồi bệt ở bậu cửa quầy, hai ống quần xắn cao để lộ đôi bắp chân gầy guộc chằng chịt những đường gân xanh. Bà vừa quạt lấy quạt để bằng chiếc quạt nan rách mép, vừa xoa bóp hai đầu gối mỏi nhừ sau một buổi sáng tất bật phục vụ phiên chợ Rằm. 
 
-Bà Lan ngồi bệt trên chiếc ghế đẩu con bên quầy thu ngân, hai bàn tay chai ráp khô nẻ xoa xoa liên hồi vào thắt lưng. Gương mặt người đàn bà năm mươi lăm tuổi sạm đi vì thiếu ngủ, đuôi mắt hằn sâu những nếp nhăn nhọc nhằn, mồ hôi rịn ra làm những sợi tóc bạc bết chặt vào hai bên thái dương. 
+— Mày quét lại cái nền nhà cho sạch rồi khép bớt cánh cửa xếp lại, Khanh ạ. — Bà Lan vịn tay vào mép bàn gỗ, khó nhọc đứng dậy, phủi bụi giấy bám trên vạt áo cánh màu nâu sồng. — Tao sang chùa thắp tuần nhang cho các cụ với cầu siêu cho vong linh chợ búa rồi tao về. Có khách vãng lai vào hỏi mua tiền lẻ hay vàng lá thì bán, còn cái đài mã để trên mặt kính kia thì tuyệt đối chớ có mó tay vào. Đơn của người chết đặt cho người sống... là mã phạm. Cứ để nguyên đấy, mai mốt người nhà bên xóm Trại họ xong việc tang ma, tao sang nói chuyện phải quấy sau.
 
-— Đau như ai lấy búa nện vào ngang lưng mày ạ, — bà Lan vừa đấm thùm thụp vào mông vừa than thở, giọng khàn đặc. — Khổ cái thân già, quanh năm chỉ trông vào mỗi vụ rằm tháng Bảy, đứng lên ngồi xuống đếm tiền mã cho người ta mà chân tay run lẩy bẩy. 
+Khanh đang cúi đầu dọn mấy xấp tiền âm phủ rơi vãi dưới sàn, nghe mẹ dặn chỉ khẽ ừ một tiếng trong cổ họng.
 
-Khanh cúi người cầm chổi đót gom đám nan tre vụn và giấy vụn dưới chân quầy thành một đống gọn gàng. Anh ngước nhìn mẹ, khẽ bảo:
+Bà Lan với chiếc nón lá cũ treo trên vách nứa, dắt chiếc xe đạp mini cọc cạch ra khỏi bậu cửa. Tiếng xích xe khô dầu kêu lách cách rồi chìm dần vào tiếng còi xe tải và tiếng huyên náo rời rạc của buổi chợ chiều đang tan.
 
-— Mẹ cứ sang chùa với các bác xóm Chùa đi. Lễ tạ ngày Rằm xong thì ở lại nghe các thầy tụng kinh cho thư thái đầu óc. Cửa hàng để đấy con dọn nốt cho, đằng nào tối nay cũng vãn khách rồi.
+Gian tiệm lập tức rơi vào một khoảng lặng đặc quánh.
 
-Bà Lan với tay lấy chiếc nón lá rách và túi vải đựng hoa quả cúng dường để trên mặt bàn kính, nhưng bước chân bà ngập ngừng khi mắt vô tình liếc lên nóc tủ chè gỗ gụ góc buồng. 
+Khanh dựa chổi vào góc tường, bước lại gần chiếc bàn kính đặt máy vi tính. Trên mặt kính mờ bụi giấy, chiếc đài cassette bằng giấy bồi nằm im lìm. Lớp sơn màu xám xịt của thân đài tương phản gay gắt với vạch sóng AM màu đỏ tươi vẽ bằng tay chiêu. Bên cạnh nó là cuốn sổ nhật trình bán hàng của mẹ anh, trang giấy mỏng mở toang dòng chữ run rẩy: *Vũ Thị Thoa — gửi cho ông Vũ Văn Cường — nhận dưới chân cầu Đầm Sen*.
 
-Trên nóc tủ cao quá đầu người, chiếc đài cassette mã bằng giấy xi măng vẫn nằm chơ vơ giữa lớp bụi mờ. Hai dải băng giấy đỏ dán bên góc máy—mảnh ghi chữ *Vũ Văn Cường* và mảnh ghi *Vũ Thị Thoa*—vẫn dính chặt vào nhau, mép giấy quăn queo khẽ phập phồng theo từng cơn gió luồn qua khe liếp.
+Bàn tay phải của Khanh vô thức thọc sâu vào túi quần bò. Đầu ngón tay anh miết nhẹ lên gờ kim loại sắc lạnh của chiếc cúc áo dập nổi hình bánh xe có cánh. Mẩu vải kaki sém cạnh bám đầy muội than vẫn còn nằm đó.
 
-— Nhìn cái của nợ ấy tao lại gai hết cả sống lưng, — bà Lan hạ giọng, kéo vạt áo nâu lau mồ hôi cổ. — Sáng nay mang sang xóm Trại định giao trả cho nhà người ta mà con dâu ông Cường nó gạt phắt đi, mặt mũi tái mét như người chết trôi. Thiên hạ ngoài chợ Bến sớm nay họ xúm lại chỉ trỏ, xì xào râm ran cả lên. Người ta bảo nhà mình làm mã quái gở, ai đời người sống sờ sờ chưa tắt thở đã đi nhận đơn làm đài làm loa cho người ta sang thế giới bên kia. Vận hạn đen đủi thế không biết!
+Cả buổi trưa nay ở xóm Trại, hình ảnh Toàn ngồi co ro bên bậu cửa buồng quàn, chiếc cổ áo sơ mi dài tay cài kín mít sát cằm giữa cái nóng gần bốn mươi độ, cứ chập chờn bám riết lấy tâm trí Khanh. Ánh mắt Toàn đỏ ngầu những tia máu, dại đi vì kinh hãi mỗi khi nghe tiếng bước chân người sống. Rồi cảnh Lan Anh lén lút ném bọc áo rách vào đáy lò củi đun nước xông...
 
-— Mẹ đừng nghĩ quẩn, — Khanh lựa lời trấn an, tay vẫn thoăn thoắt hót đống rác vào xẻng tôn. — Lỗi là do người ta đến đặt rồi người ta xui rủi gặp nạn, chứ tiệm mình buôn bán đàng hoàng, có ai biết trước được chuyện sống chết nhà người ta đâu.
+Nếu Toàn thực sự đã giằng co xô xát với bố vì món nợ xe ben đầm sen của gã Sang cò đất, thì chiếc cúc áo rách này chính là bằng chứng duy nhất cho thấy anh ta có mặt lúc ông Cường ngã xuống.
 
-— Thì vẫn biết là thế, — bà Lan thở dài một hơi sườn sượt, chỉnh lại quai nón lá. — Nhưng tao dặn mày này, chốc nữa quét dọn trong nhà thì chớ có dại dột mà mó tay vào cái đài đấy. Đồ mã đã ghi tên người chết bất đắc kỳ hồ mà không ai nhận, lại để qua rằm tháng Bảy thế này là thuộc diện mã phạm, mã sót. Cứ để yên đấy, mai mốt tao sang nhờ thầy bên chùa làm lễ rồi đem ra ngã ba bãi tha ma hóa tạ cho xong nợ âm. Mày nghe chưa?
+Khanh thở dài, rút bàn tay ra khỏi túi. Đúng lúc đó, một chiếc xe máy Dream nổ giòn giã tấp thẳng vào lề đường, phanh kít lại trước bậu cửa tiệm.
 
-— Vâng, con nhớ rồi. Mẹ đi cẩn thận kẻo vấp gạch ngoài ngõ.
+Một bóng người cao lớn bước xuống xe, gạt chân chống nghiêng. Đó là Long, công an viên phụ trách khu vực Chợ Bến. Anh mặc bộ sắc phục công an ngắn tay, ve áo gắn phù hiệu, chiếc mũ cối kẹp bên nách, một bên cầu vai hơi sờn do thường xuyên đeo dây cặp tài liệu. Gương mặt Long sạm nắng, vuông vức và nghiêm nghị, đôi mắt sâu sắc sảo quét nhanh một lượt từ đống ngựa giấy ngoài cửa vào tận bàn máy tính nơi Khanh đang đứng.
 
-Bà Lan lẹp xẹp xỏ đôi dép tổ ong bước ra cửa nách. Tiếng chuyện trò râm ran của mấy bà bạn già xóm Chùa cùng tiếng mõ chùa làng trầm đục vọng lại từ phía sau rặng tre xa xa, rồi nhanh chóng chìm nghỉm vào không gian tĩnh lặng của buổi chiều muộn.
+— Chú mày trông tiệm một mình à? Bu Lan đâu rồi? — Long bước qua bậu cửa, đế giày da nện cồm cộp trên nền gạch hoa.
 
-Khanh đứng lại một mình giữa tiệm mã vắng tanh. 
+— Mẹ em vừa sang chùa lễ Rằm rồi anh. — Khanh kéo chiếc ghế đẩu đối diện bàn kính. — Có việc gì thế anh Long?
 
-Anh cất chổi vào góc tường, rồi vô thức đưa tay thọc sâu vào túi quần bò. Ngón tay anh chạm vào mẩu vải kaki sém cạnh và chiếc cúc kim loại hình bánh xe có cánh vẫn nằm im lìm trong đáy túi. Vết gờ sắc lẹm dập nổi trên mặt cúc cọ vào da thịt ram ráp, đem theo một cảm giác lành lạnh khó chịu.
+Long không ngồi ngay. Anh đặt chiếc cặp da màu đen lên mặt bàn kính, đảo mắt nhìn quanh những cuộn giấy bồi và khung tre ngổn ngang, rồi ánh mắt dừng lại ở cỗ đài cassette bằng giấy bồi đặt bên cạnh cuốn sổ bán hàng.
 
-Lời nói của Mai ngoài đầu ngõ trưa nay vẫn còn văng vẳng bên tai: *“Cúc áo này là biểu trưng riêng của tổ xe ben ba chiếc mà lão Sang cò đất đứng ra bảo lãnh mua trả góp cho cánh tài xế xóm Trại năm ngoái... Thằng Toàn con ông Cường là chân chạy chính...”*
+— Trưa nay bên xóm Trại rộn lên chuyện nhà ông Cường đột tử. — Long cất giọng trầm và đanh gọn. — Nhưng ngoài ngã tư chợ Bến, người ta lại kháo nhau từ sáng tới giờ: hôm mùng mười có người lạ vào tiệm nhà chú đặt mã gửi cho ông Cường, hẹn đúng ngày mười bốn nhận đồ. Chuyện này có thật không?
 
-Hình ảnh Toàn đứng co ro dưới gốc khế trưa nay lại hiện lên trong tâm trí Khanh. Toàn—nước da cháy nắng, nợ nần ngập đầu và hai mắt đỏ ngầu quầng thâm—đã nhìn Khanh chằm chằm khi anh bước vào sân phụ giúp việc tang ma. Đó không phải vẻ bối rối thường tình của người đang có tang sự, mà là sự gườm gườm cảnh giác, như thể sợ bị bắt quả tang một điều gì nhơ nhớp. 
+Khanh thoáng khựng lại một nhịp. Ánh mắt nghiêm nghị của người công an viên khiến anh nhận ra đây không phải là một cuộc ghé thăm chào hỏi thông thường. Tin đồn ngoài chợ đã biến tiệm mã của mẹ anh thành một mắt xích trong vụ việc.
 
-Ngày trước, lúc Lan Anh chưa về làm dâu họ Vũ, chị thỉnh thoảng ghé tiệm mã mua trầu cau, tiền vàng thắp hương đầu tháng, ríu rít khen Khanh ngoan ngoãn, học hành đỗ đạt trước mặt các bà trong xóm. Toàn thì bỏ học sớm, dạt theo cánh xe tải cát sỏi bên bến sông. Mỗi lần tình cờ chạm mặt ngoài ngã tư chợ Bến, Toàn đều nhổ toẹt bãi nước bọt xuống rãnh nước, nhếch mép cười khẩy: *“Kỹ sư thành phố về làng ăn cơm mẹ nấu đấy à?”*
+— Có thật anh ạ. — Khanh chỉ tay vào cỗ đài giấy bồi. — Sáng hôm mùng mười, có một người phụ nữ đội nón lá vào đây đặt mẹ em làm chiếc đài này. Mẹ em ghi vào sổ nhật trình đàng hoàng.
 
-Và sáng nay, giữa lúc cha chết bất đắc kỳ hồ, Toàn vẫn đưa mắt dòm ngó từng cử chỉ của Khanh bên bể nước, hai bàn tay cứ khư khư giữ chặt lấy chiếc cổ áo sơ mi cài kín mít giữa trưa hè nực nội.
+Long bước tới một bước, cúi người nhìn sát vào cỗ đài mã. Đôi lông mày rậm của anh khẽ nhíu lại:
 
-Toàn đang sợ điều gì? Sợ người ta nhìn thấy những vết cào rách da trên cổ? Hay sợ Khanh—với chiếc đài mã tai ương đang nằm trên nóc tủ nhà bà Lan—sẽ lần mò ra những bí mật mà gia đình họ Vũ đang cố sống cố chết chôn vùi?
+— Đặt đài cassette à? Người nhận đề đích danh Vũ Văn Cường?
 
-Một tiếng còi xe máy ngắn vang lên ngoài cửa tiệm, cắt đứt dòng suy nghĩ của Khanh.
+— Vâng. Người đó bảo ông Cường thích nghe đài lúc đêm muộn. Còn để lại hai tờ năm mươi nghìn tiền cotton đặt cọc. Tên người đặt ghi trong sổ là Vũ Thị Thoa.
 
-Một chiếc xe Wave màu xanh thẫm bám đầy bụi đường dừng lại trước thềm gạch. Người đàn ông bước xuống xe gạt chân chống nghiêng, cởi mũ bảo hiểm kẹp vào nách. Đó là cán bộ Long—công an viên phụ trách an ninh địa bàn khu vực ngã tư Chợ Bến và xóm Trại.
+Nghe đến ba chữ "Vũ Thị Thoa", cơ mặt của Long khẽ giật nhẹ một cái. Anh ngẩng đầu nhìn thẳng vào mắt Khanh:
 
-Long khoảng bốn mươi hai tuổi, dáng người tầm thước nhưng săn chắc, nước da bánh mật từng trải sương gió và quai hàm vuông vức nghiêm nghị. Anh mặc chiếc áo khoác gió mỏng màu sẫm có thêu phù hiệu công an bên ngực trái, bên trong là áo len tối màu cổ bẻ. Dưới nách anh kẹp một cuốn sổ công tác bìa da đen đã sờn mép, chiếc bút bi đen cài ngay ngắn nơi sống sổ.
+— Người phụ nữ đó trông thế nào? Chú mày có nhìn rõ mặt không?
 
-— Bà Lan có nhà không em? — Long cất giọng trầm, cởi mở nhưng vẫn giữ một khoảng cách chừng mực theo thói quen nghiệp vụ.
+— Hôm ấy em đang ngồi ở bàn này làm việc. Em không để ý lắm, chỉ nhớ người đó đội nón lá sụp xuống tận cằm, nói giọng nhỏ và khàn. Mẹ em cũng bảo không nhìn rõ mặt. Nhưng... trong tiệm có gắn camera an ninh.
 
-— Dạ, mẹ em vừa sang chùa lễ Phật rồi ạ, — Khanh vội bước ra hiên, kéo chiếc ghế gỗ mời khách. — Anh Long vào nhà uống chén nước. Có việc gì thế anh?
+Mắt Long sáng lên:
 
-Long không ngồi xuống ghế ngay. Ánh mắt sắc bén của anh lướt qua một lượt khắp không gian tiệm mã ngổn ngang, dừng lại một giây ở các kệ hàng rồi nhìn thẳng vào Khanh:
+— Mở đầu thu cho tôi xem lại đoạn ấy.
 
-— Anh đi xe máy từ xóm Trại vòng qua đây. Lúc nãy đi qua ngã tư chợ, thấy mấy bà sạp rau với sạp mã bên kia cứ xì xào bàn tán về chuyện tiệm nhà mình sáng nay mang đồ mã sang nhà ông Cường. Anh ghé vào hỏi thăm tình hình một chút.
+Khanh gật đầu, kéo con chuột máy tính. Anh mở phần mềm quản lý camera an ninh, gõ mốc thời gian sáng ngày mùng mười tháng Bảy. Thanh trượt thời gian chạy giật từng nhịp rồi dừng lại ở đoạn 09:20.
 
-Khanh khựng lại một nhịp. Hóa ra là tin đồn ngoài chợ. Sự việc sáng nay khi mẹ anh mang chiếc đài sang giao cho Lan Anh đã diễn ra quá ồn ào giữa ban ngày ban mặt, trước mắt bao nhiêu tiểu thương buôn bán. Trong một làng quê mà tin tức lan nhanh hơn gió bão, việc một người chết bất thường với vết thương gãy cổ lại có một món đồ mã đặt trước tên mình từ bốn ngày trước chắc chắn là một thứ mồi ngon cho những lời thêu dệt quái đản.
+Màn hình hiển thị góc quay từ chiếc mắt thần camera treo trên xà nhà chúc xuống bậu cửa. 
 
-— Dạ... chuyện sáng nay thực ra là hiểu lầm thôi anh, — Khanh lựa lời, kéo chiếc quạt cây hướng về phía bàn uống nước. — Có người đến tiệm đặt làm chiếc đài cassette giấy từ hôm mùng mười, hẹn sáng mười bốn lấy để gửi cho người nhà xóm Trại. Mẹ em cứ đúng hẹn làm xong thì mang giao, ai ngờ đúng lúc nhà bác Cường xảy ra chuyện...
+Trong đoạn băng mờ nhòe do độ phân giải thấp, không gian tiệm mã sáng mùng mười hiện lên tĩnh lặng. Lúc 09:21, một bóng người phụ nữ mặc áo bà ba màu nâu sẫm, đầu đội nón lá cũ bước qua bậu cửa. Người đó đi đứng nhẹ bẫng, vạt áo buông thõng. Dưới bóng râm của vành nón dốc ngược, toàn bộ phần mặt chìm lỉm trong bóng tối đen đặc.
 
-Long kéo chiếc ghế đẩu ngồi xuống đối diện Khanh, đặt cuốn sổ bìa da lên mặt bàn kính. Anh mở nắp bút bi, khẽ gõ nhẹ đầu ngón tay lên mặt bàn:
+Long ghé sát mặt vào màn hình vi tính, chăm chú theo dõi:
 
-— Hiểu lầm hay không thì anh chưa dám nói. Nhưng ông Cường mất đột ngột, trên người có dấu hiệu chấn thương cổ nghiêm trọng, hiện trường và nguyên nhân tử vong vẫn đang trong quá trình xác minh theo đúng thủ tục. Giữa lúc nhạy cảm này, việc xuất hiện một đơn hàng mã mang đích danh tên ông ấy trước khi ông ấy chết là tình tiết có liên quan trực tiếp đến dư luận địa phương. Anh cần nắm rõ nguồn gốc đơn hàng này.
+— Người này dong dỏng cao, gầy guộc... Bàn tay vươn ra đặt tiền là tay trái.
 
-— Vâng, em hiểu. Nhà em buôn bán nhỏ lẻ, có sổ sách ghi chép rõ ràng chứ không làm bậy bạ đâu anh.
+— Vâng, người đó thuận tay chiêu. Viết tên vào sổ cũng bằng tay trái. — Khanh chỉ vào dòng chữ nguệch ngoạc trên mặt sổ.
 
-Khanh bước lại quầy thu ngân, nhấc cuốn sổ đơn hàng bìa các-tông xanh dày cộp đặt lên bàn trước mặt Long. Cuốn sổ đã quăn mép, trang giấy ố vàng vì bụi giấy mã. Khanh lật đến trang ghi ngày mùng 10 tháng Bảy âm lịch, chỉ ngón tay vào dòng chữ nắn nót của bà Lan:
+Đoạn video trôi dần về phút thứ 09:24. Người phụ nữ nhận mẩu giấy biên nhận từ tay bà Lan, cất vào túi áo rồi quay lưng bước ra phía bậu cửa tiệm. 
 
-*“10/7: Cô Vũ Thị Thoa — gửi anh trai Vũ Văn Cường (xóm Trại). Một đài cassette có dây đeo, dán mác đỏ. Lấy sáng 14/7. Đã cọc 50.000đ.”*
+Khanh ghé sát vào màn hình, định bụng chỉ cho Long thấy điều bất thường mà trưa nay anh đã nhìn thấy trên điện thoại: lúc người đó bước trọn hai chân ra khoảng sân gạch ngập nắng ngoài hiên, dưới chân hoàn toàn không hề có một vệt bóng đổ.
 
-Long cúi đầu, chăm chú nhìn từng nét chữ trên trang sổ. Chiếc bút bi trên tay anh xoay nhẹ một vòng.
+— Anh nhìn kỹ dưới chân cô ta nhé, lúc bước ra nắng...
 
-— Vũ Thị Thoa? — Long ngước mắt lên nhìn Khanh, chân mày khẽ nhíu lại. — Mẹ em có nhớ mặt người phụ nữ này không? Lúc đến đặt hàng, người này trông như thế nào?
+Khanh chưa kịp nói dứt câu thì cổ họng anh bỗng nghẹn ứ lại.
 
-— Mẹ em kể người phụ nữ đó trạc ngoài hai mươi tuổi, dong dỏng cao, mặt trái xoan, mặc áo sơ mi kẻ sẫm màu, giọng nói hơi nhỏ nhẹ kiểu người làng cổ. Lúc đặt cọc tiền, cô ấy dùng tay trái rất thuần thục.
+Trên màn hình vi tính, ngay khi mũi chân chạm mép gạch tiếp giáp với vệt nắng chang chang ngoài đường cái, bóng người phụ nữ đột ngột khựng lại.
 
-Long im lặng lắng nghe, không ghi chép ngay vào sổ mà đưa mắt nhìn quanh trần nhà:
+Toàn bộ thân hình đứng sững như một chiếc cọc chôn chặt dưới đất.
 
-— Món đồ đó làm xong chưa? Hiện giờ đang ở đâu?
+Khanh giật bắn mình. Trưa nay khi anh xem lại đoạn băng này, người đó rõ ràng bước thẳng ra đường cái rồi hòa vào dòng xe cộ biến mất! Tại sao bây giờ người đó lại dừng lại?
 
-Khanh chỉ tay lên nóc tủ chè gỗ gụ:
+Rồi trước con mắt mở trừng trừng của Khanh, người phụ nữ từ từ ngửa mặt lên.
 
-— Dạ, làm xong từ chiều mười ba rồi ạ. Sáng nay mang đi không giao được, mẹ em lại mang về để tạm trên nóc tủ kia.
+Vành nón lá hơi trượt nhẹ ra sau gáy. Ánh sáng chói lòa ngoài đường hắt ngược vào làm vùng không gian dưới nón tối sầm lại. 
 
-Long đứng dậy, bước lại gần chiếc tủ chè. Anh ngước nhìn chiếc đài cassette bằng giấy xi măng thô ráp. Dải băng đỏ dán chéo trên mặt máy với hai cái tên viết bằng mực đen nổi bật dưới ánh sáng nhờ nhờ của bóng đèn tuýp. Long rút chiếc điện thoại thông minh trong túi áo khoác, giơ lên chụp liền ba kiểu ảnh ở các góc khác nhau rồi mới quay lại bàn.
+Và trong mảng tối nhờ nhờ ấy, hai hố mắt của người phụ nữ hiện lên rõ mồn một. Vùng con ngươi đen nhánh bên trong bỗng nhiên giãn nở một cách kỳ dị, đen đặc và sâu hoắm, phình to nuốt trọn gần như toàn bộ tròng trắng. Đó không phải là một đôi mắt người. Đó là hai cái hố đen ngòm, sâu thẳm và vô hồn, trừng trừng nhìn thẳng tắp lên mắt thần camera trên trần nhà — nhìn xuyên qua màn hình máy tính, găm thẳng vào đồng tử của Khanh.
 
-— Thế còn camera an ninh của tiệm? — Long hỏi, ngón tay chỉ lên mắt camera giám sát gắn ở góc xà ngang hiên nhà. — Hôm mùng mười camera có ghi lại được hình ảnh người phụ nữ này không?
+Một luồng khí lạnh buốt dọc sống lưng khiến Khanh run bắn người. Anh bật ngửa ra sau, ngón tay run lẩy bẩy chỉ thẳng vào màn hình, giọng lạc hẳn đi:
 
-— Có anh ạ. Hôm qua em có trích xuất đoạn video đó lưu vào laptop để đối chiếu. 
+— Anh Long! Nhìn... nhìn kìa! Cô ta dừng lại... cô ta ngửa mặt lên nhìn camera kìa! Mắt cô ta đen ngòm!
 
-— Mở cho anh xem.
+Long nheo mắt nhìn vào màn hình, rồi quay sang nhìn vẻ mặt tái mét của Khanh, trán nhăn tít lại:
 
-Khanh kéo chiếc máy tính xách tay màu xám trên góc bàn làm việc lại gần, cắm sạc rồi bật màn hình. Anh mở thư mục chứa đoạn video ghi hình buổi sáng mùng 10 tháng Bảy. Tệp video có tên `CAM01_20260710_0924.mp4` hiện lên trên giao diện trình phát.
+— Chú mày nói lảm nhảm cái gì thế? Ai dừng lại?
 
-Khanh nhấn nút *Play*.
+— Kìa! Cô ta đang đứng ở bậu cửa, trừng mắt nhìn thẳng vào anh em mình kìa!
 
-Trên màn hình máy tính, góc quay từ trên cao rọi thẳng xuống quầy thu ngân của tiệm mã. Ánh nắng sớm ngày mùng 10 chan hòa trên thềm gạch. Bà Lan đang ngồi cặm cụi dán những thếp tiền vàng, lưng quay về phía cửa. Đúng 09 giờ 24 phút, một bóng người mảnh khảnh mặc chiếc áo sơ mi kẻ ca-rô sẫm màu bước từ ngoài đường vào hiên tiệm.
+Long thở dài một tiếng bực dọc. Anh với tay kéo con chuột máy tính về phía mình, rê thanh trượt lùi lại vài giây rồi bấm phát lại:
 
-Long cúi sát mặt vào màn hình laptop, đôi mắt nheo lại chăm chú.
+— Chú mày bị làm sao đấy? Mắt mũi để đâu? Nhìn lại đi!
 
-Nhưng ngay khi bóng người phụ nữ vừa bước qua ngạch cửa gỗ, giao diện trình duyệt video bỗng giật khựng một nhịp.
+Khanh nín thở nhìn trân trân vào màn hình.
 
-Ô vuông màu xanh lá cây của khung nhận diện khuôn mặt trên màn hình bỗng dưng co giật. Khung vuông không thể bắt dính vào gương mặt người phụ nữ mà liên tục trượt loạn xạ từ cằm lên trán, rồi giật lệch sang mép chiếc gương vỡ treo trên vách gỗ phía sau, nhấp nháy lách tách như một con côn trùng chập mạch.
+Đoạn băng chạy lại từ giây thứ 15. Người phụ nữ cất mẩu giấy biên nhận vào túi áo, bước thẳng ra bậu cửa tiệm. Nhưng dưới con mắt của Long, bóng người ấy thản nhiên bước qua vệt nắng ngoài hiên, lướt nhanh ra đường cái rồi rẽ phải, bóng dáng khuất hẳn sau một chiếc xe tải chở hàng đang nổ máy. Người đó không hề dừng lại dù chỉ một phần mười giây. Càng không hề có động tác ngửa mặt lên nhìn trần nhà.
 
-Đồng thời, dòng chữ số hiển thị thời gian ở góc phải màn hình đột ngột đứng sững lại: `10/07/2026 09:24:18`.
+— Thấy chưa? — Long ngả người ra lưng ghế, lắc đầu chép miệng. — Người ta cất biên nhận vào túi rồi đi thẳng ra ngã tư, có quay đầu lại đâu mà chú mày bảo nhìn với ngó? Hay là trưa nay sang bên đám tang ông Cường hít phải tử khí rồi về đây sinh ảo giác?
 
-Thời gian trên thanh phát video vẫn chạy đều từng giây, nhưng đồng hồ số trên màn hình camera bị đóng băng tuyệt đối ở giây thứ 18. Và từ hai khe loa nhỏ của chiếc máy tính xách tay, một luồng âm thanh rè rè, xèo xèo vô cớ cất lên—thứ âm thanh lạo xạo như tiếng dải sóng radio AM đang dò kênh giữa đêm khuya vắng lặng, cào xước vào màng nhĩ người nghe một cách buốt lạnh.
+Khanh ngồi chết lặng trên ghế. Mồ hôi lạnh toát ra ướt đẫm lưng áo.
 
-Khanh giật mình, vội vàng bấm phím cách để tạm dừng video.
+Anh nhìn bàn tay Long đang di chuột, rồi nhìn lại màn hình máy tính. Đối với Long, đoạn băng chỉ là một người phụ nữ bình thường đi ra đường. Nhưng Khanh biết chắc chắn: vừa mới mấy giây trước thôi, chính người phụ nữ ấy đã dừng lại, ngửa mặt lên và khoét hai hố mắt đen ngòm nhìn thẳng vào anh!
 
-Tiếng rè rè tắt phụt. Căn phòng tiệm mã lại rơi vào sự câm lặng tuyệt đối.
+Bóng ma ấy... chỉ chọn để lộ nhân dạng cho một mình anh thấy. Nó đang chơi đùa với anh.
 
-Long ngồi thẳng lưng dậy, lông mày cau lại thành một vệt sâu giữa trán. Anh không hỏi han gì về hiện tượng co giật của khung hình hay tiếng rè vô lý phát ra từ chiếc camera vốn không hề có mic thu âm, chỉ dí sát ngón tay vào màn hình:
+Khanh nuốt khan một ngụm nước bọt, hai bàn tay siết chặt lại trên đầu gối để ngăn chúng run rẩy:
 
-— Em phóng to gương mặt người phụ nữ này lên hết cỡ xem nào.
+— Chắc... chắc em nhìn nhầm thật. Trưa nay đi nắng váng đầu quá.
 
-Khanh lăn chuột, phóng đại khung hình lên 200%. Dù độ phân giải bị vỡ hạt thành những ô vuông điểm ảnh mờ ảo, nhưng những đường nét cơ bản trên gương mặt người khách vẫn hiện ra khá rõ: một thiếu nữ trẻ măng, chừng hăm hai, hăm ba tuổi, mái tóc đen dài kẹp nửa đầu bằng chiếc kẹp ba lá nhựa cũ kỹ, sống mũi thẳng và đôi mắt trũng sâu thăm thẳm.
+Long khẽ cười nhạt, nhưng ánh mắt anh vẫn không rời cỗ đài giấy bồi trên bàn. Anh rút từ trong túi áo ra một bao thuốc lá Thăng Long dẹp, rút một điếu nhưng không châm, chỉ kẹp ở ngón tay rồi gõ nhẹ xuống mặt bàn kính:
 
-Long nhìn chằm chằm vào màn hình một lúc lâu, rồi anh mở cuốn sổ bìa da, lật giở một trang giấy có kẹp vài tờ biên bản phô-tô đánh máy.
-
-— Vũ Thị Thoa, — Long lẩm bẩm, ngón tay miết dọc theo mép tờ giấy đánh máy. — Em có biết người tên Vũ Thị Thoa trong hồ sơ hộ tịch xã mình là ai không?
+— Chú mày có biết cái tên Vũ Thị Thoa này là ai không?
 
 Khanh lắc đầu:
 
-— Dạ không... Nhà em ở xóm Chùa, họ Vũ bên xóm Trại em chỉ biết ông Cường với mấy người trạc tuổi, còn thế hệ trước thì em chịu.
+— Em chỉ nghe loáng thoáng người trong họ Vũ bảo là người đã mất tích từ lâu.
 
-Long nhìn Khanh, ánh mắt trầm ngâm:
+Long kéo chiếc gạt tàn về phía mình, giọng đều đều như đang đối chiếu một tập hồ sơ nghiệp vụ:
 
-— Vũ Thị Thoa sinh năm 1974. Là em gái ruột của ông Vũ Văn Cường, con gái thứ hai của cụ Vũ Cổn.
+— Năm Bính Tý 1996, lúc ấy tôi còn chưa vào ngành, nhưng hồ sơ hộ tịch cũ ở ủy ban xã vẫn còn ghi rõ. Cô Thoa này là con gái thứ hai của cụ Cổn, em gái ông Cường, chị gái cô Thủy làm công nhân bên Bắc Ninh. Năm ấy nhà họ Vũ chuẩn bị cưới vợ cho ông Cường, tiền nong túng bấn. Cụ Cổn nhắm gả cô Thoa cho con trai một nhà giàu có bên huyện để lấy tiền sính lễ lo liệu việc cưới xin cho con trai trưởng. Nhưng đùng một cái, đúng vào đêm rằm tháng Bảy năm ấy, cô Thoa biến mất.
 
-Một luồng hơi lạnh bất chợt chạy dọc sống lưng Khanh. Anh mở to mắt nhìn Long:
+Khanh nín thở lắng nghe.
 
-— Sinh năm 1974? Nghĩa là... năm nay đã hơn năm mươi tuổi?
+— Sáng hôm sau, cụ Cổn với ông Cường lên công an xã báo là cô Thoa nửa đêm cạy tủ trộm sạch tiền sính lễ của anh trai rồi trốn theo một thằng phụ xe khách đường dài. Về mặt pháp lý hành chính, gia đình họ chỉ báo cô ta bỏ trốn chứ chưa bao giờ làm thủ tục khai tử hay báo mất tích. Hồ sơ công dân của Vũ Thị Thoa trên hệ thống xã từ đó đến nay vẫn để trạng thái vắng mặt tại địa phương. Ít lâu sau, cụ Cổn họp họ, tuyên bố xóa sạch tên Thoa ra khỏi gia phả, cấm tiệt con cháu nhắc đến ba chữ ấy nữa. Mọi chuyện chìm xuồng suốt ba mươi năm qua.
 
-— Đúng thế. Năm mươi hai tuổi, — Long gật đầu, giọng bình thản đến mức lạnh lùng. — Tháng Tám năm 1996, ba mươi năm trước, người phụ nữ tên Vũ Thị Thoa này đột ngột biến mất khỏi địa phương. Khi ấy dư luận làng trên xóm dưới rộ lên tin đồn cô ấy bỏ nhà theo trai vào miền Nam làm ăn. Dòng họ Vũ từ đó đến nay chưa từng một lần trình báo mất tích, cũng tuyệt đối không làm thủ tục khai tử. Trong tàng thư lưu trữ hộ tịch cũ của xã, Vũ Thị Thoa vẫn được phân loại là diện "công dân vắng mặt tại nơi cư trú". Nói theo giấy tờ sổ sách thì người này... trên mặt pháp lý vẫn là người đang sống.
+Long cúi đầu nhìn cỗ đài mã trên bàn kính, ánh mắt sắc lẹm:
 
-Khanh nghe như có tiếng sấm nổ ngang tai. Anh nhìn trừng trừng vào màn hình máy tính, nơi hình ảnh một cô gái trẻ măng trạc đôi mươi vẫn đang đứng bất động trước quầy thu ngân dưới ánh nắng sớm mùng 10.
+— Thế mà đùng một cái, năm nay huyện duyệt quy hoạch mở đường lớn đi qua đầm sen xóm Trại. Mảnh đất đầm sen bỏ hoang ba mươi năm bỗng nhiên có giá hàng chục tỷ bạc. Anh em họ Vũ bắt đầu lục đục, cắn xé nhau vì tiền đền bù. Giờ lại xuất hiện một người đàn bà đến đây đặt mã đề tên Vũ Thị Thoa... Bên công an chúng tôi đang nghi ngờ có kẻ nào đó trong làng biết rõ chuyện xưa tích cũ, cố tình đóng giả Thoa để dằn mặt ông Cường vì chuyện tranh giành đất đai.
 
-Nếu người đặt hàng là Vũ Thị Thoa, tại sao ba mươi năm trôi qua mà dung mạo của cô ấy trên camera an ninh lại dừng lại ở độ tuổi đôi mươi—đúng cái tuổi lúc cô ấy biến mất vào mùa thu năm 1996?
+— Anh nghĩ là người sống làm à? — Khanh hỏi khẽ.
 
-Long nhìn chằm chằm vào màn hình một lúc, rồi chép miệng:
+— Chứ ma quỷ nào đi mua vàng mã? — Long cười nhạt, nhưng nụ cười của anh tắt rất nhanh. Anh hạ thấp giọng, ghé sát vào tai Khanh: — Nhưng cái chết của ông Cường thì lạ lắm... Bên pháp y huyện trưa nay mổ tử thi sơ bộ, họ đang đau đầu. Cổ ông Cường bị gãy lìa ba đốt sống cổ do một lực vặn xoắn cực mạnh từ phía sau. Nhưng... toàn bộ mười đầu ngón tay của ông Cường sạch bong.
 
-— Góc máy camera từ trên cao chiếu xuống góc xiên rất dễ làm méo mó tỉ lệ khuôn mặt. Ánh sáng ngược cũng làm người ta trông trẻ hơn tuổi thật rất nhiều. Hoặc giả... đây là một người phụ nữ khác, mạo danh cái tên Vũ Thị Thoa để thực hiện một mưu đồ nào đó.
+Khanh giật thót người:
 
-— Mưu đồ gì cơ ạ? — Khanh buột miệng hỏi.
+— Sạch bong là sao anh?
 
-Long thở ra một làn khói thuốc mỏng, ánh mắt nhìn ra khoảng sân vắng đang dần sẫm tối:
+— Nghĩa là dưới mười kẽ móng tay của nạn nhân hoàn toàn không có một mẩu biểu bì da thịt, không có một sợi vải quần áo, cũng không có bất kỳ dấu vết cào cấu chống cự nào! — Long gằn từng tiếng, đôi mắt đầy vẻ bế tắc. — Chú mày thử nghĩ xem, một người đàn ông lực lưỡng nặng hơn bảy mươi cân, nếu bị người khác xông vào bóp cổ hay bẻ cổ từ đằng sau, phản xạ tự nhiên là phải dùng hai tay cào cấu điên cuồng vào mặt, vào cổ kẻ thủ ác chứ? Đằng này, móng tay ông Cường sạch đến mức kỳ lạ. Cứ như thể... kẻ bẻ cổ ông ta không hề có da thịt để mà cào!
 
-— Chuyện đất cát đầm sen bên xóm Trại. Mảnh đất ấy sắp mở đường liên xã, giá đền bù tính bằng tiền tỷ. Ông Cường là người đứng tên quản lý toàn bộ diện tích đó suốt mấy chục năm qua. Nếu người phụ nữ tên Thoa này thực sự còn sống và đột ngột quay về đòi lại phần quyền lợi của mình sau ba mươi năm lưu lạc, thì việc xảy ra xích mích, đe dọa, hay thậm chí là một đòn trả thù nhắm vào ông Cường là hoàn toàn có cơ sở thực tế.
+Từng lời nói của Long như những nhát búa nện thẳng vào lồng ngực Khanh.
 
-Khanh im lặng. Lời giải thích của Long nghe rành mạch và có lý theo thói thường ngoài đời: một người sống sót trở về sau ba thập kỷ lưu lạc, dùng một món đồ mã đặt trước tên tuổi như một đòn thị uy gửi tới người anh trai từng chiếm trọn phần đất cát của gia đình. 
+Bàn tay phải của Khanh giật bắn lên trong túi quần. Đầu ngón tay anh chạm vào mẩu cúc áo rằn ri sém cạnh của Toàn.
 
-Nhưng nếu chỉ là người sống đe dọa nhau, tại sao khung hình nhận diện khuôn mặt lại giật loạn xạ? Tại sao loa máy tính lại phát ra tiếng rè của sóng vô tuyến AM? Và tại sao tờ tiền cotton 50.000 đồng kẹp trong ngăn kéo gỗ kia, dù đã qua năm ngày hè oi bức, vẫn buốt lạnh như vừa được vớt lên từ dưới đáy bùn ao sen?
+Trưa nay ở đám tang, Toàn kéo kín cổ áo kaki dài tay lên tận cằm, hai bàn tay run lẩy bẩy luôn đưa lên sờ nắn cổ họng đầy vết cào xước trong nỗi sợ hãi tột cùng. Toàn đinh ninh rằng chính mình đã đẩy ngã hoặc làm bố chết trong cuộc xô xát đêm mười ba.
 
-Long gấp cuốn sổ bìa da lại, cài chiếc bút bi vào gáy sổ rồi đứng dậy:
+Nhưng Long vừa nói gì? 
 
-— Vụ này phức tạp hơn anh nghĩ ban đầu. Sáng nay bên pháp y huyện họ đã về khám nghiệm sơ bộ tử thi ông Cường tại hiện trường. Có một điểm rất kỳ lạ mà cánh điều tra bọn anh đang phải rà soát lại...
+Móng tay ông Cường sạch bong. Không có giằng co. Vết gãy cổ chí mạng ấy không phải do Toàn gây ra!
 
-Long dừng lại một thoáng, như cân nhắc xem có nên chia sẻ chi tiết này hay không. Cuối cùng, anh hạ giọng bảo:
+Nếu lúc này Khanh lôi chiếc cúc áo rách trong túi ra giao nộp cho Long, công an sẽ lập tức bắt giữ Toàn vì tội ngộ sát hoặc giết người dựa trên chứng cứ giằng co duy nhất tại hiện trường. Nhưng sự thật đằng sau cái chết của ông Cường... rõ ràng không phải do người sống làm! Có một thứ gì đó vô hình, tàn bạo và không có da thịt đã đứng sau lưng ông Cường ở chân cầu thang đêm đó.
 
-— Cổ ông Cường bị trật gãy rất nặng, xương sụn thanh quản dập nát do một lực tác động cực mạnh. Nhưng kỳ dị ở chỗ, toàn bộ mười đầu ngón tay của ông ấy đều sạch bong. Không có một vết xước xát, không có mẩu da hay sợi vải nào mắc lại dưới móng tay. Giống như lúc ngã xuống, ông ấy hoàn toàn không hề có phản xạ cào cấu hay giằng co với ai cả.
+Khanh nuốt khan một ngụm nước bọt đắng ngắt. Anh từ từ rút bàn tay không ra khỏi túi quần, cố giữ cho giọng mình không run rẩy:
 
-Lời nói của Long như một mũi kim châm thẳng vào tâm trí Khanh.
+— Có khi nào... ông Cường bị trượt chân ngã từ trên cầu thang xuống không anh?
 
-Không có vết da nào dưới móng tay?
+Long lắc đầu, đứng dậy phủi quần:
 
-Khanh nhớ lại gương mặt xám ngoét của Toàn lúc trưa, nhớ bàn tay Toàn run lẩy bẩy luôn đưa lên che chặt chiếc cổ áo sơ mi cài kín mít, và nhớ lời dằn hắt siết nợ của Sang cò đất. Toàn đã vô cùng hoảng loạn, sợ hãi rằng công an sẽ tìm ra điều gì đó trên thi thể cha mình. Toàn tin rằng chính cú xô xát và những vết cào cấu của ông Cường vào cổ mình đêm hôm ấy sẽ biến hắn thành kẻ giết cha. 
+— Pháp y bảo góc gãy xương không giống do ngã đập đầu. Thôi, việc ấy để bên điều tra hình sự của huyện họ làm. Tôi dặn chú mày: giữ nguyên đoạn băng camera này trong máy, không được xóa. Cuốn sổ order với hai tờ tiền cọc cũng cất cẩn thận, khi nào cơ quan điều tra cần trích xuất dữ liệu thì tôi sẽ sang lấy.
 
-Nhưng nếu móng tay ông Cường sạch bong kỳ lạ... thì cú bẻ cổ gãy nát thanh quản ấy từ đâu mà ra?
+— Vâng, em biết rồi.
 
-Bàn tay Khanh vô thức thọc sâu vào túi quần, nắm chặt lấy chiếc cúc kim loại dính mẩu vải kaki sém cạnh. Kim loại sắc lạnh cứa vào lòng bàn tay anh đau nhói. Một ý nghĩ vụt lóe lên trong đầu: *Mình có nên đưa chiếc cúc áo này cho anh Long không?*
-
-Chỉ cần đưa ra mẩu vải này, nói rằng chị Lan Anh đã lén lút đem đốt một chiếc áo lao động rách nát trong lò than đun nước xông đám ma, công an sẽ lập tức triệu tập Toàn. Vết cào trên cổ Toàn sẽ bị lột trần. Toàn sẽ bị bắt.
-
-Nhưng nếu móng tay ông Cường không có mẩu da nào của Toàn, nếu cú gãy cổ ấy không phải do Toàn gây ra trong cơn xô xát đêm hôm trước... thì việc giao nộp mẩu vải sém này lúc này có biến Toàn thành kẻ thế mạng? Đằng sau vẻ gườm gườm, thù ghét của Toàn sáng nay là nỗi hoảng loạn trần trụi của một kẻ cùng đường, không hay biết thi thể cha mình đang mang một dấu tích không thể lý giải bằng xô xát thông thường.
-
-Khanh từ từ buông lỏng các ngón tay trong túi quần. Anh chọn cách im lặng.
-
-— Thôi, anh phải về trụ sở hoàn thiện hồ sơ báo cáo lên huyện, — Long bước ra thềm, đội lại chiếc mũ bảo hiểm. — Đoạn video camera này em cứ lưu kỹ trong máy, tạm thời tuyệt đối không được sao chép hay gửi cho bất kỳ ai ngoài làng. Nếu có người lạ mặt nào đến hỏi thăm về đơn hàng hoặc chiếc đài kia, em phải báo ngay cho anh. Rõ chưa?
-
-— Vâng, em biết rồi. Cảm ơn anh Long.
-
-Long nổ máy xe. Tiếng động cơ xe Wave lạch cạch rồ lên, rồi vệt đèn pha quét một vệt sáng vàng nhạt qua mép đường nhựa, lao vút vào bóng tối đang phủ xuống ngã tư Chợ Bến.
+Long kẹp chiếc mũ cối lên đầu, gật đầu chào Khanh rồi bước nhanh ra khỏi tiệm. Tiếng xe máy của anh nổ giòn giã rồi phóng vút đi về phía ngã tư đường huyện.
 
 ---
 
-Bóng tối chạng vạng nuốt chửng ngã tư Chợ Bến với một tốc độ rợn người.
+Gian tiệm vàng mã lại một lần nữa chìm vào tĩnh mịch.
 
-Gió mùa hè đột ngột ngưng bặt. Mọi âm thanh sinh hoạt quen thuộc của xóm làng—tiếng chó sủa xa xăm, tiếng ếch nhái râm ran ngoài mương máng, tiếng còi xe tải ngoài quốc lộ—dường như bị một bức màn nhung đen dày đặc hút cạn, biến mất không một dấu vết. Cả không gian rơi vào một hố hút âm thanh đặc quánh, lạnh ngắt và câm lặng đến mức Khanh có thể nghe rõ tiếng máu chảy rần rần qua hai bên thái dương mình.
+Nắng quái ngoài đường đã tắt hẳn. Trời sụp tối rất nhanh, bóng hoàng hôn màu chì đặc quánh tràn qua bậu cửa, nhuộm đen những cỗ hình nhân và ngựa giấy đang đứng bất động.
 
-Bên trong tiệm mã, ánh đèn tuýp nhấp nháy vài cái rồi sáng mờ mờ, hắt những cái bóng dài ngoằng của lũ ngựa giấy lên vách vôi loang lổ. 
+Khanh ngồi im như tượng trước màn hình vi tính. Chiếc máy tính cũ kêu rè rè từng hồi mệt mỏi. 
 
-*Cạch.*
+Long tin chắc rằng người đến đặt đài mã là người sống mạo danh để dằn mặt vì đất đai. Nhưng Long không biết điều mà chỉ một mình Khanh đã nhìn thấy trên đoạn băng sáng mùng mười: lúc người phụ nữ ấy bước trọn hai chân ra khỏi bậu cửa, đứng giữa vệt nắng chang chang rọi rực rỡ trên nền gạch hoa... dưới chân người đó hoàn toàn không có bóng đổ.
 
-Một tiếng động khô khốc, sắc lọn vang lên từ phía nóc tủ chè gỗ gụ.
+Bất chợt, một mùi tanh lợ quen thuộc xộc thẳng vào cánh mũi Khanh.
 
-Khanh giật bắn mình, ngước mắt nhìn lên. Chiếc đài cassette mã bằng giấy xi măng vẫn nằm im lìm trên đó, nhưng một bên nan tre của khung máy dường như vừa tự co ngót, bật ra khỏi lớp hồ dán, làm mép giấy bồi phập phồng như một cái miệng đang khẽ hé mở trong bóng tối. 
+Đó không phải là mùi hồ nếp chua thiu của mẹ, cũng không phải mùi hương trầm. Đó là mùi bùn sình ngâm lâu ngày dưới đáy nước, mùi tanh nồng của rêu rác mục rữa — thứ mùi vị u ám mà trưa nay Khanh đã ngửi thấy ở mép đầm sen xóm Trại.
 
-Mùi ẩm mốc của giấy bổi bỗng quyện chặt lấy một thứ mùi ngai ngái, tanh nồng đến lợ giọng—mùi của bùn non ngâm lá sen mục dưới đáy đầm sâu ba mươi năm không ánh mặt trời rọi tới.
+Mùi tanh ấy bốc lên ngay từ trên mặt bàn kính.
 
-Khanh lùi lại một bước, sống lưng lạnh toát. Lời dặn của mẹ trước lúc đi chùa lại dội về: *“Đồ mã đã ghi tên người chết bất đắc kỳ hồ mà không ai nhận... là thuộc diện mã phạm, mã sót...”*
+Khanh đứng dậy, mở ngăn kéo gỗ dưới mặt bàn, lấy ra hai tờ tiền cotton mệnh giá năm mươi nghìn đồng mà người phụ nữ đã đặt cọc hôm mùng mười. 
 
-Tại sao lại là họ Vũ? Tại sao món đồ mã này lại nhắm thẳng vào ông Cường và trói buộc vào người phụ nữ tên Thoa? 
+Khi ngón tay anh chạm vào bề mặt tờ tiền, một luồng khí lạnh buốt lập tức truyền qua da thịt, buốt nhói lên tận óc. Hai tờ tiền giấy cũ kỹ, gấp nếp phẳng phiu, nhưng kỳ lạ thay, bề mặt sợi bông của chúng lại ẩm ướt nhớp nháp như vừa được vớt lên từ một vũng nước bùn. Mùi tanh lợ nồng nặc bốc ra từ chính hai tờ tiền này.
 
-Một mối liên kết mơ hồ, sâu kín nào đó giữa gia đình anh và dòng họ Vũ xóm Trại dường như đã bắt đầu từ rất lâu trước khi Khanh sinh ra. Người ông nội quá cố của Khanh—cụ đồ thợ mã lừng danh một vùng ven sông Đáy ba mươi năm trước—chẳng phải cũng từng có những ngày tháng gắn liền với những đơn hàng phong thủy của các dòng họ lớn trong vùng hay sao?
+Khanh giật mình buông tay, hai tờ tiền rơi sột soạt xuống mặt kính.
 
-Một thôi thúc kéo giật Khanh bước nhanh vào gian buồng trong.
+Anh đưa mắt nhìn chiếc đài cassette bằng giấy bồi. Vạch sóng AM màu đỏ vẽ bằng tay chiêu rạch ngang thân đài.
 
-Góc buồng tối mịt, nằm khuất sau chiếc bàn thờ tổ nghề làm mã, là một chiếc hòm gỗ lim cổ đã lên nước đen nhánh, bốn góc bọc đồng hoen rỉ. Đây là chiếc hòm lưu giữ toàn bộ sách vở chữ Nho, thước đo phong thủy và những cuốn sổ ghi chép ngày tháng của ông nội Khanh để lại từ trước khi cụ qua đời năm 2005.
+Bất chợt, một ký ức mơ hồ từ thuở ấu thơ lóe lên trong đầu Khanh.
 
-Khanh với tay bật bóng đèn quả nhót đỏ lòm trên bàn thờ, rồi quỳ xuống trước chiếc hòm gỗ. Ổ khóa đồng chữ U không khóa, chỉ cài hờ bằng một chiếc then sắt rỉ sét. Khanh rút chiếc then sắt, từ từ nhấc nắp hòm lên.
+Năm Bính Tý 1996... mùa hè năm ấy Khanh mới tròn sáu tuổi. Anh nhớ mang máng một đêm mưa bão tầm tã, có người đập cửa tiệm mã thình thình giữa đêm khuya. Tiếng cãi cọ gay gắt giữa ông nội anh và một người đàn ông lạ mặt. Tiếng bát nước chè bị hắt mạnh xuống sàn gạch vỡ toang, và giọng quát tháo sấm sét của ông nội đuổi kẻ đó ra khỏi ngõ...
 
-Một luồng mùi giấy bản mục, mùi băng phiến và mùi thời gian xưa cũ xộc thẳng vào mũi anh.
+Ông nội Khanh mất năm 2005. Lúc sinh thời, ông là thợ mã cẩn trọng nhất vùng Chợ Bến, am hiểu lề lối cúng bái và các phép kiêng kỵ nhà nghề. Ông không bao giờ chịu vẽ mắt cho hình nhân mã, và luôn nghiêm khắc răn dạy con cháu: người làm vàng mã là kẻ bắc cầu giữa hai cõi, chớ có tham tiền mà đùa với căn nghiệp âm phần.
 
-Bên trong hòm xếp ngay ngắn từng tập giấy dó ố vàng, những cây bút lông đã rụng gần hết đót và mấy thỏi mực tàu mòn vẹt. Khanh cẩn thận nhấc từng tập tài liệu ra ngoài, lật tìm những cuốn sổ tay đóng chỉ ghi chép theo niên hiệu.
+Dưới chân bàn thờ Tổ nghề đặt ở góc xưởng sau, chiếc hòm đồ nghề bằng gỗ mít cũ kỹ của ông nội vẫn nằm im lìm suốt hơn hai mươi năm qua dưới một lớp bụi dày.
 
-Bàn tay anh dừng lại ở một cuốn sổ tay khổ hẹp, bìa bọc giấy xi măng màu xám tro, gáy khâu bằng chỉ gai thô. Trên mặt bìa, một nét chữ Nho viết bằng mực tàu đen nhánh ghi rõ: *Bính Tý niên tạp ký* — Sổ ghi chép năm Bính Tý (1996).
+Khanh nuốt nước bọt, bước nhanh về phía góc xưởng.
 
-Tim Khanh đập dồn dập từng hồi. Đúng năm 1996. Năm mà người con gái tên Vũ Thị Thoa mất tích.
+Anh quỳ xuống nền gạch ẩm, luồn tay kéo chiếc hòm gỗ mít nặng trịch ra khỏi gầm kệ. Ổ khóa đồng đã rỉ xanh từ lâu, chỉ cần giật nhẹ một cái là chốt khóa bật ra với một tiếng *rắc* khô khốc.
 
-Khanh ngồi bệt xuống nền gạch hoa lạnh ngắt, cẩn thận lật từng trang giấy bản đã giòn rụm vì mối mọt. Nét chữ của ông nội anh thanh thoát, rắn rỏi nhưng vô cùng cẩn trọng. Những trang đầu ghi chép việc làm ngựa mã cho hội đền làng vào tháng Hai, làm mũ cánh chuồn cho lễ tạ họ Nguyễn vào tháng Tư...
+Khanh cẩn thận mở nắp hòm.
 
-Khanh lật tiếp. Đến trang ghi ngày tháng Bảy âm lịch năm Bính Tý.
+Một mùi gỗ mục, mùi giấy bản cũ kỹ và mùi long não nồng nặc xộc lên cay xè mắt mũi. Bên trong hòm xếp ngay ngắn những dụng cụ làm mã thuở xưa của ông nội: những con dao chuốt nứa sắc lẹm chuôi gỗ lim, cuộn dây gai se chặt, nghiên mực tàu mòn vẹt, và một tập sổ tay bọc giấy xi măng màu vàng ố.
 
-Trang giấy này khác hẳn những trang trước. Mực viết không phải màu đen thông thường, mà được viết bằng một thứ mực tàu pha phẩm tím ngắt, nét bút run rẩy, gãy khúc và ấn sâu xuống thớ giấy như thể người viết vừa trải qua một cơn kích động hoặc kinh hoàng tột độ.
+Anh lật đến cuốn sổ mỏng nhất, ngoài bìa ghi bốn chữ Nho nắn nót kèm theo dòng chữ quốc ngữ viết bằng bút máy: *Bính Tý niên tạp ký — 1996*.
 
-Khanh đưa cuốn sổ lại gần ánh đèn quả nhót đỏ lừ, chăm chú đọc từng dòng chữ Hán xen lẫn chữ Nôm:
+Những trang giấy bản ngả màu vàng sẫm, mép giấy mủn ra như cánh bướm. Khanh nín thở, cẩn thận lật từng trang, mắt dò theo những dòng chữ viết bằng mực son đỏ đã phai màu.
 
-*“Ngày mười tám tháng Bảy năm Bính Tý.*
+Trang ghi chép ngày mười bốn tháng Bảy âm lịch năm 1996 chỉ vẻn vẹn vài dòng vắn tắt viết bằng nét bút lông mực son của ông nội:
 
-*Chập tối, người họ Vũ xóm Trại (thằng Cổn dẫn thằng Cường) lén lút mang lễ sang tiệm. Đặt lễ mười lăm quan tiền, khẩn khoản nài ép ta làm gấp một cỗ thuyền mã mười hai tay chèo, bên trong yểm linh phù Định Phách và bùa Trấn Trũng, hẹn ba ngày sau mang ra thả chìm giữa đầm sen sau nhà.*
+*Mười bốn tháng Bảy (Bính Tý).*
 
-*Ta ngửi thấy trên người chúng có tử khí nồng nặc, hơi đất đầm tanh tao ám vào tận chân tóc. Lại thấy thằng Cường mắt dại, tay run, áo còn vương vết bùn khô lẫn máu loãng. Ta gạn hỏi lễ này cúng cho ai, yểm cho vong hồn nào mà phải dùng đến phù Trấn Trũng cực độc? Chúng ấp úng chối quanh, bảo cúng giải hạn phong thủy cho đất đầm.*
+*Nửa đêm mưa gió, người họ Vũ xóm Trại tìm đến tiệm. Mang theo bọc tiền lớn, nài ép ta phải nhận làm gấp một yêu cầu mờ ám sai trái với quy củ nhà nghề. Lời lẽ quanh co, thái độ bức bách.*
 
-*Nghề làm mã thông cõi âm, lấy lòng thành nối kết cõi sống với người đã khuất, chứ tuyệt không bao giờ được tiếp tay cho tà ý, không được nhận lễ phi nghĩa để đè nén, giam cầm oan hồn người chết dưới đáy bùn sâu. Làm việc thất đức ấy ắt chuốc lấy nghiệp báo diệt môn.*
+*Làm mã là việc âm đức bắc cầu, chỉ làm đồ tích phúc cầu an, tuyệt đối không tiếp tay cho những chuyện mập mờ tà vạy. Đã dứt khoát hắt nước chè đuổi về, cự tuyệt không nhận.*
 
-*Ta đã hắt cạn bát nước chè, đuổi chúng ra khỏi cửa.*
+*Dặn lại con cháu: Họ Vũ xóm Trại lòng dạ bất minh, việc nhà họ từ nay tuyệt đối chớ có can dự.*
 
-*Cấm tiệt con cháu đời sau: Tuyệt đối không nhận lễ!”*
+Dòng chữ son cuối cùng bị gạch một vệt dài dứt khoát. Bên dưới vệt gạch là một vết nước ố tròn xoe đã khô cong từ ba mươi năm trước.
 
-Dưới bốn chữ cuối cùng—*“Tuyệt đối không nhận lễ!”*—người ông nội đã dùng đầu cán bút lông cào mạnh ba vệt son đỏ thẫm rách toạc cả thớ giấy bản.
+Khanh ngồi bệt dưới nền xi măng ẩm, ngón tay run nhẹ trên mép giấy mủn.
 
-Gió luồn qua khe liếp cửa buồng làm bóng đèn quả nhót trên bàn thờ tổ nghề chao nhẹ. Ánh sáng đỏ nhờ nhờ quét một vệt dài qua mép trang sổ mục. 
+Ánh mắt anh dừng lại ở dòng đầu tiên: *Mười bốn tháng Bảy.*
 
-Khanh cúi nhìn ba vệt son cào rách thớ giấy, các ngón tay ghì chặt mép bìa các-tông tro xám. Mùi giấy bản cũ mốc quyện với mùi băng phiến xộc lên cay xè sống mũi. 
+Đúng ngày này. Ba mươi năm trước.
 
-Ngoài gian tiệm, không gian câm lặng tuyệt đối. Mùi bùn non ngâm lá sen tàn từ chiếc đài cassette mã trên nóc tủ chè vẫn lờ lờ bốc sang, lạnh buốt.
+Khanh từ từ ngước mắt nhìn ra gian nhà ngoài.
+
+Chiếc bóng đèn tuýp tỏa ánh sáng trắng bệch, nhợt nhạt xuống mặt bàn kính. Ở đó, cỗ đài cassette bằng giấy bồi nằm trơ trọi bên cạnh cuốn sổ nhật trình mở toang của mẹ anh. 
+
+Dưới bậu cửa tiệm, vệt nắng chiều muộn đã tắt hẳn, chỉ còn nền gạch hoa lạnh ngắt — nơi sáng hôm mùng mười, người phụ nữ ấy đã bước qua mà không hề để lại một vệt bóng đổ.
+
+Trong ngăn kéo quầy, hai tờ tiền cotton năm mươi nghìn vẫn đang ẩm ướt, tỏa ra mùi bùn tanh lợ của đầm tàn.

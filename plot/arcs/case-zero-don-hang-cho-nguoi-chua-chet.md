@@ -55,31 +55,31 @@ Mùng 8 đến trưa 13, Thủy dùng lời đe dọa, âm thanh dọa ma và �
 
 | Mốc | Sự kiện khách quan | Tri thức, dấu vết và giới hạn |
 |---|---|---|
-| 22:35–22:45 | Toàn đòi sổ đỏ; hai cha con ẩu đả. Cường cào cổ, xé áo; Toàn xô ông rồi ra xe ben cách khoảng 200m. | Toàn không biết chiến dịch Thủy. |
+| Trước 22:35 | Thầy Bình đến nhà Cường đòi tiền "trấn yểm/diệt khẩu" vụ đầm sen. Hai người cãi vã. Lan Anh (ở trong buồng) nghe lén được Bình đe dọa. | Bình để lại dấu vết tro bùa đặc trưng. Bình giấu giếm cuộc gặp này với công an. |
+| 22:35–22:45 | Toàn đòi sổ đỏ; hai cha con ẩu đả. Cường cào cổ, xé áo; Toàn xô ông rồi ra xe ben cách khoảng 200m. | Toàn dẫm qua lớp tro bùa của Bình mà không biết. |
 | Sau 22:45 | Cường tự đứng dậy, còn hoạt động, nghe tiếng băng/bước chân và tưởng Thủy tiếp tục dọa. | Hoạt động sau ẩu đả là mắt xích cần chứng thực độc lập ở P5. |
-| Khoảng 22:54 | Cường bật ghi âm cục bộ để giữ bằng chứng dọa nạt, chưa gửi ai. Thoa giết ông bằng tổn thương cổ trước va đập; điện thoại rơi gần chiếu nghỉ. | 22:54:32 chỉ là neo nội bộ của sự kiện; không là giờ tử vong pháp y được biết sớm. Không khóa độ dài file. |
-| 23:05–23:10 | Toàn quay lại, thấy bố bất động, kiểm tra tay vì sợ để lại dấu vết và thấy móng sạch bất thường. | Mắt thường không nhìn ra “không có ADN”. Nỗi hoảng sợ không phải kết luận chuyên môn. |
-| Ngay sau đó | Toàn gọi Lan Anh đang ở phần sinh hoạt phía sau, báo bố nằm ở cầu thang. Cô gọi trợ giúp y tế và báo người nhà/cơ quan chức năng. | Không có một đêm bỏ xác không báo. Lan Anh không chứng kiến ẩu đả; Toàn thừa nhận riêng việc xô bố và cho cô thấy áo/vết cào. |
-| Trong lúc chờ trợ giúp | Toàn thay áo; Lan Anh cất chiếc áo bẩn, che vết thương bằng băng/vải thường. | Khăn tang chỉ xuất hiện khi tang đã được tổ chức. Không di chuyển xác để dàn dựng; cơ quan chức năng vẫn thấy và có thể hỏi về băng/vết thương. |
-| Cùng đêm | Thủy được báo trong ca làm; đồng nghiệp xác nhận cô ở xưởng. Cô xin rời ca sau khi nhận tin và về nhà; không cần đến trước lúc hiện trường bị hạn chế tiếp cận. | Hồ sơ giờ đi/về và thời gian di chuyển loại khả năng có mặt lúc Cường chết, không loại mọi hành vi trước/sau đó. |
-| Sau tin báo/thu máy | Thủy hỏi dồn điện thoại ở đâu, được người biết việc thu máy báo lại; lo đe dọa bị lộ và tìm cách tác động lời kể người nhà. | Không có lần tìm/lấy máy trước hạn chế tiếp cận. Haunting trong việc gia đình là cảnh riêng, không phục vụ custody máy. |
-| Lần khám đầu | Người xử lý hiện trường bảo vệ khu vực; chuyên môn tìm, ghi nhận và thu máy trong lần khám đầu tiên. | Không để máy ở đó nhiều ngày để phục vụ cú dọa. Giờ đến, thao tác cứu hộ/khám nghiệm cụ thể cần kiểm chứng. |
-| Từ sáng 14 | Lan Anh liên hệ tiệm mã để chuẩn bị tang; gia đình chờ các bước chuyên môn/bàn giao. | Chuẩn bị đồ không đồng nghĩa thi thể được nhập quan hoặc khách được nhìn thương tích. |
+| Khoảng 22:54 | Cường bật ghi âm cục bộ. Thoa giết ông bằng tổn thương cổ trước va đập. Cùng lúc đó, Thủy (đã trốn khỏi xưởng may) lẻn vào bằng chìa khóa cũ để trộm Sổ đỏ. | Thủy chứng kiến hiện trường siêu nhiên, tay dính máu nạn nhân, để lại vệt dầu máy khâu và dấu tay dị dạng, rồi bỏ chạy. |
+| 23:05–23:10 | Toàn quay lại, thấy bố bất động, móng tay sạch. Toàn hoảng loạn nghĩ Thủy hoặc Bình đã giết bố rồi đổ oan cho mình. | Nỗi hoảng sợ của Toàn đến từ sự nghi kỵ chéo (Mutual Destruction). |
+| Ngay sau đó | Toàn gọi Lan Anh. Cô gọi trợ giúp y tế và báo cơ quan chức năng. Toàn dặn vợ giấu nhẹm mọi chuyện. | Lan Anh chưa vội khai chuyện Thầy Bình vì sợ lôi công an vào sẽ làm lộ chuyện Toàn xô xát. |
+| Trong lúc chờ | Toàn thay áo; Lan Anh cất chiếc áo bẩn, che vết thương bằng băng/vải thường. | Áo giấu đi, vết cào xước trên cổ Toàn lúng túng khai là tai nạn. |
+| Cùng đêm | Thủy về xưởng, làm giả ngoại phạm (nhờ quẹt thẻ/xóa cam). Cô vờ như nhận được tin báo khi đang làm việc bình thường. | Thủy nói dối công an vì sợ đi tù tội đột nhập trộm cắp và giết người. Cảnh sát sẽ tìm ra lỗ hổng thời gian này. |
+| Sau tin báo | Thủy hỏi dồn điện thoại ở đâu, vì sợ lộ tin nhắn đe dọa "mạng đổi mạng" cô gửi Cường ngay trước án mạng. | Không có lần tìm/lấy máy trước hạn chế tiếp cận. |
+| Lần khám đầu | Công an ghi nhận hiện trường: Vết tro bùa (chỉ Bình có), vệt dầu máy khâu/dấu tay dị dạng (của Thủy), và thu giữ điện thoại. | Công an có 3 hướng nghi phạm vật lý (Toàn, Thủy, Bình), cả 3 đều nói dối. |
 
-Cổn không có mặt tại chân cầu thang khi xô xát; ông được báo cùng người nhà. Tiếng động nghe từ các phần nhà khác chỉ là lời chứng giới hạn, không tạo nhân chứng toàn tri. Căn nhà và lối tiếp cận cần sơ đồ tối thiểu ở preflight cảnh hiện trường.
+Cổn không có mặt tại chân cầu thang khi xô xát; ông được báo cùng người nhà. Tiếng động nghe từ các phần nhà khác chỉ là lời chứng giới hạn, không tạo nhân chứng toàn tri. 
 
-Toàn kể mình vừa về và thấy bố nằm đó, che phần cãi vã trước đó. Đây là lời khai có thể bị đối chiếu. Hắn cấm triệt để Lan Anh nhắc đến cái tên Thoa trước bất kỳ ai (kể cả công an) vì sợ lộ vụ 1996 và vết cào cổ đêm 13 (D-005). Lan Anh không hề báo công an về chiếc đài; việc cán bộ Long tìm đến tiệm bà Lan hoàn toàn bắt nguồn từ tin đồn thương mại tại ngã tư Chợ Bến sáng 14 khi bà Lan mang đài đi giao trước mặt người làng (D-005). Toàn mang mặc cảm tự ti sâu sắc trước học vấn ưu tú của Khanh, cộng thêm ghen tuông vì Lan Anh thời trẻ từng để ý Khanh, nên luôn theo dõi, dè chừng và thù địch khi thấy Khanh dính líu đến chuyện tiệm mã (D-005). Lan Anh giữ áo vì hoảng loạn rồi mới hủy ở chặng tang gia; khoảng chậm đó và rủi ro bị phát hiện phải có mặt trong thiết kế.
+Toàn kể mình vừa về và thấy bố nằm đó. Lan Anh giữ áo vì hoảng loạn. Khi công an (cán bộ Long) dần dồn Toàn vào chân tường vì vết cào cổ, Lan Anh mới tung "phao cứu sinh": Khai ra cuộc cãi vã đầm sen giữa Thầy Bình và Cường trước đó, ném sự nghi ngờ sang Bình để cứu chồng.
 
 ### Vật chứng và giới hạn kết luận
 
-- Chấn thương cổ nghiêm trọng khiến cái chết cần kiểm tra. Không khóa 180°, không cho người ngoài chẩn đoán bằng mắt; bàn giao thi thể và khâm liệm không có hạn bắt buộc theo ngày 15.
-- Bản ghi cục bộ chứng thực Cường còn nói/hoạt động sau xô xát và thứ tự âm thanh. Nó không tự chứng minh cổ gãy trước va đập, không thể xác định Thoa, cũng không tự loại mọi ảnh hưởng của thương tổn trước đó.
-- Móng tay sạch là một dị tượng ở lớp tác giả. Kết quả lấy mẫu nếu có chỉ trả lời phạm vi xét nghiệm, không tự giải oan Toàn. Đối với Toàn, dị tượng móng tay sạch C-03 ban đầu khiến hắn thở phào nhưng sau đó đẩy hắn vào nỗi kinh hoàng sởn gai ốc (D-005): hoặc có thế lực ma quái xóa dấu vết để dành hắn cho một hình phạt ghê rợn hơn, hoặc có kẻ thứ ba giết Cường rồi dọn dẹp hiện trường, đẩy Toàn vào trạng thái nghi thần nghi quỷ, hoảng loạn thần kinh ở P3–P5.
-- Chấm công, camera/log, người làm cùng và thời gian đường đi hợp lại xác nhận ngoại phạm Thủy. Không có “vân tay tuyệt đối”.
-- Mảnh áo/cúc sống sót trong khe lò hoặc tro khi Khanh phụ dọn. Dấu riêng thuộc một đơn vị vận tải hư cấu, không thuộc toàn ngành xe ben. Mai nhận ra do công việc; mẫu áo khác/ảnh/lời người cấp áo hỗ trợ đối chiếu. Áo đã đốt không bỗng xuất hiện nguyên vẹn khi thu giữ.
-- Không có băng âm thanh giải án 1996. Nhận dạng hài cốt, phần việc Bình nhớ, lời Thủy về phát hiện xác/cưỡng ép và chi tiết lời Cổn kiểm tra được chịu phần làm rõ quá khứ. Nếu chứng cứ chưa đủ cho một kết luận, giữ giới hạn ấy; không để lời thú nhận tự xác minh toàn án.
-- Bút tích 1996 của cụ đồ (C-12) xuất phát từ sự thấu suốt quy luật Nhân Quả và cấm kỵ nghề làm đồ mã, không phải bói toán tiên tri 30 năm (D-005).
-- Khanh giúp với sự đồng ý của người sở hữu dữ liệu, chuyển vật mình giữ và mô tả điều mình biết; không mở khóa máy tang vật hoặc tự phục hồi băng/ADN.
+- **Sự bế tắc điều tra (Rashomon Effect):** Cán bộ Long thu được 3 nhóm vật chứng vật lý hướng tới 3 người (Áo rách/vết cào của Toàn; Dầu máy/Dấu tay/Ngoại phạm giả của Thủy; Tro bùa/Lời khai tống tiền của Bình). Cả 3 nghi phạm đều nói dối để che giấu tội lỗi khác (bạo lực gia đình, trộm cắp, tống tiền diệt khẩu), biến họ thành những "Red Herrings" hoàn hảo, dọn đường cho lời giải kinh dị siêu nhiên ở Phase 6.
+- Bản ghi cục bộ chứng thực Cường còn nói/hoạt động sau xô xát.
+- Móng tay sạch: Đẩy Toàn vào hoảng loạn vì nghĩ có kẻ thứ 3 (Bình/Thủy) nhúng tay dọn dẹp hiện trường hãm hại mình.
+- Dấu tay và dầu máy của Thủy: Chứng minh Thủy có mặt, nhưng Thủy chối tội đến cùng vì cô thực sự không giết người. 
+- Tro bùa của Bình: Chứng minh Bình có mặt, nhưng Bình chối vì sợ khai ra động cơ tống tiền sẽ lộ vụ giấu xác 1996.
+- Mảnh áo/cúc sống sót trong khe lò hoặc tro khi Khanh phụ dọn. Dấu riêng thuộc đơn vị vận tải.
+- Không có băng âm thanh giải án 1996.
+- Bút tích 1996 của cụ đồ (C-12) xuất phát từ sự thấu suốt quy luật Nhân Quả, không phải bói toán tiên tri.
 
 ## Bảng nguồn dị tượng — chỉ dành cho tác giả
 

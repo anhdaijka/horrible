@@ -17,27 +17,25 @@ Không nhầm D-001/D-002 hậu reset với log lưu trữ. Generated bibles/ind
 
 ## Current manuscript state
 
-**5 chương canonized (đã cập nhật revision wave CH-01 & CH-02).**
+**7 chương canonized (đã cập nhật revision wave CH-01, CH-02, và hoàn tất toàn diện CH-05-v2, CH-06, CH-07).**
 - Chương 1 (`chapters/chapter-01.md`, 3.865 từ, SHA-256: `496F114EA153A1DCB8C61E223DD32A6E5080121C927F9516CDAF77099A7000D0`, candidate `CH-01-C3` tại `revisions/chapter-work/CH-01/revised.md` SHA-256: `C06FE209882EF31D03B295EBE7DC208BAD45296BDC4B750AC53B335329B26616`, basis `CH-01-B1`).
 - Chương 2 (`chapters/chapter-02.md`, 2.983 từ, SHA-256: `255D879F10C05106A77E8C2043C3DFF40DED64C0ADC40097247E46B5219C0C82`, candidate `CH-02-C8` tại `revisions/chapter-work/CH-02/revised.md` SHA-256: `F383AC0D1AD207108D3DD8B2CC39FCC35DAADE2D12B34A8FF4DA1909EFEA0BEF`, basis `CH-02-B8`).
 - Chương 3 (`chapters/chapter-03.md`, 4.264 từ, SHA-256: `6C966093C7A4547A8BD80D6B6DE488477B0303145EF81D30A5470684678342A1`, basis `CH-03-B1`).
 - Chương 4 (`chapters/chapter-04.md`, 6.172 từ, SHA-256: `379187A01215FD1B09D3AA551A5F873D4DA2CDF8EAE60CF923BF42A32AEB1E49`, basis `CH-04-B1`).
-- Chương 5 (`chapters/chapter-05.md`, 5.375 từ, SHA-256: `63668BE517423319948F160555AC4B9575AFD3FC669994B780894C0F37030896`, basis `CH-05-B1`).
-Tổng dung lượng bản thảo: ~22.659 từ.
+- Chương 5 (`chapters/chapter-05.md`, 4.338 từ, SHA-256: `EEE67F8BE30C5362DA22BB85CE24BA5C404BD49646D773E3F83AB23672D30FBD`, candidate `CH-05-v2-C1` tại `revisions/chapter-work/CH-05-v2/draft.md` SHA-256: `74B9E049BD2F8D086781EC28A049403EACCFF3C23D038F164C33BE69375ABF92`, basis `CH-05-v2-B1`).
+- Chương 6 (`chapters/chapter-06.md`, 4.150 từ, SHA-256: `B1E2D6E337730FB1904BD8C097E2C2C424459AEEA62AD519B037344BED915EEB`, candidate `CH-06-C1` tại `revisions/chapter-work/CH-06/draft.md` SHA-256: `B1E2D6E337730FB1904BD8C097E2C2C424459AEEA62AD519B037344BED915EEB`, basis `CH-06-B2`).
+- Chương 7 (`chapters/chapter-07.md`, 4.975 từ, candidate `CH-07-C2` tại `revisions/chapter-work/CH-07/revised.md` SHA-256: `E27412DAD27F40C2028D0065F09887484931F6FC5AB3E2D461521CEB7A190A0C`, basis `CH-07-B1`).
+Tổng dung lượng bản thảo: ~31.292 từ.
 
 ## Current next action
 
-**REVISION WAVE HOÀN TẤT (CH-01-C3 & CH-02-C8):**
-1. Đã giải quyết triệt để lỗi logic thoại bà Lan về "họ Vũ" ở cả CH-01 và CH-02 (trả bà Lan về tri thức thuần túy của người bán hàng nhìn sổ đơn, không biết gia phả họ Vũ hay nội bộ xóm Trại).
-2. Tinh chỉnh chuyển cảnh mượt từ tiệm mã về căn nhà hai tầng xóm Trại ở cuối CH-01; đồng bộ không gian/thời gian với đại cảnh canh xác CH-03; gia tăng độ lạnh gáy.
-3. Cắt bỏ triệt để đoạn bà Lan tra khảo về "Cường con cụ Cổn đang sống nhăn răng" và suy nghĩ sai lệch về "tiến hình giải hạn", đồng bộ 100% với phản ứng ngỡ ngàng bàng hoàng của bà Lan ở CH-01.
-4. Nâng cấp đậm nét chi tiết manh mối **Bàn tay trái chiêu**: Thoa cầm bút vẽ phác chiếc đài và chấm vạch AM trên góc sổ tiệm (manh mối C-10), thò túi ngực rút tiền, lật nếp gấp tư và miết phẳng tiền cotton trên bàn gỗ bám keo hoàn toàn bằng tay trái; tay phải buông thõng bất động. Lối thể hiện tự nhiên, đời thường qua việc bà Lan đưa sổ và bút cho khách vẽ mẫu, đồng thời buột miệng hỏi ("Ơ, cô thuận tay chiêu à?").
-5. Tinh chỉnh sự mơ hồ thị giác trên CCTV (Visual Ambiguity): Gương mặt vỡ hạt dưới ánh sáng ngược mang khung xương gò má cao đặc trưng họ Vũ xóm Trại (hao hao Thủy làm xưởng may Yên Phong) nhưng tuyệt nhiên không có nếp nhăn thời gian như bức di ảnh cũ từ thập niên 90—độc giả tự xâu chuỗi dữ liệu quang học khách quan mà không bị narrator can thiệp.
-6. **Thanh lọc triệt để văn phong & loại trừ lối viết Tell/kể lể**: Cắt sạch các biệt ngữ kỹ thuật thô thiển ("cảm biến quang học"), xóa bỏ hoàn toàn đoạn văn tóm tắt lại các thao tác tay trái sau khi video kết thúc, cắt bỏ mọi câu giảng giải thuyết minh về việc lắp đặt camera an ninh; chuyển toàn bộ đoạn kết sang trực quan vật lý thuần khiết (pure show): mắt camera chìm lỉm trong khoảng tối sau búi mạng nhện và dây thép không đốm sáng, đối lập với vệt nắng trưa trống trơn dưới bậu cửa lúc này, và ánh mắt đóng băng ở giây thứ 18 nhìn trân trân vào anh qua lớp kính.
-7. Toàn bộ file quy hoạch liên quan (`candidate.md`, `writing-brief.md`, `scene-ecology.md`, `character-context.md`, `qa-card.md`, `writer-handoff.md`, `revision-audit.md`, `literary-review.md`, `safety-review.md`) tại cả 2 workspace `CH-01` và `CH-02` đã được cập nhật đồng bộ, sẵn sàng cho tác giả nghiệm thu.
+**CANONIZATION CH-07 HOÀN TẤT:**
+- Chương 7 (`chapters/chapter-07.md`, 4.975 từ) đã được quảng bá thành công vào bản thảo chính thức.
+- Đã đồng bộ `chapters/_index.md`, `continuity/state.md`, và `plot/di-tuong-registry.md` (bổ sung U-010, U-011, U-012).
+- Đầy đủ biên nhận: Candidate `CH-07-C2` (Basis `CH-07-B1`), Literary Review PASS (`revisions/chapter-work/CH-07/literary-review.md`), Safety Review PASS (`revisions/chapter-work/CH-07/safety-review.md`), và Author Acceptance (`/hr-canonize CH-07`).
 
-Bước kế tiếp: Tác giả nghiệm thu kết quả revision wave CH-01/CH-02, sau đó tiến hành `/hr-preflight CH-06` (Case Zero Phase 4). Cần Gemini 3.7 Flash / low–medium hoặc Gemini 3.8 Flash / medium.
-
+**MỤC TIÊU TIẾP THEO: CHƯƠNG 8 (CH-08):**
+- Bắt đầu quy trình Tiền trạm cho Chương 8: `/hr-preflight CH-08`.
 Workflow hiện có Creativity Firewall và Discovery-Led Preflight: upstream craft skills chỉ chạy khi được gọi đích danh; discovery phân kỳ tách khỏi generative context; generative context tách khỏi QA; scene ecology mở đời sống/kinh dị/manh mối mà không thành beat sheet; độc giả là trục suy luận chính, Khanh không thành điều tra viên toàn năng. Approval tách khỏi readiness, locator khỏi handoff, prose hash khỏi source freshness và structural checks khỏi literary evaluation. Không quota engine, subplot, clue, câu hỏi, thoại, hidden agenda, phản ứng cơ thể hoặc chi tiết mới.
 
 Các khóa thay đổi chính:

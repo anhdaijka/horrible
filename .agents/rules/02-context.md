@@ -2,7 +2,7 @@
 
 Use sufficient context for the people and situation, not a fixed token or fact quota.
 
-Preflight/safety read the applicable author sources, character relationships, continuity, scene design and verified research. Separate durable facts, approved design and optional craft advice.
+Preflight/safety read the applicable author sources, character relationships, continuity, scene design, verified research, and `plot/di-tuong-registry.md` (to enforce the anti-recycling gate). Separate durable facts, approved design and optional craft advice.
 
 Writer context has two phases. During the generative pass, read only writing-brief.md, scene-ecology.md, character-context.md, relevant accepted preceding prose and any explicitly named lived-context excerpt. Do not read discovery-slate.md, preflight.md, qa-card.md, rejected scene engines, regression tests, safety checklists, review findings, full directives or the style bible before a complete draft exists. The purpose is to inhabit a living situation rather than answer an audit or compare outlines. After the complete generative draft exists, open qa-card.md and the named hard-source excerpts for self-edit. A section name is not a safe boundary when it contains future material: project the needed fact into character-context instead. A missing relationship, form of address or practical fact is a reason to open a narrow source, not to guess or abandon concrete life.
 

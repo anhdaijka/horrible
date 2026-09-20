@@ -20,6 +20,8 @@ Contemporary Northern Vietnam. The opening story world is a fictional semi-urban
 | Nhà thờ và khu nhà họ Vũ | Building | Xóm Trại | [vu-ancestral-compound](locations/vu-ancestral-compound.md) |
 | Xóm Trại | Village | Chợ Bến, Bắc Ninh hư cấu | [xom-trai](locations/xom-trai.md) |
 | Yên Phong, Bắc Ninh | Region | Bắc Ninh | [yen-phong-bac-ninh](locations/yen-phong-bac-ninh.md) |
+| Chùa Làng | Building | Bắc Ninh hư cấu | [chua-lang](locations/chua-lang.md) |
+| Trụ sở Công an Xã | Building | Bắc Ninh hư cấu | [tru-so-cong-an-xa](locations/tru-so-cong-an-xa.md) |
 
 ## Systems
 
@@ -39,3 +41,4 @@ Contemporary Northern Vietnam. The opening story world is a fictional semi-urban
 |------|------|--------|------|
 | Custom Paper Cassette Radio | Object | uncollected | [custom-paper-cassette-radio](artifacts/custom-paper-cassette-radio.md) |
 | Votive Shop Ledger | Object | active | [votive-shop-ledger](artifacts/votive-shop-ledger.md) |
+| Bính Tý Niên Tạp Ký | Object | active | [binh-ty-nien-tap-ky](artifacts/binh-ty-nien-tap-ky.md) |

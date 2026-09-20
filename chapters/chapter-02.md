@@ -156,42 +156,30 @@ Người phụ nữ khẽ cúi đầu chào, rồi xoay người bước ra phí
 
 Chiếc áo sơ mi xanh cũ và tà quần lụa đen lướt chậm rãi qua bóng râm của những hàng hình nhân mã, hướng về phía vệt nắng ngoài hiên.
 
-Nhưng ngay khi mũi chân chạm đến mép gạch bậu cửa tiệm, người đó đột ngột dừng lại.
+Nhưng ngay khi mũi chân chạm đến mép gạch bậu cửa tiệm tiếp giáp với vệt nắng ngoài đường cái, người đó hơi dừng lại một nhịp, rồi bước thẳng ra ngoài.
 
-Cả thân hình đứng bất động.
+Khung cảnh gian nhà ngoài trên đoạn băng ghi hình hơi cong nhẹ về hai bên rìa — góc nhìn từ chiếc camera an ninh treo trên cao chúc xuống bậu cửa.
 
-Tiếng còi xe máy ngoài ngã tư, tiếng ve ran rát trên ngọn xà cừ và tiếng huyên náo của phiên chợ huyện ngoài kia bỗng nhiên phẳng bẹt lại, rè rè, nghẹt cứng như phát ra từ một màng loa điện thoại.
+Đồng hồ thời gian màu đỏ dưới đáy màn hình nhảy từng nhịp: `10/07/2026 09:24:18`.
 
-Khung cảnh gian nhà ngoài hơi cong nhẹ về hai bên rìa — góc nhìn từ trên cao chúc xuống bậu cửa.
+Ngoài thềm nhà lúc ấy, nắng chín giờ sáng đã đổ chang chang, rọi rực rỡ lên mặt đường nhựa và vắt ngang khoảng sân gạch hoa trước cửa tiệm. Khung cửa gỗ đổ bóng xiên xiên xuống nền đất, búi dây thép treo vàng mã in bóng đen nhánh trên tường vôi. Nhưng khi người phụ nữ đội nón lá bước trọn cả hai chân ra vệt nắng chói chang ấy...
 
-Trên màn hình cảm ứng, một ô vuông nhỏ màu xanh lá cây bỗng hiện lên, chập chờn quanh vành nón lá. Cái khung nhận diện khuôn mặt giật từng nhịp ngắn, co rúm lại rồi nở ra, dường như không thể bắt dính vào một điểm cố định.
+Dưới chân người đó hoàn toàn trống trơn.
 
-Rồi người phụ nữ chậm rãi ngửa mặt lên. Vành nón lá trượt nhẹ ra sau.
+Không có một vệt bóng đổ nào in trên nền gạch hoa. 
 
-Không nhìn ra đường cái. Cũng không quay lại quầy hàng.
+Ánh nắng gắt gao rọi thẳng xuống đỉnh nón lá, rọi qua tà áo sơ mi cũ, nhưng nền đất phía dưới người phụ nữ vẫn sáng rực một màu gạch đỏ au, phẳng lặng như thể khoảng không gian ấy chẳng hề có một thân xác người bằng xương bằng thịt nào đi qua.
 
-Ánh mắt ngước xếch thẳng lên góc trần nhà phía trên bậu cửa.
-
-Ánh sáng chói chang ngoài đường hắt ngược vào làm gương mặt hiện lên qua những điểm ảnh rung rinh, vỡ hạt: gò má cao, sống mũi thẳng và đôi mắt một mí dài hẹp nằm lọt thỏm dưới bóng nón. Một gương mặt phẳng lì, trắng bợt, không một nếp nhăn, không một nét cơ lay động.
-
-Ánh mắt ấy nhìn thẳng tắp vào ống kính.
-
-Trân trân. Bất động.
+Bóng người nhẹ bẫng bước tiếp hai bước nữa rồi hòa vào dòng xe cộ tấp nập ngoài ngã tư Chợ Bến, biến mất khỏi góc quét của ống kính.
 
 Khung hình dừng bặt dưới ngón tay cái của Khanh.
-
-Dải số thời gian màu đỏ dưới đáy màn hình đứng yên: `10/07/2026 09:24:18`.
 
 Bên ngoài bậu cửa tiệm, nắng trưa mười bốn vẫn chang chang trên mặt đường nhựa. Mùi khói nhang bài mẹ anh thắp ở góc quầy nồng nặc quyện với mùi hồ nếp chua thiu. Tiếng chổi đót của bà Lan quét mớ vụn giấy bồi dưới chân quầy vẫn sột soạt từng nhịp đều đặn.
 
 Bà không để ý đến con trai.
 
-Khanh từ từ ngước mắt nhìn lên.
-
-Phía trên bậu cửa, giữa búi dây thép treo vàng mã và lớp mạng nhện đóng bụi giấy bồi, chiếc mắt thần camera chìm lỉm trong khoảng tối dưới mái tôn, không một đốm sáng.
-
-Dưới bậu cửa lúc này chỉ có vệt nắng rọi vắt ngang nền gạch hoa. Trống trơn.
+Khanh từ từ ngước mắt nhìn lên chiếc mắt thần camera treo chìm lỉm trong bóng tối dưới mái tôn, rồi lại nhìn xuống vệt nắng trưa rọi xiên trên nền gạch trước bậu cửa. Nơi người phụ nữ ấy từng bước qua sáng hôm mùng mười.
 
 Khanh cúi nhìn lại màn hình.
 
-Khung hình ngày mùng mười vẫn đóng băng ở giây thứ mười tám. Dưới bóng nón lá trượt nghiêng, đôi mắt một mí vẫn nhìn trân trân vào anh qua lớp kính, lạnh ngắt.
+Dải số thời gian đóng băng ở giây thứ hai mươi. Dưới ánh nắng chói chang của sáng mùng mười, nền gạch hoa dưới chân người đàn bà đội nón vẫn phẳng lì, không một gợn bóng đen, lạnh ngắt.

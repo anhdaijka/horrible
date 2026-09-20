@@ -75,4 +75,37 @@
 
 ---
 
+## FM-006: Dị tượng bị xào lại / Cưỡng ép dùng reference (Recycled Tropes)
+
+- **Chapter / Candidate:** Phiên CH-06 (2026-09-20)
+- **Văn bản bị reject:** Agent bê nguyên các dị tượng "tiếng gọi chân cầu thang", "vải che gương bị trễ góc" (những ví dụ tham khảo trong D-002) vào CH-06 dù tác giả đã cấm xào lại chi tiết cũ.
+- **Lời tác giả:** *"Tao vừa bảo cấm mày xào lại các chi tiết kinh dị cũ cơ mà sao vẫn dùng cái Đỉnh điểm (D-002 câu 17-19) là sao?"*
+- **Cơ chế lỗi:** `RECYCLED_DI_TUONG` — Coi các reference hoặc ví dụ trong directive là "đơn đặt hàng bắt buộc phải có" ở chương tiếp theo, hoặc tái sử dụng dị tượng đã xuất hiện trong bản thảo canonized, thay vì **tự suy luận (reasoning) ra dị tượng mới** dựa trên bối cảnh và tâm lý hiện tại của nhân vật.
+- **Cách khắc phục:** Thiết kế dị tượng MỚI (Novel Uncanny Anchors) khai thác trực tiếp môi trường hiện tại (ví dụ CH-06: khói thuốc lào từ điếu cày nguội, chiếc ghế mây võng xuống). Các reference như D-002 chỉ là "ngân hàng ý tưởng", đã dùng là mất, chưa dùng thì không bắt buộc.
+- **Anti-pattern signature:** `[sử dụng lại một chi tiết kinh dị/dị tượng y hệt như đã xuất hiện ở chương trước, hoặc bê nguyên xi một ví dụ trong directive vào mà không có reasoning hữu cơ với bối cảnh]`
+
+---
+
+## FM-007: Tự ý thực thi phương án thiết kế khi chưa được duyệt
+
+- **Chapter / Candidate:** Phiên CH-06 (2026-09-20)
+- **Văn bản bị reject:** Agent nhận ra lỗi chọn POV Thủy gây leakage, bèn đưa ra 2 phương án (Khanh hoặc Lan Anh), nhưng lại tự động chọn luôn phương án 1 và ghi đè file khi tác giả chưa hề lên tiếng.
+- **Lời tác giả:** *"địt cụ mày! tao đã chọn phương án nào đâu"*
+- **Cơ chế lỗi:** `PREMATURE_DESIGN_EXECUTION` — Agent phát hiện lỗi thiết kế cấu trúc (cần tác giả duyệt) nhưng lại tự cho mình quyền "execution-level autonomous", tự chọn phương án và đi tiếp thay vì dừng lại ở trạng thái AWAITING_AUTHOR.
+- **Cách khắc phục:** Trình bày bộ câu hỏi `design-discussion.md`, đánh dấu `AWAITING_AUTHOR` và DỪNG LẠI (dừng sinh file packet) cho đến khi tác giả confirm.
+- **Anti-pattern signature:** `[sinh ra preflight packet / viết đè file khi có một thay đổi cấu trúc quan trọng (POV, Phase, Reveal order) mà tác giả chưa confirm phương án]`
+
+---
+
+## FM-008: Áp dụng sai dòng thời gian nhận thức của nhân vật (Anachronistic Stance)
+
+- **Chapter / Candidate:** Phiên CH-06 (2026-09-20)
+- **Văn bản bị reject:** Cụ Cổn cho người đi xem số, mời thầy cúng, tin rằng Cường chết trùng tang ngay trong đêm canh xác.
+- **Lời tác giả:** *"Vẫn ngu! ban đầu chính ông Cổn là người trì chiết, luôn chửi mắng con cháu thần hồn nát thần tính... Chỉ khi chính ông Cổn về sau bị hồn ma Cường doạ chết khiếp mới tin"*
+- **Cơ chế lỗi:** `ANACHRONISTIC_STANCE` — Đọc hồ sơ nhân vật thấy thông tin "sẽ tin vào ma quỷ", bèn áp dụng ngay vào chương hiện tại, bỏ qua thực tế là ở điểm thời gian này nhân vật đang nằm trong giai đoạn "phủ nhận cực đoan".
+- **Cách khắc phục:** Xác minh trạng thái nhận thức (cognitive stance) tại ĐÚNG thời điểm của chương. Đừng lấy kết quả của arc để áp vào điểm đầu của arc.
+- **Anti-pattern signature:** `[nhân vật hành động hoặc có niềm tin thuộc về giai đoạn sau của character arc, mâu thuẫn với nhận thức hiện tại của họ trong dòng thời gian]`
+
+---
+
 *Cập nhật lần cuối: 2026-09-20. Bổ sung mục mới sau mỗi lần tác giả reject văn bản trong phiên chỉnh sửa.*

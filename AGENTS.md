@@ -48,7 +48,7 @@ The writer may choose temporary attitudes, errors, cooperation and local consequ
 
 An opening or major arc scene should give the horror reader a disturbing experience, question, image, supernatural promise, or consequence. Ordinary life should build attachment or credibility, not consume pages by default. Important reveal-bearing clues need enough weight and fair-play setup for reread value, but atmosphere, character detail, and direct haunting may exist without becoming detective clues.
 
-Realism is the floor, not the ceiling. Ambiguity is optional. Fictional ghosts may be real. Avoid cheap theatrical jumpscares, narrator explanations that leak later reveals, and mandatory mundane explanations.
+Realism is the floor, not the ceiling. Ambiguity is optional. Fictional ghosts may be real. Avoid cheap theatrical jumpscares, narrator explanations that leak later reveals, and mandatory mundane explanations. All supernatural manifestations must be novel to the manuscript; explicitly consult `plot/di-tuong-registry.md` to avoid recycling consumed tropes.
 
 ## Discovery-led scene ecology and reader-detective mystery
 
@@ -93,7 +93,7 @@ All upstream skills are installed explicit-only by the creativity firewall. Do n
 
 Literary review may recommend a substantial rewrite when the scene engine is false or inert. Safety repairs should use the smallest change that restores hard truth. Ask explicit author approval before changing plot/chapter purpose, canon/timeline, relationship trajectory, supernatural rules or durable knowledge/state. Rebuilding scene execution at any scale within those approved boundaries is allowed when drafting/revision is requested.
 
-After accepted prose creates durable state, prepare the canon diff, apply only approved state, update continuity/registries, and run continuity/link validation.
+After accepted prose creates durable state, prepare the canon diff, apply only approved state, update continuity/registries (including `plot/di-tuong-registry.md`), and run continuity/link validation.
 
 ## Git and validation
 
