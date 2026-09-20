@@ -1,64 +1,91 @@
 # Safety review
-- Candidate path / scope: revisions/chapter-work/CH-02/draft.md / complete chapter
-- Candidate ID: CH-02-C1
-- SHA-256: 28A651FB7C5C413ED8CE34FB3AEF35B0176FFFD28C2E0E0E6EE65FD87BCB2E24
-- Consequential authority-basis ID: CH-02-B2
-- Consequential authority basis: D-001, D-003, D-004, Author Instruction 2026-09-18 (Perceptual Shift & CCTV Reveal), revisions/chapter-work/CH-02/preflight.md
+- Candidate path / scope: revisions/chapter-work/CH-02/revised.md / complete chapter
+- Candidate ID: CH-02-C6
+- SHA-256: 057EAF6DDB756DF5D8EA3A7C4FB0F12E7CCE18D59B7B01BC819C6FE7593A25FD
+- Consequential authority-basis ID: CH-02-B6
+- Consequential authority basis: D-001, D-003, D-004, Author Instruction 2026-09-18 (Perceptual Shift & CCTV Reveal), Author Revision Instruction 2026-09-19 (Thoa Living Cover & Seamless One-Shot Pull-Back Reveal), Author Direct Repair 2026-09-20 (Remove Cường living conflict & bogus tiến hình rationalization; sync with CH-01), Author Craft Directive 2026-09-20 (Grounded ledger penmanship for left-hand clue C-10 & CCTV Vũ-family/Thủy resemblance ambiguity), revisions/chapter-work/CH-02/preflight.md
 - SAFETY_REVIEW: PASS
 
 ## Authority consulted
-- `author/decisions.md` (D-001, D-002, D-003, D-004: Case Zero restructuring, flashback mechanics, opening architecture)
-- `author/directives/DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md`
-- `continuity/state.md` (Case Zero author locks, information/factual gates)
-- `plot/timeline.md` (Objective chronology, presentation constraints for CH-01/CH-02)
-- `plot/case-zero-clue-and-epistemic-matrix.md` (P1 reveal boundaries, C-01, C-10)
-- `characters/vu-thi-thoa.md`, `characters/vu-van-cuong.md`, `characters/tran-thi-lan.md`, `characters/nguyen-minh-khanh.md`
-- `worldbuilding/artifacts/custom-paper-cassette-radio.md`
-- `research/verified/folk-horror-materials-v1.md` (Votive craft taboos, prohibition against eye-drawing, olfactory anchors, cold tử khí)
+- `author/decisions.md` (D-001, D-002, D-003, D-004: Case Zero restructuring, flashback mechanics, opening architecture; D-056, D-058, D-059: Thoa 1996 manslaughter truth and Thủy living conspirator mechanics)
+- `author/directives/DIR-02-thoa-1996-manslaughter-canon.md` (Thoa age 22 in 1996; Thủy 49 in 2026 with deformed left wrist)
+- `author/directives/DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md` (Dahua CCTV video forensics, timestamp `10/07/2026 09:24:18`, left-hand agility vs. Thủy factory alibi and clubbed left wrist)
+- `continuity/state.md` (Case Zero author locks, information/factual gates G6a–G6c)
+- `plot/timeline.md` (Objective chronology: mùng 10 order, night 13 Cường death, morning 14 collection/discovery)
+- `plot/case-zero-clue-and-epistemic-matrix.md` (P1 reveal boundaries, C-01 ledger entry, C-10 radio sketch with AM tuning line)
+- `characters/vu-thi-thoa.md` (Middle daughter, died 1996 at age 22, agile left-handedness, custom radio order)
+- `characters/vu-thi-thuy.md` (49 years old, garment worker at Yên Phong, congenital deformed left wrist, strictly right-handed)
+- `characters/vu-van-cuong.md` (Deceased brother, recipient of votive radio)
+- `characters/tran-thi-lan.md` (Shopkeeper epistemic boundary: knows ledger entry, not Vũ genealogy or Cường living status on mùng 10)
+- `characters/nguyen-minh-khanh.md` (IT engineer, reviews Dahua CCTV at noon 14, stunned by camera gaze and left-handed actions)
+- `worldbuilding/artifacts/custom-paper-cassette-radio.md` (Handcrafted bamboo frame, cement paper, glue, silver foil antenna, red AM line)
+- `research/verified/folk-horror-materials-v1.md` (Votive craft taboos, prohibition against eye-drawing / điểm nhãn, fermented rice paste smell, mineral pigment)
 - `revisions/chapter-work/CH-02/qa-card.md` (Hard truth verification, horror and reader-detective contract)
 
 ## Findings
-- **Chronology & Timeline:** PASS
-  - Khung thời gian sự kiện chính: Sáng ngày mùng mười tháng Bảy âm lịch (10/7) tại tiệm vàng mã nhà bà Lan.
-  - Khung thời gian quan sát cuối chương: Sáng ngày mười bốn tháng Bảy âm lịch (14/7), sau khi Lan Anh hốt hoảng rời khỏi tiệm.
-  - Video giám sát camera an ninh ghi nhận chính xác mốc thời gian: `10/07/2026 09:24:18`.
-  - Mốc thời gian đặt đơn (mùng 10), hẹn lấy (sáng 14) và thời điểm Cường tử vong (đêm 13) hoàn toàn khớp với `plot/timeline.md` và CH-01. Bà Lan nhắc việc nhìn thấy ông Cường "sáng hôm kia" (mùng 8) đi xe Cub đón cháu nội, phù hợp với nhịp sống làng quê.
-- **Knowledge & Epistemic Boundaries:** PASS
-  - Bà Lan: Trong sáng mùng 10, bà xử lý giao dịch hoàn toàn theo tâm lý và tri thức của một tiểu thương mùa Vu Lan. Bà thắc mắc việc đặt đồ cho người đang sống nhưng tự hợp lý hóa bằng tập quán cúng tiến hình chuộc mệnh/cầu an giải hạn cho người ốm nặng. Hoàn toàn không biết trước cái chết của Cường hay vụ án 1996.
-  - Thoa: Chỉ đưa ra các yêu cầu chế tác kỷ vật (đài cassette nan tre, giấy xi măng, hồ nếp, ô kính mờ, cần ăng-ten quấn giấy bạc, vạch đỏ AM vẽ tay), xưng tên người nhận và người đặt, đặt cọc và rời đi. Không tiết lộ bất kỳ thông tin nào về án mạng, oan khuất hay kế hoạch báo oán.
-  - Khanh: Xem lại đoạn video trích xuất từ camera an ninh vào sáng 14; trực tiếp chứng kiến dị tượng kỹ thuật số (ô tracking nhận diện khuôn mặt giật lag hỗn loạn và ánh mắt nhìn thẳng vào thấu kính) tạo nên cú sốc tâm lý chân thực mà không cần suy diễn siêu nhiên vượt cấp.
-  - Reader: Tiếp cận chứng cứ thực tế (C-01, C-10) và dữ liệu CCTV mà không bị vi phạm thông tin tầng G6a–G6c.
-- **Kinship, Social Roles & Address:** PASS
-  - Xưng hô gia đình và cộng đồng chuẩn mực Bắc Bộ:
-    - Bà Lan — Thoa: bác — cháu / cô ơi.
-    - Thoa gọi Cường là "anh trai cháu" / "anh cháu", hoàn toàn chính xác với phả hệ canon (`characters/vu-thi-thoa.md`: Thoa là em gái ruột của Cường).
-    - Phân biệt danh xưng tiểu thương: "Cường con nhà cụ Cổn" vs "cụ Cường già bên họ Đặng", chính xác với mạng lưới xóm Trại trong CH-01.
-- **Durable State & Custody:** PASS
-  - Cuốn sổ đơn (C-01): Bà Lan ghi nhận thông tin `Vũ Văn Cường — xóm Trại — Đài cassette giấy bồi có vạch đỏ AM` và người đặt `Vũ Thị Thoa`, bảo đảm tính nhất quán với cuốn sổ Khanh và Lan Anh đọc ở CH-01.
-  - Tiền đặt cọc: Hai tờ tiền giấy cotton 50.000đ cũ được bà Lan cất vào góc trong ngăn kéo quầy thu ngân, bảo toàn vết tích vật chất cho các diễn biến điều tra tiếp theo.
-  - Dữ liệu CCTV: Được lưu trữ cục bộ trong hệ thống camera an ninh do Khanh tự tay lắp đặt từ năm ngoái, phù hợp với năng lực chuyên môn IT của Khanh.
-- **Real-World Cultural & Trade Integrity:** PASS
-  - Nghề làm vàng mã:
-    - Tục cấm điểm nhãn cho hình nhân mã (để trống hốc mắt để tránh cô hồn dã quỷ nương náu) tuân thủ chính xác mục 1.1 trong `research/verified/folk-horror-materials-v1.md`.
-    - Các chất liệu và mùi vị (hồ nếp ngâm chua thiu, phẩm nhuộm bột điều, vụn nan tre, giấy bổi ẩm) khớp tuyệt đối với thực tế làng nghề Bắc Bộ.
-  - Tập quán cúng bái mùa Vu Lan: Việc giải thích đơn đặt cho người sống qua hình thức cúng giải hạn, tiến hình trả nợ tào quan phản ánh đúng thực tế tín ngưỡng dân gian đồng bằng Bắc Bộ.
-  - Chiếc đài cassette giấy bồi (C-10): Chế tác thủ công từ nan tre, giấy bao xi măng cũ, dán hồ nếp, vạch đỏ mực tàu AM; không có yếu tố kỳ ảo phi lý.
-- **Physical Continuity & Supernatural Restraint:** PASS
-  - Hiện diện siêu nhiên được thể hiện tinh tế, lạnh lùng, không sa vào jumpscare rẻ tiền hay biến dạng ma quái:
-    - Bước chân không phát ra tiếng động, không có bóng in trên đường nhựa nóng gắt.
-    - Tờ tiền giấy buốt lạnh thấu xương và mùi bùn ao sen mục rữa ngai ngái (gắn với nơi Thoa tử vong năm 1996).
-    - Dị tượng kỹ thuật số (Digital Glitch): Ô vuông xanh nhận diện khuôn mặt giật rung bần bật, phản ánh sự bất lực của thuật toán nhận diện trước một thực thể phi nhân.
-    - Cái nhìn tĩnh lặng xuyên thời gian qua thấu kính camera vào đồng tử người xem 4 ngày sau.
+
+1. **Chronology & Objective Timeline: PASS**
+   - **Candidate Location:** L1–30, L120–123, L142–151.
+   - **Factual Claims:** Sáng mùng mười tháng Bảy âm lịch (10/7) Thoa đến tiệm mã đặt hàng hẹn lấy sáng mười bốn (14/7). Đoạn camera kết thúc hiển thị timestamp đỏ `10/07/2026 09:24:18`, được Khanh tua lại vào trưa ngày 14/7 sau khi Lan Anh chạy trốn.
+   - **Authority Evidence:** Khớp 100% với `plot/timeline.md` và CH-01. Ông Cường qua đời đêm 13/7; sáng 14/7 Lan Anh đến lấy đài mã đã được đặt từ sáng mùng 10.
+   - **Audit Result:** Hoàn toàn đồng bộ, không phát sinh nghịch lý thời gian.
+
+2. **Knowledge & Epistemic Boundaries: PASS**
+   - **Candidate Location:** L25–30, L68–74, L87–93, L103–118, L148–164.
+   - **Factual / Knowledge Claims:**
+     - Bà Lan: Xử lý đơn hàng thuần túy theo nghiệp vụ thương mại bận rộn mùa Rằm. Không biết Cường là ai, không biết Cường còn sống hay đã chết, không bàn luận hay biết phả hệ họ Vũ xóm Trại. Khi khách yêu cầu đánh dấu tần số AM, bà Lan không nhớ nên yêu cầu khách tự vẽ phác vào góc sổ. Hoàn toàn khắc phục lỗi mâu thuẫn "tiến hình giải hạn" và logic "họ Vũ" trước đây.
+     - Khách (Thoa): Giữ trọn vỏ bọc người sống bình thường (người thôn quê lam lũ, kín đáo dưới nón lá). Không lộ liễu siêu nhiên, không có các chi tiết ma quái lộ liễu (không bóng, không tiếng bước chân, lạnh thấu xương đã được lược bỏ).
+     - Khanh: Xem lại camera Dahua trên điện thoại trưa 14; quan sát hành vi khách ngước nhìn camera giấu kín, nhận ra khung xương gò má cao họ Vũ (hao hao Thủy bên xưởng may Yên Phong) nhưng không có nếp nhăn thời gian, và ấn tượng với toàn bộ cử động độc nhất của bàn tay trái chiêu. Không suy diễn vượt cấp thành ma quỷ hay điều tra viên toàn tri.
+   - **Authority Evidence:** Đáp ứng đầy đủ quy tắc ranh giới tri thức trong `continuity/state.md` và `DIR-04`.
+
+3. **Kinship, Social Roles & Address: PASS**
+   - **Candidate Location:** L29, L56–58, L70–73, L80–84, L107–126.
+   - **Factual / Social Claims:**
+     - Bà Lan xưng `tôi` / `bác`, gọi khách là `cô`.
+     - Khách xưng `tôi`, gọi bà Lan là `bác`; nói *"Cho anh trai tôi"*, *"Anh tôi chỉ nghe loại đài ấy thôi"*.
+     - Người nhận: `Vũ Văn Cường`, xóm Trại. Người đặt: `Vũ Thị Thoa`.
+   - **Authority Evidence:** Đúng chuẩn mực giao tiếp nông thôn Bắc Bộ và phả hệ gia đình họ Vũ (`characters/vu-thi-thoa.md`: Thoa là em gái ruột của Cường).
+
+4. **Durable State, Custody & Clue Affordances (C-01, C-10): PASS**
+   - **Candidate Location:** L61–68, L100–127, L129–144.
+   - **Physical Evidence Claims:**
+     - Manh mối C-01: Cuốn sổ bìa da xanh đen ghi nhận dòng chữ *Vũ Văn Cường — xóm Trại — Đài cassette giấy bồi có vạch đỏ AM* và tên *Vũ Thị Thoa* vào góc dưới trang sổ mùng 10. Khớp tuyệt đối với cuốn sổ Lan Anh đọc ở CH-01.
+     - Manh mối C-10: Khách dùng bút bi vẽ phác khung đài và chấm vạch mực AM vào góc trang sổ lưu tại tiệm. Lưu lại bút tích vật chất thực sự cho cuộc điều tra sau này.
+     - Tiền đặt cọc: Hai tờ tiền giấy cotton 50.000đ cũ được bà Lan cất vào góc trong ngăn kéo gỗ dưới mặt bàn.
+     - Dữ liệu camera: Lưu trong thẻ nhớ/đầu ghi camera Dahua giấu kín trên xà gồ thép tiệm mã.
+   - **Authority Evidence:** Khớp 100% với `plot/case-zero-clue-and-epistemic-matrix.md` và `DIR-04`.
+
+5. **Physical Continuity & Forensic Discriminators (Left-Hand vs. Thủy): PASS**
+   - **Candidate Location:** L50–68, L129–136, L151–157.
+   - **Physical Claims:**
+     - Khách đón bút bằng tay trái, uốn cổ tay trái kẹp bút vẽ phác đài và chấm vạch AM. Khách rút tiền cọc từ túi ngực trái, lật nếp gấp tư và miết phẳng tiền bằng độc nhất bàn tay trái. Tay phải buông thõng bất động.
+     - Bà Lan buột miệng: *"Ơ, cô thuận tay chiêu à? — Vâng, từ bé tôi đã quen dùng tay này rồi bác ạ."*
+     - Trên camera: Khanh nhận thấy sự tương đồng về khung xương mặt họ Vũ (gò má cao, mắt xếch) gợi nhớ đến Vũ Thị Thủy. Nhưng Thủy bị dị tật khoèo cổ tay trái bẩm sinh và các ngón co quắp (`characters/vu-thi-thuy.md`: `deformed-left-wrist`, `strictly-right-handed`), không thể thao tác linh hoạt bằng tay trái; đồng thời gương mặt trên camera phẳng lặng không nếp nhăn thời gian.
+   - **Authority Evidence:** Thiết lập mắt xích bằng chứng công bằng (fair-play clue) sắc sảo để sau này Khanh và Thiếu úy Long phát triển giả thuyết "Thoa còn sống" đối lập với Thủy.
+
+6. **Real-World Cultural, Mortuary & Trade Facts: PASS**
+   - **Candidate Location:** L3–18, L33–46, L50–54.
+   - **Cultural / Trade Claims:**
+     - Tiệm vàng mã Bắc Ninh: Bụi phẩm nhuộm bột điều, nan tre chuốt mỏng, hồ nếp ngâm chua thiu lên men, giấy bao xi măng cũ vuốt phẳng phiu, giấy bóng kính mờ, cần ăng-ten quấn giấy bạc.
+     - Điều kiêng kỵ nghề mã: Tuyệt đối không vẽ con ngươi đen (kiêng điểm nhãn) cho hình nhân mã trước khi thầy cúng lập đàn khai quang ở nhà tang chủ, tránh để cô hồn dã quỷ nương náu quấy nhiễu.
+     - Dải sóng AM Đài tiếng nói Việt Nam thời xưa.
+     - Tiền giấy cotton 50.000đ màu xanh phát hành trước thời kỳ polymer.
+   - **Authority Evidence:** Phù hợp hoàn toàn với `research/verified/folk-horror-materials-v1.md` và bối cảnh thực tế văn hóa đồng bằng Bắc Bộ.
 
 ## Direct implications and causal hinges
-- **Không có mâu thuẫn nhân quả:** Sự kiện sáng mùng 10 bổ trợ hoàn hảo và giải thích nguồn gốc của chiếc đài cassette và dòng ghi chép trong sổ đơn đã xuất hiện ở CH-01.
-- **Cú chuyển dịch góc nhìn (Perceptual Shift) hợp lệ:** Đoạn kết chuyển dịch mượt mà từ trải nghiệm giác quan của bà Lan sang góc nhìn camera kỹ thuật số trên điện thoại của Khanh, neo chặt động cơ dấn thân của Khanh cho các phase tiếp theo mà không làm vỡ các khóa bảo vệ thông tin.
+
+- **Tính nhất quán nhân quả với CH-01 và toàn bộ Act 1:**
+  - Việc loại bỏ sự đôi co của bà Lan về "ông Cường con cụ Cổn đang sống nhăn răng" và suy nghĩ "tiến hình giải hạn" đã hàn gắn hoàn toàn vết nứt logic với CH-01 (bà Lan ở CH-01 bàng hoàng khi nghe Lan Anh nói Cường vừa chết và không nhớ Cường là ai ngoài dòng chữ trong sổ).
+  - Tương tác vẽ phác mẫu đài vào góc sổ lưu của tiệm giải quyết tự nhiên và thuyết phục câu hỏi "làm sao biết khách thuận tay trái", biến chi tiết này thành manh mối vật lý C-10 bền vững.
+  - Cú One-Shot Pull-Back Reveal ở cuối chương không làm vỡ ranh giới thời gian mà kết nối trực tiếp thực tại trưa 14 với quá khứ mùng 10 qua thấu kính camera.
 
 ## Limits and verdict
+
 - **SAFETY_REVIEW: PASS**
-- **Candidate ID:** CH-02-C1
-- **Prose path:** `revisions/chapter-work/CH-02/draft.md`
-- **Scope:** Complete Chapter CH-02
-- **SHA-256:** `28A651FB7C5C413ED8CE34FB3AEF35B0176FFFD28C2E0E0E6EE65FD87BCB2E24`
-- **Consequential basis:** `CH-02-B2`
-- **Kết luận:** Candidate `CH-02-C1` hoàn toàn tương thích và an toàn tuyệt đối trước toàn bộ hệ thống sự thật canon, mốc thời gian khách quan, giới hạn tiết lộ tri thức, quy chuẩn quan hệ nhân thân và các nghiên cứu văn hóa dân gian đã được kiểm chứng. Không có bất kỳ mâu thuẫn nhận thức, thực chứng hay văn hóa nào.
+- **Candidate ID:** CH-02-C6
+- **Prose Path:** `revisions/chapter-work/CH-02/revised.md`
+- **SHA-256:** `057EAF6DDB756DF5D8EA3A7C4FB0F12E7CCE18D59B7B01BC819C6FE7593A25FD`
+- **Consequential Authority-Basis ID:** CH-02-B6
+- **Scope:** Complete Chapter (CH-02)
+
+Toàn bộ các điều kiện an toàn canon, phả hệ, ranh giới tri thức, niên đại, manh mối pháp y và văn hóa làng nghề của `CH-02-C6` đều đạt chuẩn tuyệt đối. Không có vi phạm hay rủi ro an toàn tồn đọng.
