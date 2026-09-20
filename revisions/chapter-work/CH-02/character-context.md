@@ -13,7 +13,7 @@ Writer-safe selection; no future solution.
   - Ngôi thứ ba trần thuật: `bà Lan`, `bà`.
 - **Người phụ nữ đặt hàng (Vũ Thị Thoa — 22 tuổi theo diện mạo siêu nhiên, 52 tuổi nếu còn sống theo hồ sơ hộ tịch):**
   - Dáng người mảnh mai, gầy gò, ăn mặc giản dị kín đáo (áo sơ mi cộc tay xanh nhạt sờn mép, quần lụa đen chấm gót, đội nón lá cũ che sụp nửa mặt).
-  - **Bàn tay trái chiêu nổi bật:** Mu bàn tay trắng xanh, ngón dài thon thả, cử động cực kỳ mềm mại, dẻo quẹo và thuần thục khi phác họa chiếc đài trong không trung, búng ngón tay mô tả ăng-ten, thò túi ngực rút tiền và miết phẳng nếp gấp. Tay phải buông thõng bất động.
+  - **Bàn tay trái chiêu nổi bật:** Mu bàn tay trắng xanh, ngón dài thon thả, cử động cực kỳ mềm mại, dẻo quẹo và thuần thục khi đón bút bi, uốn cổ tay kẹp bút vẽ phác chiếc đài và chấm vạch AM trên góc sổ tiệm (manh mối C-10), thò túi ngực rút tiền và miết phẳng nếp gấp. Tay phải buông thõng bất động.
   - Giọng nói: nhỏ nhẹ, trầm tĩnh, phát âm chuẩn giọng Bắc Bộ xưa.
   - Xưng hô: xưng `tôi`, gọi bà Lan là `bác`; nói `cho anh trai tôi`, `anh tôi chỉ nghe loại đài ấy thôi`.
   - Trên camera (CCTV): Khi ngửa mặt lên nhìn vào thấu kính, nón lá trượt ra sau, bóc trần khung xương đặc trưng họ Vũ xóm Trại (gò má cao, mắt một mí xếch sâu—hao hao Thủy) nhưng nét mặt phẳng lặng, trắng bệch không một nếp nhăn thời gian như bức di ảnh cũ từ thập niên 90.

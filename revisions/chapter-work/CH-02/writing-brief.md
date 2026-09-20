@@ -20,7 +20,8 @@ Scene ecology: scene-ecology.md
    - Bà Lan bận rộn với công việc mùa Rằm: tay dính hồ nếp ngâm chua, cắm cúi chuốt nan tre.
    - Người phụ nữ bước vào tiệm với dáng vẻ kín đáo, lam lũ của đàn bà thôn quê: đội nón lá cũ kéo sụp che nửa trên khuôn mặt, mặc áo sơ mi xanh cũ sờn mép vai, quần lụa đen chấm gót.
    - Xưng hô trung tính, lịch thiệp người lớn thôn quê: *"Tôi — Bác"*, *"Cho anh trai tôi"*.
-   - Khách đưa bàn tay trái chiêu lên, ngón tay thon dài dẻo quẹo múa phác họa chiếc đài trong không trung, búng ngón tay mô tả cần ăng-ten rút, chỉ chuẩn xác vào khoảng không đánh dấu vạch đỏ AM phát thanh miền Bắc xưa. Tay phải buông thõng bất động. Bà Lan sững sờ trước bàn tay dẻo như thợ vẽ gốm/thợ thêu.
+   - Khách đưa ra yêu cầu làm chiếc đài cổ xưa có vạch đỏ AM. Bà Lan không rành đài cổ nên đẩy sổ đơn và bút bi sang, bảo khách tự vẽ phác mặt đài và vạch tần số vào góc sổ để thợ nhìn làm theo.
+   - Khách vươn bàn tay trái chiêu đón bút, kẹp bút thoăn thoắt, uốn cổ tay trái vẽ khung đài và chấm vạch AM chuẩn xác vào góc trang sổ lưu của tiệm (để lại bút tích vật lý bền vững C-10). Bà Lan buột miệng hỏi: *"Ơ, cô thuận tay chiêu à?"* — *"Vâng, từ bé tôi đã quen dùng tay này rồi bác ạ."* Tay phải khách buông thõng bất động.
    - Bà Lan cắm cúi ghi nhận răm rắp theo nghiệp vụ sổ sách mùa Rằm: Người nhận "Vũ Văn Cường - xóm Trại", đài cassette vạch đỏ AM, hẹn lấy sáng 14 (C-01). Bà Lan hoàn toàn không biết và không bận tâm người nhận là ai hay còn sống, mặc định là đơn cúng giỗ người đã khuất theo lệ thường.
    - Khách dùng độc nhất bàn tay trái thò sâu vào túi ngực áo, rút hai tờ tiền cotton 50.000đ cũ, ngón tay thoăn thoắt lật nếp gấp tư và miết phẳng phiu trên mặt bàn gỗ. Giao dịch diễn ra bình thường, tiền cọc cotton được cất vào ngăn kéo.
    - Khách bước ra cửa.

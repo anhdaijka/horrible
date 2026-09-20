@@ -72,25 +72,37 @@ Người phụ nữ bước thêm hai bước lại gần quầy thu ngân, ánh
 
 — Đài gì? — Bà Lan nhíu mày. — Cái đài radio chạy pin con ó ấy à? Trên phố người ta bán đồ in sẵn bằng bìa các-tông đầy ra đấy, năm mươi nghìn một cái to đùng, có cả ăng-ten xốp, việc gì phải đặt làm tay cho đắt đỏ?
 
-— Không phải loại bìa in sẵn, — người phụ nữ lắc đầu nhẹ.
+— Không phải loại bìa in sẵn, — người phụ nữ lắc đầu nhẹ, giọng vẫn nhỏ nhẹ và đều đều. — Tôi muốn làm bằng nan tre chuốt mỏng, bọc giấy bao xi măng cũ vuốt phẳng phiu, dán bằng hồ nếp. Cửa sổ băng cassette làm bằng giấy bóng kính mờ, cần ăng-ten quấn giấy bạc.
 
-Người đó không dùng tay phải, mà chậm rãi đưa bàn tay trái lên ngang tầm ngực.
+Người đó hơi nghiêng đầu, nói tiếp:
 
-Đó là một bàn tay chiêu thon dài lạ thường, mu bàn tay trắng xanh nổi rõ những đường gân mảnh như sợi chỉ. Từng khớp ngón cử động mềm mại và thuần thục đến mức kỳ dị khi người đó khẽ vẫy các đầu ngón tay, phác họa từng đường nét của chiếc đài trong không gian:
+— Trên mặt thang dò sóng, bác dặn thợ lấy mực tàu đỏ chấm cho tôi một vạch nhỏ. Đúng vào dải tần số AM phát thanh tiếng nói Việt Nam thời xưa. Đánh dấu đúng chỗ ấy giúp tôi.
 
-— Tôi muốn làm bằng nan tre chuốt mỏng, bọc giấy xi măng phẳng phiu, dán bằng hồ nếp. Cửa sổ băng cassette làm bằng giấy bóng kính mờ, cần ăng-ten quấn giấy bạc.
+Bà Lan ngớ người, tặc lưỡi:
 
-Ngón trỏ và ngón cái bàn tay trái khẽ búng nhẹ vào không khí mô tả cần ăng-ten rút, rồi đầu ngón tay điểm chuẩn xác vào một khoảng trống vô hình:
+— Tôi chịu, đài đóm từ đời tám hoánh ấy tôi biết thế nào mà dặn thợ. Cả đời làm mã, người ta toàn đặt ô tô, tivi màn hình cong với nhà ba tầng mái Thái cho sang, chứ ai mà nhớ nổi cái dải sóng dải tần từ ba mươi năm trước nằm ở xó nào.
 
-— Trên mặt thang dò sóng, bác dặn thợ lấy mực tàu đỏ vẽ tay cho tôi một vạch nhỏ. Đúng vào dải tần số AM phát thanh tiếng nói Việt Nam thời xưa. Đánh dấu đúng chỗ ấy giúp tôi.
+Bà kéo cuốn sổ bìa da màu xanh đen đặt trên mặt bàn gỗ ra trước mặt. Cuốn sổ đã quăn mép, trang giấy ố vàng kẻ sọc ngang chi chít những dòng ghi chép bằng bút bi mực xanh: người đặt ngựa bạch, người đặt thuyền rồng, người đặt năm mươi vạn tiền cúng giỗ. Bà cầm chiếc bút bi cạn mực, vẩy vẩy mấy cái xuống mặt bàn rồi đẩy cả sổ lẫn bút sang mép bàn phía người khách:
 
-Bà Lan tròn mắt nhìn bàn tay người khách. Cả đời làm nghề chuốt nan tre, gọt cật nứa, bà chưa từng thấy người đàn bà thôn quê nào có bàn tay chiêu dẻo quẹo, các ngón tay dài và linh hoạt như ngón tay thợ vẽ gốm hay thợ thêu thế này. Tay phải của người phụ nữ ấy vẫn buông thõng bất động bên hông, dường như mọi sự khéo léo, linh hoạt của cơ thể đều dồn hết vào năm ngón tay bên trái.
+— Cô cầm bút vẽ phác cái mặt đài rồi chấm cái vạch ấy vào góc trang sổ này cho tôi, để thợ nó nhìn theo đấy mà làm cho đúng ý.
 
-Mấy chục năm làm nghề vàng mã, người ta đến tiệm bà chỉ toàn đòi làm thứ hiện đại nhất: nhà ba tầng mái Thái, tivi màn hình cong, ô tô mui trần gắn biển số đẹp để gửi xuống cõi âm cho người chết nở mày nở mặt. Chưa từng có ai bước vào tiệm đòi làm một chiếc đài cassette giấy bồi mô phỏng đúng cái kiểu cách cổ lỗ sĩ của những năm chín mươi như thế này.
+Người phụ nữ thoáng dừng lại một nhịp.
+
+Người đó không đưa tay phải ra, mà chậm rãi vươn bàn tay trái đón lấy chiếc bút bi.
+
+Đó là một bàn tay chiêu thon dài lạ thường, mu bàn tay trắng xanh nổi rõ những đường gân mảnh như sợi chỉ. Bàn tay phải vẫn buông thõng bất động bên hông, dường như mọi sự khéo léo của người đó đều dồn hết vào năm ngón tay bên trái. Người đó kéo nhẹ mép sổ về phía mình, ngón trỏ và ngón cái kẹp gọn thân bút, cổ tay hơi uốn cong theo thói quen của người viết tay trái từ bé. Đầu ngòi bút bi tì xuống góc dưới trang giấy ố vàng. Bằng vài nét gạch dứt khoát và chuẩn xác, người đó vẽ một khung chữ nhật nhỏ mô phỏng mặt thang dò sóng, rồi chấm một vạch mực đậm vào đúng dải AM phía bên trái.
+
+Bà Lan đứng nhìn các ngón tay mảnh dẻ của người khách cử động thoăn thoắt, buột miệng theo thói quen của người già thôn quê:
+
+— Ơ, cô thuận tay chiêu à?
+
+— Vâng, — người phụ nữ đáp, giọng phẳng lặng không gợn chút cảm xúc. — Từ bé tôi đã quen dùng tay này rồi bác ạ.
+
+Bà Lan lắc đầu chậc lưỡi. Cả đời làm nghề chuốt nan tre, gọt cật nứa, bà chưa từng thấy người đàn bà thôn quê nào có bàn tay chiêu dẻo quẹo, các ngón tay dài và linh hoạt như ngón tay thợ vẽ gốm hay thợ thêu thế này.
 
 — Cô đặt cho ai mà cầu kỳ thế? — Bà Lan hỏi, tính tò mò của dân buôn bán trỗi dậy. — Người già trong nhà mới mất à?
 
-— Cho anh trai tôi, — người phụ nữ đáp, giọng vẫn nhỏ nhẹ và bình thản.
+— Cho anh trai tôi, — người phụ nữ đáp.
 
 — Anh trai? — Bà Lan lẩm bẩm. — Thế mà lại thích cái thứ đài từ đời tám hoánh này...
 
@@ -102,9 +114,7 @@ Bà Lan ngẩn người. Chi tiết tỉ mỉ đến từng vạch mực trên t
 
 — Vâng, bao nhiêu tiền cũng được bác ạ, — người phụ nữ đáp ngay, không hề đắn đo mặc cả.
 
-Bà Lan mở cuốn sổ bìa da màu xanh đen đặt trên mặt bàn gỗ. Cuốn sổ đã quăn mép, trang giấy ố vàng kẻ sọc ngang chi chít những dòng ghi chép bằng bút bi mực xanh: người thì đặt ngựa bạch, người thì đặt thuyền rồng, người đặt năm mươi vạn tiền cúng giỗ.
-
-Bà cầm chiếc bút bi cạn mực, vẩy vẩy mấy cái xuống mặt bàn rồi ngẩng lên:
+Bà Lan kéo cuốn sổ lại gần, cầm lấy chiếc bút bi:
 
 — Tên người nhận là gì? Ở đâu để tôi ghi vào sổ, chứ mùa rằm nhiều đơn lắm, không ghi rõ là lẫn lộn chết dở.
 
@@ -124,7 +134,7 @@ Quanh năm buôn bán, khách đến tiệm đặt đồ cúng giỗ tứ phươ
 
 — Vũ Thị Thoa.
 
-Bàn tay bà Lan viết nhanh ba chữ *Vũ Thị Thoa* vào góc dưới của trang sổ.
+Bàn tay bà Lan viết nhanh ba chữ *Vũ Thị Thoa* vào góc dưới của trang sổ, ngay bên cạnh hình vẽ phác chiếc đài radio.
 
 — Rồi. Hẹn sáng mười bốn nhé. Đặt cọc cho tôi một nửa, một trăm nghìn. Tôi còn phải đi kiếm giấy xi măng xịn với chuốt nan cho kịp.
 
@@ -180,7 +190,7 @@ Khanh ngồi bất động sau quầy thu ngân. Mắt anh không chỉ dán ch�
 
 Bàn tay trái.
 
-Toàn bộ thao tác chỉ trỏ mô tả chiếc đài nan tre, động tác rút tiền từ túi ngực và miết phẳng từng nếp gấp trên mặt bàn... người phụ nữ đó đều làm hoàn toàn bằng bàn tay trái. Một bàn tay chiêu với những ngón tay thon dài, cử động mềm mại và thuần thục đến mức dị thường giữa hai hàng hình nhân mã trắng toát không vẽ mắt.
+Toàn bộ thao tác: từ lúc người đó đón lấy chiếc bút bi của bà Lan, cúi đầu dùng tay trái vẽ phác chiếc đài với vạch mực AM vào góc trang sổ, cho đến động tác rút hai tờ tiền giấy từ túi ngực và miết phẳng từng nếp gấp trên mặt bàn... người phụ nữ đó đều làm hoàn toàn bằng bàn tay trái. Một bàn tay chiêu với những ngón tay thon dài, cử động mềm mại và thuần thục đến mức dị thường giữa hai hàng hình nhân mã trắng toát không vẽ mắt.
 
 Khanh chậm rãi ngước nhìn lên góc xà gồ thép phía trên bậu cửa tiệm.
 

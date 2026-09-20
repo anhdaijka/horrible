@@ -22,7 +22,8 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
 2. **Khách bước vào không gian tiệm:** Khách xuất hiện kín đáo lam lũ dưới vành nón lá sụp che nửa mặt, áo xanh sờn vai, quần lụa đen, đứng giữa hai hàng hình nhân mã bồi giấy trắng toát với đôi mắt để trống không con ngươi (kiêng kỵ điểm nhãn tránh cô hồn nhập xác).
 3. **Thương lượng đơn hàng thủ công & Độc diễn bàn tay trái:**
    - Xưng hô lịch thiệp người lớn thôn quê: *"Tôi — Bác"*, *"Cho anh trai tôi"*.
-   - Khách đưa bàn tay trái chiêu lên, ngón dài thon thả dẻo quẹo múa phác họa chiếc đài trong không trung, búng ngón tay mô tả cần ăng-ten, điểm vào khoảng không đánh dấu vạch đỏ AM. Tay phải buông thõng bất động. Bà Lan sững sờ trước bàn tay dẻo như thợ vẽ gốm.
+   - Khách yêu cầu làm chiếc đài có vạch đỏ AM. Bà Lan không biết vị trí vạch sóng cổ nên đẩy sổ đơn và bút bi sang, bảo khách vẽ phác vào góc sổ.
+   - Khách đón bút bằng tay trái, uốn cổ tay trái kẹp bút vẽ phác khung đài và chấm vạch AM chuẩn xác vào góc trang sổ (để lại manh mối C-10). Bà Lan buột miệng hỏi: *"Ơ, cô thuận tay chiêu à?"* — *"Vâng, từ bé tôi đã quen dùng tay này rồi bác ạ."* Tay phải khách buông thõng bất động.
    - Bà Lan cắm cúi ghi chép vào cuốn sổ đơn theo đúng lệ buôn bán, không hỏi han tọc mạch việc riêng của khách.
 4. **Khoảnh khắc giao dịch tiền cọc:**
    - Khách dùng duy nhất bàn tay trái thò túi ngực áo sơ mi, kẹp hai tờ tiền cotton 50.000đ cũ, ngón tay thoăn thoắt mở nếp gấp tư và mu bàn tay miết phẳng phiu trên bàn gỗ bám keo.
