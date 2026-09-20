@@ -74,11 +74,19 @@ Người phụ nữ bước thêm hai bước lại gần quầy thu ngân, ánh
 
 — Không phải loại bìa in sẵn, — người phụ nữ lắc đầu nhẹ.
 
-Rồi người đó đưa bàn tay trái lên. Những ngón tay thon dài, hơi gầy nhưng làn da trắng muốt và cử động mềm mại, thuần thục khi khẽ vẫy ngón tay mô tả trong không gian:
+Người đó không dùng tay phải, mà chậm rãi đưa bàn tay trái lên ngang tầm ngực.
+
+Đó là một bàn tay chiêu thon dài lạ thường, mu bàn tay trắng xanh nổi rõ những đường gân mảnh như sợi chỉ. Từng khớp ngón cử động mềm mại và thuần thục đến mức kỳ dị khi người đó khẽ vẫy các đầu ngón tay, phác họa từng đường nét của chiếc đài trong không gian:
 
 — Tôi muốn làm bằng nan tre chuốt mỏng, bọc giấy xi măng phẳng phiu, dán bằng hồ nếp. Cửa sổ băng cassette làm bằng giấy bóng kính mờ, cần ăng-ten quấn giấy bạc.
 
-Bà Lan tròn mắt nhìn người khách. Mấy chục năm làm nghề vàng mã, người ta đến tiệm bà chỉ toàn đòi làm thứ hiện đại nhất: nhà ba tầng mái Thái, tivi màn hình cong, ô tô mui trần gắn biển số đẹp để gửi xuống cõi âm cho người chết nở mày nở mặt. Chưa từng có ai bước vào tiệm đòi làm một chiếc đài cassette giấy bồi mô phỏng đúng cái kiểu cách cổ lỗ sĩ của những năm chín mươi như thế này.
+Ngón trỏ và ngón cái bàn tay trái khẽ búng nhẹ vào không khí mô tả cần ăng-ten rút, rồi đầu ngón tay điểm chuẩn xác vào một khoảng trống vô hình:
+
+— Trên mặt thang dò sóng, bác dặn thợ lấy mực tàu đỏ vẽ tay cho tôi một vạch nhỏ. Đúng vào dải tần số AM phát thanh tiếng nói Việt Nam thời xưa. Đánh dấu đúng chỗ ấy giúp tôi.
+
+Bà Lan tròn mắt nhìn bàn tay người khách. Cả đời làm nghề chuốt nan tre, gọt cật nứa, bà chưa từng thấy người đàn bà thôn quê nào có bàn tay chiêu dẻo quẹo, các ngón tay dài và linh hoạt như ngón tay thợ vẽ gốm hay thợ thêu thế này. Tay phải của người phụ nữ ấy vẫn buông thõng bất động bên hông, dường như mọi sự khéo léo, linh hoạt của cơ thể đều dồn hết vào năm ngón tay bên trái.
+
+Mấy chục năm làm nghề vàng mã, người ta đến tiệm bà chỉ toàn đòi làm thứ hiện đại nhất: nhà ba tầng mái Thái, tivi màn hình cong, ô tô mui trần gắn biển số đẹp để gửi xuống cõi âm cho người chết nở mày nở mặt. Chưa từng có ai bước vào tiệm đòi làm một chiếc đài cassette giấy bồi mô phỏng đúng cái kiểu cách cổ lỗ sĩ của những năm chín mươi như thế này.
 
 — Cô đặt cho ai mà cầu kỳ thế? — Bà Lan hỏi, tính tò mò của dân buôn bán trỗi dậy. — Người già trong nhà mới mất à?
 
@@ -86,7 +94,7 @@ Bà Lan tròn mắt nhìn người khách. Mấy chục năm làm nghề vàng m
 
 — Anh trai? — Bà Lan lẩm bẩm. — Thế mà lại thích cái thứ đài từ đời tám hoánh này...
 
-— Anh tôi chỉ nghe loại đài ấy thôi, — người phụ nữ nói thêm. — Trên mặt thang dò sóng, bác dặn thợ lấy mực tàu đỏ vẽ tay cho tôi một vạch nhỏ. Đúng vào dải tần số AM phát thanh tiếng nói Việt Nam thời xưa. Đánh dấu đúng chỗ ấy giúp tôi.
+— Anh tôi chỉ nghe loại đài ấy thôi, — người phụ nữ nói thêm.
 
 Bà Lan ngẩn người. Chi tiết tỉ mỉ đến từng vạch mực trên thang sóng AM khiến bà có chút ngạc nhiên. Đây rõ ràng không phải là một món đồ cúng chung chung để hóa theo thủ tục, mà là một kỷ vật có thật, một thứ đồ vật đang được phục dựng lại chính xác từ ký ức của một người nào đó.
 
@@ -120,9 +128,9 @@ Bàn tay bà Lan viết nhanh ba chữ *Vũ Thị Thoa* vào góc dưới của 
 
 — Rồi. Hẹn sáng mười bốn nhé. Đặt cọc cho tôi một nửa, một trăm nghìn. Tôi còn phải đi kiếm giấy xi măng xịn với chuốt nan cho kịp.
 
-Người phụ nữ khẽ nghiêng người. Bằng bàn tay trái thuận, người đó thò vào chiếc túi áo sơ mi màu xanh sờn mép, rút ra hai tờ tiền giấy gấp làm tư.
+Người phụ nữ khẽ nghiêng người. Vẫn chỉ bằng bàn tay trái thuận, người đó thò sâu hai ngón tay vào chiếc túi áo sơ mi bên ngực trái, kẹp rút ra hai tờ tiền giấy gấp làm tư.
 
-Từng nếp gấp được mở ra một cách cẩn thận, vuốt phẳng phiu rồi đặt nhẹ lên mặt bàn gỗ.
+Động tác thuần thục đến mức không cần bàn tay phải hỗ trợ: chỉ bằng đầu ngón cái và ngón trỏ tay trái, người đó thoăn thoắt lật mở từng nếp gấp một cách êm ru, rồi dùng mu bàn tay trái miết thật phẳng phiu hai tờ tiền trên mặt bàn gỗ bám đầy vết keo dán khô.
 
 Đó là hai tờ tiền giấy mệnh giá năm mươi nghìn đồng màu xanh cũ, loại tiền cotton phát hành từ nhiều năm trước, còn khá lành lặn như được cất kỹ trong ngăn kéo hay đáy tráp gỗ gia đình.
 
@@ -144,19 +152,17 @@ Cả thân hình đứng bất động.
 
 Tiếng còi xe máy ngoài ngã tư, tiếng ve sầu râm ran và tiếng ồn ào của phiên chợ huyện ngoài kia bỗng nhiên mất đi độ vang thực tế của không gian, nghẹt lại như bị bóp qua một màng loa nhỏ xíu.
 
-Khung cảnh gian nhà ngoài hơi cong nhẹ ở hai bên rìa — góc quay mắt cá từ trên cao nhìn chúc xuống một góc bốn mươi lăm độ.
+Khung cảnh gian nhà ngoài hơi cong nhẹ ở hai bên rìa — góc quay mắt cá từ trên cao nhìn chúc xuống một góc bốn mươi lăm độ. Vệt nắng trưa ngoài đường cái hắt ngược vào tạo thành một khoảng sáng tối tương phản gắt gao.
 
-Trên màn hình kỹ thuật số, một khung chữ nhật màu xanh lá cây bỗng xuất hiện quanh vành nón lá. Cái khung nhận diện khuôn mặt ấy không cố định, mà liên tục nhấp nháy, giật rung từng nhịp, lúc co lại lúc giãn ra một cách bất thường trên nền ảnh tĩnh.
+Trên màn hình kỹ thuật số, một khung chữ nhật màu xanh lá cây bỗng xuất hiện quanh vành nón lá. Cái khung nhận diện khuôn mặt ấy không thể khóa cố định, mà liên tục nhấp nháy, giật rung từng nhịp, lúc co lại lúc giãn ra một cách bất thường trên nền ảnh tĩnh.
 
 Rồi, người phụ nữ chậm rãi ngửa mặt lên. Vành nón lá hơi trượt nghiêng ra sau lưng.
 
 Người đó không nhìn ra đường cái, cũng không ngoái lại phía quầy thu ngân. Ánh mắt ngước chếch lên góc trần nhà phía trên bậu cửa, nhìn thẳng tắp vào tâm thấu kính camera.
 
-Dưới góc quay từ trên cao rọi thẳng xuống, toàn bộ gương mặt hiện ra trọn vẹn trong thấu kính.
+Dưới góc quay từ trên cao rọi xiên xuống, gương mặt người khách hiện lên vỡ hạt qua độ phân giải của camera giám sát.
 
-Đó không phải là một người đàn bà trung niên lam lũ cùng thế hệ với ông Cường xóm Trại.
-
-Hiện trên màn hình là gương mặt của một cô gái trẻ măng, đôi mắt đen láy thăm thẳm và làn da trắng bệch không một nếp nhăn thời gian—dung mạo tĩnh lặng đến tuyệt đối, dừng lại chính xác ở độ tuổi đôi mươi của mùa thu năm 1996.
+Đó là một gương mặt mang đậm khung xương đặc trưng của dòng họ Vũ xóm Trại: gò má cao, sống mũi thẳng và đôi mắt một mí hơi xếch sâu thẳm—những đường nét hao hao đến rợn người với người phụ nữ tên Thủy làm bên xưởng may Yên Phong. Nhưng dưới ánh sáng ngược chói lòa, gương mặt ấy lại không hề có nếp nhăn chân chim hay sự khắc khổ của người đàn bà đã bước vào tuổi ngũ tuần. Nét mặt phẳng lặng, trắng bệch và thanh xuân đến mức kỳ quái, như một bức di ảnh cũ từ những năm chín mươi đang trân trân nhìn qua ống kính.
 
 Bốn giây trôi qua trong sự im lặng cơ học của đoạn băng hình.
 
@@ -164,18 +170,22 @@ Một ngón tay cái khẽ chạm vào góc dưới màn hình. Khung hình đó
 
 Con số thời gian màu đỏ dừng lại: `10/07/2026 09:24:18`.
 
-Góc nhìn giật lùi ra khỏi khung kính cảm ứng.
-
-Chiếc điện thoại thông minh nằm gọn trong lòng bàn tay Khanh.
+Góc nhìn giật lùi ra khỏi khung kính cảm ứng. Chiếc điện thoại thông minh nằm gọn trong lòng bàn tay Khanh.
 
 Bên ngoài bậu cửa, ánh nắng gay gắt của buổi trưa ngày mười bốn tháng Bảy vẫn rọi chói chang. Đĩa xôi cúng và mấy nén nhang bài nghi ngút khói ở góc quán. Tiếng chổi đót của bà Lan đang lúi húi quét mớ giấy vụn dưới sàn sau khi Lan Anh hốt hoảng bỏ chạy vẫn sột soạt vang lên.
 
 Bà không hề để ý đến con trai.
 
-Khanh ngồi bất động sau quầy thu ngân. Mắt anh nhìn trân trân vào gương mặt người con gái đang đóng băng trên màn hình điện thoại, rồi chậm rãi ngước nhìn lên góc xà gồ thép phía trên bậu cửa tiệm.
+Khanh ngồi bất động sau quầy thu ngân. Mắt anh không chỉ dán chặt vào gương mặt mang nét họ Vũ đang đóng băng trên màn hình, mà còn dừng lại ở chi tiết vừa tua qua trong đoạn băng:
+
+Bàn tay trái.
+
+Toàn bộ thao tác chỉ trỏ mô tả chiếc đài nan tre, động tác rút tiền từ túi ngực và miết phẳng từng nếp gấp trên mặt bàn... người phụ nữ đó đều làm hoàn toàn bằng bàn tay trái. Một bàn tay chiêu với những ngón tay thon dài, cử động mềm mại và thuần thục đến mức dị thường giữa hai hàng hình nhân mã trắng toát không vẽ mắt.
+
+Khanh chậm rãi ngước nhìn lên góc xà gồ thép phía trên bậu cửa tiệm.
 
 Ở đó, sau cuộn dây thép treo đồ mã và lớp mạng nhện bám đầy bụi giấy bồi, chiếc mắt thần camera an ninh nhỏ bằng bao diêm nằm khuất sâu trong bóng tối. Đứng từ dưới sàn nhìn lên, người quen trong nhà còn khó nhận ra, huống hồ một người khách lạ bước chân vào tiệm lần đầu.
 
 Khanh nhìn lại màn hình điện thoại.
 
-Gương mặt người con gái tên Thoa vẫn bất động trong khung hình ngày mùng mười, ánh mắt tĩnh lặng như đang nhìn thẳng vào đồng tử của anh giữa cái oi nồng ngột ngạt của trưa áp Rằm.
+Gương mặt người phụ nữ tên Thoa vẫn bất động trong khung hình ngày mùng mười, ánh mắt tĩnh lặng như đang nhìn thẳng vào đồng tử của anh giữa cái oi nồng ngột ngạt của trưa áp Rằm.

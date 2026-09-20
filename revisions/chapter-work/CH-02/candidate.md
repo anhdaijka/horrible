@@ -1,8 +1,8 @@
 # Candidate — CH-02
-- Candidate ID: CH-02-C4
+- Candidate ID: CH-02-C5
 - Prose path: revisions/chapter-work/CH-02/revised.md
 - Scope: complete chapter
-- SHA-256: F7336FDF4541DE8B45A4F59A02E0F8034D9F39384ED75FD363D26A2497F6815D
-- Consequential authority-basis ID: CH-02-B4
-- Consequential authority basis: D-001, D-003, D-004, Author Instruction 2026-09-18 (Perceptual Shift & CCTV Reveal), Author Revision Instruction 2026-09-19 (Thoa Living Cover & Seamless One-Shot Pull-Back Reveal), Author Epistemic Calibration 2026-09-19 (Dual-Layer Perception Architecture: Nón lá & 52yo Ambiguity vs 1996 22yo CCTV Freeze), Author Direct Repair 2026-09-20 (Remove Cường living conflict & bogus tiến hình rationalization; sync with CH-01), revisions/chapter-work/CH-02/preflight.md
-- Supersedes: CH-02-C3
+- SHA-256: 6A0C0DD20D6FC878824BA4ED952131FFBE389EDE28A0F48DD20C79016F14D479
+- Consequential authority-basis ID: CH-02-B5
+- Consequential authority basis: D-001, D-003, D-004, Author Instruction 2026-09-18 (Perceptual Shift & CCTV Reveal), Author Revision Instruction 2026-09-19 (Thoa Living Cover & Seamless One-Shot Pull-Back Reveal), Author Direct Repair 2026-09-20 (Remove Cường living conflict & bogus tiến hình rationalization; sync with CH-01), Author Craft Directive 2026-09-20 (Left-hand physical trait emphasis & CCTV Vũ-family/Thủy resemblance ambiguity), revisions/chapter-work/CH-02/preflight.md
+- Supersedes: CH-02-C4

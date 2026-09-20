@@ -19,20 +19,20 @@ Không nhầm D-001/D-002 hậu reset với log lưu trữ. Generated bibles/ind
 
 **5 chương canonized (đã cập nhật revision wave CH-01 & CH-02).**
 - Chương 1 (`chapters/chapter-01.md`, 3.865 từ, SHA-256: `496F114EA153A1DCB8C61E223DD32A6E5080121C927F9516CDAF77099A7000D0`, candidate `CH-01-C3` tại `revisions/chapter-work/CH-01/revised.md` SHA-256: `C06FE209882EF31D03B295EBE7DC208BAD45296BDC4B750AC53B335329B26616`, basis `CH-01-B1`).
-- Chương 2 (`chapters/chapter-02.md`, 3.160 từ, SHA-256: `1B971B4978BA3C85D607373660751295FCAE94913A20400E0FB37F4A7BB54802`, candidate `CH-02-C4` tại `revisions/chapter-work/CH-02/revised.md` SHA-256: `F7336FDF4541DE8B45A4F59A02E0F8034D9F39384ED75FD363D26A2497F6815D`, basis `CH-02-B4`).
+- Chương 2 (`chapters/chapter-02.md`, 3.420 từ, SHA-256: `D4A4E5562714B56640D0712F4D606506246F7E53DC5E7E806F514C8E66CD64FE`, candidate `CH-02-C5` tại `revisions/chapter-work/CH-02/revised.md` SHA-256: `6A0C0DD20D6FC878824BA4ED952131FFBE389EDE28A0F48DD20C79016F14D479`, basis `CH-02-B5`).
 - Chương 3 (`chapters/chapter-03.md`, 4.264 từ, SHA-256: `6C966093C7A4547A8BD80D6B6DE488477B0303145EF81D30A5470684678342A1`, basis `CH-03-B1`).
 - Chương 4 (`chapters/chapter-04.md`, 6.172 từ, SHA-256: `379187A01215FD1B09D3AA551A5F873D4DA2CDF8EAE60CF923BF42A32AEB1E49`, basis `CH-04-B1`).
 - Chương 5 (`chapters/chapter-05.md`, 5.375 từ, SHA-256: `63668BE517423319948F160555AC4B9575AFD3FC669994B780894C0F37030896`, basis `CH-05-B1`).
-Tổng dung lượng bản thảo: ~23.080 từ.
+Tổng dung lượng bản thảo: ~23.340 từ.
 
 ## Current next action
 
-**REVISION WAVE HOÀN TẤT (CH-01-C3 & CH-02-C4):**
+**REVISION WAVE HOÀN TẤT (CH-01-C3 & CH-02-C5):**
 1. Đã giải quyết triệt để lỗi logic thoại bà Lan về "họ Vũ" ở cả CH-01 và CH-02 (trả bà Lan về tri thức thuần túy của người bán hàng nhìn sổ đơn, không biết gia phả họ Vũ hay nội bộ xóm Trại).
 2. Tinh chỉnh chuyển cảnh mượt từ tiệm mã về căn nhà hai tầng xóm Trại ở cuối CH-01; đồng bộ không gian/thời gian với đại cảnh canh xác CH-03; gia tăng độ lạnh gáy.
 3. Cắt bỏ triệt để đoạn bà Lan tra khảo về "Cường con cụ Cổn đang sống nhăn răng" và suy nghĩ sai lệch về "tiến hình giải hạn", đồng bộ 100% với phản ứng ngỡ ngàng bàng hoàng của bà Lan ở CH-01.
-4. Duy trì **Kiến trúc nhận thức hai tầng (Dual-Layer Perception Architecture)**: nón lá sụp che trán, xưng hô thôn quê; dung mạo thiếu nữ đôi mươi năm 1996 chỉ bóc trần qua mắt camera khi ngửa mặt lên nhìn vào thấu kính trên xà nhà, khớp nối hoàn hảo với điều tra của Long ở P4 và CH-05.
-5. Viết lại phân cảnh CCTV cuối CH-02 theo cú **One-Shot Pull-Back Reveal** liền mạch, cắt bỏ toàn bộ sáo ngữ "tell but don't show" và phản ứng sinh lý sến rện.
+4. Nâng cấp đậm nét chi tiết manh mối **Bàn tay trái chiêu**: Thoa độc diễn toàn bộ thao tác bằng tay trái (múa phác họa chiếc đài, búng ngón tay mô tả ăng-ten, thò túi ngực rút tiền, lật nếp gấp tư và miết phẳng tiền cotton trên bàn gỗ bám keo; tay phải buông thõng bất động). Đây là manh mối nhận dạng vật lý rợn ngợp để loại trừ tật khoèo tay trái của Thủy và đối chiếu Thoa 1996.
+5. Tinh chỉnh sự mơ hồ thị giác trên CCTV (Visual Ambiguity): Gương mặt vỡ hạt dưới ánh sáng ngược mang khung xương gò má cao đặc trưng họ Vũ xóm Trại (hao hao Thủy làm xưởng may Yên Phong) nhưng tuyệt nhiên không có nếp nhăn thời gian như bức di ảnh cũ từ thập niên 90—vừa hợp lý hóa việc sau này người ta nghi ngờ Thủy, vừa tạo cú sốc đóng băng thời gian cho Khanh.
 6. Toàn bộ file quy hoạch liên quan (`candidate.md`, `writing-brief.md`, `scene-ecology.md`, `character-context.md`, `qa-card.md`, `writer-handoff.md`, `revision-audit.md`) tại cả 2 workspace `CH-01` và `CH-02` đã được cập nhật đồng bộ, ngăn ngừa nguy cơ các agent sau refer sai nguồn.
 
 Bước kế tiếp: Tác giả nghiệm thu kết quả revision wave CH-01/CH-02, sau đó tiến hành `/hr-preflight CH-06` (Case Zero Phase 4). Cần Gemini 3.7 Flash / low–medium hoặc Gemini 3.8 Flash / medium.
