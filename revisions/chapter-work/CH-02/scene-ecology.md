@@ -35,18 +35,18 @@ Writer-facing affordance field. This is not a beat sheet, required subplot list 
    - Âm thanh chợ búa nghẹt lại như qua màng loa; góc nhìn từ từ nâng cao lên mắt camera góc rộng trên xà nhà, vệt nắng ngược sáng tương phản gắt gao.
    - Người phụ nữ khựng lại ở bậu cửa 4 giây.
    - Ô vuông xanh nhận diện khuôn mặt giật lag liên tục quanh vành nón lá (Digital Glitch).
-   - Người phụ nữ từ từ ngửa mặt lên nhìn chuẩn xác vào ống kính camera an ninh giấu kín trên xà nhà; vành nón trượt nghiêng ra sau, thấu kính camera từ trên cao rọi xiên xuống gương mặt vỡ hạt mang khung xương đặc trưng họ Vũ xóm Trại (gò má cao, mắt một mí xếch sâu—hao hao Thủy) nhưng phẳng lặng, trắng bệch không một nếp nhăn thời gian như bức di ảnh cũ từ thập niên 90.
-   - Kéo lùi ống kính hé lộ Khanh đang ngồi nhìn vào màn hình điện thoại trưa 14 giữa tiệm mã, nhận ra sự dị thường đáng sợ của hành vi ngước nhìn chuẩn xác ấy và bàn tay trái chiêu thoăn thoắt độc diễn giữa hai hàng hình nhân không vẽ mắt.
+   - Người phụ nữ từ từ ngửa mặt lên nhìn chuẩn xác vào ống kính camera an ninh giấu kín trên xà nhà; vành nón trượt nghiêng ra sau. Thấu kính camera từ trên cao rọi xiên xuống gương mặt vỡ hạt dưới ánh sáng ngược: gò má cao, sống mũi thẳng, đôi mắt một mí dài hẹp; nét mặt phẳng phiu, trắng bệch, không một cơ mặt lay động.
+   - Kéo lùi ống kính hé lộ Khanh ngồi sau quầy thu ngân trưa 14, nghe tiếng chổi quét rác của mẹ. Anh tua lùi đoạn băng lại vài giây, zoom vào khung hình bàn tay trái kẹp bút vẽ lên góc sổ và cánh tay phải buông thỏng bất động. Anh ngước nhìn vị trí mắt thần do chính tay mình lắp trên xà gồ, rồi nhìn lại khung hình đóng băng ở giây thứ 18 khi người phụ nữ nhìn thẳng vào mắt mình.
 
 ## Horror intrusion (Everyday Uncanny Anchors)
 
 - **Chiếc đài giấy cổ giữa thời hiện đại:** Sự lạc lõng đến rợn người của một kỷ vật 30 năm trước.
 - **Hàng hình nhân không vẽ mắt:** Sự bất động của người phụ nữ đứng cạnh những gương mặt giấy bồi trắng toát không có con ngươi (Uncanny Valley).
 - **Chiếc camera giấu kín sau mạng nhện:** Hành vi ngước nhìn chuẩn xác vào mắt thần vô hình của một người khách lạ lần đầu vào tiệm.
-- **Hiệu ứng Digital Glitch & One-Shot Pull-Back:** Ô vuông nhận diện khuôn mặt giật lag và cú đóng băng màn hình kéo lùi ra thực tại trưa ngày 14, bóc trần khung xương họ Vũ không nếp nhăn và thao tác bàn tay trái.
+- **Hiệu ứng Digital Glitch & One-Shot Pull-Back:** Ô vuông nhận diện khuôn mặt giật lag và cú đóng băng màn hình kéo lùi ra thực tại trưa ngày 14; kết thúc sắc bén tại khung hình đóng băng (Punched Cut).
 
 ## Reader-detective affordances
 
 - C-01: Cuốn sổ đơn mùng 10.
-- C-10: Chiếc đài cassette giấy thủ công có vạch đỏ AM.
-- Dữ liệu CCTV `10/07/2026 09:24:18`: Khung xương họ Vũ xóm Trại (gợi nhắc Thủy) nhưng nét mặt thanh xuân kỳ quái; thao tác độc bàn tay trái điêu luyện (loại trừ tật khoèo tay trái của Thủy, đánh thức ký ức về Thoa 1996).
+- C-10: Chiếc đài cassette giấy thủ công có vạch đỏ AM (bút tích tay chiêu lưu góc sổ).
+- Dữ liệu CCTV `10/07/2026 09:24:18`: Dữ liệu quang học khách quan và hành vi thao tác độc bàn tay trái, trao quyền suy luận cho độc giả.

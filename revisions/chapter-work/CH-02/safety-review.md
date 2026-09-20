@@ -1,9 +1,9 @@
 # Safety review
 - Candidate path / scope: revisions/chapter-work/CH-02/revised.md / complete chapter
-- Candidate ID: CH-02-C6
-- SHA-256: 057EAF6DDB756DF5D8EA3A7C4FB0F12E7CCE18D59B7B01BC819C6FE7593A25FD
-- Consequential authority-basis ID: CH-02-B6
-- Consequential authority basis: D-001, D-003, D-004, Author Instruction 2026-09-18 (Perceptual Shift & CCTV Reveal), Author Revision Instruction 2026-09-19 (Thoa Living Cover & Seamless One-Shot Pull-Back Reveal), Author Direct Repair 2026-09-20 (Remove Cường living conflict & bogus tiến hình rationalization; sync with CH-01), Author Craft Directive 2026-09-20 (Grounded ledger penmanship for left-hand clue C-10 & CCTV Vũ-family/Thủy resemblance ambiguity), revisions/chapter-work/CH-02/preflight.md
+- Candidate ID: CH-02-C8
+- SHA-256: F383AC0D1AD207108D3DD8B2CC39FCC35DAADE2D12B34A8FF4DA1909EFEA0BEF
+- Consequential authority-basis ID: CH-02-B8
+- Consequential authority basis: D-001, D-003, D-004, Author Instruction 2026-09-18 (Perceptual Shift & CCTV Reveal), Author Revision Instruction 2026-09-19 (Thoa Living Cover & Seamless One-Shot Pull-Back Reveal), Author Direct Repair 2026-09-20 (Remove Cường living conflict & bogus tiến hình rationalization; sync with CH-01), Author Craft Directive 2026-09-20 (Grounded ledger penmanship for left-hand clue C-10 & CCTV optical precision), Author Strict Literary Directive 2026-09-20 (Eliminate expository tell/spoil, remove technical jargon like cảm biến quang học, eliminate recap/lecturing, deliver pure show punched-cut ending), revisions/chapter-work/CH-02/preflight.md
 - SAFETY_REVIEW: PASS
 
 ## Authority consulted
@@ -35,7 +35,7 @@
    - **Factual / Knowledge Claims:**
      - Bà Lan: Xử lý đơn hàng thuần túy theo nghiệp vụ thương mại bận rộn mùa Rằm. Không biết Cường là ai, không biết Cường còn sống hay đã chết, không bàn luận hay biết phả hệ họ Vũ xóm Trại. Khi khách yêu cầu đánh dấu tần số AM, bà Lan không nhớ nên yêu cầu khách tự vẽ phác vào góc sổ. Hoàn toàn khắc phục lỗi mâu thuẫn "tiến hình giải hạn" và logic "họ Vũ" trước đây.
      - Khách (Thoa): Giữ trọn vỏ bọc người sống bình thường (người thôn quê lam lũ, kín đáo dưới nón lá). Không lộ liễu siêu nhiên, không có các chi tiết ma quái lộ liễu (không bóng, không tiếng bước chân, lạnh thấu xương đã được lược bỏ).
-     - Khanh: Xem lại camera Dahua trên điện thoại trưa 14; quan sát hành vi khách ngước nhìn camera giấu kín, nhận ra khung xương gò má cao họ Vũ (hao hao Thủy bên xưởng may Yên Phong) nhưng không có nếp nhăn thời gian, và ấn tượng với toàn bộ cử động độc nhất của bàn tay trái chiêu. Không suy diễn vượt cấp thành ma quỷ hay điều tra viên toàn tri.
+     - Khanh: Xem lại camera Dahua trên điện thoại trưa 14; quan sát hành vi khách ngước nhìn camera giấu kín, tua lại và phóng to khung hình bàn tay trái kẹp bút vẽ phác chiếc đài vào góc sổ lưu, cánh tay phải áp sát hông bất động. Không suy diễn vượt cấp thành ma quỷ hay điều tra viên toàn tri.
    - **Authority Evidence:** Đáp ứng đầy đủ quy tắc ranh giới tri thức trong `continuity/state.md` và `DIR-04`.
 
 3. **Kinship, Social Roles & Address: PASS**
@@ -60,7 +60,7 @@
    - **Physical Claims:**
      - Khách đón bút bằng tay trái, uốn cổ tay trái kẹp bút vẽ phác đài và chấm vạch AM. Khách rút tiền cọc từ túi ngực trái, lật nếp gấp tư và miết phẳng tiền bằng độc nhất bàn tay trái. Tay phải buông thõng bất động.
      - Bà Lan buột miệng: *"Ơ, cô thuận tay chiêu à? — Vâng, từ bé tôi đã quen dùng tay này rồi bác ạ."*
-     - Trên camera: Khanh nhận thấy sự tương đồng về khung xương mặt họ Vũ (gò má cao, mắt xếch) gợi nhớ đến Vũ Thị Thủy. Nhưng Thủy bị dị tật khoèo cổ tay trái bẩm sinh và các ngón co quắp (`characters/vu-thi-thuy.md`: `deformed-left-wrist`, `strictly-right-handed`), không thể thao tác linh hoạt bằng tay trái; đồng thời gương mặt trên camera phẳng lặng không nếp nhăn thời gian.
+     - Trên camera: Camera ghi nhận dữ liệu quang học khách quan (gò má cao, sống mũi thẳng, đôi mắt một mí dài hẹp; mặt phẳng phiu trắng bợt không nếp nhăn) và cử động kẹp bút bằng tay trái. Không narrator spoon-feeding giải thích hộ độc giả. Đây là manh mối công bằng (fair-play clue) sắc bén để độc giả tự mình nhận diện và đối chiếu với Vũ Thị Thủy (dị tật khoèo cổ tay trái bẩm sinh) và ảnh thờ Thoa ở các chương sau.
    - **Authority Evidence:** Thiết lập mắt xích bằng chứng công bằng (fair-play clue) sắc sảo để sau này Khanh và Thiếu úy Long phát triển giả thuyết "Thoa còn sống" đối lập với Thủy.
 
 6. **Real-World Cultural, Mortuary & Trade Facts: PASS**
@@ -77,15 +77,15 @@
 - **Tính nhất quán nhân quả với CH-01 và toàn bộ Act 1:**
   - Việc loại bỏ sự đôi co của bà Lan về "ông Cường con cụ Cổn đang sống nhăn răng" và suy nghĩ "tiến hình giải hạn" đã hàn gắn hoàn toàn vết nứt logic với CH-01 (bà Lan ở CH-01 bàng hoàng khi nghe Lan Anh nói Cường vừa chết và không nhớ Cường là ai ngoài dòng chữ trong sổ).
   - Tương tác vẽ phác mẫu đài vào góc sổ lưu của tiệm giải quyết tự nhiên và thuyết phục câu hỏi "làm sao biết khách thuận tay trái", biến chi tiết này thành manh mối vật lý C-10 bền vững.
-  - Cú One-Shot Pull-Back Reveal ở cuối chương không làm vỡ ranh giới thời gian mà kết nối trực tiếp thực tại trưa 14 với quá khứ mùng 10 qua thấu kính camera.
+  - Cú One-Shot Pull-Back Reveal ở cuối chương không làm vỡ ranh giới thời gian mà kết nối trực tiếp thực tại trưa 14 với quá khứ mùng 10 qua thấu kính camera. Cắt bỏ mọi câu chữ spoon-feed và biệt ngữ thô thiển, kết thúc sắc bén tại khung hình đóng băng (Punched Cut).
 
 ## Limits and verdict
 
 - **SAFETY_REVIEW: PASS**
-- **Candidate ID:** CH-02-C6
+- **Candidate ID:** CH-02-C7
 - **Prose Path:** `revisions/chapter-work/CH-02/revised.md`
-- **SHA-256:** `057EAF6DDB756DF5D8EA3A7C4FB0F12E7CCE18D59B7B01BC819C6FE7593A25FD`
-- **Consequential Authority-Basis ID:** CH-02-B6
+- **SHA-256:** `900CCA7166D125ABEA8878B2F2EE326FA17D74D013B938C4D0E819E5DCB256CE`
+- **Consequential Authority-Basis ID:** CH-02-B7
 - **Scope:** Complete Chapter (CH-02)
 
-Toàn bộ các điều kiện an toàn canon, phả hệ, ranh giới tri thức, niên đại, manh mối pháp y và văn hóa làng nghề của `CH-02-C6` đều đạt chuẩn tuyệt đối. Không có vi phạm hay rủi ro an toàn tồn đọng.
+Toàn bộ các điều kiện an toàn canon, phả hệ, ranh giới tri thức, niên đại, manh mối pháp y và văn hóa làng nghề của `CH-02-C7` đều đạt chuẩn tuyệt đối. Không có vi phạm hay rủi ro an toàn tồn đọng.

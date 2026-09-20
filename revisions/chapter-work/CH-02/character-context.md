@@ -16,10 +16,10 @@ Writer-safe selection; no future solution.
   - **Bàn tay trái chiêu nổi bật:** Mu bàn tay trắng xanh, ngón dài thon thả, cử động cực kỳ mềm mại, dẻo quẹo và thuần thục khi đón bút bi, uốn cổ tay kẹp bút vẽ phác chiếc đài và chấm vạch AM trên góc sổ tiệm (manh mối C-10), thò túi ngực rút tiền và miết phẳng nếp gấp. Tay phải buông thõng bất động.
   - Giọng nói: nhỏ nhẹ, trầm tĩnh, phát âm chuẩn giọng Bắc Bộ xưa.
   - Xưng hô: xưng `tôi`, gọi bà Lan là `bác`; nói `cho anh trai tôi`, `anh tôi chỉ nghe loại đài ấy thôi`.
-  - Trên camera (CCTV): Khi ngửa mặt lên nhìn vào thấu kính, nón lá trượt ra sau, bóc trần khung xương đặc trưng họ Vũ xóm Trại (gò má cao, mắt một mí xếch sâu—hao hao Thủy) nhưng nét mặt phẳng lặng, trắng bệch không một nếp nhăn thời gian như bức di ảnh cũ từ thập niên 90.
+  - Trên camera (CCTV): Khi ngửa mặt lên nhìn vào thấu kính, nón lá trượt ra sau, để lộ gương mặt vỡ hạt dưới ánh sáng ngược: gò má cao, sống mũi thẳng, đôi mắt một mí dài hẹp; nét mặt phẳng phiu, trắng bệch, không một nếp nhăn hay cơ mặt lay động.
 - **Nguyễn Minh Khanh (27 tuổi — Xuất hiện ở cú kéo lùi góc nhìn cuối chương):**
-  - Kỹ sư IT, ngồi sau quầy thu ngân sáng 14, tò mò tua lại video camera giám sát mùng 10.
-  - Bị đòn tâm lý rợn ngợp khi nhận ra ánh mắt trong đoạn video đang nhìn thẳng vào mắt mình qua màn hình điện thoại, và nhận diện sự kết hợp dị thường: gương mặt mang nét họ Vũ đóng băng thời gian, cùng cử động độc nhất của bàn tay trái chiêu thoăn thoắt giữa hai hàng hình nhân không vẽ mắt.
+  - Kỹ sư IT, ngồi sau quầy thu ngân trưa 14, tua lại video camera giám sát mùng 10.
+  - Quan sát tỉ mỉ dữ liệu thực tế: phóng to khung hình bàn tay trái kẹp bút vẽ phác chiếc đài, cánh tay phải áp sát hông bất động; ngước nhìn vị trí mắt thần giấu kín trên xà gồ do chính tay anh lắp; đối diện với cái nhìn chuẩn xác của người phụ nữ trong khung hình đóng băng ở giây thứ 18.
   - Ngôi thứ ba trần thuật: `Khanh`, `anh`.
 
 ## People beyond the plot

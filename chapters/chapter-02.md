@@ -11,7 +11,7 @@ characters:
 arcs-advanced:
   - case-zero-don-hang-cho-nguoi-chua-chet
 status: final
-word-count: 3500
+word-count: 2983
 ---
 
 # Chapter 2: Chương 2: Đơn hàng mùng mười
@@ -152,50 +152,46 @@ Bà Lan cầm lấy hai tờ tiền, vuốt lại cho ngay ngắn rồi mỉm c�
 
 Bà Lan cúi xuống kéo ngăn kéo gỗ dưới mặt bàn, xếp hai tờ tiền cọc vào góc trong cùng bên cạnh mớ tiền lẻ bán hàng.
 
-Người phụ nữ khẽ cúi đầu chào theo phép lịch sự, rồi quay người rảo bước ra phía cửa.
+Người phụ nữ khẽ cúi đầu chào, rồi xoay người bước ra phía cửa.
 
-Dáng người mảnh khảnh trong chiếc áo xanh cũ bước những bước chậm rãi về phía vệt nắng ngoài hiên.
+Chiếc áo sơ mi xanh cũ và tà quần lụa đen lướt chậm rãi qua bóng râm của những hàng hình nhân mã, hướng về phía vệt nắng ngoài hiên.
 
 Nhưng ngay khi mũi chân chạm đến mép gạch bậu cửa tiệm, người đó đột ngột dừng lại.
 
 Cả thân hình đứng bất động.
 
-Tiếng còi xe máy ngoài ngã tư, tiếng ve sầu râm ran và tiếng ồn ào của phiên chợ huyện ngoài kia bỗng nhiên mất đi độ vang thực tế của không gian, nghẹt lại như bị bóp qua một màng loa nhỏ xíu.
+Tiếng còi xe máy ngoài ngã tư, tiếng ve ran rát trên ngọn xà cừ và tiếng huyên náo của phiên chợ huyện ngoài kia bỗng nhiên phẳng bẹt lại, rè rè, nghẹt cứng như phát ra từ một màng loa điện thoại.
 
-Khung cảnh gian nhà ngoài hơi cong nhẹ ở hai bên rìa — góc quay mắt cá từ trên cao nhìn chúc xuống một góc bốn mươi lăm độ. Vệt nắng trưa ngoài đường cái hắt ngược vào tạo thành một khoảng sáng tối tương phản gắt gao.
+Khung cảnh gian nhà ngoài hơi cong nhẹ về hai bên rìa — góc nhìn từ trên cao chúc xuống bậu cửa.
 
-Trên màn hình kỹ thuật số, một khung chữ nhật màu xanh lá cây bỗng xuất hiện quanh vành nón lá. Cái khung nhận diện khuôn mặt ấy không thể khóa cố định, mà liên tục nhấp nháy, giật rung từng nhịp, lúc co lại lúc giãn ra một cách bất thường trên nền ảnh tĩnh.
+Trên màn hình cảm ứng, một ô vuông nhỏ màu xanh lá cây bỗng hiện lên, chập chờn quanh vành nón lá. Cái khung nhận diện khuôn mặt giật từng nhịp ngắn, co rúm lại rồi nở ra, dường như không thể bắt dính vào một điểm cố định.
 
-Rồi, người phụ nữ chậm rãi ngửa mặt lên. Vành nón lá hơi trượt nghiêng ra sau lưng.
+Rồi người phụ nữ chậm rãi ngửa mặt lên. Vành nón lá trượt nhẹ ra sau.
 
-Người đó không nhìn ra đường cái, cũng không ngoái lại phía quầy thu ngân. Ánh mắt ngước chếch lên góc trần nhà phía trên bậu cửa, nhìn thẳng tắp vào tâm thấu kính camera.
+Không nhìn ra đường cái. Cũng không quay lại quầy hàng.
 
-Dưới góc quay từ trên cao rọi xiên xuống, gương mặt người khách hiện lên vỡ hạt qua độ phân giải của camera giám sát.
+Ánh mắt ngước xếch thẳng lên góc trần nhà phía trên bậu cửa.
 
-Đó là một gương mặt mang đậm khung xương đặc trưng của dòng họ Vũ xóm Trại: gò má cao, sống mũi thẳng và đôi mắt một mí hơi xếch sâu thẳm—những đường nét hao hao đến rợn người với người phụ nữ tên Thủy làm bên xưởng may Yên Phong. Nhưng dưới ánh sáng ngược chói lòa, gương mặt ấy lại không hề có nếp nhăn chân chim hay sự khắc khổ của người đàn bà đã bước vào tuổi ngũ tuần. Nét mặt phẳng lặng, trắng bệch và thanh xuân đến mức kỳ quái, như một bức di ảnh cũ từ những năm chín mươi đang trân trân nhìn qua ống kính.
+Ánh sáng chói chang ngoài đường hắt ngược vào làm gương mặt hiện lên qua những điểm ảnh rung rinh, vỡ hạt: gò má cao, sống mũi thẳng và đôi mắt một mí dài hẹp nằm lọt thỏm dưới bóng nón. Một gương mặt phẳng lì, trắng bợt, không một nếp nhăn, không một nét cơ lay động.
 
-Bốn giây trôi qua trong sự im lặng cơ học của đoạn băng hình.
+Ánh mắt ấy nhìn thẳng tắp vào ống kính.
 
-Một ngón tay cái khẽ chạm vào góc dưới màn hình. Khung hình đóng băng cái *tách*.
+Trân trân. Bất động.
 
-Con số thời gian màu đỏ dừng lại: `10/07/2026 09:24:18`.
+Khung hình dừng bặt dưới ngón tay cái của Khanh.
 
-Góc nhìn giật lùi ra khỏi khung kính cảm ứng. Chiếc điện thoại thông minh nằm gọn trong lòng bàn tay Khanh.
+Dải số thời gian màu đỏ dưới đáy màn hình đứng yên: `10/07/2026 09:24:18`.
 
-Bên ngoài bậu cửa, ánh nắng gay gắt của buổi trưa ngày mười bốn tháng Bảy vẫn rọi chói chang. Đĩa xôi cúng và mấy nén nhang bài nghi ngút khói ở góc quán. Tiếng chổi đót của bà Lan đang lúi húi quét mớ giấy vụn dưới sàn sau khi Lan Anh hốt hoảng bỏ chạy vẫn sột soạt vang lên.
+Bên ngoài bậu cửa tiệm, nắng trưa mười bốn vẫn chang chang trên mặt đường nhựa. Mùi khói nhang bài mẹ anh thắp ở góc quầy nồng nặc quyện với mùi hồ nếp chua thiu. Tiếng chổi đót của bà Lan quét mớ vụn giấy bồi dưới chân quầy vẫn sột soạt từng nhịp đều đặn.
 
-Bà không hề để ý đến con trai.
+Bà không để ý đến con trai.
 
-Khanh ngồi bất động sau quầy thu ngân. Mắt anh không chỉ dán chặt vào gương mặt mang nét họ Vũ đang đóng băng trên màn hình, mà còn dừng lại ở chi tiết vừa tua qua trong đoạn băng:
+Khanh từ từ ngước mắt nhìn lên.
 
-Bàn tay trái.
+Phía trên bậu cửa, giữa búi dây thép treo vàng mã và lớp mạng nhện đóng bụi giấy bồi, chiếc mắt thần camera chìm lỉm trong khoảng tối dưới mái tôn, không một đốm sáng.
 
-Toàn bộ thao tác: từ lúc người đó đón lấy chiếc bút bi của bà Lan, cúi đầu dùng tay trái vẽ phác chiếc đài với vạch mực AM vào góc trang sổ, cho đến động tác rút hai tờ tiền giấy từ túi ngực và miết phẳng từng nếp gấp trên mặt bàn... người phụ nữ đó đều làm hoàn toàn bằng bàn tay trái. Một bàn tay chiêu với những ngón tay thon dài, cử động mềm mại và thuần thục đến mức dị thường giữa hai hàng hình nhân mã trắng toát không vẽ mắt.
+Dưới bậu cửa lúc này chỉ có vệt nắng rọi vắt ngang nền gạch hoa. Trống trơn.
 
-Khanh chậm rãi ngước nhìn lên góc xà gồ thép phía trên bậu cửa tiệm.
+Khanh cúi nhìn lại màn hình.
 
-Ở đó, sau cuộn dây thép treo đồ mã và lớp mạng nhện bám đầy bụi giấy bồi, chiếc mắt thần camera an ninh nhỏ bằng bao diêm nằm khuất sâu trong bóng tối. Đứng từ dưới sàn nhìn lên, người quen trong nhà còn khó nhận ra, huống hồ một người khách lạ bước chân vào tiệm lần đầu.
-
-Khanh nhìn lại màn hình điện thoại.
-
-Gương mặt người phụ nữ tên Thoa vẫn bất động trong khung hình ngày mùng mười, ánh mắt tĩnh lặng như đang nhìn thẳng vào đồng tử của anh giữa cái oi nồng ngột ngạt của trưa áp Rằm.
+Khung hình ngày mùng mười vẫn đóng băng ở giây thứ mười tám. Dưới bóng nón lá trượt nghiêng, đôi mắt một mí vẫn nhìn trân trân vào anh qua lớp kính, lạnh ngắt.

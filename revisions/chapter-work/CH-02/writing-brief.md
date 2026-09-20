@@ -30,12 +30,11 @@ Scene ecology: scene-ecology.md
    - Góc nhìn lia lên mắt camera góc rộng trên xà nhà, vệt nắng ngược sáng tương phản gắt gao.
    - Người phụ nữ dừng lại ở bậc bậu cửa đúng 4 giây.
    - Khung nhận diện khuôn mặt màu xanh lá cây của phần mềm camera giật rung bần bật quanh vành nón lá (Digital Glitch).
-   - Người phụ nữ ngửa mặt lên nhìn thẳng vào tâm ống kính camera an ninh trên xà nhà; vành nón lá trượt nghiêng ra sau, thấu kính camera từ trên cao rọi xiên xuống gương mặt vỡ hạt mang khung xương đặc trưng họ Vũ xóm Trại (gò má cao, mắt một mí xếch sâu—hao hao Thủy), nhưng phẳng lặng, trắng bệch không một nếp nhăn thời gian như bức di ảnh cũ từ những năm chín mươi.
-   - Kéo lùi ống kính ra khỏi màn hình: Khanh ngồi sau quầy thu ngân trưa 14, chết lặng khi nhận ra hai manh mối hội tụ: gương mặt mang nét họ Vũ đóng băng thời gian, và toàn bộ thao tác chỉ trỏ, rút tiền, lật nếp gấp đều do duy nhất bàn tay trái chiêu thực hiện giữa hai hàng hình nhân không vẽ mắt.
-   - Timestamp video: `10/07/2026 09:24:18`. Bên cạnh, bà Lan vẫn lúi húi quét giấy vụn, không hề hay biết.
+   - Người phụ nữ ngửa mặt lên nhìn thẳng vào tâm ống kính camera an ninh trên xà nhà; vành nón lá trượt nghiêng ra sau. Thấu kính camera từ trên cao rọi xiên xuống gương mặt vỡ hạt dưới ánh sáng ngược: gò má cao, sống mũi thẳng, đôi mắt một mí dài hẹp nằm lọt thỏm dưới bóng nón; nét mặt phẳng phiu, trắng bệch, không một cơ mặt lay động.
+   - Kéo lùi góc nhìn ra khỏi màn hình: Khanh ngồi sau quầy thu ngân trưa 14, nghe tiếng chổi quét giấy vụn của bà Lan. Khung hình đóng băng ở giây thứ 18 (`10/07/2026 09:24:18`). Khanh ngước nhìn lên góc trần nhà: chiếc mắt thần chìm lỉm trong khoảng tối sau búi mạng nhện và dây thép treo vàng mã, không đốm sáng; dưới bậu cửa lúc này chỉ có vệt nắng trưa trống trơn. Khanh cúi nhìn lại màn hình: đôi mắt một mí dưới bóng nón lá vẫn nhìn trân trân vào anh qua lớp kính, lạnh ngắt. Tuyệt đối không narrator kể lể, recap hay giảng giải. Kết thúc sắc bén (Punched Cut).
 
 ## Reader-detective field
 
 - **C-01:** Cuốn sổ ghi đơn mùng 10.
-- **C-10:** Chiếc đài cassette giấy thủ công có vạch đỏ AM.
-- **Dữ liệu CCTV `10/07/2026 09:24:18`:** Khung xương họ Vũ xóm Trại (gợi nhắc Thủy) nhưng nét mặt thanh xuân kỳ quái; thao tác độc bàn tay trái điêu luyện (loại trừ tật khoèo tay trái của Thủy, đánh thức ký ức về Thoa 1996).
+- **C-10:** Chiếc đài cassette giấy thủ công có vạch đỏ AM (nét vẽ tay chiêu lưu ở góc sổ).
+- **Dữ liệu CCTV `10/07/2026 09:24:18`:** Dữ liệu quang học khách quan (gò má cao, mắt một mí dài hẹp, mặt không nếp nhăn) và hành vi độc diễn bàn tay trái. Độc giả tự mình xâu chuỗi khi tiếp xúc các nhân vật và di vật ở các chương sau mà không bị narrator spoon-feed.
