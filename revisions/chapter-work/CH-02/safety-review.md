@@ -82,10 +82,10 @@
 ## Limits and verdict
 
 - **SAFETY_REVIEW: PASS**
-- **Candidate ID:** CH-02-C7
+- **Candidate ID:** CH-02-C8
 - **Prose Path:** `revisions/chapter-work/CH-02/revised.md`
-- **SHA-256:** `900CCA7166D125ABEA8878B2F2EE326FA17D74D013B938C4D0E819E5DCB256CE`
-- **Consequential Authority-Basis ID:** CH-02-B7
+- **SHA-256:** `F383AC0D1AD207108D3DD8B2CC39FCC35DAADE2D12B34A8FF4DA1909EFEA0BEF`
+- **Consequential Authority-Basis ID:** CH-02-B8
 - **Scope:** Complete Chapter (CH-02)
 
-Toàn bộ các điều kiện an toàn canon, phả hệ, ranh giới tri thức, niên đại, manh mối pháp y và văn hóa làng nghề của `CH-02-C7` đều đạt chuẩn tuyệt đối. Không có vi phạm hay rủi ro an toàn tồn đọng.
+Toàn bộ các điều kiện an toàn canon, phả hệ, ranh giới tri thức, niên đại, manh mối pháp y và văn hóa làng nghề của `CH-02-C8` đều đạt chuẩn tuyệt đối. Không có vi phạm hay rủi ro an toàn tồn đọng.
