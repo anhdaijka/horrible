@@ -54,6 +54,26 @@ A one-word reply to a dead parent's familiar call may carry habit, affection and
    - Tránh ẩn dụ kịch tính rỗng, cụm sáo hoặc cường điệu không mang thêm nhận thức cụ thể.
    - Không dùng "hàm súc" như luật rút câu. Văn có thể dài, kể, giải thích, liên tưởng hoặc thong thả nếu những phần đó tạo đời sống, context, nhịp kể hoặc sức nặng. Vấn đề là chữ rỗng, không phải số lượng chữ.
 
+## Human-causality / clue-exposure regressions
+
+A scene may be factually correct and well-written yet still feel false because character behavior is being driven by the author's clue plan rather than by life.
+
+Diagnose:
+
+- **INVESTIGATOR_DRIFT** — a non-investigator begins asking timeline, provenance, alibi, route or identity questions; checking records; seeking witnesses; making visits; or pursuing facts without a proportionate in-world motive.
+- **CLUE_EXPOSURE_ENGINE** — dialogue/action exists mainly so a clue becomes visible in the required order. Individual actions may be plausible, but the chain reads like evidence delivery.
+- **SOFT_BEAT_SHEET_ECOLOGY** — the prose mechanically instantiates "optional" packet examples, making scene causality feel pre-staged.
+
+Counterfactual test:
+
+> If the later mystery payoff disappeared, would this person still have sufficient reason to do this now?
+
+A "no" is a causal-design defect, not a sentence-level defect.
+
+Repair the scene engine: let work, kinship, money, grief, inconvenience, obligation, embarrassment, routine, accident or proportionate curiosity cause the action. The reader may infer more than characters pursue. Do not repair by making the character say they are curious.
+
+---
+
 ## Screenplay-prose regression
 
 A material prose defect exists when narrative fiction collapses into screenplay-like blocking: repeated short declarative sentences, one gesture per paragraph, alternating one-line dialogue, action beats inserted mainly to break quotation turns, little connective narration, and minimal storyteller presence even where the POV/situation supports richer telling.
