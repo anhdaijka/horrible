@@ -5,8 +5,29 @@ description: Revise Horrible prose at the necessary scale while preserving appro
 
 # Horrible revision
 
-Read `docs/failure-memory.md` first, before opening any other source. Then read the exact candidate, writing-brief.md, scene-ecology.md, character-context.md, qa-card.md, explicit author feedback and available reviews; use templates/revision-audit.md. Triage review content: author instructions plus BLOCKER/MATERIAL_DEFECT findings are repair inputs; OPTIONAL_EXPERIMENT remains optional unless the author selects it. Preserve named strengths and reject incompatible suggestions rather than averaging them into the prose. Revision may proceed when the author requests it before both review lanes exist, but record which lanes are missing and never treat that as promotion evidence. Repair problems at their causal scale, including rebuilding whole scenes within approved outcomes, knowledge and relationship trajectory. When plot delivery has swallowed the scene or horror feels flat/cliché, recover independent life and consult `docs/playbooks/advanced-horror-craft-lexicon.md` as a repair playbook to replace crude exposition or jumpscares with subtle psychological/cinematic devices (such as Epistemic Dissociation, Acoustic Evaporation, Negative Space, or Decentered Observation); do not add decorative errands that leave causality unchanged.
+Read the explicit author feedback and exact candidate first. Then read the current writing brief, scene ecology, character context, available reviews and QA/hard authority only as needed to understand the defect and preserve approved boundaries.
 
-Repair facts without flattening the exchange; temporary choices and local consequences are allowed, while new durable backstory, plot outcomes or supernatural rules need author decision. Anti-regression check: before delivery, compare each revised or newly written passage against the anti-pattern signatures in `docs/failure-memory.md`. This is not a checklist to tick — read the actual rejected text quoted in failure-memory alongside your own text. If your text shares the structural signature of a rejected pattern (narrator lecturing about why X is important, narrator recapping actions already shown, technical jargon from outside the character's world, narrator spoiling future chapters, clues staged without realistic motivation), that is a regression — rewrite at the causal level, not by swapping individual words. Self-edit the full result and classify new consequence-bearing deltas. Preserve prior candidates; write clean revised prose, locator-only candidate identity and separate revision-audit/writer-handoff. Changed prose needs fresh reviews; an affected changed authority basis needs scoped recheck even if bytes stay fixed. A writer/reviser cannot certify independent PASS. Update all active handoff surfaces.
+Do **not** open `docs/failure-memory.md` before diagnosing the current prose.
 
-Shared operating details: docs/playbooks/horrible-craft-review.md. Load only the section relevant to this role.
+Revision order:
+
+1. read author feedback + candidate;
+2. identify the causal defect in the present text;
+3. read packet/context needed to preserve truth and relationships;
+4. rebuild execution at the necessary scale;
+5. if the defect appears to match a recurring project failure, open only the relevant Failure Memory entry(s) and compare mechanism-level similarity;
+6. self-edit the revised whole.
+
+Failure Memory is evidence, not a negative style bible and not a prose model.
+
+Author instructions plus BLOCKER/MATERIAL_DEFECT findings are repair inputs. OPTIONAL_EXPERIMENT remains optional unless selected.
+
+Preserve named strengths and reject incompatible suggestions rather than averaging them into prose.
+
+Revision may rebuild whole exchanges/scenes within approved purpose, outcome, knowledge, chronology, relationship trajectory and supernatural rules. New durable backstory, plot outcome, relationship trajectory or supernatural rule requires the author gate.
+
+Natural dialogue is repaired by restoring relationship, practical situation, subtext, interruption, omission and speaker-specific pressure — not by adding filler, fragments or tics.
+
+Do not turn safety/canon requirements into explanatory speech. A fact can remain true without a character announcing it.
+
+After revision, classify consequence-bearing deltas, preserve prior candidates, create a new candidate identity, record revision audit/handoff, and require fresh affected reviews. A reviser cannot certify independent PASS.
