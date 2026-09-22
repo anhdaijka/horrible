@@ -76,6 +76,36 @@ Chapter-local design must not be promoted into global canon merely because the a
 
 Then test consequence-bearing hinges and cross-chapter dependencies. Approval alone does not prove readiness.
 
+## Human-causality / anti-investigator audit
+
+Before compiling Writer context, audit the selected engine at the level of **why people act**, not only what information becomes visible.
+
+For every consequential question, errand, visit, object handling, record lookup or confrontation, ask:
+
+> If the later mystery payoff were removed, would this person still have a sufficient practical, social, emotional or professional reason to do this now?
+
+If no, the engine has **investigator drift** or clue-serving behavior and must be rebuilt before READY.
+
+Characters who are not acting investigators must not begin behaving like investigators merely because the reader needs a fact. Curiosity may exist, but it must be proportionate to relationship, role, urgency and ordinary incentives.
+
+Reader-detective architecture remains internal to Preflight/QA. Do not compile a checklist of clues, contrasts or reader deductions into the generative Writer packet. A truly indispensable chapter-level fact may remain in the hard story boundary, but do not enumerate evidence-delivery tasks.
+
+## Ecology de-beating
+
+When projecting `scene-ecology.md`, describe **ongoing processes, pressures, material conditions and social flows**. Do not project specific clue-trigger actions, suggested dialogue routes, or "optional" micro-events that effectively encode the selected scene as beats.
+
+Bad ecology:
+- a customer says X, causing the ledger to be checked;
+- an ordinary task exposes Y;
+- a bystander overhears Z and retells it.
+
+Better ecology:
+- customer traffic, order handling and pickup work overlap;
+- gossip mutates through partial hearing and retelling;
+- household logistics continue under social pressure.
+
+The Writer must discover the concrete route.
+
 Only when steering, canon-impact audit, reconciliation, authority synchronization and readiness are complete may you produce internal `preflight.md`; generative `writing-brief.md`, `scene-ecology.md`, `character-context.md`; and separate `qa-card.md`.
 
 Keep rejected engines, rejected manifestations, audit reasoning, long exclusions, regression history and safety checks out of Writer generative context.
@@ -94,5 +124,8 @@ Before READY, verify:
 8. Mandatory Q1–Q8 has an actual author receipt.
 9. Canon-impact audit is CLEAN or fully reconciled.
 10. Resolved durable author changes are synchronized before Writer packet generation.
+11. Every consequential character action has a sufficient in-world motive independent of clue delivery or later payoff.
+12. Reader-detective architecture is kept out of generative context except for irreducible hard story boundaries.
+13. Scene ecology describes processes/pressures rather than optional beats or clue-trigger actions.
 
 If any check fails, fix it or stop at the correct unresolved gate.
