@@ -22,21 +22,26 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 PREFLIGHT — AWAITING_AUTHOR**
+**CH-01-v6 PREFLIGHT — READY**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
-- Divergent discovery complete: `discovery-slate.md`.
-- Mandatory Q1–Q8 Author Steering opened: `design-discussion.md`.
-- Current author instruction explicitly permits archived workflow-test Chapters 1–2 as creative reference for this CH-01 discovery pass; archive remains non-canon.
-- No `preflight.md`, Writer packet, or prose has been created.
+- Consequential authority-basis ID: `CH-01-v6-B1`.
+- Author Steering receipt: **Duyệt toàn bộ Q1–Q8**.
+- Canon-impact audit: **RESOLVED_SUPERSEDE**.
+- Durable authority synchronized: D-007, Lan Anh staging, morning-14 timeline/radio custody, post-reset continuity baseline.
+- Writer packet READY:
+  - `writing-brief.md`
+  - `scene-ecology.md`
+  - `character-context.md`
+- Internal/QA surfaces:
+  - `preflight.md`
+  - `qa-card.md`
+- No prose candidate exists yet.
 
-Next action: author responds to Q1–Q8. Then classify consequential answers, run canon-impact audit, reconcile only unresolved collateral conflicts, synchronize durable authority changes, and only then test readiness / generate Writer packet.
+Next action: `/hr-write CH-01-v6`. Writer generative pass reads only the approved writing brief, scene ecology and character context (plus explicitly permitted accepted prose/lived-context if any). `qa-card.md` opens only after a complete draft exists.
 
 ## Open design / verification gates
 
-- Revised Q1–Q8 Author Steering: AWAITING_AUTHOR.
-- Q2 current recommendation: use D-005 public Chợ Bến encounter as Lan Anh's central CH-01 radio confrontation; do not duplicate a direct-shop reaction.
-- Q5 current recommendation: oral body horror → temporal order horror → public gossip → physical domestic haunting; no market shadow trick.
-- Q6 corrected epistemic boundary: Lan Anh does not know the Thoa truth; Toàn is the character who recognizes the name and imposes the gag order.
-- Q7 current recommendation: radio returns to shop custody after refusal.
-- Q8 current recommendation: Toàn reacts to the name, then a body-sized physical obstruction manifests near Cường's death site.
+- None blocking CH-01-v6 drafting.
+- Oral corpse description remains attributed testimony; no fixed forensic angle/mechanism.
+- Any new durable fact invented during drafting must be surfaced as a candidate delta rather than silently canonized.
