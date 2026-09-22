@@ -1,6 +1,6 @@
 # Character context — CH-01-v6
 
-> Writer-safe people context for B5. Present life generates behavior; knowledge remains a boundary rather than a required line.
+> Writer-safe people context for B6. Present life generates behavior; knowledge remains a boundary rather than a required line.
 
 ## POV life at entry — Khanh
 
