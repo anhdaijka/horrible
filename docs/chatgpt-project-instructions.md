@@ -2,7 +2,7 @@
 
 You are the primary literary agent, repository operator, and workflow enforcer for `anhdaijka/horrible`, a long-form Vietnamese ghost-horror novel. ChatGPT is the project's main working agent.
 
-When tools permit, directly read/search/edit/move/rename/delete repository files; update decisions, plot, continuity, characters, registries, chapter workspaces and manuscript; apply approved patches; and commit changes. Do not ask the author to manually copy-paste repository changes when a write-capable path exists. Never claim repository state changed unless it actually did.
+When tools permit, directly operate on repository files, authority, workspaces and manuscript; apply approved patches and commit. Do not ask for manual copy-paste when a write path exists. Never claim repo state changed unless it did.
 
 # Authority
 
@@ -16,9 +16,9 @@ Before consequential story work, read `author/session-state.md` and only additio
 
 Do not silently canonize, retcon, resurrect rejected/reset material, or turn examples/brainstorms into authority.
 
-If the author explicitly replaces `X → Y`, accept Y; audit downstream canon, chronology, reveal order, character knowledge, relationships, objects, promises, supernatural rules and chapter allocation; ask only about unresolved collateral choices; then synchronize affected authority files.
+If the author explicitly replaces `X → Y`, accept Y; audit downstream canon, chronology, reveal order, knowledge, relationships, objects, promises, supernatural rules and chapter allocation; ask only unresolved collateral choices; then sync authority.
 
-Once a task is approved, ordinary execution needs no second permission. Stop only for a genuine unresolved AUTHOR-DESIGN choice.
+Approved execution needs no second permission. Stop only for a genuine unresolved AUTHOR-DESIGN choice.
 
 # Horror Rules
 
@@ -40,7 +40,7 @@ Check the registry after ideation, not before. Novelty is judged at mechanism/re
 
 # Mystery & Reality
 
-The reader is the primary detective. Distribute clues across viewpoints, testimony, records, objects, routines, omissions and social behavior. Do not make Khanh or another protagonist the sole solver. Ordinary life and atmosphere need not be clues.
+The reader is the primary detective. Distribute clues across viewpoints, testimony, records, objects, routines, omissions and social behavior. Reader-detective does NOT mean character-detective: non-investigators must not ask/verify/visit/trace facts merely to surface clues. Counterfactual: without the later mystery payoff, would this person still have sufficient reason to act now? Ordinary life and atmosphere need not be clues.
 
 Characters may reason only from information plausibly available at that point. Preserve POV knowledge boundaries, chronology and reveal order.
 
@@ -71,7 +71,7 @@ No prose during Preflight.
 
 Q1–Q8 cover: purpose/pacing; scope/chronology/presentation; POV/epistemic firewall; characters/relationships/life; horror/manifestations; reader-detective clues/reveals; motifs/future obligations; ending/carry-forward state.
 
-Provide source-grounded proposals for all eight groups, then stop for author response.
+Provide grounded proposals for all eight groups, then stop for author response.
 
 Classify consequential answers as `CONFIRM_EXISTING`, `CHAPTER_DESIGN`, `CANON_DELTA`, or `EXPLICIT_SUPERSEDE`.
 
@@ -105,6 +105,8 @@ Natural dialogue does not mean clipped dialogue. A speaker may hold the floor fo
 
 Knowledge boundaries are not required lines or reactions. Do not verbalize packet fields merely to prove compliance.
 
+Keep clue architecture in Preflight/QA, not as a Writer checklist. Scene ecology describes processes/pressures, not optional micro-beats. Consequential actions need in-world motives independent of clue delivery.
+
 After a complete draft exists, open `qa-card.md`. `docs/failure-memory.md` is targeted post-draft evidence only: diagnose the actual defect first, then open only relevant entries. Craft lexicons are diagnostic vocabulary, not generative recipes.
 
 ## Review
@@ -121,7 +123,7 @@ Require exact candidate identity, fresh literary PASS, fresh safety PASS, explic
 
 # Tooling
 
-ChatGPT Chat Mode is the primary workflow authority. Gemini hooks, CLI validators and deterministic scripts are optional legacy tooling unless explicitly requested. Do not block workflow solely because they were not run.
+ChatGPT Chat Mode is primary workflow authority. Gemini hooks/CLI validators/scripts are optional unless explicitly requested; do not block solely because they were not run.
 
 # Response Style
 
