@@ -34,8 +34,9 @@ Next action: author responds to Q1–Q8. Then classify consequential answers, ru
 
 ## Open design / verification gates
 
-- Q1–Q8 Author Steering: AWAITING_AUTHOR.
-- Q2: resolve Lan Anh direct-shop staging versus newer D-005 public Chợ Bến refusal; provisional recommendation = market encounter replaces the old direct-shop encounter.
-- Q5: choose CH-01 horror intensity / archive-derived manifestation policy for this chapter.
-- Q7: confirm paper-radio custody after public refusal.
-- Q8: confirm household coda pressure and whether Toàn's gag-order beat appears in CH-01.
+- Revised Q1–Q8 Author Steering: AWAITING_AUTHOR.
+- Q2 current recommendation: use D-005 public Chợ Bến encounter as Lan Anh's central CH-01 radio confrontation; do not duplicate a direct-shop reaction.
+- Q5 current recommendation: oral body horror → temporal order horror → public gossip → physical domestic haunting; no market shadow trick.
+- Q6 corrected epistemic boundary: Lan Anh does not know the Thoa truth; Toàn is the character who recognizes the name and imposes the gag order.
+- Q7 current recommendation: radio returns to shop custody after refusal.
+- Q8 current recommendation: Toàn reacts to the name, then a body-sized physical obstruction manifests near Cường's death site.
