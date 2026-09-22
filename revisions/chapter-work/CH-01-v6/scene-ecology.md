@@ -1,59 +1,59 @@
 # Scene ecology — CH-01-v6
 
-> Process ecology only. This file describes ongoing systems, pressures and material conditions. It does not suggest clue-trigger actions, dialogue routes or optional beats.
+> Writer-facing material/social field for the approved E1 engine. These processes coexist; they are not a micro-sequence to execute.
 
-## Life already in motion
+## Place and material world
 
-### Family shop
-A small family shop is already handling morning trade, custom orders, pickup obligations, packaging, cash, stock, interruptions and household overlap. Work continues whether anyone is interested in the death or not.
+The family shop is also a family home, facing a main road near the market crossroads. Trade and domestic life overlap rather than occupying a clean commercial set. Ordinary stocked votive goods share space with custom work, bags, change, handwritten notes and pieces waiting to be finished or collected. Generic stock can arrive through wholesale networks; unusual pieces may be coordinated separately.
 
-### Chợ Bến
-The market is an independent social/economic system: errands, buying, selling, transport, chance encounters, partial hearing and retelling. People enter and leave conversations according to their own business.
+Bà Lan's blue nylon-covered order notebook belongs to this work environment. It is a used shop object, handwritten in ballpoint, valuable because it helps her avoid mistakes with custom and pickup orders—not because anyone thinks of it as evidence.
 
-### Cường household
-Sudden death has created practical household pressure: people, space, objects, errands, relatives and movement need managing. These logistics remain distinct from any professional handling of the body.
+A finished custom paper cassette radio can exist among the shop's obligations without behaving strangely. Its thin bamboo frame, paper skin, cloudy cellophane window and foil-wrapped antenna make it a handled craft object with awkward volume but little weight.
 
-## Independent wants and pressures
+Chợ Bến beyond the shop is an ordinary concentration of trade, transport and errands. It provides density—people passing, stopping, carrying things, bargaining, remembering somebody, leaving before a story ends—not a guaranteed audience.
 
-Khanh has hunger, rest, family obligations and a life outside the village case.
+## Ongoing processes
 
-Bà Lan has customers, money, stock, unfinished orders, pickup responsibility and household work.
+Shop time can be occupied by several mundane processes at once: selling stock, finding change, wrapping/bagging goods, checking what has been finished, keeping track of pickups, shifting items out of the way, answering a family request, and deciding what must be carried or dealt with later.
 
-Lan Anh has time pressure, errands, family expectations and the need to reduce additional trouble.
+Custom orders create ordinary residue after the customer leaves: a note, a promised pickup, a finished object taking up space, an unpaid balance or simply the shopkeeper's responsibility not to hand the wrong thing to the wrong family. These pressures exist independently of Cường's death.
 
-Toàn has grief, household responsibility and private fear, but not a mandate to explain himself.
+Local news travels through people who already have a reason to stop near the shop or speak with bà Lan. Tellers can be distracted, inaccurate, vivid about the wrong detail, interrupted by commerce, or satisfied after one anecdote. Other people can hear only fragments and continue with their own business.
 
-Bystanders have their own errands, relationships, appetites for gossip, skepticism and attention limits.
+Market errands are not one mission. A trip can carry several unrelated purposes, and an object can be brought along because leaving it behind would create another practical problem. Nobody needs to arrange a meeting around the anomaly.
 
-## Process ecology
+At Cường's household, funeral preparation creates congestion and ordinary spatial labor: people enter and leave, water/food/seating/objects need moving, relatives occupy passageways, and practical routes matter. Professional handling of the body remains distinct from these household logistics.
 
-### Shop process
-Orders move through intake, making/finishing, labeling, pickup, payment and storage. Several orders and customers can overlap. The ledger exists to keep the business functioning; it is not an evidence database.
+## Competing attention
 
-### Information process
-Village news arrives unevenly, changes in retelling, competes with work and may be forgotten, corrected or embellished. No single teller owes the scene a complete account.
+Khanh is not mentally on duty. Home puts him back inside family rhythms that can be boring, familiar, mildly irritating or comforting, and his mother's needs can interrupt whatever he intended to do with his morning. His outside work identity is available to his thinking but does not make every mismatch a technical problem.
 
-### Market process
-People encounter one another because the market already concentrates errands and trade. Public exposure can happen without anyone arranging a meeting to verify a mystery.
+Bà Lan's attention is divided by practiced work. She can talk while her hands remain occupied, drop a subject when a customer needs something, remember an order because a practical task touches it, or postpone a strange question because the shop still needs running.
 
-### Household process
-Movement through rooms, carrying, seating, water, food, objects and visitors creates practical spatial decisions. The supernatural pressure can deform this existing movement.
+Other people bring hunger, time pressure, money, transport, funeral errands, social obligations and their own curiosity into the same spaces. No conversation receives exclusive attention merely because the reader finds it important.
 
-## Narrative flow affordances
+## Social field
 
-The writer may summarize stretches of routine, sustain work beneath dialogue, let attention drift, use associative thought, group several linked actions in one paragraph, or omit exchanges that add no lived value.
+Bà Lan has long familiarity with local customers and can identify people through household/kinship context rather than formal introductions. Her commerce and gossip can occupy the same exchange without turning into an interview.
 
-No process above specifies which action must reveal which fact.
+Khanh is a returned local son rather than a stranger. Some people may know roughly who he is or comment on his return; he does not need to engage every social opening.
 
-## Horror field
+Lan Anh's later presence at Chợ Bến is grounded in her household errands. Her attention is narrowed by sudden-death pressure and by the need to finish practical tasks, not by a wish to explain the mystery.
 
-- Death talk may contain one or more disturbing physical images but remains attributable testimony.
-- An ordinary business obligation can become uncanny because of its timing/context without the object itself behaving supernaturally.
-- Public social circulation can enlarge unease without becoming a formal investigation.
-- Near Cường's death site, apparently empty human-sized space can exert repeatable physical resistance strongly enough to change how people move an object.
+Market bystanders may notice a public disagreement because they are physically nearby. They remain partial listeners whose later retelling can simplify, mutate or omit what happened.
 
-## Local invention license
+## Horror contact surface
 
-Invent transient customers, errands, timing complications, ordinary shop/market/household problems, misunderstandings and temporary moods consistent with the setting.
+A human account of Cường's body can be disturbing because of one concrete physical image while remaining hearsay.
 
-The Writer discovers the concrete route. Record only inventions that create a later durable obligation.
+The shop's fixed pre-death responsibility can become uncanny without the radio emitting sound, moving or otherwise performing.
+
+The later public refusal can make a private impossibility socially dangerous without anyone solving it.
+
+At Cường's house, a mundane carried object can repeatedly meet resistance in visibly empty, approximately human-sized space near the death site. The horror comes through altered physical work: people cannot use the route as if it were empty.
+
+## Local invention
+
+Transient customers, ordinary purchases, minor shop mistakes, meals/drinks, packaging, transport inconveniences, family requests, market purchases and temporary moods are free when consistent with the field above.
+
+Do not create durable backstory, new promises or future obligations merely to enrich texture; record them if they arise.
