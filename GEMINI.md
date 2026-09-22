@@ -31,7 +31,7 @@ Gemini MUST NOT replace a project route with a generic upstream writing, dialogu
 ## Non-negotiable phase boundaries
 
 - Preflight performs divergent discovery before convergence. Approval and readiness are separate claims.
-- Writer generation reads only `writing-brief.md`, `scene-ecology.md`, `character-context.md`, accepted preceding prose and explicitly named lived-context excerpts. It MUST NOT preload `discovery-slate.md`, rejected engines, `qa-card.md`, preflight, reviews, full authority files or generic craft skills.
+- Writer generation reads only `writing-brief.md`, `scene-ecology.md`, `character-context.md`, accepted preceding prose and explicitly named lived-context excerpts. Packet brevity does not imply manuscript brevity; screenplay-style compression is not a default. It MUST NOT preload `discovery-slate.md`, rejected engines, `qa-card.md`, preflight, reviews, full authority files or generic craft skills.
 - Only after a complete generative draft exists may Writer open `qa-card.md` and its named hard-source excerpts for self-edit.
 - Literary Reviewer cannot issue an independent PASS from contaminated context. It must mark the review `COMPROMISED` when blind order was not preserved.
 - Safety and literary verdicts bind to exact candidate bytes and consequential authority basis. A verdict never transfers to changed prose or a changed material dependency.
@@ -47,7 +47,7 @@ Gemini MUST:
 - update `author/session-state.md` and every affected active handoff surface after a workflow operation;
 - run the checks required by the route and report failures honestly;
 - stop rather than invent approval, facts, cultural practice, durable state or a missing causal choice;
-- read `docs/failure-memory.md` before any generative or revision pass, and compare every delivered passage against its anti-pattern signatures before committing — a structural match to a rejected pattern is a regression requiring rewrite, not a wording change.
+- keep `docs/failure-memory.md` OUT of generative context. For revision, diagnose the current candidate and author feedback first; open only the relevant Failure Memory entry(s) afterward when a recurring mechanism is actually suspected. Failure Memory is targeted post-draft evidence, not a negative style bible.
 
 Gemini MUST NOT write directly to `chapters/`, continuity/canon state, or an existing candidate as a shortcut. It MUST NOT use workflow snapshots as live instructions, resurrect the deleted CH-01 versions, claim that validation certifies literary quality, or silently collapse multiple roles into one contaminated pass. It MUST NOT declare a revision complete if the delivered text shares a structural anti-pattern signature with any entry in `docs/failure-memory.md`.
 
