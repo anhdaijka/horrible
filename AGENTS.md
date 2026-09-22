@@ -56,9 +56,13 @@ Realism is the floor, not the ceiling. Ambiguity is optional. Fictional ghosts m
 
 The main plot should interrupt, deform or recontextualize lives already in motion. Work, money, errands, affection, embarrassment, family obligations, community traffic and private concerns may have their own local causes and endings. They do not need to become clues, symbols or permanent subplots. A concentrated scene may omit them when concentration strengthens the horror; there is no side-story quota.
 
-Before locking a packet, explore materially different scene engines rather than immediately converting the approved outcome into beats. Select for human life, ghostly pressure and fair mystery, not merely ease of continuity validation. Rejected engines remain internal and do not enter Writer context.
+Before locking a packet, explore materially different scene engines rather than immediately converting the approved outcome into beats. Select for human life, ghostly pressure and fair mystery, not merely ease of continuity validation. Audit human causality before READY: consequential actions need motives inside the character's life, not only usefulness to the mystery. Rejected engines remain internal and do not enter Writer context.
 
-The reader is the story's primary detective. Evidence may be distributed across viewpoints, testimony, records, objects, ordinary routines and omissions so the reader can form and revise hypotheses before any one character assembles them. Khanh remains a recurring cognitive bridge, not an all-solving investigator. State what must remain observable without prescribing the reader's deduction, and do not turn every atmospheric or human detail into evidence.
+The reader is the story's primary detective. Evidence may be distributed across viewpoints, testimony, records, objects, ordinary routines and omissions so the reader can form and revise hypotheses before any one character assembles them. Khanh remains a recurring cognitive bridge, not an all-solving investigator.
+
+**Reader-detective does not mean character-detective.** Fair evidence should emerge from lives, work, records, mistakes, testimony and consequences that already have in-world causes. Do not make Khanh, bà Lan, Lan Anh, bystanders or other non-investigators ask timeline/provenance/alibi questions, inspect records, seek witnesses, make visits or transport objects merely because a clue must become visible. Use the counterfactual: if the later mystery payoff vanished, would this person still have a sufficient reason to do it now?
+
+Reader-detective clue architecture belongs primarily to Preflight and QA. The generative Writer packet should not enumerate a clue-delivery checklist or soft-beat sequence.
 
 Transient interactions, local inconveniences and chapter-local events are execution freedom. Cross-scene promises, established backstory, custody/state changes, future meetings or other durable obligations are recorded as candidate deltas. Only material changes outside approved boundaries require author choice.
 
