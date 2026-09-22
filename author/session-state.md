@@ -22,26 +22,24 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 CANDIDATE C3 — B2 GENERATIVE-ONLY / AWAITING AUTHOR INSPECTION**
+**CH-01-v6 — B3 PROSE-CONDITIONING TEST ACTIVE**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
-- Candidate: `CH-01-v6-C3`.
-- Prose: `draft-r2.md`.
-- SHA-256: `c66f48fe2f1b3db240b8c17a85a388b26f9561897dc4c74fd776a90a16efcbb6`.
-- Consequential authority-basis ID: `CH-01-v6-B2`.
-- C3 is the first candidate generated from the compressed B2 packet.
-- Generative source load was restricted to the three active Writer surfaces.
-- QA/self-edit: NOT RUN.
-- Literary review: NOT RUN.
-- Safety review: NOT RUN.
-- Author acceptance: NOT REQUESTED.
-- C1/C2 remain preserved with B1 provenance.
+- Existing complete candidate remains `CH-01-v6-C3`, bound to frozen `CH-01-v6-B2`; it is not re-based.
+- Active Writer packet for future generation/testing: `CH-01-v6-B3`.
+- B3 changes generative conditioning only: narrative-prose prior, conversational ecology, narrative-flow affordances and response-style scoping. Story design/canon/reveal/durable state are unchanged.
+- Raw non-candidate scene trial: `scene-trial-B3-shop-opening.md`.
+- Fresh-context test prompt: `scene-trial-B3-fresh-context-prompt.md`.
+- Scene trial scope: opening family-shop scene only; ends before Chợ Bến.
+- Scene trial QA/self-edit: NOT RUN.
+- No new complete candidate has been created from B3.
+- C1/C2 → B1; C3 → B2 provenance remains preserved.
 
-Next action: author inspects C3 as the workflow A/B test. If retained, run post-draft QA/self-edit on C3 before literary/safety review.
+Next action: author evaluates the B3 shop-opening scene for storytelling flow, sentence/paragraph rhythm and conversational naturalness. A genuinely fresh-context replication can be run from the saved prompt in a new project chat.
 
 ## Open design / verification gates
 
-- No story-design gate blocks inspection.
-- C3 has no QA, literary or safety PASS.
-- Same-conversation prior exposure means this is operational isolation, not fresh-model/blind isolation.
-- Canonization remains blocked until matching fresh review receipts, author acceptance and approved durable-state diff.
+- No story-design gate is open.
+- B3 workflow patch does not authorize canonization or overwrite C3.
+- Same-conversation B3 scene trial is operationally isolated by source loading but is not fresh-model/blind-context isolation.
+- If B3 is accepted as conditioning, any new complete rewrite must get a new candidate identity and fresh reviews.
