@@ -1,34 +1,85 @@
 # Chapter preparation
 
-Before building a preflight, inspect current author intent and compare it with inherited design. Consult the design-dialogue and discovery sections of docs/playbooks/horrible-craft-review.md. This is a ghost-horror story with a mystery architecture in which the reader may connect evidence before any protagonist does. Plot truth matters, but the chapter must not become a container that exists only to deliver it.
+Before building a preflight, inspect current author intent and current authority. This is a ghost-horror mystery in which plot truth matters but a chapter must not exist only to deliver it.
 
-Begin with divergent discovery before convergence. In `discovery-slate.md`, establish what life is already moving before the case intrudes, what people want that was not caused by the main plot, and how the supernatural disturbance can damage, contaminate or reframe that life. Explore enough materially different scene engines to expose a real choice; stop when alternatives become cosmetic rewrites. Consider different social situations, work pressures, points of entry, horror experiences, clue surfaces and aftermaths. These are hypotheses, not beats or promises to include everything.
+Begin with divergent discovery before convergence. In `discovery-slate.md`, establish life already moving, independent wants/obligations, physical/material ecology, social pressure, reader-detective affordances and the current supernatural source/reveal boundaries. Explore materially different scene engines until alternatives become cosmetic.
 
-Before committing to a POV character, test whether Limited Third-Person narration through that character would expose locked information. A POV character who internally knows a Phase-locked truth (e.g. "Thoa đã chết năm 1996") is structurally dangerous even if the writer "tries to avoid" those thoughts. Prefer a POV character whose ignorance naturally protects the firewall.
+Before committing to POV, test whether Limited Third-Person through that character would expose Phase-locked information. Prefer a POV whose actual knowledge naturally protects the reveal firewall.
 
-For each useful engine, test three reader-facing properties without scoring them mechanically:
+For each useful engine, test without mechanical scoring:
 
-- **lived motion** — people have work, errands, affection, status, inconvenience or conflict with causes beyond the case;
-- **horror pressure** — something specifically uncanny, dreadful or spiritually disturbing enters, persists or gains a new meaning;
-Horror pressure must be NOVEL to this chapter. A dị tượng that appeared in canonized prose is spent. An approved reference in D-002 or directives is a menu, not a production order — each item may be used at most once across the entire manuscript, and only when the chapter's ecology makes it organic. The preflight must GENERATE new horror from the specific domestic environment, character habits, and folk-horror context of THIS scene rather than recycling source-file examples.
-- **reader-detective field** — observable facts, testimony, omissions or object behavior let the reader form and revise hypotheses without turning Khanh or another character into an all-solving investigator.
+- **lived motion** — work, errands, affection, status, inconvenience or conflict with causes beyond the case;
+- **horror pressure** — something specifically uncanny or dreadful emerges organically from THIS chapter's ecology;
+- **reader-detective field** — observable facts, testimony, omissions or object behavior let the reader form/revise hypotheses without making one protagonist the sole solver.
 
-Select or combine the engine with the strongest human and horror potential that preserves current story truth. Do not select merely because it is the easiest to validate. Keep rejected engines out of generative context. An execution-level engine does not need author approval. Ask only when the selection changes chapter purpose/outcome, reveal architecture, durable relationship/state, supernatural truth or another material author decision.
+## Discovery-led manifestation rule
 
-Separate objective event chronology from presentation order, chapter allocation and reader/character knowledge. A flashback can preserve the first while changing the other three. Do not treat chronology validation as permission to choose chapter order.
+Manifestation discovery is generative reasoning, not retrieval.
 
-Author approval and packet readiness are different claims. Approval settles only the choices actually presented. Before declaring READY, identify each consequence-bearing hinge the chapter depends on, including causes that will be dramatized in a later flashback: what is perceived, what the person knows or plausibly infers, why that inference is available, what choice follows and what obligation it creates. Test at least one credible counter-reading where the hinge matters. Do this only for consequential hinges, not every beat or line.
+Use current canon only to establish hard boundaries: active supernatural source, ontology/range, chronology, character knowledge and reveal limits.
 
-Do not classify routine action as a hinge merely because a later event will make it eerie in retrospect. A direct author account of family practice or a well-established occupational/social baseline may be sufficient without an on-page motive, warning, authorization check or defense against every hypothetical reaction. A hinge exists when materially different readings would change knowledge, choice, obligation or durable consequence. If they would not, remove the lock and leave the implementation to the writer instead of inventing explanatory machinery.
+Do NOT load archived/test/rejected manifestation examples as creative context. Do not start from D-002 manifestation examples, removed prose, workflow tests, archives or another chapter's anomaly and rename/remix it.
 
-If a hinge or discovery selection needs a new material story choice, create design-discussion.md (template provided), mark AWAITING_AUTHOR and ask the author before generating or relocking the writer packet. Offer viable, pressure-tested options; do not make the author invent a replacement merely because the first recommendation fails. Resolve source-answerable gaps yourself. Current explicit choices need no reconfirmation, but they do not approve unstated premises. When no consequential question remains, record the evidence for READY rather than a ceremonial approval round.
+Generate horror from current ecology: material environment, work/domestic process, habits, relationships, obligations, spatial use and current human pressure.
 
-After the gate is resolved, create internal `preflight.md`; generative `writing-brief.md`, `scene-ecology.md` and spoiler-safe `character-context.md`; and a separate `qa-card.md`. No fixed fact, subplot, clue or side-character count applies. The generative files must stand alone; causal tests, regression history and safety verification belong only in `qa-card.md`.
-Verify sources, outcomes, chronology, presentation, knowledge/reveal boundaries, durable state, factual dependencies and the causal hinges connecting them. A later-presented cause must be understood enough to support an earlier-presented consequence; this does not require drafting the later chapter or changing presentation order. Preserve relationships, useful address, ordinary priorities and practical context. Separate motives from instructions to the author.
-When testing hinges, verify each character's cognitive stance at the chapter's timeline position. A patriarch who "later" believes in ghosts must be written as a skeptic NOW if the arc specifies an initial denial phase. Do not conflate a character's endpoint stance with their current stance.
-`scene-ecology.md` carries the selected situation's living field: independent pressures, available interactions, material processes, social traffic, horror intrusion and reader-visible clue affordances. They are possibilities and forces, not a scene outline. A strand may remain unrelated to the mystery, end locally or simply make the cost of the haunting human.
-Character context selects facts, relationship history, ongoing concerns, contradictions and spoiler-safe source sections. Do not copy body-language menus, catchphrases, example dialogue or prescribed reactions from character profiles. Resolve source-answerable questions by reading; execution choices belong to the writer.
+Only AFTER ecology-led candidates exist, check `plot/di-tuong-registry.md` and current canonized prose for mechanism-level reuse. The registry is an anti-repeat check, not an ideation source.
 
-Classify invention by consequence, not by whether it came from a source file. Transient interaction, local inconvenience, ordinary work and chapter-local events are generative freedom. Record a candidate delta when an invention creates a cross-scene promise, distinctive durable fact, custody/state change, future meeting or new established history. Only a material change outside approved boundaries becomes an author decision. Do not make the writer prove every ordinary-life invention before using it.
+A canonized manifestation is spent at the mechanism/reader-experience level. Changing object, wording, sensory channel or victim does not make the same supernatural action novel.
 
-For demonstrated recurring failures, carry forward a short mechanism-level regression test: symptom, consequence and observable counterexample. Do not carry rejected prose or a mandatory old solution. A restart does not close an unresolved regression risk.
+Explore enough materially different manifestation possibilities to expose a genuine creative choice; there is no required anomaly count.
+
+Select the strongest provisional engine for human consequence, dread and mystery while preserving current truth. Rejected engines and manifestation candidates stay out of Writer context.
+
+## Mandatory author steering gate
+
+After discovery and provisional selection, create `design-discussion.md` with Q1–Q8. This gate is mandatory for every chapter even if inherited canon has no unresolved factual/design gap.
+
+Q1–Q8 cover:
+
+1. purpose / reader experience / pacing;
+2. scope / chronology / presentation / entry-exit;
+3. POV / focalization / epistemic firewall;
+4. character emphasis / relationships / life already moving;
+5. horror mode / intensity / manifestations / exclusions;
+6. reader-detective field / clues / withholding / reveals;
+7. motifs / planted material / future obligations / requested inclusions-exclusions;
+8. ending pressure / carry-forward state / special intent.
+
+Provide source-grounded proposals for all groups. Mark `AWAITING_AUTHOR` and STOP before generating `preflight.md`, `writing-brief.md`, `scene-ecology.md`, `character-context.md` or `qa-card.md`.
+
+## Author-response classification and canon-impact audit
+
+After the author responds, record the receipt and classify each consequential answer:
+
+- `CONFIRM_EXISTING`
+- `CHAPTER_DESIGN`
+- `CANON_DELTA`
+- `EXPLICIT_SUPERSEDE`
+
+Audit `CANON_DELTA` and `EXPLICIT_SUPERSEDE` against relevant current authority: author decisions, directives, continuity, active arc, epistemic/reveal matrix, character state, object/custody state, `plot/di-tuong-registry.md`, verified factual constraints and chapter/reveal allocation.
+
+For explicit X → Y, accept Y. Do not ask whether X should remain. Audit downstream effects only.
+
+Audit outcomes:
+
+- `CLEAN` — proceed automatically;
+- `RESOLVED_SUPERSEDE` — explicit replacement plus collateral effects are determined/resolved; synchronize authority and proceed;
+- `RECONCILIATION_REQUIRED` — unresolved collateral consequence admits materially different resolutions.
+
+For `RECONCILIATION_REQUIRED`, ask only about unresolved collateral choices, mark `AWAITING_RECONCILIATION`, and STOP.
+
+After resolution, synchronize durable changes into authoritative sources and update the consequential authority basis when affected. Chapter-local pacing/staging remains chapter design and must not pollute global canon.
+
+## Readiness
+
+Approval and readiness are different claims. Before READY, verify consequential hinges only where different readings would change knowledge, choice, obligation or durable consequence. Do not manufacture causal locks for routine behavior.
+
+Only after mandatory Q1–Q8, canon-impact audit, required reconciliation and authority synchronization may Preflight create internal `preflight.md`; generative `writing-brief.md`, `scene-ecology.md`, spoiler-safe `character-context.md`; and separate `qa-card.md`.
+
+Generative files must stand alone. Keep rejected engines, rejected manifestations, audit reasoning, causal tests, regression history and safety verification outside Writer generative context.
+
+`scene-ecology.md` carries independent pressures, material activity, social traffic, possible interactions, horror intrusion and reader-visible clue affordances as forces, not beats.
+
+Character context carries current relationships, ongoing lives, practical concerns and spoiler-safe knowledge. Do not copy performance tics, example dialogue or future solutions.
+
+Classify invention by consequence: transient/local life is generative freedom; cross-scene promises, established history, custody/state changes and future obligations are candidate deltas; material changes outside approved boundaries become author decisions.
