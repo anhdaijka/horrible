@@ -1,6 +1,6 @@
 # Design discussion — CH-01-v6
 
-Status: AWAITING_AUTHOR — REVISED Q1–Q8  
+Status: RESOLVED — AUTHOR APPROVED  
 Scope: CH-01 Preflight  
 Writer packet: NOT CREATED
 
@@ -223,3 +223,61 @@ End state:
 ---
 
 If this revised package matches author intent, a single **"Duyệt toàn bộ Q1–Q8"** is sufficient. After approval, classify the receipt, run canon-impact audit, synchronize the stale Lan Anh staging line if needed, and only then build the Writer packet.
+
+
+## Author approval receipt
+
+Author response: **"Duyệt toàn bộ Q1–Q8"**
+
+Date: 2026-09-22.
+
+This approval adopts every revised recommendation in Q1–Q8 as the CH-01-v6 design basis.
+
+## Classification
+
+| Q | Classification | Effect |
+|---|---|---|
+| Q1 | CHAPTER_DESIGN | Locks intended reader experience/pacing for CH-01-v6. |
+| Q2 | EXPLICIT_SUPERSEDE | Replaces the stale direct-shop Lan Anh encounter with the D-005 public Chợ Bến encounter as her central CH-01 radio confrontation. |
+| Q3 | CHAPTER_DESIGN | Locks main POV and objective coda focalization. |
+| Q4 | CHAPTER_DESIGN | Locks chapter-level character emphasis and life-in-motion priorities. |
+| Q5 | CHAPTER_DESIGN | Approves oral body horror + temporal/social escalation + selected physical coda manifestation for this chapter. Does not enter the manifestation registry until prose is canonized. |
+| Q6 | CONFIRM_EXISTING | Reaffirms epistemic matrix: Lan Anh does not know the Thoa truth; Toàn is the character who recognizes the name as dangerous. |
+| Q7 | CANON_DELTA | After the public refusal, the paper radio returns to family-votive-shop custody. This creates cross-scene object state. |
+| Q8 | CHAPTER_DESIGN | Locks ending pressure: Toàn's gag-order reaction followed by short physical domestic haunting coda. |
+
+## Canon-impact audit
+
+Audit scope:
+- author decisions D-003–D-006;
+- Case Zero arc;
+- clue/epistemic matrix;
+- plot timeline;
+- Lan Anh / Toàn / Cường profiles;
+- continuity state;
+- radio custody;
+- manifestation registry;
+- verified Case Zero mechanics note.
+
+### Findings
+
+1. **Q2 / staging conflict:** RESOLVED. The older direct-shop Lan Anh staging was superseded. `characters/lan-anh.md` and `plot/timeline.md` were synchronized to the public Chợ Bến encounter.
+2. **Q6 / epistemic boundary:** CLEAN. Lan Anh remains ignorant of Thoa's 1996 fate; Toàn recognizes the name and imposes the gag order. No reveal leakage required.
+3. **Q7 / object custody:** CLEAN after synchronization. Timeline and continuity now carry the radio back to the family shop after refusal.
+4. **Q5 / manifestation:** CLEAN as chapter design. Registry remains empty because no prose is canonized yet.
+5. **Forensic/body description:** CLEAN with condition already projected into QA: oral description must remain attributed testimony/gossip and cannot become narrator-certified medical fact.
+6. **Continuity stale-state conflict:** RESOLVED. `continuity/state.md` was reset from archived 7-chapter workflow-test state to current 0-chapter baseline.
+7. **CH-02 allocation:** CLEAN. Full mùng-10 experience remains reserved for CH-02.
+
+Audit result: **RESOLVED_SUPERSEDE**.
+
+No unresolved collateral author choice remains.
+
+## Packet readiness
+
+Consequential authority-basis ID: **CH-01-v6-B1**
+
+Truth readiness: READY.  
+Creative readiness: READY.
+
+Proceed to Writer packet generation. Archive/discovery material remains outside Writer generative context.
