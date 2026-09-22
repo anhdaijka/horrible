@@ -30,6 +30,7 @@ Tổng dung lượng bản thảo: 0 từ.
 - B3 changes generative conditioning only: narrative-prose prior, conversational ecology, narrative-flow affordances and response-style scoping. Story design/canon/reveal/durable state are unchanged.
 - Raw non-candidate scene trial: `scene-trial-B3-shop-opening.md`.
 - Fresh-context test prompt: `scene-trial-B3-fresh-context-prompt.md`.
+- ChatGPT Project Instructions B3 mirror: `docs/chatgpt-project-instructions.md`; platform Project UI still requires manual paste because no settings-write tool is available.
 - Scene trial scope: opening family-shop scene only; ends before Chợ Bến.
 - Scene trial QA/self-edit: NOT RUN.
 - No new complete candidate has been created from B3.
