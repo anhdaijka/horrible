@@ -1,47 +1,58 @@
 # QA card — CH-01-v6
 Open only after a complete generative draft exists.
 
-- Consequential authority-basis ID: **CH-01-v6-B3**
+- Consequential authority-basis ID: **CH-01-v6-B4**
 - Candidate scope expected: complete CH-01-v6 prose, morning 14 through household coda
 
 ## Hard truth verification
 
-Check only whether these remain true:
-- chronology is order mùng 10 → death night 13 → recontextualization morning 14;
+Check:
+- order mùng 10 → death night 13 → recontextualization morning 14;
 - CH-01 does not replay the full mùng-10 transaction;
 - Lan Anh does not know Thoa's death/1996 truth;
-- reader can perceive that Toàn knows the name matters without being told why;
+- Toàn's outward conduct remains consistent with recognizing the name as dangerous without revealing why;
 - radio returns to family-shop custody after public refusal;
 - household coda does not reveal Thoa as dead/killer;
 - approved physical obstruction remains within current Cường source/ontology boundaries.
 
-A missing explicit line/reaction is not a defect if these truths remain intact.
+A missing explicit line/reaction is not a defect if truth remains intact.
 
-## Consequence-bearing dependencies
+## Reader-detective / consequence-bearing dependencies
 
-- Chợ Bến must plausibly leave enough public exposure for later gossip to reach Long.
-- No Cường-household character keeps the radio.
-- CH-02 must retain new experiential value.
+These checks stay here, outside generative context:
+- death information is clearly attributable testimony rather than narrator-certified forensics;
+- order date/name/object remain available somewhere in the chapter without characters needing to enumerate their significance;
+- Chợ Bến exposure plausibly permits later gossip to reach Long;
+- Lan Anh/Toàn knowledge asymmetry is readable without explanation;
+- household obstruction has a shared practical consequence;
+- CH-02 retains new experiential value.
 
-Check outcomes, not prescribed wording.
+Do not prescribe who must ask, notice, compare or explain these facts.
 
-## Horror / mystery integrity
+## Human-causality audit
 
-Verify that the candidate produces dread/uncertainty rather than only transferring order data, and that the reader can distinguish rumor from stable record.
+For each consequential question, lookup, visit, radio transfer, confrontation or decision:
 
-Do not require a numbered escalation, exact scare cadence or named technique.
+> If the downstream mystery payoff vanished, would this person still have a sufficient reason to do this now?
 
-The household obstruction must have a practical shared consequence; it does not need explanation.
+Flag:
+- `INVESTIGATOR_DRIFT`
+- `CLUE_EXPOSURE_ENGINE`
+- `SOFT_BEAT_SHEET_ECOLOGY`
 
-## Prose and dialogue regression
+Specific CH-01 risk:
+- bà Lan asking about Cường's movements/death details beyond ordinary gossip;
+- Khanh sequentially querying order fields like an investigator;
+- radio already placed/staged solely to synchronize with death news;
+- trip to Chợ Bến existing only to verify the anomaly rather than arising from ordinary errands/shop responsibility;
+- gossip functioning like a witness statement.
 
-Diagnose only from the actual draft.
+## Prose/dialogue regression
 
-Suspect `SPEC_TO_DIALOGUE_LEAKAGE` if characters ask/answer mainly to verbalize packet fields.
+Suspect `SPEC_TO_DIALOGUE_LEAKAGE` if characters verbalize packet fields.
+Suspect `SCREENPLAY_PROSE_COMPRESSION` if prose collapses into repeated blocking/ping-pong.
 
-Suspect `SCREENPLAY_PROSE_COMPRESSION` if narration repeatedly collapses into action → short line → action beat → short line, micro-paragraphs and camera blocking despite available thought/context/summary.
-
-Do not fix either by padding. Repair relationship, narrative continuity, scene/summary balance and conversational purpose.
+Do not fix by padding or adding curiosity lines. Repair scene causality first.
 
 ## Forensic boundary
 
@@ -49,8 +60,8 @@ Any grotesque corpse/neck description remains attributed testimony. No fixed med
 
 ## Targeted regression diagnosis
 
-Only after identifying an actual defect may the self-editor open the relevant Failure Memory entry(s). Do not preload the whole file.
+Only after identifying an actual defect may the self-editor open relevant Failure Memory entry(s).
 
 ## Self-edit boundary
 
-Do not add explanatory dialogue, narrator recap, clipped stage-business or visible compliance signals merely to satisfy this card. Protect varied syntax, sustained narration, summary, interiority, silence, ordinary nonreaction, humor and local texture.
+Do not add investigative questions, explanatory dialogue, narrator recap, stage-business or visible compliance signals merely to satisfy this card. Protect the possibility that the reader understands more than any character chooses to pursue.
