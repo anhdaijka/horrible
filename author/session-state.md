@@ -22,26 +22,26 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 PREFLIGHT — READY**
+**CH-01-v6 CANDIDATE — AWAITING LITERARY REVIEW**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
+- Candidate: `CH-01-v6-C1`.
+- Prose: `draft.md`.
+- SHA-256: `59eaf7663c1468d3513953a5ed9e54401a3db25a1752bc56b231cf3d46922155`.
+- Scope: complete chapter.
 - Consequential authority-basis ID: `CH-01-v6-B1`.
-- Author Steering receipt: **Duyệt toàn bộ Q1–Q8**.
-- Canon-impact audit: **RESOLVED_SUPERSEDE**.
-- Durable authority synchronized: D-007, Lan Anh staging, morning-14 timeline/radio custody, post-reset continuity baseline.
-- Writer packet READY:
-  - `writing-brief.md`
-  - `scene-ecology.md`
-  - `character-context.md`
-- Internal/QA surfaces:
-  - `preflight.md`
-  - `qa-card.md`
-- No prose candidate exists yet.
+- Writer generative pass: completed.
+- Writer QA/self-edit pass: completed.
+- Independent literary review: NOT RUN.
+- Safety review: NOT RUN.
+- Author acceptance: NOT REQUESTED.
+- Manuscript canon state remains 0 chapters.
 
-Next action: `/hr-write CH-01-v6`. Writer generative pass reads only the approved writing brief, scene ecology and character context (plus explicitly permitted accepted prose/lived-context if any). `qa-card.md` opens only after a complete draft exists.
+Next action: `/hr-review CH-01-v6` using blind intake from `candidate.md` + complete `draft.md` before packet/handoff/context.
 
 ## Open design / verification gates
 
-- None blocking CH-01-v6 drafting.
-- Oral corpse description remains attributed testimony; no fixed forensic angle/mechanism.
-- Any new durable fact invented during drafting must be surfaced as a candidate delta rather than silently canonized.
+- No design gate blocks review.
+- Candidate has no literary or safety PASS yet.
+- Writer run occurred in the same ChatGPT conversation as Preflight; prior conversational exposure is disclosed in `writer-handoff.md`. This does not affect a genuinely independent reviewer if that reviewer has fresh context.
+- Canonization remains blocked until fresh literary PASS, fresh safety PASS, explicit author acceptance and approved durable-state diff.
