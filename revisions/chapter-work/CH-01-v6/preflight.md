@@ -1,12 +1,12 @@
 # Internal preflight — CH-01-v6
 
-Consequential authority-basis ID: **CH-01-v6-B3**
+Consequential authority-basis ID: **CH-01-v6-B4**
 
 ## Authority and approval
 
 Design gate: **RESOLVED**.
 
-Packet revision note: B3 changes only the **generative projection/compiler** after author-approved workflow audits. It adds narrative-prose conditioning, conversational ecology and narrative-flow affordances while preserving the same Q1–Q8 story design, canon, chronology, reveal architecture, relationships, supernatural ontology and durable state. B1 is preserved for C1/C2 provenance; B2 is preserved for C3 provenance.
+Packet revision note: B4 changes only the **generative projection/compiler** after author-approved workflow audits. It retains B3 prose/conversation improvements and additionally removes reader-detective clue checklists from Writer context, adds human-motive firewall, and converts scene ecology to process-level forces. Q1–Q8 story design, canon, chronology, reveal architecture, relationships, supernatural ontology and durable state are unchanged. B1 is preserved for C1/C2 provenance; B2 for C3; B3 for the shop-opening scene trial.
 
 Author receipt: `Duyệt toàn bộ Q1–Q8`, recorded in `design-discussion.md`.
 
@@ -142,7 +142,7 @@ Creative readiness: chapter contains independent shop/market/household life, esc
 ## Handoff
 
 Workspace: `revisions/chapter-work/CH-01-v6/`  
-Packet basis: `CH-01-v6-B3`  
+Packet basis: `CH-01-v6-B4`  
 Existing candidate: `CH-01-v6-C2` remains bound to frozen B1 and is not re-based.  
-Active packet for any future rewrite: `CH-01-v6-B3`.  
+Active packet for any future rewrite: `CH-01-v6-B4`.  
 Next writing operation, if requested: create a new candidate from B2; do not overwrite/rebase C2.
