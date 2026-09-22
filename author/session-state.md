@@ -22,25 +22,29 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 — B3 PROSE-CONDITIONING TEST ACTIVE**
+**CH-01-v6 — B4 HUMAN-CAUSALITY PACKET ACTIVE**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
-- Existing complete candidate remains `CH-01-v6-C3`, bound to frozen `CH-01-v6-B2`; it is not re-based.
-- Active Writer packet for future generation/testing: `CH-01-v6-B3`.
-- B3 changes generative conditioning only: narrative-prose prior, conversational ecology, narrative-flow affordances and response-style scoping. Story design/canon/reveal/durable state are unchanged.
-- Raw non-candidate scene trial: `scene-trial-B3-shop-opening.md`.
-- Fresh-context test prompt: `scene-trial-B3-fresh-context-prompt.md`.
-- ChatGPT Project Instructions B3 mirror: `docs/chatgpt-project-instructions.md`; platform Project UI still requires manual paste because no settings-write tool is available.
-- Scene trial scope: opening family-shop scene only; ends before Chợ Bến.
-- Scene trial QA/self-edit: NOT RUN.
-- No new complete candidate has been created from B3.
-- C1/C2 → B1; C3 → B2 provenance remains preserved.
+- Existing complete candidate remains `CH-01-v6-C3`, bound to frozen B2; it is not re-based.
+- B3 shop-opening scene trial remains a non-candidate diagnostic artifact and is bound to frozen B3.
+- Active Writer packet: `CH-01-v6-B4`.
+- B4 retains B3 prose/conversation conditioning and adds:
+  - anti-investigator human-motive firewall;
+  - clue-exposure removal from generative context;
+  - process-only/de-beaten scene ecology;
+  - reader-detective dependencies moved to QA;
+  - FM-011 / FM-012 / FM-013 diagnostics.
+- Story design, canon, chronology, reveal architecture, relationships, supernatural ontology and durable state are unchanged.
+- ChatGPT Project Instructions mirror: `docs/chatgpt-project-instructions.md` (B4, <8000 chars).
+- Audit receipt: `workflow-audit-B4-human-causality.md`.
+- No prose has been generated from B4 yet.
 
-Next action: author evaluates the B3 shop-opening scene for storytelling flow, sentence/paragraph rhythm and conversational naturalness. A genuinely fresh-context replication can be run from the saved prompt in a new project chat.
+Next action: test a newly reasoned CH-01 opening engine from B4. Do not reuse the B3 scene-trial mechanics as a template; judge the engine first for ordinary motive/causality before scaling to a chapter.
 
 ## Open design / verification gates
 
-- No story-design gate is open.
-- B3 workflow patch does not authorize canonization or overwrite C3.
-- Same-conversation B3 scene trial is operationally isolated by source loading but is not fresh-model/blind-context isolation.
-- If B3 is accepted as conditioning, any new complete rewrite must get a new candidate identity and fresh reviews.
+- No new AUTHOR-DESIGN choice was introduced by B4.
+- C3 has no literary/safety PASS and remains B2.
+- B3 trial is diagnostic only.
+- Any complete B4 rewrite requires a new candidate identity and fresh reviews.
+- Canonization remains blocked.
