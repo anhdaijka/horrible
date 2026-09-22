@@ -11,7 +11,7 @@ The author wants a work with the lived characters and storytelling force valued 
 - Practical life and setting: work, errands, money, affection and inconvenience influence action. Ambient sounds alone do not create social reality.
 - Plot dominance: the case should collide with people whose lives have other causes. Incidental life is not valuable merely because it occupies space, but a scene becomes mechanical when every person, object and line exists only to transfer the main plot.
 - Causality and physical continuity: behavior has proportionate causes, objects and bodies remain traceable. Mystery may withhold a solution while keeping the present situation intelligible.
-- Rhythm and language: emphasis and space match importance. Neither concision nor expansion is inherently literary. Images may work without becoming clues.
+- Rhythm and language: emphasis and space match importance. Neither concision nor expansion is inherently literary. Sentence and paragraph length should vary with thought, action, memory, explanation, social rhythm and narrative pressure. Images may work without becoming clues.
 - Horror and mystery: something specific disturbs the reader and affects life; setup and later meaning are fair. Supernatural certainty and ambiguity are both available within design.
 - Reader as detective: observable evidence may be distributed across viewpoints and ordinary routines so the reader can form a stronger hypothesis than any single character. Do not confuse fair visibility with narrator explanation or a protagonist interrogating everyone.
 - Emotion, theme and long structure: choices carry costs, relationships matter, consequences accumulate. A chapter may prepare rather than complete an arc.
@@ -39,19 +39,30 @@ A one-word reply to a dead parent's familiar call may carry habit, affection and
    - Khi có nhân vật trùng tên trong cùng không gian, phân biệt bằng vai vế thế hệ, tên đệm hoặc nghề nghiệp (`cu Cường`, `cụ Cường già / ông Cường Đặng`), không dùng họ tên hành chính để phân biệt trong văn kể.
 
 2. **Kỷ luật điểm nhìn & Chống nhảy cóc (POV Encapsulation & Anti-Head-Hopping):**
-   - **Single-POV per Scene:** Trong một phân cảnh đã xác định Anchor POV (ví dụ: Khanh), toàn bộ thế giới được khúc xạ qua tri giác của người đó. **Cấm tuyệt đối head-hopping** sang đọc suy nghĩ, cảm giác bên trong của nhân vật khác (như Lan Anh, bà Lan). Mọi tâm lý, bất an của nhân vật phụ phải được thể hiện hoàn toàn qua hành vi quan sát được (Show, don't tell): ánh mắt, giọng nói ngập ngừng, thao tác lúng túng, sự phòng vệ.
-   - **Cinematic Off-POV (Fly-on-the-wall):** Máy quay khách quan tuyệt đối. Không có nội tâm, không độc thoại, và **cấm narrator nhảy ra giải thích cơ chế nhận thức hay tâm lý** của nhân vật.
+   - **Single-POV per Scene:** Trong một phân cảnh đã xác định Anchor POV, không tự ý đọc suy nghĩ của nhân vật khác. Tuy nhiên close-third vẫn được phép kể, tóm lược, liên tưởng, cung cấp context cần thiết và theo dòng ý nghĩ của POV; không bị ép thành camera-only.
+   - **Objective / off-POV:** Nếu chapter design chọn objective coda, không đọc nội tâm nhân vật. Nhưng "objective" không đồng nghĩa shot list: narrator vẫn có thể nối thời gian, nhóm hành động, tóm lược hoạt động và dùng câu dài/ngắn linh hoạt miễn không gán nội tâm không quan sát được.
 
 3. **Chống biệt ngữ giả trí thức & Lối viết "Tell" thô thiển (Anti-Pseudo-intellectual Tell):**
    - **Cấm** các cụm từ đao to búa lớn mượn từ tâm lý học, xã hội học hoặc cơ học để giải thích hành vi nhân vật (ví dụ: cấm *"theo phản xạ quán tính ba mươi năm"*, cấm *"cái logic trần trụi và tàn nhẫn của đời sống xóm làng lập tức trồi lên"*). Thói quen, quán tính hay định kiến phải được độc giả tự nhận biết qua chính hành động và lời nói mộc mạc của nhân vật.
    - **Cấm Narrator Spoon-feeding:** Người kể chuyện không được nhảy ra tóm tắt ý nghĩa hay giải thích bài học hộ độc giả (ví dụ: cấm *"Cuộc gọi vừa rồi đã phơi bày một bí mật gia tộc đầy đen tối..."*). Hãy để khoảng lặng và sự thật trần trụi tự gây áp lực.
 
 4. **Chống kết thúc AI Cinematic sáo rỗng (Anti-AI Ending Clichés):**
-   - **Cấm** kết thúc phân cảnh bằng cú lia máy tĩnh mô tả không gian trống rỗng kèm âm thanh môi trường lặp lại (ví dụ: cấm *"Dưới chân cầu thang, không có một bóng người. Chỉ có khoảng tối hun hút của bậc gạch xi măng và tiếng quạt trần vẫn miệt mài kẽo kẹt quay trên nền vôi ẩm mốc"*).
-   - Phân cảnh kinh dị phải kết thúc sắc bén, dứt khoát tại điểm chạm xung đột hoặc nghịch lý cảm xúc cao nhất (Punched / Abrupt Cut), không kéo rê tả cảnh cinematic fade-out.
+   - Tránh kết thúc máy móc bằng cú lia máy tĩnh + âm thanh môi trường chỉ để tạo vẻ điện ảnh.
+   - Không có một kiểu kết cảnh bắt buộc. Abrupt cut, lingering aftermath, summary, một câu thoại, một hành động đời thường hoặc một đoạn kể dài hơn đều hợp lệ nếu đó là nhịp đúng của cảnh. Chỉ sửa khi ending đang mô phỏng trailer/camera grammar thay vì kể chuyện.
 
 5. **Chống văn hoa sáo ngữ & Ẩn dụ quá đà (Anti-Purple Prose):**
-   - Cấm mượn ẩn dụ kịch tính giật gân (ví dụ: *"lạnh buốt như lưỡi dao"*, *"như người vừa bị bóp nghẹt cổ họng"*, *"chết sững"*, *"kinh hoàng bàng hoàng"*). Giữ giọng văn tả thực, sắc lạnh, hàm súc.
+   - Tránh ẩn dụ kịch tính rỗng, cụm sáo hoặc cường điệu không mang thêm nhận thức cụ thể.
+   - Không dùng "hàm súc" như luật rút câu. Văn có thể dài, kể, giải thích, liên tưởng hoặc thong thả nếu những phần đó tạo đời sống, context, nhịp kể hoặc sức nặng. Vấn đề là chữ rỗng, không phải số lượng chữ.
+
+## Screenplay-prose regression
+
+A material prose defect exists when narrative fiction collapses into screenplay-like blocking: repeated short declarative sentences, one gesture per paragraph, alternating one-line dialogue, action beats inserted mainly to break quotation turns, little connective narration, and minimal storyteller presence even where the POV/situation supports richer telling.
+
+Do not diagnose this from sentence length alone. Short prose can be excellent. Diagnose the **repeated mechanism**: the text consistently behaves as if it were staging shots rather than telling a story.
+
+Repair by restoring narrative continuity, varied syntax, scene/summary movement, contextual explanation when useful, associative interiority in approved POV, conversational turn-holding and paragraph structures that can sustain more than one micro-action.
+
+---
 
 ## Everyday Uncanny Framework — Khung Hiện Thực Kỳ Dị Đời Thường (The Domestic Dread)
 
@@ -95,9 +106,9 @@ Kho chất liệu dân gian thực chứng chi tiết (kiêng cấm vẽ mắt h
 4. **Dị tượng kỹ thuật số & Thời đại:** *Digital Glitch & Machine Dread* (lỗi nhận diện máy móc / khung tracking giật lag), *Temporal Bleed* (chảy máu thời gian & lệch pha kỹ thuật số).
 5. **Bẫy xã hội & Quán tính dân gian:** *Verbal Inertia* (quán tính khẩu ngữ & lỡ lời chiêu vong), *Collective Gaslighting* (âm mưu im lặng & nỗi sợ gia tộc).
 
-**Nguyên tắc vận hành tự động trong workflow:**
-- Trong giai đoạn Tiền trạm (`Preflight` / `discovery-slate.md`), Agent tự động đối soát cẩm nang để lựa chọn **1–2 thủ pháp chủ đạo** phù hợp nhất làm động cơ phân cảnh.
-- Tuyệt đối cấm nhồi nhét theo chỉ tiêu (quota). Thủ pháp chỉ là phương tiện để bộc lộ sự thật tâm lý và bi kịch con người, không biến câu chuyện thành màn phô diễn kỹ thuật hay jumpscare phim hạng B.
+**Nguyên tắc sử dụng:**
+- Các tên thủ pháp là vocabulary để phân tích hoặc thử nghiệm sau khi scene ecology đã sinh ra một mechanism cụ thể. Không bắt Preflight/Writer chọn 1–2 technique trước khi viết.
+- Không có quota. Technique không được thay thế reasoning từ người, nơi, vật chất và áp lực của scene.
 
 ## Craft advice and authority
 
