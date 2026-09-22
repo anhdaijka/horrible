@@ -6,6 +6,8 @@ Begin with divergent discovery before convergence. In `discovery-slate.md`, esta
 
 Before committing to POV, test whether Limited Third-Person through that character would expose Phase-locked information. Prefer a POV whose actual knowledge naturally protects the reveal firewall.
 
+Separately, test the selected engine for **human causal sufficiency**: clue visibility must arise from lived processes rather than characters temporarily becoming investigators. A fair reader-detective clue does not justify an otherwise unmotivated question, lookup, visit, pursuit or object transfer.
+
 For each useful engine, test without mechanical scoring:
 
 - **lived motion** — work, errands, affection, status, inconvenience or conflict with causes beyond the case;
@@ -78,8 +80,8 @@ Only after mandatory Q1–Q8, canon-impact audit, required reconciliation and au
 
 Generative files must stand alone. Keep rejected engines, rejected manifestations, audit reasoning, causal tests, regression history and safety verification outside Writer generative context.
 
-`scene-ecology.md` carries independent pressures, material activity, social traffic, possible interactions, horror intrusion and reader-visible clue affordances as forces, not beats.
+`scene-ecology.md` carries independent pressures, material activity, social traffic and horror-relevant material conditions as processes/forces, not beats. Reader-detective clue architecture stays in Preflight/QA unless an irreducible fact must appear in the hard story boundary.
 
-Character context carries current relationships, ongoing lives, practical concerns and spoiler-safe knowledge. Do not copy performance tics, example dialogue or future solutions.
+Character context carries current relationships, ongoing lives, practical concerns, ordinary motive baselines, conversational ecology and spoiler-safe knowledge. Do not copy performance tics, example dialogue or future solutions.
 
 Classify invention by consequence: transient/local life is generative freedom; cross-scene promises, established history, custody/state changes and future obligations are candidate deltas; material changes outside approved boundaries become author decisions.
