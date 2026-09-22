@@ -1,45 +1,38 @@
 # Writer handoff — CH-01-v6
 
-- Candidate ID / path / SHA-256: `CH-01-v6-C2` / `revisions/chapter-work/CH-01-v6/draft-r1.md` / `9941eabad79be08dcd567e6fc9ade25862bee491c3f43cd5a7801ecbb4267350`
-- Packet and consequential authority-basis ID / basis: `CH-01-v6-B1` / D-003–D-007; exact packet preserved as `writing-brief-B1.md`, `scene-ecology-B1.md`, `character-context-B1.md`, `qa-card-B1.md`, `preflight-B1.md`
-- Writer/reviser self-edit: completed
-- Revision trigger: explicit author feedback — dialogue unnatural
-- Prior candidate: `CH-01-v6-C1` preserved as `draft.md` + `candidate-C1.md`
+- Candidate: `CH-01-v6-C3`
+- Prose: `draft-r2.md`
+- SHA-256: `c66f48fe2f1b3db240b8c17a85a388b26f9561897dc4c74fd776a90a16efcbb6`
+- Basis: `CH-01-v6-B2`
+- Scope: complete chapter
 
-## Targeted verification
+## Isolation receipt
 
-Dialogue revision rebuilt exchanges at scene scale while preserving all approved outcomes.
+This C3 pass was generated operationally from only:
+- `writing-brief.md`
+- `scene-ecology.md`
+- `character-context.md`
 
-Material checks:
-- Lan Anh still does not know Thoa truth.
-- Toàn still recognizes/suppresses the name without revealing why.
-- public Chợ Bến witnesses still support gossip→Long.
-- radio returns to shop custody.
-- mùng-10 transaction remains reserved for CH-02.
-- coda manifestation remains the approved physical obstruction.
-- no new durable fact was intentionally introduced.
+During this generative pass, no QA card, Failure Memory, preflight, discovery slate, archive prose, review, full authority source, style bible or craft lexicon was opened.
 
-## Consequence-bearing deltas
+Because the same ChatGPT conversation previously handled CH-01 planning/C1/C2, this is **not fresh-model or blind-context isolation**. It is an operational context-loading test only.
 
-None beyond approved `CH-01-v6-B1`.
+## Pass state
 
-Transient dialogue texture, unnamed bystanders and local speech patterns remain execution-level.
+- Generative pass: complete.
+- QA/self-edit: NOT RUN.
+- Literary review: NOT RUN.
+- Safety review: NOT RUN.
+- Author acceptance: NOT REQUESTED.
 
-## Handoff
+No claim of PASS is made.
 
-Status: **REVISED / UNREVIEWED**.
+## Provenance
 
-Literary review: missing.  
-Safety review: missing.  
-Author acceptance of C2: not yet requested.
+- C1/C2 remain preserved and bound to B1.
+- C3 is the first candidate generated from compressed packet B2.
+- C3 was not produced by revising C2 bytes during this pass; the generative source load was restricted to the three B2 Writer surfaces.
 
-Next operation after author inspection: fresh `/hr-review CH-01-v6` on C2.
+## Next operation
 
-
-## Workflow audit note — 2026-09-22
-
-After C2 was produced, the author approved a workflow repair for constraint amplification/spec-to-dialogue leakage.
-
-Active Writer packet has been recompiled as `CH-01-v6-B2`. That packet does **not** retroactively apply to C2. C2 remains a B1 candidate with the exact frozen B1 packet above.
-
-Any new rewrite from B2 must become a new candidate identity (C3 or later).
+Author inspection of C3 as an A/B workflow test. If the author wants to keep C3, run the post-draft QA phase afterward; do not retroactively contaminate this recorded generative pass.
