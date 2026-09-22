@@ -5,33 +5,94 @@ description: Discover and prepare Horrible ghost-horror chapter possibilities, s
 
 # Horrible preflight
 
-Read .agents/rules/03-planning.md and the discovery/preparation sections of docs/playbooks/horrible-craft-review.md. Before producing the packet, create `discovery-slate.md`: separate fixed truth from open execution, identify life already moving beyond the case, and explore materially different scene engines. Evaluate lived motion, a specific ghost-horror experience and a fair reader-detective field. Systematically mine `Uncanny Domestic Anchors` (Ma trận Neo Đời Thường Kỳ Dị) across the 4 pillars in docs/playbooks/literary-quality.md, and actively consult `docs/playbooks/advanced-horror-craft-lexicon.md` to select 1–2 master psychological/cinematic horror techniques (e.g. Perceptual Shift / Pull-Back Reveal, Epistemic Dissociation, Decentered Observation, Liminal Entrapment, Acoustic Evaporation, Digital Glitch, Verbal Inertia). The reader may connect evidence distributed across people, objects and viewpoints before Khanh does; do not turn a protagonist into the sole investigator or turn every ordinary detail into a clue.
+Read `.agents/rules/03-planning.md` and only the relevant active source sections needed for Preflight.
 
-**POV Epistemic Firewall (mandatory before engine selection):**
-For each candidate POV character, enumerate the locked secrets they know (from character profiles and epistemic matrix). If a Limited Third-Person POV through this character would expose ANY information that the reader must not learn at this Phase, REJECT that POV and document the rejection reason. Consult `plot/case-zero-clue-and-epistemic-matrix.md` and the character's `## Rào chắn tri thức` section. A POV character who carries a locked secret is only viable if the narration can plausibly avoid ALL internal thoughts touching that secret — if this is difficult or unreliable, choose a different POV.
+Before producing a packet, create `discovery-slate.md`: separate fixed truth from open execution, identify life already moving beyond the case, and explore materially different scene engines.
 
-Select or combine the strongest engine for human consequence, dread and mystery—not merely the easiest to validate. Execution-level ENGINE selection is autonomous when it does not change POV, Phase scope, reveal order, or supernatural source. Ask the author only if the selection changes chapter purpose/outcome, reveal architecture, durable relationship/state, supernatural truth, POV character, or another material lock. When the agent discovers a structural flaw (e.g. leakage risk) that requires choosing between alternative POV characters or redesigning the chapter architecture, present the options in `design-discussion.md`, mark AWAITING_AUTHOR and STOP. Do not proceed to generate the replacement packet until the author explicitly selects an option. Keep rejected engines out of Writer context. Design at least 3 NOVEL uncanny domestic anchors for THIS chapter. Each anchor must be a new sensory/physical manifestation that has NOT appeared in any canonized chapter. Cross-reference the Uncanny Anchor Registry (`plot/di-tuong-registry.md`) and canonized prose (`chapters/*.md`) to confirm originality. Draw on folklore PRINCIPLES and the character's specific domestic environment/habits — not on specific approved dị tượng from D-002 or other references that may be reserved for different chapters. An approved reference (e.g. D-002 câu 17-19) is a BANK of possibilities, not a mandatory element for the next chapter. If a dị tượng has already been dramatized in prose, it is consumed and must not be reused.
+## Manifestation discovery
 
-**Dị tượng Phase Compliance (mandatory):**
-Verify against the arc's Bảng nguồn dị tượng in `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`: which supernatural source is active at this Phase? P2-P4 = Cường only. P5-P6 = Cường + Thoa. Do not introduce a supernatural source that belongs to a later Phase. Do not fabricate supernatural mechanisms not approved in any source file.
+Begin supernatural design from current chapter ecology, NOT from a catalog of devices or historical manifestations.
 
-After completing `discovery-slate.md` with divergent engines and selecting the strongest, create `design-discussion.md` using the structured Author Validation Questionnaire (Q1-Q8 minimum groups). Fill in proposals for each question based on source reasoning. Mark AWAITING_AUTHOR and STOP. Do NOT generate any packet file (`preflight.md`, `writing-brief.md`, `scene-ecology.md`, `character-context.md`, `qa-card.md`) until the author has confirmed or corrected the questionnaire. After author feedback, record decisions in `design-discussion.md`, then proceed to packet generation incorporating all confirmed/corrected answers.
+Establish first:
 
-Separate decisions the author actually approved from planner readiness. Identify only the consequence-bearing hinges the chapter depends on and test perception → inference → choice → consequence, including a cause dramatized in a later chapter. Use a credible counter-reading where it could change durable knowledge or behavior. Do not turn routine occupational or family behavior into a hinge just because it is later recontextualized; direct author experience may establish a family-specific baseline, and immaterial implementation belongs to the writer.
+- active supernatural source and ontology boundary;
+- current Phase/reveal boundary;
+- physical environment and material processes;
+- work/domestic routines;
+- habits, relationships and obligations;
+- practical/social pressures unrelated to the main mystery.
 
-Once author validation is complete, use the confirmed `design-discussion.md` to produce internal `preflight.md`; generative `writing-brief.md`, `scene-ecology.md` and `character-context.md`; and separate `qa-card.md`. Project compact spoiler-safe truth into generative files, but keep rejected engines, long exclusions, causal tests, regression history, safety checks and authority verification out of them. Scene ecology supplies independent pressures, material activity, social traffic, horror intrusion and clue affordances as optional forces—not a beat sheet. Character context carries relationships, ongoing lives and agency outside the case—not performance tics, body-language menus or sample lines. For each character who appears in this chapter, verify their CURRENT cognitive stance at this exact point in the timeline: what do they believe about the supernatural? what secrets do they carry? what do they NOT know? A character's stance may change across the arc — use only the stance valid for THIS chapter's timeline position. Do not project a later-arc stance backward. Do not point the writer at a section that also contains future solutions.
+Then reason outward to novel manifestation candidates.
 
-Classify inventions by consequence. Transient interaction, local work and chapter-local events are free; cross-scene promises, established history, custody/state changes and future obligations are candidate deltas; only material changes outside approved boundaries require author choice. Record evidence for truth readiness and creative readiness, the consequential authority basis and actual next action in session-state.
+Do not preload or consult workflow/prose tests, archived manifestations, rejected drafts/engines, superseded anomaly examples or reset chapter artifacts for inspiration, examples, templates, variation targets or blacklist.
 
-**Pre-READY Self-Audit (mandatory before declaring READY):**
-Before updating `session-state.md` to READY, verify:
-1. POV character cannot leak any Phase-locked secret through internal thoughts.
-2. Every dị tượng is novel (not in canonized chapters).
-3. Every dị tượng's supernatural source matches this Phase.
-4. Every character action/suspicion has a plausible basis given ONLY what that character knows at this point.
-5. Every cognitive stance matches the character's timeline position.
-6. No approved reference is treated as mandatory for this chapter.
-7. Approval ≠ Readiness: design choices requiring author input are gated, not auto-resolved.
-If any check fails, fix before declaring READY.
+Generic horror-craft material may be used only after ecology-led candidates exist, as optional diagnostic language. It must not seed or prescribe the manifestation.
 
-Shared operating details: docs/playbooks/horrible-craft-review.md. Load only the section relevant to this role.
+For each useful engine, derive manifestation candidates from its concrete ecology. Generate alternatives only while they remain materially different in mechanism, human consequence or reader experience; no fixed count applies.
+
+Only after candidates exist:
+
+1. check `plot/di-tuong-registry.md`;
+2. check current canonized manuscript prose when relevant;
+3. reject mechanism-level reuse;
+4. verify supernatural source, ontology and reveal compliance.
+
+An old test manifestation absent from current registry/canon has no authority over new discovery.
+
+## POV epistemic firewall
+
+For candidate POV characters, verify what they know at this exact timeline point against the active epistemic matrix and profiles. Reject a POV architecture that would naturally leak a Phase-locked truth.
+
+## Mandatory Q1–Q8 Author Steering
+
+After divergent discovery and provisional engine selection, create `design-discussion.md` with source-grounded proposals for:
+
+1. purpose / reader experience / pacing;
+2. scope / chronology / presentation / entry-exit;
+3. POV / focalization / epistemic firewall;
+4. character emphasis / relationships / life in motion;
+5. horror mode / intensity / manifestations / exclusions;
+6. reader-detective field / clues / withholding / reveals;
+7. motifs / planted material / future obligations / requested inclusions-exclusions;
+8. ending pressure / carry-forward state / special intent.
+
+This gate is mandatory even when inherited canon appears complete.
+
+Mark `AWAITING_AUTHOR` and STOP. Do NOT generate `preflight.md`, `writing-brief.md`, `scene-ecology.md`, `character-context.md` or `qa-card.md`.
+
+## Post-response canon-impact audit
+
+After author feedback:
+
+1. record the actual author receipt;
+2. classify consequential answers as `CONFIRM_EXISTING`, `CHAPTER_DESIGN`, `CANON_DELTA` or `EXPLICIT_SUPERSEDE`;
+3. audit durable changes against applicable current authority;
+4. for explicit X → Y, accept Y and do not re-ask X versus Y;
+5. record `CLEAN`, `RESOLVED_SUPERSEDE` or `RECONCILIATION_REQUIRED`;
+6. if reconciliation is required, ask only about unresolved collateral choices, mark `AWAITING_RECONCILIATION`, and STOP;
+7. when resolved, synchronize durable changes before packet generation and update consequential authority basis when affected.
+
+Chapter-local design must not be promoted into global canon merely because the author chose it for this chapter.
+
+Then test consequence-bearing hinges and cross-chapter dependencies. Approval alone does not prove readiness.
+
+Only when steering, canon-impact audit, reconciliation, authority synchronization and readiness are complete may you produce internal `preflight.md`; generative `writing-brief.md`, `scene-ecology.md`, `character-context.md`; and separate `qa-card.md`.
+
+Keep rejected engines, rejected manifestations, audit reasoning, long exclusions, regression history and safety checks out of Writer generative context.
+
+## Pre-READY Self-Audit
+
+Before READY, verify:
+
+1. POV cannot naturally leak a Phase-locked secret.
+2. Every manifestation was derived from current chapter ecology, not retrieved/remixed from historical manifestation material.
+3. Every manifestation is novel against current registry/canonized manuscript at mechanism level.
+4. Every manifestation's supernatural source, ontology and reveal boundary match the active Phase.
+5. Character actions/suspicions have plausible basis in what they know now.
+6. Cognitive stance matches timeline position.
+7. No archive, test prose, rejected manifestation or superseded anomaly example influenced the candidate set.
+8. Mandatory Q1–Q8 has an actual author receipt.
+9. Canon-impact audit is CLEAN or fully reconciled.
+10. Resolved durable author changes are synchronized before Writer packet generation.
+
+If any check fails, fix it or stop at the correct unresolved gate.
