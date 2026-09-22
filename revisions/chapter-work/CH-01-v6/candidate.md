@@ -1,8 +1,9 @@
 # Candidate — CH-01-v6
-- Candidate ID: CH-01-v6-C2
-- Prose path: revisions/chapter-work/CH-01-v6/draft-r1.md
+- Candidate ID: CH-01-v6-C3
+- Prose path: revisions/chapter-work/CH-01-v6/draft-r2.md
 - Scope: complete chapter
-- SHA-256: 9941eabad79be08dcd567e6fc9ade25862bee491c3f43cd5a7801ecbb4267350
-- Consequential authority-basis ID: CH-01-v6-B1
-- Consequential authority basis: D-003, D-004, D-005, D-006, D-007 + frozen CH-01-v6-B1 packet (`writing-brief-B1.md`, `scene-ecology-B1.md`, `character-context-B1.md`, `qa-card-B1.md`)
-- Supersedes: CH-01-v6-C1
+- SHA-256: c66f48fe2f1b3db240b8c17a85a388b26f9561897dc4c74fd776a90a16efcbb6
+- Consequential authority-basis ID: CH-01-v6-B2
+- Consequential authority basis: D-003, D-004, D-005, D-006, D-007 + active compressed B2 Writer packet
+- Supersedes: CH-01-v6-C2
+- Pass state: GENERATIVE-ONLY / QA NOT RUN / UNREVIEWED
