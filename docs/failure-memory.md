@@ -130,4 +130,34 @@
 
 ---
 
+## FM-011: Nhân vật trôi thành điều tra viên (Investigator Drift)
+
+- **Chapter / Candidate:** CH-01-v6 / B3 shop-opening scene trial
+- **Lời tác giả:** *"triển khai về cái chết ông Cường đọc có vẻ như bà Lan hay những người khác đang vô tình biến mình thành điều tra viên"*
+- **Cơ chế lỗi:** `INVESTIGATOR_DRIFT` — nhân vật không có vai trò điều tra bỗng hỏi lịch trình, nguồn gốc, danh tính, provenance hoặc chủ động xác minh theo logic mystery hơn là logic đời sống.
+- **Test:** bỏ payoff mystery phía sau; nếu người đó không còn lý do đủ mạnh để hỏi/làm việc ấy ngay lúc này, hành vi đang phục vụ tác giả.
+- **Cách khắc phục:** thay engine bằng motive thực: công việc, trách nhiệm, tiện đường, tiền bạc, gia đình, ngại phiền, tang gia, thói quen hoặc tò mò đúng tỷ lệ. Reader có thể suy luận mà nhân vật không cần truy.
+- **Anti-pattern signature:** `[non-investigator chủ động hỏi/tra/xác minh chuỗi thông tin hữu ích cho mystery nhưng thiếu motive độc lập đủ mạnh]`
+
+---
+
+## FM-012: Cảnh vận hành như dây chuyền phơi manh mối (Clue Exposure Engine)
+
+- **Chapter / Candidate:** CH-01-v6 / C1–C3 và B3 scene trial
+- **Cơ chế lỗi:** `CLUE_EXPOSURE_ENGINE` — mỗi interaction hợp lý riêng lẻ nhưng toàn scene nối nhau để lần lượt đưa đúng death detail → date → object → purchaser name → knowledge split cho reader. Nhân vật thành carriers của evidence.
+- **Dấu hiệu:** scene có thể paraphrase thành "clue A xuất hiện, nhân vật hỏi để có B, B dẫn tới C"; bỏ một clue thì interaction kế tiếp mất lý do tồn tại.
+- **Cách khắc phục:** clue phải rơi ra từ một process có lý do riêng; không cần mọi clue được character gọi tên/so sánh. Giữ clue architecture ở Preflight/QA, không đưa checklist vào Writer context.
+- **Anti-pattern signature:** `[chuỗi scene được tổ chức chủ yếu theo thứ tự phơi evidence thay vì theo nhân quả sống của người và công việc]`
+
+---
+
+## FM-013: Ecology giả beat sheet (Soft Beat-Sheet Ecology)
+
+- **Chapter / Candidate:** CH-01-v6-B3 packet → B3 shop-opening trial
+- **Cơ chế lỗi:** `SOFT_BEAT_SHEET_ECOLOGY` — scene ecology gọi các micro-event là "optional affordances" nhưng mô tả quá cụ thể (ví dụ một task làm lộ thẻ tên, gossip kéo dài rồi bị sửa, bystander overhear), khiến Writer thực thi chúng như beats.
+- **Cách khắc phục:** ecology chỉ mô tả process/pressure/material flow: customer traffic, order handling, gossip mutation, household logistics, time/money/space pressure. Không nói process nào phải expose clue nào hay ai phải làm gì.
+- **Anti-pattern signature:** `[Writer prose tái hiện gần nguyên các optional micro-events cụ thể từ scene ecology]`
+
+---
+
 *Cập nhật lần cuối: 2026-09-22. Chỉ dùng Failure Memory targeted post-draft/hậu-feedback; không preload trước generation.*
