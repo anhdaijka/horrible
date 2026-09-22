@@ -2,7 +2,7 @@
 
 > **Mục đích:** File này là bằng chứng pháp y ghi lại từng lần tác giả reject văn bản, kèm cơ chế lỗi và văn bản thay thế được chấp nhận. Nó không phải checklist. Nó là ký ức thất bại cụ thể của dự án này.
 >
-> **Đọc file này TRƯỚC KHI viết hay chỉnh sửa bất kỳ đoạn văn nào.** Mục tiêu: nhận diện anti-pattern signature và tránh tái tạo chúng.
+> **Không preload file này trước generative writing.** Failure Memory là bằng chứng chẩn đoán hậu-draft/hậu-feedback. Chỉ mở entry liên quan khi candidate thực tế xuất hiện một cơ chế nghi ngờ tái phạm, hoặc khi tác giả/reviewer gọi tên failure đó. Không dùng toàn bộ lịch sử lỗi làm negative style bible.
 
 ---
 
@@ -81,7 +81,7 @@
 - **Văn bản bị reject:** Agent bê nguyên các dị tượng "tiếng gọi chân cầu thang", "vải che gương bị trễ góc" (những ví dụ tham khảo trong D-002) vào CH-06 dù tác giả đã cấm xào lại chi tiết cũ.
 - **Lời tác giả:** *"Tao vừa bảo cấm mày xào lại các chi tiết kinh dị cũ cơ mà sao vẫn dùng cái Đỉnh điểm (D-002 câu 17-19) là sao?"*
 - **Cơ chế lỗi:** `RECYCLED_DI_TUONG` — Coi các reference hoặc ví dụ trong directive là "đơn đặt hàng bắt buộc phải có" ở chương tiếp theo, hoặc tái sử dụng dị tượng đã xuất hiện trong bản thảo canonized, thay vì **tự suy luận (reasoning) ra dị tượng mới** dựa trên bối cảnh và tâm lý hiện tại của nhân vật.
-- **Cách khắc phục:** Thiết kế dị tượng MỚI (Novel Uncanny Anchors) khai thác trực tiếp môi trường hiện tại (ví dụ CH-06: khói thuốc lào từ điếu cày nguội, chiếc ghế mây võng xuống). Các reference như D-002 chỉ là "ngân hàng ý tưởng", đã dùng là mất, chưa dùng thì không bắt buộc.
+- **Cách khắc phục (đã supersede bởi D-006):** Thiết kế manifestation mới từ ecology và current source/reveal boundary. Không dùng D-002, archive, workflow test hay rejected manifestation như ngân hàng ý tưởng, template hoặc blacklist. Registry hiện hành chỉ được kiểm sau ideation.
 - **Anti-pattern signature:** `[sử dụng lại một chi tiết kinh dị/dị tượng y hệt như đã xuất hiện ở chương trước, hoặc bê nguyên xi một ví dụ trong directive vào mà không có reasoning hữu cơ với bối cảnh]`
 
 ---
