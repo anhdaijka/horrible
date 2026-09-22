@@ -24,17 +24,45 @@ Do NOT open or preload:
 - full directives;
 - style bibles;
 - generic craft skills;
-- named craft lexicons unless the author explicitly makes one part of the chapter design.
+- named craft lexicons unless the author explicitly makes one part of chapter design.
 
 The generative pass must inhabit a living situation, not answer an audit.
 
-Hard constraints in the Writer packet define what must remain true. They do NOT prescribe dialogue, sentence shape, gesture, reaction, micro-order, beat count or a visible proof of compliance unless the author explicitly locked that execution choice.
+Hard constraints define what must remain true. They do NOT prescribe dialogue, sentence shape, gesture, reaction, micro-order, paragraph length, beat count or visible proof of compliance unless the author explicitly locked that execution choice.
 
-A fact appearing in character context is knowledge, not a required line of dialogue. A reveal edge is a boundary, not an instruction to verbalize it. A durable outcome is an end-state, not a mandatory route.
+A fact in character context is knowledge, not a required spoken line. A reveal edge is a boundary, not an instruction to verbalize it. A durable outcome is an end-state, not a mandatory route.
 
-Treat scene ecology as an affordance field. Select, combine, transform or omit its possibilities. You may invent transient customers, errands, work complications, minor social encounters, local misunderstandings, warmth, irritation, mistakes and chapter-local consequences consistent with current people/place.
+Treat scene ecology as an affordance field. Select, combine, transform or omit its possibilities.
 
-Dialogue may be long, short, indirect, interrupted, repetitive, evasive, affectionate, awkward or plain. Natural speech is not produced by a quota of fragments, filler, hidden agendas, aggression or body beats. Do not turn a clue record, knowledge boundary or approved outcome into a question-and-answer sequence merely to expose fields to the reader.
+## Narrative prose prior
+
+Manuscript prose is storytelling, not screenplay transcription and not a compliance report.
+
+Do NOT equate:
+- clarity with short sentences;
+- tension with fragments;
+- naturalism with clipped dialogue;
+- objectivity with camera-only narration;
+- restraint with omission of connective tissue;
+- literary prose with constant compression.
+
+Sentence and paragraph length should vary with thought, action, memory, explanation, social rhythm and narrative emphasis. A sentence may carry several linked actions or perceptions when they belong to one movement of thought. A paragraph may sustain a situation instead of cutting after each gesture.
+
+Within approved POV, narration may summarize time, supply necessary context, connect cause and consequence, follow associative thought, linger on ordinary detail, move between scene and summary, and tell rather than show when telling is the cleaner storytelling choice.
+
+Avoid default `action → one-line dialogue → action beat → one-line dialogue` cadence. If a scene reads like stage blocking with quotation marks, rebuild the narrative flow rather than merely lengthening sentences.
+
+## Dialogue prior
+
+Dialogue may be long, short, indirect, interrupted, repetitive, evasive, affectionate, awkward, explanatory, anecdotal or plain according to social purpose.
+
+Do not equate natural dialogue with brevity. A speaker may hold the floor for several sentences while gossiping, complaining, defending, instructing, explaining, telling a story, changing the subject or trying to end one.
+
+Shared history often removes the need for explicit setup but can also produce digression, repetition and unfinished assumptions. Turn length should emerge from relationship and practical situation, not from a preference for ping-pong one-liners.
+
+Do not turn clue records, knowledge boundaries or approved outcomes into question-and-answer sequences merely to expose packet fields.
+
+## Story life and authority
 
 The main plot should enter, deform or recontextualize ordinary life rather than replace it. Preserve observable clue surfaces without explaining the intended deduction or making every incidental detail evidence.
 
@@ -49,11 +77,11 @@ Only after a complete draft exists:
 3. inspect the actual draft for contradictions, knowledge leakage, dropped obligations and demonstrated craft failures;
 4. use literary diagnostics only on defects that actually appear.
 
-`docs/failure-memory.md` is **targeted post-draft diagnostic evidence**, not generative context. Do not read it wholesale by default. Open only the relevant FM entry(s) when the draft shows a suspected recurring mechanism or when the author/reviewer names one.
+`docs/failure-memory.md` is targeted post-draft diagnostic evidence, not generative context. Open only relevant FM entries after identifying a suspected recurring mechanism or when the author/reviewer names one.
 
-Likewise, `docs/playbooks/literary-quality.md` and craft lexicons belong to self-edit/review diagnosis, not pre-generation recipe selection.
+Likewise, `docs/playbooks/literary-quality.md` and craft lexicons belong to post-draft diagnosis/review, not pre-generation recipe selection.
 
-Self-edit must not "repair" compliance by adding explanatory dialogue, visible reactions or narrator summaries. If a hard truth is already preserved implicitly, leave it implicit.
+Self-edit must not repair compliance by adding explanatory dialogue, visible reactions, narrator summaries or clipped stage-business. If hard truth is already preserved implicitly, leave it implicit.
 
 Classify new details after drafting. Texture, transient interactions and chapter-local life remain execution freedom. A promise, established prior event, custody change, future meeting, distinctive object fact or durable knowledge becomes a consequence-bearing delta and must be recorded outside prose.
 
