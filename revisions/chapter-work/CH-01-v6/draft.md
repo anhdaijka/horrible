@@ -6,7 +6,7 @@ Bà Lan ngồi sau quầy, hai đầu gối kẹp một thùng giấy, tay giậ
 
 — Dậy rồi thì buộc hộ mẹ hai bó kia. Đừng đứng chắn cửa.
 
-Khanh vừa ngáp vừa cúi nhấc xấp hàng mẹ chỉ. Anh mới về nhà chưa lâu, vẫn chưa quen việc buổi sáng ở đây bắt đầu trước lúc mình tỉnh hẳn. Có những đợt làm việc bên Nhật, anh ngồi nhìn log chạy đến khuya rồi sáng hôm sau lại chen tàu đi làm. Về nhà, sáu rưỡi đã có người dựng xe ngoài cửa gọi mẹ anh từ ngoài đường.
+Khanh vừa ngáp vừa cúi nhấc xấp hàng mẹ chỉ. Anh mới về nhà chưa lâu, vẫn chưa quen việc buổi sáng ở đây bắt đầu trước lúc mình tỉnh hẳn. Sáu rưỡi đã có người dựng xe ngoài cửa gọi mẹ anh từ ngoài đường.
 
 Một bà khách đội nón bước vào mua hai thếp giấy và một gói hương. Bà Lan vẫn đang tính tiền thì ngoài cửa có tiếng phanh xe đạp ken két.
 
@@ -46,7 +46,7 @@ Chiếc xe cọc cạch đi tiếp. Bà khách còn đứng thêm một lúc, h�
 
 Bà Lan không nói gì.
 
-Khanh buộc nốt nút dây đang dở. Câu “cái cổ không còn ngay ngắn” mắc lại trong đầu anh. Người làng có thể biến một cái trượt chân thành ba phiên bản chỉ trong một buổi chợ, nhưng ông Cường thì Khanh biết mặt: nói to, hay đứng giữa đường gọi người quen từ xa, gặp ai cũng có chuyện để nói.
+Khanh buộc nốt nút dây đang dở. Câu “cái cổ không còn ngay ngắn” mắc lại trong đầu anh. Người làng có thể biến một cái trượt chân thành ba phiên bản chỉ trong một buổi chợ, nhưng ông Cường thì Khanh biết mặt: nói to, gặp ai cũng có chuyện để nói.
 
 Bà Lan quay người nhìn lên kệ trong cùng.
 
