@@ -14,7 +14,7 @@ Perform divergent discovery in `discovery-slate.md`:
 - materially different scene engines;
 - physical/material ecology;
 - relationship, work and social pressure;
-- reader-detective affordances;
+- reader-detective affordances **for Preflight/QA use**;
 - supernatural source / ontology / reveal boundaries.
 
 Generate manifestation possibilities by reasoning from those conditions.
@@ -41,6 +41,18 @@ Audit behavior:
 
 After all collateral conflicts are resolved, synchronize durable canon changes into authoritative sources and update consequential authority basis when affected. Keep chapter-local design local.
 
-Only then test consequence-bearing causal hinges and cross-chapter dependencies, record truth + creative readiness, and build internal `preflight.md`; generative `writing-brief.md` + `scene-ecology.md` + `character-context.md`; and separate `qa-card.md`.
+Only then test consequence-bearing causal hinges and cross-chapter dependencies, including a human-causality audit: consequential questions, lookups, visits, transfers and confrontations must still make sense if the downstream mystery payoff is removed. Record truth + creative readiness, then build internal `preflight.md`; generative `writing-brief.md` + `scene-ecology.md` + `character-context.md`; and separate `qa-card.md`.
 
 Update active handoff/state surfaces to the actual gate. No current PASS transfers to changed prose or changed consequential authority.
+
+
+## Packet compiler rule
+
+Reader-detective architecture is an internal design/review concern. Do not export a clue checklist or named evidence-delivery route into Writer generative files.
+
+- `writing-brief.md`: minimum story truth/end-state + motive boundaries only.
+- `scene-ecology.md`: processes, pressures and material conditions only; no optional clue-trigger micro-events.
+- `character-context.md`: relationships, ordinary motive baselines, conversational ecology and spoiler-safe knowledge.
+- `qa-card.md`: consequence-bearing clue visibility, fair-play dependencies and anti-investigator checks.
+
+If the concrete Writer packet makes it obvious which question/action should expose each clue, the compiler is still too beat-like.
