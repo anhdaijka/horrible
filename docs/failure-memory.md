@@ -108,4 +108,15 @@
 
 ---
 
-*Cập nhật lần cuối: 2026-09-20. Bổ sung mục mới sau mỗi lần tác giả reject văn bản trong phiên chỉnh sửa.*
+## FM-009: Constraint/spec bị biến thành thoại (Spec-to-Dialogue Leakage)
+
+- **Chapter / Candidate:** CH-01-v6 / CH-01-v6-C1 (và nguyên nhân workflow được audit sau C2)
+- **Lời tác giả:** *"Thoại dở quá, thiếu tự nhiên"*.
+- **Cơ chế lỗi:** `SPEC_TO_DIALOGUE_LEAKAGE` / `CONSTRAINT_AMPLIFICATION` — cùng một outcome/knowledge/reveal requirement bị lặp qua writing brief, scene ecology, character context và QA; Writer bắt đầu đối xử các field như nghĩa vụ phải được nhân vật nói ra. Kết quả là thoại hỏi–đáp sạch sẽ theo lượt, nhân vật trở thành information courier, quan hệ và tình huống sống bị lép trước checklist.
+- **Dấu hiệu:** nhiều nhân vật hỏi đúng thứ packet cần expose; câu trả lời hoàn chỉnh hơn nhu cầu giao tiếp thực tế; knowledge boundary biến thành visible reaction/line; giọng nhiều người giống nhau vì cùng phục vụ một spec.
+- **Cách khắc phục:** sửa packet/compiler trước: mỗi constraint chỉ sống ở đúng generative layer; brief khóa outcome/reveal/end-state, ecology chỉ cấp affordance, character-context chỉ cấp relationship/knowledge. Writer sở hữu dialogue/micro-order. QA không được yêu cầu thêm lời giải thích để "chứng minh" compliance. Khi sửa prose, phục hồi practical situation, relationship shorthand, interruption, omission và speaker-specific pressure; không chữa bằng filler/slang/tics.
+- **Anti-pattern signature:** `[nhân vật hỏi–đáp chủ yếu để tuần tự verbalize các field của packet/canon thay vì vì nhu cầu sống trong cảnh]`
+
+---
+
+*Cập nhật lần cuối: 2026-09-22. Bổ sung mục mới sau mỗi lần tác giả reject văn bản trong phiên chỉnh sửa; chỉ dùng targeted post-draft.*
