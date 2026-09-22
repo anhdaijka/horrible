@@ -30,7 +30,9 @@ See `.agents/rules/writing-workflow.md`, `docs/playbooks/horrible-craft-review.m
 
 ## Creative freedom boundary
 
-Inside an approved brief, the writer owns wording, rhythm, scene micro-order, dialogue tactics, silence, gesture, incidental action, sensory selection, image, and small non-durable detail. No mandatory word count, clue count, sensory inventory, body-reaction quota, clipped-dialogue pattern, or universal ambiguity requirement applies.
+Any agent-facing response-style instruction such as **concise**, **clinical**, **brief**, **structured**, or **literary** applies to operational communication, analysis and workflow reporting unless it explicitly says it governs manuscript prose. It must not be projected into sentence length, paragraph length, dialogue turn length, narrative distance or storytelling density.
+
+Inside an approved brief, the writer owns wording, rhythm, scene micro-order, dialogue tactics, silence, gesture, incidental action, sensory selection, image, sentence/paragraph architecture, scene/summary balance, interiority and small non-durable detail. No mandatory word count, clue count, sensory inventory, body-reaction quota, clipped-dialogue pattern, or universal ambiguity requirement applies.
 
 The writer may not silently change:
 
