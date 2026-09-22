@@ -1,6 +1,6 @@
 # Character context — <chapter>
 
-> Writer-safe selection; no future solution. Character knowledge is a boundary, not a required line, reaction, confession or visible proof.
+> Writer-safe selection; no future solution. Character knowledge is a boundary, not a required line, question, reaction, confession or visible proof.
 
 ## Relationships and address
 Kinship/social familiarity, age/status where relevant, and natural address in this interaction.
@@ -9,6 +9,13 @@ Kinship/social familiarity, age/status where relevant, and natural address in th
 Shared history, ordinary priorities, work/family/social concerns, ways of helping or irritating one another, contradictions and pressures that exist even if the case does not advance today.
 
 Give enough lived material to imagine behavior.
+
+## Ordinary motive baseline
+For each important person, project what can plausibly make them act **today** independent of mystery payoff: work duty, family role, money, time, grief, convenience, embarrassment, social obligation, habit, personal history or proportionate curiosity.
+
+Do not turn these motives into prescribed beats.
+
+A character should not ask investigative questions, inspect records, pursue provenance, seek witnesses or initiate a visit merely because the reader needs information. If such behavior occurs, it needs a sufficient in-world reason for that person at that moment.
 
 ## Conversational ecology
 Project relationship-level speech dynamics without scripting lines or prescribing tics.
