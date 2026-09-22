@@ -119,4 +119,15 @@
 
 ---
 
-*Cập nhật lần cuối: 2026-09-22. Bổ sung mục mới sau mỗi lần tác giả reject văn bản trong phiên chỉnh sửa; chỉ dùng targeted post-draft.*
+## FM-010: Văn kể co thành screenplay prose (Screenplay-Prose Compression)
+
+- **Chapter / Candidate:** CH-01-v6-C3
+- **Lời tác giả:** *"Các câu văn khác cũng cụt ngủn, thiếu tự nhiên kinh khủng. Chưa giống với kiểu kể chuyện mà chỉ hoạt động cho chuẩn spec thôi."*
+- **Cơ chế lỗi:** `SCREENPLAY_PROSE_COMPRESSION` — prose mặc định thành chuỗi hành động/câu thoại ngắn, micro-paragraph, action beat sau mỗi lượt nói, ít connective narration, ít summary/interiority/context dù POV cho phép. Văn vận hành như blocking để đi qua outcome hơn là người kể đang dẫn một câu chuyện.
+- **Dấu hiệu:** một hành động = một câu/đoạn; nhiều đoạn chỉ có 1–2 câu ngắn; dialogue ping-pong xen "nhìn/cúi/quay/đặt"; câu dài hiếm dù ý nghĩ hoặc hành động liên tục; scene/summary gần như không chuyển; storyteller presence bị triệt tiêu.
+- **Cách khắc phục:** không đặt minimum sentence length. Thay vào đó phục hồi narrative continuity: cho câu/đoạn giữ trọn một chuyển động ý nghĩ hoặc tình huống, dùng summary/context/interiority khi hữu ích, để hành động nền chạy xuyên hội thoại, cho turn-holding dài hơn khi social purpose cần. Không nhầm restraint/clarity/tension với brevity.
+- **Anti-pattern signature:** `[prose lặp cơ chế action → câu thoại ngắn → action beat → câu thoại ngắn, paragraph micro-cut, thiếu connective narration dù không có lý do nghệ thuật cụ thể]`
+
+---
+
+*Cập nhật lần cuối: 2026-09-22. Chỉ dùng Failure Memory targeted post-draft/hậu-feedback; không preload trước generation.*
