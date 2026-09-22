@@ -29,7 +29,8 @@ Tổng dung lượng bản thảo: 0 từ.
 - Prose: `draft-r1.md`.
 - SHA-256: `9941eabad79be08dcd567e6fc9ade25862bee491c3f43cd5a7801ecbb4267350`.
 - Scope: complete chapter.
-- Consequential authority-basis ID: `CH-01-v6-B1`.
+- Candidate authority-basis ID: `CH-01-v6-B1` (frozen provenance for C2).
+- Active Writer packet for any future rewrite: `CH-01-v6-B2`.
 - Writer generative pass: completed on C1.
 - Author-directed dialogue revision: completed on C2.
 - Revision self-edit/audit: completed.
@@ -38,11 +39,13 @@ Tổng dung lượng bản thảo: 0 từ.
 - Author acceptance: NOT REQUESTED.
 - Manuscript canon state remains 0 chapters.
 
-Next action: author inspects C2 prose. If accepted for review, run fresh `/hr-review CH-01-v6` using `candidate.md` + complete `draft-r1.md` before packet/handoff/context.
+Next action: author may continue inspecting C2. If C2 is sent to review, review it against frozen B1 provenance. If a new rewrite is requested, generate a new candidate from active packet B2; do not rebase or overwrite C2.
 
 ## Open design / verification gates
 
-- No design gate blocks review.
-- Candidate C2 has no literary or safety PASS yet; any C1 identity is superseded for active review.
+- No story-design gate blocks review or a future B2 rewrite.
+- Workflow audit repair is applied: true generative firewall, constraint compression, targeted post-draft Failure Memory, and craft lexicon moved out of generative recipe space.
+- Candidate C2 has no literary or safety PASS yet; it remains bound to B1.
+- Active packet B2 changes generative projection only; canon/reveal/durable state are unchanged.
 - Writer run occurred in the same ChatGPT conversation as Preflight; prior conversational exposure is disclosed in `writer-handoff.md`. This does not affect a genuinely independent reviewer if that reviewer has fresh context.
 - Canonization remains blocked until fresh literary PASS, fresh safety PASS, explicit author acceptance and approved durable-state diff.
