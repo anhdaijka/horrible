@@ -1,6 +1,6 @@
 ---
 name: hr-source-writer
-description: Write and self-edit Horrible ghost-horror prose from a compressed Writer packet without preloading audit or craft constraints.
+description: Write and self-edit Horrible ghost-horror prose from a bounded Writer packet without preloading audit or craft constraints.
 ---
 
 # Horrible writer
@@ -19,20 +19,33 @@ Read only:
 
 Do not open discovery, preflight, QA, failure-memory, rejected material, reviews, regression history, full authority files, style bibles, generic craft skills or named craft lexicons before a complete draft exists.
 
-Write the complete candidate as people whose work, relationships and private concerns were already moving before the disturbance arrived.
+The packet is a **bounded creative context**, not a beat sheet and not a compression target. Packet brevity must never imply prose brevity.
 
-The packet is a **constraint boundary, not a beat sheet**.
+Write as a storyteller inhabiting people whose work, relationships, memories and private concerns were already moving before the disturbance arrived.
 
-- Story truth says what must remain true.
-- Character context says what people know and how they are related.
-- Ecology supplies possibilities.
-- None of those automatically becomes dialogue, reaction, exposition or scene order.
+Story truth says what must remain true. Character context says what people know and how they are socially situated. Ecology supplies possibilities. None automatically becomes dialogue, reaction, exposition, scene order or sentence form.
 
-Own the wording, rhythm, dialogue tactics, silence, gesture, incidental action, sensory selection and micro-order.
+Own wording, narrative distance, sentence rhythm, paragraph architecture, dialogue tactics, silence, gesture, incidental action, summary, interiority, connective narration, sensory selection and micro-order.
 
-Do not verbalize a fact merely because it appears in the packet. Do not make characters ask questions only so the reader can receive every field. Let information emerge through practical need, misunderstanding, interruption, omission, ordinary talk and action when that is more natural.
+### Prose
 
-Deliver a ghost-horror experience, but do not apply named horror techniques by quota or recipe. If the approved packet already contains a concrete manifestation/pressure, realize it through the scene's material reality. Craft terminology may be used later to diagnose the result.
+Do not default to screenplay cadence. Narration may carry thought across several clauses, summarize stretches of ordinary activity, explain necessary context, move associatively inside the approved POV, or let one paragraph sustain a social situation.
+
+Use short sentences when they are earned, not as a universal tension device. Use long or medium sentences when continuity of thought, gossip, memory, explanation or physical action benefits from them.
+
+A camera-only style is optional, not a virtue by itself.
+
+### Dialogue
+
+Do not equate natural speech with short turns. Let a speaker hold the floor when social purpose calls for it. Vietnamese everyday speech may include repetition, side information, self-correction, relationship shorthand, complaint, practical explanation, politeness padding, topic drift and sentences that do more than advance plot.
+
+Before finalizing a dialogue-heavy scene, check whether it has collapsed into alternating one-line turns. If so, reconsider relationship, practical situation and conversational purpose rather than inserting filler.
+
+Do not verbalize a fact merely because it appears in the packet.
+
+### Horror
+
+Deliver a ghost-horror experience without applying named techniques by quota or recipe. If the packet contains a concrete manifestation/pressure, realize it through scene reality; craft terminology may be used later to diagnose the result.
 
 ## Self-edit phase
 
@@ -41,10 +54,10 @@ Only after the complete draft exists:
 - open `qa-card.md`;
 - open named hard-source excerpts only as needed;
 - repair actual truth/reveal/custody/continuity defects;
-- diagnose actual prose defects without adding compliance dialogue.
+- diagnose actual prose defects without adding compliance dialogue or stage-business.
 
-If a suspected recurring failure matches project failure-memory, open only the relevant FM entry after the defect has been identified. Do not preload the whole failure history.
+If a recurring failure is suspected, open only the relevant Failure Memory entry after the defect has been identified.
 
-Use the Negative Craft Matrix only as post-draft diagnosis. Protect living dialogue, ordinary silence, humor, indirectness and scene texture.
+Use literary diagnostics post-draft. Protect living narration, varied syntax, summary, interiority, ordinary talk, long speech, silence, humor, indirectness and scene texture.
 
 Output clean prose, locator-only `candidate.md` and separate `writer-handoff.md`. Preserve prior candidates. Never self-certify independent PASS.
