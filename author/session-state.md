@@ -22,30 +22,26 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 CANDIDATE C2 — REVISED / AWAITING AUTHOR INSPECTION**
+**CH-01-v6 CANDIDATE C3 — B2 GENERATIVE-ONLY / AWAITING AUTHOR INSPECTION**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
-- Candidate: `CH-01-v6-C2`.
-- Prose: `draft-r1.md`.
-- SHA-256: `9941eabad79be08dcd567e6fc9ade25862bee491c3f43cd5a7801ecbb4267350`.
-- Scope: complete chapter.
-- Candidate authority-basis ID: `CH-01-v6-B1` (frozen provenance for C2).
-- Active Writer packet for any future rewrite: `CH-01-v6-B2`.
-- Writer generative pass: completed on C1.
-- Author-directed dialogue revision: completed on C2.
-- Revision self-edit/audit: completed.
-- Independent literary review: NOT RUN.
+- Candidate: `CH-01-v6-C3`.
+- Prose: `draft-r2.md`.
+- SHA-256: `c66f48fe2f1b3db240b8c17a85a388b26f9561897dc4c74fd776a90a16efcbb6`.
+- Consequential authority-basis ID: `CH-01-v6-B2`.
+- C3 is the first candidate generated from the compressed B2 packet.
+- Generative source load was restricted to the three active Writer surfaces.
+- QA/self-edit: NOT RUN.
+- Literary review: NOT RUN.
 - Safety review: NOT RUN.
 - Author acceptance: NOT REQUESTED.
-- Manuscript canon state remains 0 chapters.
+- C1/C2 remain preserved with B1 provenance.
 
-Next action: author may continue inspecting C2. If C2 is sent to review, review it against frozen B1 provenance. If a new rewrite is requested, generate a new candidate from active packet B2; do not rebase or overwrite C2.
+Next action: author inspects C3 as the workflow A/B test. If retained, run post-draft QA/self-edit on C3 before literary/safety review.
 
 ## Open design / verification gates
 
-- No story-design gate blocks review or a future B2 rewrite.
-- Workflow audit repair is applied: true generative firewall, constraint compression, targeted post-draft Failure Memory, and craft lexicon moved out of generative recipe space.
-- Candidate C2 has no literary or safety PASS yet; it remains bound to B1.
-- Active packet B2 changes generative projection only; canon/reveal/durable state are unchanged.
-- Writer run occurred in the same ChatGPT conversation as Preflight; prior conversational exposure is disclosed in `writer-handoff.md`. This does not affect a genuinely independent reviewer if that reviewer has fresh context.
-- Canonization remains blocked until fresh literary PASS, fresh safety PASS, explicit author acceptance and approved durable-state diff.
+- No story-design gate blocks inspection.
+- C3 has no QA, literary or safety PASS.
+- Same-conversation prior exposure means this is operational isolation, not fresh-model/blind isolation.
+- Canonization remains blocked until matching fresh review receipts, author acceptance and approved durable-state diff.
