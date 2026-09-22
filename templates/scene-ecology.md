@@ -18,8 +18,10 @@ What keeps pulling present people away from a single clean topic? Include ordina
 ## Social field
 Describe who can plausibly enter, linger, leave, overhear, interrupt or retell things because of their own business and relationships. Preserve incomplete hearing, bad memory, boredom and topic drift as normal social conditions.
 
-## Horror contact surface
-State the physical/material boundary through which approved supernatural pressure can touch the scene. Describe what reality permits, not how the Writer must stage or explain it.
+## Horror pressure field
+State the physical/material boundary through which approved supernatural pressure can touch the scene, then identify what can remain wrong **after** first contact: an object still in circulation, a route no longer behaving neutrally, an obligation that cannot be cleanly discharged, a social meaning that has shifted, or another chapter-specific residue already supported by design.
+
+Name the ordinary movement carriers that can keep that pressure alive while life continues. Describe affordances and consequences, not a sequence of scares. Do not require repeated anomalies, ominous description, fear symptoms or character investigation merely to sustain genre tone.
 
 ## Local invention
 Transient customers, errands, temporary moods, small work problems, misunderstandings and chapter-local events are free when consistent with the above field. Record only inventions that create later durable obligations.

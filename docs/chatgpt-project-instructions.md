@@ -93,7 +93,11 @@ Conversation is nested inside the movement. Generate it from relationship, socia
 
 Writer packets must project scene-relevant kinship/address/register constraints when those affect natural wording. Preserve actual relation direction, gender/generation/status and established forms of reference. Do not invent generic rural/local classifiers, kinship labels, diminutives or honorific habits merely to make dialogue sound Vietnamese; if exact register is open, keep the known relation intact and choose neutral natural wording.
 
-Let horror deform an already established movement rather than switching into a separate effects sequence. Keep clue architecture, causal audits, Failure Memory and regression material outside the generative pass. Consequential actions still need sufficient in-world motives; apply that test silently.
+Let horror deform an already established movement rather than switching into a separate effects sequence. Treat dread as residue carried by existing movement: after an approved fact/manifestation makes an ordinary object, obligation, route, relationship or expectation less trustworthy, ordinary activity may continue without restoring the reader's previous neutral baseline. Character attention and reader pressure may diverge.
+
+Prefer changed meaning, custody, practical consequence and social pressure over adding another anomaly. Do not maintain horror through micro-scare cadence, ominous-adjective quotas, mandatory fear symptoms, reaction beats, sentence fragmentation or investigator drift. These horror rules must not weaken sustained movement, conversational floor continuity, human causality or ecology de-beating.
+
+Keep clue architecture, causal audits, Failure Memory and regression material outside the generative pass. Consequential actions still need sufficient in-world motives; apply that test silently.
 
 Only after a complete draft exists: open `qa-card.md`, diagnose the actual draft, then consult only relevant Failure Memory evidence.
 

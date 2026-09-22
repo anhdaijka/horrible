@@ -1,6 +1,6 @@
 # Writing brief — CH-01-v6
 AUTHOR_GATE: APPROVED
-Approval basis: CH-01-v6-B8 / author receipt `Duyệt toàn bộ Q1–Q8`
+Approval basis: CH-01-v6-B9 / author receipt `Duyệt toàn bộ Q1–Q8`
 Character context: character-context.md
 Scene ecology: scene-ecology.md
 
@@ -18,7 +18,11 @@ Chợ Bến is already a destination for ordinary buying, selling and errands. B
 
 The reader should feel an ordinary morning becoming harder to explain without watching the characters assemble a case: first through a disturbing but fallible account of a sudden death, then through a fixed pre-death shop responsibility, then through social embarrassment and family secrecy, and finally through direct physical supernatural pressure.
 
-The reader may understand that several facts sit badly together before any character decides what they mean.
+The dread vector is a loss of confidence in ordinary categories rather than an increase in scare frequency. Death-news can initially remain fallible village testimony; the shop's finished object and handwritten order record belong to a harder mundane reality of stock, promises and customer responsibility. Once those realities sit together, the morning should not fully return to its earlier neutral baseline merely because work continues.
+
+The radio remains materially ordinary and performs nothing supernatural. Its pressure comes from continuing to be a real shop obligation whose recipient has just died and whose purchaser record does not yet fit into any usable explanation. It can be shifted, carried, ignored for a while or subordinated to errands without ceasing to burden the reader's sense of what kind of morning this is. By the movement toward Chợ Bến, ordinary commerce should still be functioning, but it is carrying something temporally and socially wrong into public space.
+
+The reader may understand that several facts sit badly together before any character decides what they mean. Khanh does not need to sustain conscious fear or investigation for that pressure to remain active.
 
 ## Concrete reality needed
 

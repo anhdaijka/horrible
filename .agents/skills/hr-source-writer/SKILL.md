@@ -45,6 +45,10 @@ Honor the packet's kinship/address/register map. Preserve actual relation direct
 
 Realize approved supernatural pressure through the same lived material field rather than switching into a separate effects sequence. Let disturbance alter something that was already continuing. Characters need not interpret everything the reader can notice.
 
+Carry **dread residue** after contact. A character can return to work or another topic without resetting the reader's baseline if the wrong object, obligation, space, testimony or social consequence is still in circulation. Prefer changed meaning and practical consequence over adding another anomaly.
+
+Do not manufacture horror by increasing event count, forcing reactions, inserting ominous prose, fragmenting sentences or turning non-investigators into investigators. Horror conditioning must not undo sustained narrative movement, conversational floor continuity or ordinary human causality.
+
 ## Self-edit
 
 Only after the complete draft exists, open qa-card.md and the narrow sources it names. If the actual prose shows a recurring mechanism, consult only the relevant Failure Memory entry after diagnosis.

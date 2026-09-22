@@ -42,11 +42,15 @@ Lan Anh's later presence at Chợ Bến is grounded in her household errands. He
 
 Market bystanders may notice a public disagreement because they are physically nearby. They remain partial listeners whose later retelling can simplify, mutate or omit what happened.
 
-## Horror contact surface
+## Horror pressure field
 
-A human account of Cường's body can be disturbing because of one concrete physical image while remaining hearsay.
+A human account of Cường's body can be disturbing because of one concrete physical image while remaining hearsay. Its uncertainty matters: the shop does not need to certify or investigate it for the reader to carry the image forward.
 
-The shop's fixed pre-death responsibility can become uncanny without the radio emitting sound, moving or otherwise performing.
+The shop's fixed pre-death responsibility has a different kind of persistence. The paper radio is physically mundane and must not emit sound, move or otherwise perform, but it exists as finished stock tied to a named recipient and a handwritten order. Shop labor cannot simply make that combination unreal. The object, ledger entry, promised handoff and question of custody remain available as ordinary carriers of wrongness while customers are served and other work continues.
+
+This pressure should survive attention drift without requiring repeated supernatural events. A joke, sale, meal, interruption or practical explanation can coexist with the mismatch without fully discharging it. The radio can remain first and foremost an awkward shop responsibility while its timing and ownership become increasingly difficult for the reader to domesticate.
+
+Chợ Bến can extend that pressure socially because the object enters a denser field of trade, recognition and partial hearing. The market is not a staged audience and the route is not an investigation; ordinary errands carry the unresolved object toward public exposure.
 
 The later public refusal can make a private impossibility socially dangerous without anyone solving it.
 

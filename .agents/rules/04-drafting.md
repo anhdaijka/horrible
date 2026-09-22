@@ -66,6 +66,12 @@ Preserve approved purpose/outcome, chronology, relationships, durable state, kno
 
 Let horror deform an established movement rather than automatically switching the prose into a separate effects sequence. An anomaly gains force when it alters work, attention, social behavior, space or expectation that already had continuity.
 
+Treat **dread pressure as residue carried by the movement**, not as the frequency of overt supernatural events. Once an approved fact or manifestation has made an ordinary category less stable, do not automatically restore the previous neutral baseline merely because characters resume work, joke, change topic or move location. The POV may stop thinking about it while the reader-visible object, obligation, route, social risk or mismatch remains materially active.
+
+Sustain horror through changed meaning and consequence before inventing another effect. A mundane object can remain disturbing because its ownership, timing, use or social place no longer fits; an ordinary route can remain disturbing because practical movement has been changed; testimony can remain disturbing because it has not been certified or discharged. This pressure may coexist with humor, commerce, food and family life.
+
+Do not compensate for weak dread by adding micro-scares, mandatory callbacks, ominous adjectives, bodily fear symptoms, shortened sentences, reaction beats or investigative behavior. Do not invent extra supernatural manifestations merely to keep the tone "horror." Preserve the sustained-movement, conversational-floor, human-causality and ecology-de-beating contracts while carrying approved wrongness forward.
+
 ## Self-edit phase
 
 Only after a complete draft exists:

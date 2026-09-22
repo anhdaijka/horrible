@@ -30,6 +30,8 @@ Generic horror-craft material may be used only after ecology-led candidates exis
 
 For each useful engine, derive manifestation candidates from its concrete ecology. Generate alternatives only while they remain materially different in mechanism, human consequence or reader experience; no fixed count applies.
 
+For each viable candidate, also test **pressure propagation**: after first contact, can its wrongness continue deforming already-active work, space, obligation, social meaning or reader expectation without requiring another supernatural event? Prefer manifestations whose consequence can persist through ordinary movement over effects that matter only at the instant they occur.
+
 Only after candidates exist:
 
 1. check `plot/di-tuong-registry.md`;
@@ -121,6 +123,7 @@ After design is resolved and before READY, compile for **positive generative suf
 5. If no accepted prose/lived excerpt exists, strengthen factual and relational context; do not compensate by adding more craft constraints.
 6. When conversation is scene-relevant, compile relationship-specific floor continuity: ongoing activity, social initiative, interruption/resumption behavior and plausible topic drift. Do not turn this into dialogue-length targets or scripted turns.
 7. Compile a spoiler-safe kinship/address/register map for scene-relevant people: factual relation, gender/generation/status where material, and established forms of address/reference if actually known. Preserve unknowns instead of inventing local-speech flavor.
+8. Compile **dread continuity** without exporting a beat ladder: `writing-brief.md` states the broad ordinary assumption being strained and the reader-pressure that should remain after attention moves on; `scene-ecology.md` states the approved horror contact surface plus the existing material/social carriers through which wrongness can persist. Do not add extra manifestations merely to maintain tone.
 
 A packet that is safe but mostly permissions, exclusions and generic process labels is NOT READY.
 
@@ -143,5 +146,7 @@ Before READY, verify:
 13. Scene ecology describes processes/pressures rather than optional beats or clue-trigger actions.
 14. Character context gives enough floor-continuity substrate for important conversations without scripting dialogue or imposing line-length quotas.
 15. Kinship, gender/generation/status and established address/reference forms are preserved where they constrain wording; unknown register is not filled from generic cultural or rural-speech priors.
+16. The packet exports enough dread-pressure dynamics that an approved anomaly/fact can leave reader-visible residue after characters resume ordinary activity.
+17. Horror conditioning does not encode scare cadence, reaction quotas, clue-trigger beats, mandatory ominous language or new investigator behavior.
 
 If any check fails, fix it or stop at the correct unresolved gate.

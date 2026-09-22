@@ -11,7 +11,7 @@ Separately, test the selected engine for **human causal sufficiency**: clue visi
 For each useful engine, test without mechanical scoring:
 
 - **lived motion** — work, errands, affection, status, inconvenience or conflict with causes beyond the case;
-- **horror pressure** — something specifically uncanny or dreadful emerges organically from THIS chapter's ecology;
+- **horror pressure** — something specifically uncanny or dreadful emerges organically from THIS chapter's ecology, and its material/social/interpretive residue can remain active after first contact instead of disappearing when ordinary activity resumes;
 - **reader-detective field** — observable facts, testimony, omissions or object behavior let the reader form/revise hypotheses without making one protagonist the sole solver.
 
 ## Discovery-led manifestation rule
@@ -83,8 +83,9 @@ Before READY, treat the Writer packet as a compiler output, not a condensed Pref
 - **Bootstrap without accepted prose:** if there is no accepted preceding prose or safe lived-context excerpt, do not fabricate a style exemplar. Compensate with stronger concrete human/material context and rely on the canonical positive composition prior in the Writer role.
 - **Conversational floor substrate:** when dialogue is likely to matter, `character-context.md` must project the relationship-specific conditions that can sustain a floor across work, interruption, topic drift and delayed response. Identify who can keep social initiative, what ongoing activity can carry speech, and how a topic may survive an interruption. Do not prescribe line-length quotas, sample dialogue or alternating turns.
 - **Kinship/address/register integrity:** for scene-relevant people who may address or refer to one another, compile the factual relationship, gender/generation/status information that materially constrains reference, and any established address/reference forms. Unknown forms stay open. Never fill a gap with generic Vietnamese rural-speech markers, kinship labels, diminutives or classifiers merely to create local color.
+- **Dread-pressure sufficiency:** project enough positive horror dynamics that the Writer knows what ordinary confidence is being strained, what approved anomaly/fact leaves residue, which existing movement carriers can continue carrying that residue, and what practical/social/material consequence prevents an automatic return to the previous neutral baseline. This is a field, not a scare sequence: do not prescribe anomaly counts, ominous callbacks, reaction beats or mandatory fear symptoms.
 
-READY fails if the three generative files are technically safe but still force the Writer to invent the lived world, relationship texture, conversational floor behavior, address/register constraints or POV attention from generic model priors.
+READY fails if the three generative files are technically safe but still force the Writer to invent the lived world, relationship texture, conversational floor behavior, address/register constraints, POV attention or the chapter's dread-continuity dynamics from generic model priors.
 
 ## Readiness
 

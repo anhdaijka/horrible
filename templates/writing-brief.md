@@ -12,7 +12,9 @@ Write 2–4 cohesive paragraphs describing the life already underway, the distur
 A good section should still make human sense if the later mystery payoff is temporarily ignored.
 
 ## Reader pressure
-State the broad experience, question or emotional pressure the chapter should leave with the reader. Do not prescribe a craft technique or evidence-delivery route.
+State the broad experience, question or emotional pressure the chapter should leave with the reader. Include the **dread vector** when horror matters: what ordinary assumption, category, relationship, space or routine should become less trustworthy, and what unresolved pressure should remain even when characters return to practical life.
+
+Do not prescribe a craft technique, scare cadence, character reaction quota or evidence-delivery route. Reader pressure may persist even when the POV character is distracted, skeptical or busy.
 
 ## Concrete reality needed
 Project only practical, verified or author-approved facts the Writer genuinely needs in order to imagine the place, work, objects and immediate circumstances. Prefer concrete reality over abstract labels.

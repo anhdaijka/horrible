@@ -50,9 +50,9 @@ Update active handoff/state surfaces to the actual gate. No current PASS transfe
 
 Reader-detective architecture is an internal design/review concern. Do not export a clue checklist or named evidence-delivery route into Writer generative files.
 
-- `writing-brief.md`: minimum story truth/end-state + motive boundaries only.
-- `scene-ecology.md`: processes, pressures and material conditions only; no optional clue-trigger micro-events.
+- `writing-brief.md`: minimum story truth/end-state + motive boundaries plus the broad reader-facing dread vector: what ordinary confidence is being strained and what pressure should remain unresolved after attention moves on.
+- `scene-ecology.md`: processes, pressures and material conditions plus the approved horror-pressure field: contact surface, continuing carriers and practical/social/material residue; no optional clue-trigger micro-events or scare sequence.
 - `character-context.md`: relationships, ordinary motive baselines, conversational ecology, relationship-specific floor continuity, kinship/address/register constraints and spoiler-safe knowledge.
 - `qa-card.md`: consequence-bearing clue visibility, fair-play dependencies and anti-investigator checks.
 
-If the concrete Writer packet makes it obvious which question/action should expose each clue, the compiler is still too beat-like. If it leaves the Writer to invent who may hold the conversational floor or how people may safely address/refer to one another from generic local-color priors, it is also not READY.
+If the concrete Writer packet makes it obvious which question/action should expose each clue, the compiler is still too beat-like. If it leaves the Writer to invent who may hold the conversational floor or how people may safely address/refer to one another from generic local-color priors, it is also not READY. If horror exists only as a named anomaly/contact point with no persistent pressure or residue available to the Writer, the packet is undercompiled.
