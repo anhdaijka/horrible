@@ -9,7 +9,7 @@ Design gate: **RESOLVED**.
 Author receipt: `Duyệt toàn bộ Q1–Q8`, recorded in `design-discussion.md`.
 
 Current basis:
-- D-003 / D-004 / D-005 / D-006;
+- D-003 / D-004 / D-005 / D-006 / D-007;
 - Case Zero arc;
 - Case Zero clue/epistemic matrix;
 - plot timeline;
