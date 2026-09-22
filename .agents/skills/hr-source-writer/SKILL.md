@@ -1,14 +1,50 @@
 ---
 name: hr-source-writer
-description: Write and self-edit Horrible ghost-horror prose from a selected situation, scene ecology and spoiler-safe character context.
+description: Write and self-edit Horrible ghost-horror prose from a compressed Writer packet without preloading audit or craft constraints.
 ---
 
 # Horrible writer
 
-Read .agents/rules/04-drafting.md. For the generative pass, read only writing-brief.md, scene-ecology.md, character-context.md and relevant accepted preceding prose. Do not open discovery-slate.md, rejected scene engines, qa-card.md, preflight.md, reviews, regression history, full directives, style bible or generic craft skills. Write the complete candidate as people whose work, relationships and private concerns were already moving before the haunting intruded. Treat the ecology as possibilities: select, transform or ignore them rather than illustrating every field. Dialogue length follows the exchange; no fragments, filler, verbal-tic, hidden-agenda or aggression quota.
+Read `.agents/rules/04-drafting.md`.
 
-Deliver a ghost-horror experience, not merely a data discrepancy. Translate the `Uncanny Domestic Anchors` and selected techniques from `docs/playbooks/advanced-horror-craft-lexicon.md` into sharp, cold physical reality (Show, don't tell): focus on contaminated everyday objects, somatic inertia and blind reflexes of the living, grotesque everyday-death juxtaposition, and lineage silence. Vận dụng tinh tế các thủ pháp tâm lý - điện ảnh (như khoảng chân không tự sự - Negative Space, hố hút âm thanh - Acoustic Evaporation, độ trễ tri giác - Epistemic Dissociation, dị tượng số - Digital Glitch, ma quỷ ngoại vi - Decentered Observation) bằng ngôn ngữ giản dị, sắc lạnh. Cấm dùng từ ngữ hù dọa giật gân, cấm jumpscare phim ma rẻ tiền, hãy để chính sự lệch lạc của đồ vật và phản xạ quen thuộc của người sống khiến độc giả rùng mình nhìn lại không gian xung quanh mình. Keep evidence observable enough for the reader to form and revise hypotheses across scenes, viewpoints and testimony without explaining the intended deduction or turning every detail into a clue. Khanh may connect local facts but need not lead every discovery.
+## Generative phase
 
-After the complete generative draft exists, read qa-card.md and only its named hard-source excerpts. Self-edit the entire candidate against the Negative Craft Matrix in docs/playbooks/literary-quality.md (purge full-name narrative spam, purge head-hopping, purge pseudo-intellectual tell, purge AI cinematic endings, purge purple prose) and verify that applied horror techniques maintain literary restraint and dread without degenerating into cliché. Output clean prose, locator-only candidate.md and separate writer-handoff.md; do not put self-praise, findings or repair rationale where a blind reviewer must read it. Update session-state, preserve prior candidates and never self-certify independent PASS. For a scene trial, name the hypothesis and scope; do not claim a complete chapter or scale it without recording what the trial established.
+Read only:
 
-Shared operating details: docs/playbooks/horrible-craft-review.md. Load only the section relevant to this role.
+- `writing-brief.md`;
+- `scene-ecology.md`;
+- `character-context.md`;
+- relevant accepted preceding prose;
+- explicitly named safe lived-context excerpts.
+
+Do not open discovery, preflight, QA, failure-memory, rejected material, reviews, regression history, full authority files, style bibles, generic craft skills or named craft lexicons before a complete draft exists.
+
+Write the complete candidate as people whose work, relationships and private concerns were already moving before the disturbance arrived.
+
+The packet is a **constraint boundary, not a beat sheet**.
+
+- Story truth says what must remain true.
+- Character context says what people know and how they are related.
+- Ecology supplies possibilities.
+- None of those automatically becomes dialogue, reaction, exposition or scene order.
+
+Own the wording, rhythm, dialogue tactics, silence, gesture, incidental action, sensory selection and micro-order.
+
+Do not verbalize a fact merely because it appears in the packet. Do not make characters ask questions only so the reader can receive every field. Let information emerge through practical need, misunderstanding, interruption, omission, ordinary talk and action when that is more natural.
+
+Deliver a ghost-horror experience, but do not apply named horror techniques by quota or recipe. If the approved packet already contains a concrete manifestation/pressure, realize it through the scene's material reality. Craft terminology may be used later to diagnose the result.
+
+## Self-edit phase
+
+Only after the complete draft exists:
+
+- open `qa-card.md`;
+- open named hard-source excerpts only as needed;
+- repair actual truth/reveal/custody/continuity defects;
+- diagnose actual prose defects without adding compliance dialogue.
+
+If a suspected recurring failure matches project failure-memory, open only the relevant FM entry after the defect has been identified. Do not preload the whole failure history.
+
+Use the Negative Craft Matrix only as post-draft diagnosis. Protect living dialogue, ordinary silence, humor, indirectness and scene texture.
+
+Output clean prose, locator-only `candidate.md` and separate `writer-handoff.md`. Preserve prior candidates. Never self-certify independent PASS.
