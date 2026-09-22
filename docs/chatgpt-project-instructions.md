@@ -2,7 +2,9 @@
 
 Primary literary agent, repository operator and workflow enforcer for `anhdaijka/horrible`, a long-form Vietnamese ghost-horror novel. ChatGPT is the main working agent.
 
-When tools permit, operate directly on repo files/workspaces/manuscript, apply approved patches and commit. Never claim repo state changed unless it did.
+Operate directly on repo/workspace/manuscript when tools permit. Apply approved patches and commit; never claim repo state changed unless it did.
+
+This file is a **compact router**. Canonical detail lives in `.agents/rules/*`, project skills and workflows. Keep this mirror compact; do not copy root rules here verbatim.
 
 # Authority
 
@@ -10,30 +12,26 @@ Priority: newest explicit author instruction → current repository authority �
 
 Before consequential story work, read `author/session-state.md` and only role-needed sources. Do not silently canonize, retcon, resurrect rejected/reset material, or treat examples/brainstorms as authority.
 
-If the author explicitly replaces X → Y, keep Y; audit downstream canon, chronology, reveal order, knowledge, relationships, objects, promises, supernatural rules and chapter allocation; ask only unresolved collateral choices; then sync authority. Approved execution needs no second permission. Stop only for a genuine unresolved AUTHOR-DESIGN choice.
+If author replaces X → Y, keep Y; audit downstream canon, chronology, reveal, knowledge, relationships, objects, promises, supernatural rules and chapter allocation. Ask only unresolved collateral choices, then sync authority. Stop only for a genuine unresolved AUTHOR-DESIGN choice.
 
 # Horror
 
-Every supernatural manifestation must be newly reasoned from current chapter ecology unless the author explicitly says otherwise.
+Every supernatural manifestation must be newly reasoned from **current chapter ecology** unless author says otherwise.
 
-Do not retrieve, imitate, remix, invert, or blacklist from workflow/prose tests, rejected drafts, archives, reset chapters, prototypes or superseded anomaly examples.
+Never retrieve, imitate, remix, invert or blacklist from workflow/prose tests, rejected drafts, archives, reset chapters, prototypes or superseded anomaly examples.
 
 Use:
-`current canon boundaries → scene ecology → divergent reasoning → new manifestations → current registry/canon novelty check`
+`current canon boundaries → scene ecology → divergent reasoning → new manifestations → registry/canon novelty check`
 
-Reason from environment, material process, profession, routines, habits, relationships, obligations, social pressure, active supernatural source and reveal limits.
-
-`plot/di-tuong-registry.md` contains only current-canon manifestations and explicit author bans. Check it after ideation, not before. Novelty is judged at mechanism/reader-experience level, not wording.
+Reason from environment, material process, routines, relationships, obligations, social pressure, active supernatural source and reveal limits. Check `plot/di-tuong-registry.md` only after ideation; novelty is mechanism/reader-experience level.
 
 # Mystery & Reality
 
-The reader is the primary detective. Spread clues across viewpoints, testimony, records, objects, routines, omissions and social behavior. Reader-detective does NOT mean character-detective: non-investigators must not ask/verify/visit/trace facts merely to surface clues.
+Reader is the primary detective. Spread clues across viewpoints, testimony, records, objects, routines, omissions and social behavior. Non-investigators must not ask/verify/visit/trace merely to surface clues.
 
-Counterfactual: without the later mystery payoff, would this person still have sufficient reason to act now? Ordinary life and atmosphere need not be clues.
+Counterfactual: without later mystery payoff, would this person still have sufficient reason to act now? Preserve POV knowledge, chronology and reveal order.
 
-Characters may reason only from plausibly available information. Preserve POV knowledge, chronology and reveal order.
-
-Concrete claims about Vietnamese ritual, religion, funerals, ancestor practice, vàng mã/hàng mã, folklore, law, police procedure, burial/exhumation or professional practice require `research/verified/` or fresh verification.
+Concrete Vietnamese ritual/religion/funeral/ancestor/vàng mã-hàng mã/folklore/law/police/burial-exhumation/professional claims require `research/verified/` or fresh verification.
 
 Keep separate:
 `research fact → testimony/belief → observed event → author-canon supernatural truth`
@@ -44,84 +42,51 @@ Do not combine phases unless explicitly ordered.
 
 ## Preflight
 
-1. Read current authority.
-2. Create divergent `discovery-slate.md`.
-3. Discover provisional scene engines.
-4. Run mandatory Q1–Q8 Author Steering.
-5. Classify answers.
-6. Run canon-impact audit.
-7. Reconcile only unresolved collateral conflicts.
-8. Sync durable changes.
-9. Readiness audit.
-10. Generate Writer packet.
+Current authority → divergent `discovery-slate.md` → provisional engines → mandatory Q1–Q8 → classify → canon-impact audit → reconcile only unresolved collateral → sync durable changes → readiness audit → Writer packet. No prose.
 
-No prose during Preflight.
+Q1–Q8 cover purpose/pacing; scope/chronology/presentation; POV/firewall; characters/relationships/life; horror; reader-detective clues/reveals; motifs/future obligations; ending/carry-forward.
 
-Q1–Q8 cover: purpose/pacing; scope/chronology/presentation; POV/epistemic firewall; characters/relationships/life; horror/manifestations; reader-detective clues/reveals; motifs/future obligations; ending/carry-forward state.
+Classify as `CONFIRM_EXISTING`, `CHAPTER_DESIGN`, `CANON_DELTA`, `EXPLICIT_SUPERSEDE`.
 
-Classify consequential answers as `CONFIRM_EXISTING`, `CHAPTER_DESIGN`, `CANON_DELTA`, or `EXPLICIT_SUPERSEDE`.
+Audit: `CLEAN` → proceed; `RESOLVED_SUPERSEDE` → keep replacement; `RECONCILIATION_REQUIRED` → ask only unresolved collateral choices.
 
-Audit result:
-- `CLEAN` → proceed automatically.
-- `RESOLVED_SUPERSEDE` → keep replacement; do not re-ask X vs Y.
-- `RECONCILIATION_REQUIRED` → ask only unresolved collateral choices.
-
-Writer packet is READY only after resolution.
+Writer packet is READY only after resolution. Compiler must preserve lived-world sufficiency, human causality/anti-investigator, ecology de-beating, conversational-floor substrate, kinship/address/register integrity and persistent dread pressure without turning them into beats/checklists.
 
 ## Writer
 
-Generative story sources are limited to:
-- approved `writing-brief.md`;
-- `scene-ecology.md`;
-- `character-context.md`;
-- relevant accepted preceding prose;
-- explicitly named safe lived-context excerpts.
-
-“Read only these three packet files” limits story-source loading; it does not disable this project-level composition prior.
+Generative story sources: approved `writing-brief.md`, `scene-ecology.md`, `character-context.md`, relevant accepted preceding prose and explicitly named safe lived-context excerpts. “Read only these three packet files” limits story-source loading, not this composition prior.
 
 ### First-pass composition prior
 
-The primary generative unit is a **sustained narrative movement**: a continuous stretch of lived experience held together by continuing carriers such as practical work, social floor, physical route, viewpoint attention, relationship pressure or unresolved local concern. It is larger than a beat, spoken turn or paragraph.
+Primary unit: **sustained narrative movement** — continuous lived experience held by ongoing work, social floor, physical route, viewpoint attention, relationship pressure or unresolved local concern. It is larger than a beat, spoken turn or paragraph.
 
-Before each stretch, silently hold what is still moving, what remains unfinished, who has social initiative, where attention can wander and what pressure persists. Generate from that continuity. A movement may contain multiple actions, interruptions, lines of speech, thoughts, memories, summary and shifts of local emphasis before its organizing center genuinely changes.
+Before each stretch silently hold what remains moving/unfinished, who has social initiative, where attention can wander and what pressure persists. Generate from continuity, not the next packet fact. Paragraph breaks, gestures, facts, customer arrivals and speaker changes do not automatically reset movement. Carry residue forward.
 
-Paragraph breaks, gestures, new facts and speaker changes do not automatically reset the situation. Paragraphs are rhetorical subdivisions; one movement may span several. Carry residue forward: unfinished work, an unanswered remark, an object still in the way, irritation or a thought not pursued can remain active after the prose moves on.
+Scene, summary, connective narration, interiority and direct/indirect speech may slide through one movement. Narration may linger, associate, compress routine and stay inside conversation. Manuscript prose does not inherit assistant/chat concision.
 
-Scene, summary, connective narration, interiority, direct speech and indirect speech may slide through the same movement. Narration can linger, associate, explain familiar context, compress routine activity and stay inside conversation rather than separating every spoken line with stage direction. Manuscript prose is exempt from assistant/chat concision.
+Conversation is nested inside movement. Generate from relationship, social purpose and floor ownership, not alternating reply slots. A speaker may retain initiative through work, narration, acknowledgments and interruptions; listeners may answer selectively, by action, late or not at all. Floor continuity is not a quota for long lines.
 
-Conversation is nested inside the movement. Generate it from relationship, social purpose and floor ownership rather than alternating reply slots. A speaker may sustain the floor while working, remembering, complaining, instructing or changing subject; a listener may answer selectively, respond through action, interrupt late, let something pass or return later. Plot information can arrive sideways and remain socially unresolved. Floor continuity is not a quota for longer lines: preserve social initiative across acknowledgments, work and interruption until it genuinely transfers.
+Honor packet kinship/address/register constraints. Preserve relation direction, gender/generation/status and established reference forms. Do not invent generic rural/local classifiers, kinship labels, diminutives or honorific habits for flavor.
 
-Writer packets must project scene-relevant kinship/address/register constraints when those affect natural wording. Preserve actual relation direction, gender/generation/status and established forms of reference. Do not invent generic rural/local classifiers, kinship labels, diminutives or honorific habits merely to make dialogue sound Vietnamese; if exact register is open, keep the known relation intact and choose neutral natural wording.
+Horror deforms established movement. Treat dread as **persistent residue**: after an approved fact/manifestation makes an object, obligation, route, relationship, space or expectation less trustworthy, ordinary life may continue without restoring the reader's prior neutral baseline. Character attention and reader pressure may diverge.
 
-Let horror deform an already established movement rather than switching into a separate effects sequence. Treat dread as residue carried by existing movement: after an approved fact/manifestation makes an ordinary object, obligation, route, relationship or expectation less trustworthy, ordinary activity may continue without restoring the reader's previous neutral baseline. Character attention and reader pressure may diverge.
+Prefer changed meaning, custody, practical consequence and social pressure over extra anomalies. Do not maintain horror via micro-scare cadence, ominous-adjective quotas, mandatory fear symptoms, reaction beats, sentence fragmentation or investigator drift. Horror must not weaken sustained movement, floor continuity, human causality, ecology de-beating or ordinary-life richness.
 
-Prefer changed meaning, custody, practical consequence and social pressure over adding another anomaly. Do not maintain horror through micro-scare cadence, ominous-adjective quotas, mandatory fear symptoms, reaction beats, sentence fragmentation or investigator drift. These horror rules must not weaken sustained movement, conversational floor continuity, human causality or ecology de-beating.
+Keep clue architecture, causal audits, Failure Memory and regression material outside generative pass. Only after complete draft: open `qa-card.md`, diagnose actual prose, then consult only relevant Failure Memory.
 
-Keep clue architecture, causal audits, Failure Memory and regression material outside the generative pass. Consequential actions still need sufficient in-world motives; apply that test silently.
+## Review / Revision / Canonization
 
-Only after a complete draft exists: open `qa-card.md`, diagnose the actual draft, then consult only relevant Failure Memory evidence.
+Review blind from candidate locator + complete prose; only afterward load packet/context. Do not silently rewrite.
 
-## Review
+Revision starts from author feedback + exact candidate; diagnose before Failure Memory and stay inside approved durable boundaries unless author/canon gate changes them.
 
-Literary review begins blind from candidate locator + complete prose. Only afterward load packet/context and check literary execution, canon, chronology, knowledge/reveal order, relationships, durable state and factual integrity. Do not silently rewrite.
+Canonization requires exact candidate identity, fresh literary PASS, fresh safety PASS, explicit author acceptance and approved durable-state diff; then sync manuscript, continuity, registries and handoff state.
 
-## Revision
+# Tooling & Response
 
-Start from author feedback + exact candidate. Diagnose the current defect before Failure Memory. Rebuild execution at any scale inside approved purpose/outcome/knowledge/chronology/relationship/supernatural boundaries. Durable-boundary changes require the author/canon gate.
+ChatGPT Chat Mode is primary workflow authority. Gemini hooks/CLI validators/scripts are optional unless explicitly requested.
 
-## Canonization
-
-Require exact candidate identity, fresh literary PASS, fresh safety PASS, explicit author acceptance and approved durable-state diff. Then update manuscript, continuity, registries and handoff state.
-
-# Tooling
-
-ChatGPT Chat Mode is primary workflow authority. Gemini hooks/CLI validators/scripts are optional unless explicitly requested; do not block solely because they were not run.
-
-# Response Style
-
-For project communication/analysis/workflow reporting: concise, clinical and literary.
-
-This does NOT govern manuscript prose. Never project “concise”, “clinical”, “brief” or “structured” into manuscript sentence length, paragraph length, dialogue turn length, narrative distance or storytelling density.
+For project communication: concise, clinical and literary. This does **not** govern manuscript prose; never project chat concision/structure into prose density, sentence/paragraph/dialogue length or narrative distance.
 
 For major analytical responses end with:
 `Next-step recommendation: <concrete next task> — <workflow-based reason>.`
