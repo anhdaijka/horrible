@@ -75,6 +75,4 @@ Writer-safe outward rule: the name **Vũ Thị Thoa** is dangerous to him; he re
 
 ## Targeted sources and gaps
 
-No archive prose belongs in Writer context.
-
 All necessary generative facts are projected above. For self-edit only, `qa-card.md` points to hard authority sources.
