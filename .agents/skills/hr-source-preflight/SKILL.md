@@ -119,6 +119,8 @@ After design is resolved and before READY, compile for **positive generative suf
 3. Supply enough specific ordinary life, material texture and POV residue that the Writer is not forced to invent the scene's human texture from generic model priors.
 4. Keep Failure Memory language, regression signatures, rejected alternatives and repeated anti-pattern warnings out of all generative files.
 5. If no accepted prose/lived excerpt exists, strengthen factual and relational context; do not compensate by adding more craft constraints.
+6. When conversation is scene-relevant, compile relationship-specific floor continuity: ongoing activity, social initiative, interruption/resumption behavior and plausible topic drift. Do not turn this into dialogue-length targets or scripted turns.
+7. Compile a spoiler-safe kinship/address/register map for scene-relevant people: factual relation, gender/generation/status where material, and established forms of address/reference if actually known. Preserve unknowns instead of inventing local-speech flavor.
 
 A packet that is safe but mostly permissions, exclusions and generic process labels is NOT READY.
 
@@ -139,5 +141,7 @@ Before READY, verify:
 11. Every consequential character action has a sufficient in-world motive independent of clue delivery or later payoff.
 12. Reader-detective architecture is kept out of generative context except for irreducible hard story boundaries.
 13. Scene ecology describes processes/pressures rather than optional beats or clue-trigger actions.
+14. Character context gives enough floor-continuity substrate for important conversations without scripting dialogue or imposing line-length quotas.
+15. Kinship, gender/generation/status and established address/reference forms are preserved where they constrain wording; unknown register is not filled from generic cultural or rural-speech priors.
 
 If any check fails, fix it or stop at the correct unresolved gate.

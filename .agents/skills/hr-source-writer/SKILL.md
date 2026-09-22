@@ -35,9 +35,11 @@ Speech is nested inside the larger narrative movement. Compose the **social move
 
 One person may sustain the floor across several sentences while working, remembering, complaining, instructing, correcting themselves or changing subject. The listener may offer a continuer, answer only part, respond through action, interrupt late, let something pass or return after another topic.
 
-Uneven turn length follows relationship and pressure. Short shorthand, silence and abrupt replies remain available, but a new spoken turn does not by itself end the narrative movement.
+Uneven turn length follows relationship and pressure. Short shorthand, silence and abrupt replies remain available, but a new spoken turn does not by itself end the narrative movement. Do not pursue "long dialogue" as a metric; preserve the current floor until social initiative genuinely changes, allowing speech to continue through work, narration, acknowledgments and interruptions.
 
 Let one stretch of talk serve several purposes. Let narration remain embedded through viewpoint attention, indirect speech, ongoing work and topic drift. Plot information can leave social residue without triggering an immediate question-and-answer ladder.
+
+Honor the packet's kinship/address/register map. Preserve actual relation direction, gender/generation/status and established forms of reference; do not invent generic local-speech markers when the packet leaves the exact register open.
 
 ## Horror
 

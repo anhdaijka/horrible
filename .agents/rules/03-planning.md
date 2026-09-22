@@ -81,8 +81,10 @@ Before READY, treat the Writer packet as a compiler output, not a condensed Pref
 - **Constraint budget:** keep prohibitions and audit language to the minimum needed to protect a hard boundary. Do not copy Failure Memory signatures, regression wording or the same warning across all three generative files.
 - **Ordering:** lead Writer-facing files with situation, people and material reality. Put minimum locks/reveal edges later so the packet does not read primarily as a compliance checklist.
 - **Bootstrap without accepted prose:** if there is no accepted preceding prose or safe lived-context excerpt, do not fabricate a style exemplar. Compensate with stronger concrete human/material context and rely on the canonical positive composition prior in the Writer role.
+- **Conversational floor substrate:** when dialogue is likely to matter, `character-context.md` must project the relationship-specific conditions that can sustain a floor across work, interruption, topic drift and delayed response. Identify who can keep social initiative, what ongoing activity can carry speech, and how a topic may survive an interruption. Do not prescribe line-length quotas, sample dialogue or alternating turns.
+- **Kinship/address/register integrity:** for scene-relevant people who may address or refer to one another, compile the factual relationship, gender/generation/status information that materially constrains reference, and any established address/reference forms. Unknown forms stay open. Never fill a gap with generic Vietnamese rural-speech markers, kinship labels, diminutives or classifiers merely to create local color.
 
-READY fails if the three generative files are technically safe but still force the Writer to invent the lived world, relationship texture or POV attention from generic model priors.
+READY fails if the three generative files are technically safe but still force the Writer to invent the lived world, relationship texture, conversational floor behavior, address/register constraints or POV attention from generic model priors.
 
 ## Readiness
 

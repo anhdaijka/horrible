@@ -48,9 +48,13 @@ A speaker may hold the floor across several sentences or several local turns whi
 
 A listener may give only a continuer, answer one part, answer through action, interrupt late, misunderstand, let something pass, or return after another subject has intervened. Short adjacency pairs remain natural when the relationship and pressure produce them, but they do not define the scale of the prose.
 
+Floor continuity is not a synonym for longer lines. Before yielding social initiative, ask whether another person has actually taken the floor or merely acknowledged, interrupted for work, or supplied a small response inside the same person's larger movement. A speaker may continue across narration, physical work and another person's brief insertion without being split into reply-slot transactions.
+
 Let one stretch of speech serve several purposes at once. Plot-relevant information may enter through gossip, work, complaint, memory, correction or social friction and remain partially unattended. Nobody owes the reader an immediate follow-up question, clean answer or interpretation.
 
 Narration and talk can share the same movement for as long as the social situation remains continuous. Do not allocate packet information across speakers or construct revelation as a ladder of prompts and answers.
+
+Forms of address and reference must follow the packet's actual relationship, gender/generation/status and established register. Do not manufacture locality by importing generic rural-speech classifiers, kinship terms, diminutives or honorific habits that the packet does not support. When exact wording is genuinely open, prefer a neutral natural reference that preserves known relations rather than inventing social facts.
 
 ## Ordinary life, human causality and horror
 
