@@ -22,29 +22,33 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 — B4 HUMAN-CAUSALITY PACKET ACTIVE**
+**CH-01-v6 — B4 OPENING ENGINE LOCKED / READY FOR FRESH-CONTEXT TRIAL**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
-- Existing complete candidate remains `CH-01-v6-C3`, bound to frozen B2; it is not re-based.
-- B3 shop-opening scene trial remains a non-candidate diagnostic artifact and is bound to frozen B3.
+- Existing complete candidate remains `CH-01-v6-C3`, bound to frozen B2.
+- B3 shop-opening trial remains a non-candidate diagnostic bound to frozen B3.
 - Active Writer packet: `CH-01-v6-B4`.
-- B4 retains B3 prose/conversation conditioning and adds:
-  - anti-investigator human-motive firewall;
-  - clue-exposure removal from generative context;
-  - process-only/de-beaten scene ecology;
-  - reader-detective dependencies moved to QA;
-  - FM-011 / FM-012 / FM-013 diagnostics.
-- Story design, canon, chronology, reveal architecture, relationships, supernatural ontology and durable state are unchanged.
-- ChatGPT Project Instructions mirror: `docs/chatgpt-project-instructions.md` (B4, <8000 chars).
-- Audit receipt: `workflow-audit-B4-human-causality.md`.
-- No prose has been generated from B4 yet.
+- B4 execution engine E1 is locked internally:
+  - routine shop life;
+  - ordinary death-news interruption;
+  - routine resumes;
+  - ordinary order handling reaches Cường's order;
+  - practical shop/custody problem;
+  - independent Chợ Bến errand;
+  - incidental public collision.
+- Engine counterfactual audit: PASS.
+- Rejected routes are internal only and do not enter Writer context.
+- `preflight.md` and `discovery-slate.md` are reconciled to E1.
+- Fresh-context prompt: `scene-trial-B4-fresh-context-prompt.md`.
+- No B4 prose has been generated yet.
 
-Next action: test a newly reasoned CH-01 opening engine from B4. Do not reuse the B3 scene-trial mechanics as a template; judge the engine first for ordinary motive/causality before scaling to a chapter.
+Next action: in a NEW Project chat, generate the bounded B4 shop-to-market-transition trial from only `writing-brief.md`, `scene-ecology.md`, and `character-context.md`. Do not load preflight/discovery/QA/Failure Memory or old prose first.
 
 ## Open design / verification gates
 
-- No new AUTHOR-DESIGN choice was introduced by B4.
-- C3 has no literary/safety PASS and remains B2.
-- B3 trial is diagnostic only.
-- Any complete B4 rewrite requires a new candidate identity and fresh reviews.
+- No new AUTHOR-DESIGN choice is open.
+- Current chat is contaminated for a strict Writer trial because it has read internal preflight/discovery material.
+- C3 remains unreviewed B2 prose.
+- B3 trial remains diagnostic only.
+- Any complete B4 rewrite still requires a new candidate identity and fresh reviews.
 - Canonization remains blocked.
