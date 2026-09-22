@@ -13,8 +13,18 @@ Concrete things that can happen because of the place, work and people: interrupt
 
 Keep them optional. Do not encode the approved plot as a disguised numbered sequence.
 
+## Narrative flow affordances
+Project how this environment can support storytelling beyond shot-by-shot action:
+- processes that may continue across several sentences/paragraphs;
+- stretches that may be summarized rather than fully dramatized;
+- ordinary activity that can carry conversation without requiring an action beat after every line;
+- memories, associations or contextual explanation naturally available to the active POV;
+- background social/material motion that can remain continuous while the foreground shifts.
+
+These are permissions, not a required prose style.
+
 ## Horror field
-State the material conditions through which the approved supernatural pressure can become present. If the concrete manifestation is already author-approved, describe its physical boundary without prescribing exact staging, reaction, shot grammar or named craft technique.
+State the material conditions through which approved supernatural pressure can become present. If a concrete manifestation is author-approved, describe its physical boundary without prescribing exact staging, reaction, shot grammar or named craft technique.
 
 ## Reader-detective affordances
 What may be noticed in this ecology. Do not duplicate every hard clue from the writing brief and do not prescribe a dialogue route for exposing evidence.
