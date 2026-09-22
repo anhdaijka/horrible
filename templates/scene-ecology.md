@@ -1,27 +1,23 @@
 # Scene ecology — <chapter>
 
-Writer-facing affordance field. This is not a beat sheet, required subplot list or promise that every possibility will appear.
+> Writer-facing affordance field. This is not a beat sheet and must not restate the writing brief's story obligations in different words.
 
 ## Life already in motion
-
-The ordinary work, household activity, errand, relationship pressure, material process or social traffic underway before the chapter's disturbance takes over attention.
+Ordinary work, household activity, errands, relationship pressure, material processes and social traffic underway before the disturbance takes over attention.
 
 ## Independent wants and pressures
+What present people may want, avoid, protect or finish for reasons not created solely by the main plot. These are possibilities, not required mini-arcs.
 
-What present people may want, avoid, protect or finish for reasons not created by the main plot. Include contradictions and practical costs; do not prescribe dialogue, emotion or hidden agendas.
+## Material / social affordances
+Concrete things that can happen because of the place, work and people: interruptions, overlaps, mistakes, minor encounters, physical processes, waiting, carrying, selling, repairing, eating, traveling, gossiping, avoiding, helping.
 
-## Available collisions
+Keep them optional. Do not encode the approved plot as a disguised numbered sequence.
 
-Plausible interruptions, overlaps, mistakes, minor encounters or local complications the writer may select, combine, transform or omit. Some may end inside the chapter and never become clues or subplots.
-
-## Horror intrusion
-
-Ways the ghostly disturbance may invade, contaminate or reframe the ordinary field. Preserve the chapter's horror promise without forcing a particular scare, physiological reaction or supernatural mechanism.
+## Horror field
+State the material conditions through which the approved supernatural pressure can become present. If the concrete manifestation is already author-approved, describe its physical boundary without prescribing exact staging, reaction, shot grammar or named craft technique.
 
 ## Reader-detective affordances
-
-Observable facts, object behavior, testimony gaps or cross-POV asymmetries that can remain fair to the reader. State what is available to notice, not the correct deduction or mandatory staging. Atmosphere and human detail may remain non-clues.
+What may be noticed in this ecology. Do not duplicate every hard clue from the writing brief and do not prescribe a dialogue route for exposing evidence.
 
 ## Local invention license
-
-Transient customers, errands, work problems, local misunderstandings, temporary moods and chapter-local events may be invented when consistent with the people and place. Record after drafting only what creates a cross-scene promise, established history, custody/state change, future meeting or other durable obligation.
+Transient customers, errands, work problems, misunderstandings, temporary moods and chapter-local events may be invented when consistent with the people/place. Record only what later creates a durable obligation.
