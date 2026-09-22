@@ -45,13 +45,14 @@ Do not move into prose until the chapter has enough information to support its m
 - materially different scene engines before convergence
 - life already moving beyond the case
 - specific ghost-horror pressure
-- reader-visible evidence and epistemic advantage
+- reader-visible evidence and epistemic advantage (kept primarily in Preflight/QA, not exported as a Writer clue checklist)
 - purpose
 - POV
 - starting state
 - ending state
 - scene order
 - causal progression
+- human-causality counterfactual: if downstream mystery payoff vanished, would the consequential action still make sense?
 - consequence-bearing perception → inference → choice → consequence
 - dependencies whose causes are presented in a later chapter
 - character movement
@@ -81,7 +82,7 @@ npm run story:report
 
 ## Drafting
 
-Give the writer minimum sufficient, spoiler-safe truth plus a rich optional scene ecology. Prefer structured current state over old prose. The writer may invent transient and chapter-local life, select or transform ecology possibilities, and stage fair clues without explaining them; it cannot silently change durable outcome/reveal truth. Store prose identity in locator-only `candidate.md`; store self-edit evidence and consequence-bearing deltas in `writer-handoff.md` so they do not contaminate blind review.
+Give the writer minimum sufficient, spoiler-safe truth plus a process-level scene ecology. Prefer structured current state over old prose. Do not export reader-detective clue checklists or optional clue-trigger beats into generative context. The writer may invent transient and chapter-local life; information should surface through actions that have sufficient in-world causes, while the reader may notice patterns the characters do not pursue. The writer cannot silently change durable outcome/reveal truth. Store prose identity in locator-only `candidate.md`; store self-edit evidence and consequence-bearing deltas in `writer-handoff.md` so they do not contaminate blind review.
 
 ## Review
 
