@@ -4,10 +4,10 @@ Approval basis:
 Character context: character-context.md
 Scene ecology: scene-ecology.md
 
-> This file is a bounded generative context, not a scene outline, dialogue plan, prose-length target or QA checklist. Packet brevity must never imply manuscript brevity.
+> This file is a bounded generative context, not a scene outline, clue checklist, dialogue plan, prose-length target or QA checklist. Packet brevity must never imply manuscript brevity.
 
 ## Core disturbance and reader experience
-State the chapter's central disturbance and the reader experience/question that should remain. Keep the packet selective, but do not instruct the prose to be terse or compressed.
+State the chapter's central disturbance and broad reader experience/question. Do not enumerate clue-delivery tasks.
 
 ## Hard story boundary
 List only the minimum facts that must remain true for approved purpose, chronology, reveal edge and durable end state.
@@ -16,14 +16,20 @@ Prefer end-state/boundary language over route language.
 
 Bad:
 - A tells B X, B reacts Y, then C asks Z.
+- reader must receive clues A/B/C through named interactions.
 
 Better:
-- By chapter end, the reader can observe that B recognizes X while A does not know why.
+- By chapter end, B has encountered X without learning Y.
+- Object O remains in custody C.
 
 Do not duplicate character knowledge already carried by character-context unless it is also a chapter-level reveal boundary.
 
-## Reader-detective field
-List only evidence that must remain fairly available. Do not prescribe who asks for it, who comments on it, exact dialogue, exact reaction or the reader's deduction.
+## Human-causality boundary
+State only any motive/role constraint needed to prevent false behavior.
+
+Characters must act from work, kinship, responsibility, convenience, embarrassment, grief, conflict, proportionate curiosity or another in-world cause—not because the mystery needs a fact surfaced.
+
+Do not prescribe exact motive beats unless the author locked them.
 
 ## Dramatic space
 State what remains open. The writer owns narrative distance, scene/summary balance, sentence and paragraph rhythm, dialogue tactics, silence, gesture, local activity, transient interactions and how information emerges inside the hard boundary.
@@ -34,9 +40,9 @@ Project only practical verified facts the writer truly needs. Keep verification 
 ## Execution freedom
 Local events, timing, narrative distance, dialogue length, explanatory context, interiority, indirectness, misunderstanding, humor, cooperation and chapter-local life are free unless explicitly locked by the author.
 
-A packet fact is never a required spoken line merely because it appears here.
+A packet fact is never a required spoken line, question, record check, visit or visible reaction merely because it appears here.
 
 Record after drafting any new promise, established prior event, custody change, future meeting, distinctive object fact or durable knowledge.
 
 ## Deliberately unanswered
-Questions the prose may leave implicit or the writer may decide locally. Do not hide an expected answer or QA test here.
+Questions the prose may leave implicit or the writer may decide locally. Do not hide an expected answer, clue route or QA test here.
