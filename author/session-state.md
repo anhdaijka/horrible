@@ -22,13 +22,20 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**BẮT ĐẦU DỰ ÁN MỚI:**
-- Dự án đã được reset, các chương nháp/canonized trước đó được chuyển vào archive (test workflow).
-- Các registries (nhân vật, đối tượng, canon) được giữ nguyên vì là các thông tin thế giới bất biến.
-- Đã sẵn sàng cho `/hr-preflight CH-01`.
+**CH-01-v6 PREFLIGHT — AWAITING_AUTHOR**
 
-Workflow hiện có Creativity Firewall và Discovery-Led Preflight: upstream craft skills chỉ chạy khi được gọi đích danh; discovery phân kỳ tách khỏi generative context; generative context tách khỏi QA; scene ecology mở đời sống/kinh dị/manh mối mà không thành beat sheet.
+- Active workspace: `revisions/chapter-work/CH-01-v6/`.
+- Divergent discovery complete: `discovery-slate.md`.
+- Mandatory Q1–Q8 Author Steering opened: `design-discussion.md`.
+- Current author instruction explicitly permits archived workflow-test Chapters 1–2 as creative reference for this CH-01 discovery pass; archive remains non-canon.
+- No `preflight.md`, Writer packet, or prose has been created.
+
+Next action: author responds to Q1–Q8. Then classify consequential answers, run canon-impact audit, reconcile only unresolved collateral conflicts, synchronize durable authority changes, and only then test readiness / generate Writer packet.
 
 ## Open design / verification gates
 
-- Chưa có.
+- Q1–Q8 Author Steering: AWAITING_AUTHOR.
+- Q2: resolve Lan Anh direct-shop staging versus newer D-005 public Chợ Bến refusal; provisional recommendation = market encounter replaces the old direct-shop encounter.
+- Q5: choose CH-01 horror intensity / archive-derived manifestation policy for this chapter.
+- Q7: confirm paper-radio custody after public refusal.
+- Q8: confirm household coda pressure and whether Toàn's gag-order beat appears in CH-01.
