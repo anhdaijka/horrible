@@ -6,7 +6,7 @@ Bà Lan ngồi sau quầy, hai đầu gối kẹp một thùng giấy, tay giậ
 
 — Dậy rồi thì buộc hộ mẹ hai bó kia. Đừng đứng chắn cửa.
 
-Khanh vừa ngáp vừa cúi nhấc xấp hàng mẹ chỉ. Anh mới về nhà được hơn tuần, vẫn chưa quen việc buổi sáng ở đây bắt đầu trước cả lúc anh thấy mình tỉnh hẳn. Ở Tokyo, anh từng có thể ngồi đến một giờ đêm nhìn log chạy trên màn hình rồi sáng hôm sau mua cà phê ở ga. Về nhà, sáu rưỡi đã có người dựng xe ngoài cửa gọi mẹ anh từ ngoài đường.
+Khanh vừa ngáp vừa cúi nhấc xấp hàng mẹ chỉ. Anh mới về nhà chưa lâu, vẫn chưa quen việc buổi sáng ở đây bắt đầu trước lúc mình tỉnh hẳn. Có những đợt làm việc bên Nhật, anh ngồi nhìn log chạy đến khuya rồi sáng hôm sau lại chen tàu đi làm. Về nhà, sáu rưỡi đã có người dựng xe ngoài cửa gọi mẹ anh từ ngoài đường.
 
 Một bà khách đội nón bước vào mua hai thếp giấy và một gói hương. Bà Lan vẫn đang tính tiền thì ngoài cửa có tiếng phanh xe đạp ken két.
 
@@ -28,7 +28,7 @@ Bà khách đang đếm tiền cũng ngẩng mặt.
 
 — Cường nhà ông Cổn chứ còn Cường nào.
 
-Người đàn ông xuống xe hẳn. Ông ta có vẻ chỉ định báo một câu rồi đi, nhưng khi thấy hai người đang nhìn mình, ông kéo chiếc khăn trên vai lau cổ, hạ giọng.
+Người đàn ông xuống xe hẳn. Ông ta kéo chiếc khăn trên vai lau cổ, hạ giọng.
 
 — Nghe bảo ngã ở chân cầu thang. Thằng Toàn về thấy đầu ông ấy ngoẹo sang một bên, nhìn cái cổ không còn ngay ngắn như người nằm ngủ nữa.
 
@@ -38,7 +38,7 @@ Bà khách xuýt một tiếng qua kẽ răng.
 
 — Tôi mà tận mắt thì giờ còn ngồi đây kể với bà chắc? Người xóm trong nói thế. Đêm qua xe cộ vào nhà ấy đến khuya.
 
-Ông ta nói xong lại chống chân lên bàn đạp.
+Ông ta chống chân lên bàn đạp.
 
 — Chợ trên kia biết hết rồi. Tôi đi lấy hàng, tiện qua mới bảo bà.
 
@@ -46,11 +46,9 @@ Chiếc xe cọc cạch đi tiếp. Bà khách còn đứng thêm một lúc, h�
 
 Bà Lan không nói gì.
 
-Khanh buộc nốt nút dây đang dở. Câu “cái cổ không còn ngay ngắn” mắc lại trong đầu anh không phải vì anh tin người vừa kể đã nói đúng. Người làng có thể biến một cái trượt chân thành ba phiên bản chỉ trong một buổi chợ. Nhưng ông Cường thì anh biết mặt. Một người đàn ông to tiếng, đi xe máy nhanh, gặp ai cũng nói chuyện như đứng cách nhau nửa cánh đồng.
+Khanh buộc nốt nút dây đang dở. Câu “cái cổ không còn ngay ngắn” mắc lại trong đầu anh. Người làng có thể biến một cái trượt chân thành ba phiên bản chỉ trong một buổi chợ, nhưng ông Cường thì Khanh biết mặt: nói to, hay đứng giữa đường gọi người quen từ xa, gặp ai cũng có chuyện để nói.
 
-Lần gần nhất Khanh thấy ông ta là trước khi anh đi Nhật. Trong trí nhớ ấy, cổ ông Cường ngắn và chắc, giọng nói từ đó đi ra lúc nào cũng như lớn hơn căn phòng.
-
-Bà Lan bỗng quay người nhìn lên kệ trong cùng.
+Bà Lan quay người nhìn lên kệ trong cùng.
 
 — Khanh.
 
@@ -60,9 +58,9 @@ Bà Lan bỗng quay người nhìn lên kệ trong cùng.
 
 — Sổ nào?
 
-— Sổ đơn. Trên ngăn kéo ấy.
+— Sổ đơn. Trong ngăn kéo ấy.
 
-Anh kéo ngăn bàn, lôi ra cuốn sổ bọc nilon đã cong mép. Bà Lan giằng lấy, lật nhanh mấy trang. Đầu ngón tay bà dừng ở một trang, lùi lại, rồi lật thêm một tờ.
+Anh kéo ngăn bàn, lôi ra cuốn sổ bọc nilon đã cong mép. Bà Lan cầm lấy, lật nhanh mấy trang. Đầu ngón tay bà dừng ở một trang, lùi lại rồi lật thêm một tờ.
 
 — Mùng mười.
 
@@ -70,17 +68,13 @@ Khanh dựa khuỷu tay lên quầy.
 
 — Mùng mười làm sao?
 
-Mẹ anh không trả lời ngay. Bà đọc một dòng, rồi ngẩng lên nhìn cái kệ tối phía sau lưng anh.
+Mẹ anh đọc một dòng, rồi ngẩng lên nhìn cái kệ tối phía sau lưng anh.
 
-— Mẹ có cái đơn đài.
-
-— Đài gì?
-
-— Đài giấy làm riêng. Người ta hẹn sáng nay lấy.
+— Có cái đài giấy làm riêng. Người ta hẹn sáng nay lấy.
 
 Bà đưa sổ sang.
 
-Trang giấy có ngày ghi ở đầu trang. Khanh đọc qua những dòng chữ chen nhau: tên người đặt, thứ hàng, tiền cọc, ngày lấy. Ở gần cuối trang là một đơn viết dài hơn bình thường.
+Trang giấy có ngày ghi ở đầu. Khanh đọc qua những dòng chữ chen nhau: tên người đặt, thứ hàng, tiền cọc, ngày lấy. Ở gần cuối trang là một đơn viết dài hơn bình thường.
 
 Vũ Văn Cường — xóm Trại.
 
@@ -88,11 +82,9 @@ Một chiếc đài cassette giấy.
 
 Hẹn mười bốn.
 
-Khanh đọc lại ngày đầu trang.
+Khanh nhìn lại ngày đầu trang.
 
 Mùng mười.
-
-Anh nhìn mẹ.
 
 — Trùng tên?
 
@@ -100,11 +92,9 @@ Bà Lan đã đứng dậy. Bà đi vào trong, kéo một chiếc hộp nhẹ t
 
 — Trùng gì mà cả họ tên lẫn xóm.
 
-Nắp hộp mở ra.
+Bà mở nắp hộp.
 
-Chiếc đài giấy nằm bên trong, dài hơn gang tay, khung nhẹ đến mức khi bà Lan nhấc lên, nó gần như không kéo cổ tay bà xuống. Mặt trước được làm thành những ô nhỏ mô phỏng loa, cửa băng và thang số. Một dải giấy bạc ôm quanh thanh ăng-ten. Các mép giấy dán không hoàn toàn phẳng; dưới ánh sáng xiên từ cửa vào có thể thấy những đường gấp thủ công rất mảnh.
-
-Không có gì trên món đồ cử động.
+Chiếc đài giấy nằm bên trong, dài hơn gang tay. Mặt trước được làm thành những ô nhỏ mô phỏng loa, cửa băng và thang số. Một dải giấy bạc ôm quanh thanh ăng-ten. Các mép giấy dán không hoàn toàn phẳng; dưới ánh sáng xiên từ cửa vào hiện lên những đường gấp thủ công rất mảnh.
 
 Khanh cầm cuốn sổ lại gần hơn.
 
@@ -126,23 +116,21 @@ Bà Lan nhíu mày.
 
 — Không biết.
 
-Một khách khác bước vào hỏi giá. Bà Lan gập sổ lại, bỏ chiếc đài vào hộp, quay sang cân nhắc chuyện bán hàng như thể vừa rồi chỉ là một việc còn dang dở.
+Một khách khác bước vào hỏi giá. Bà Lan gập sổ, bỏ chiếc đài vào hộp rồi quay sang bán hàng.
 
-Khanh đứng nép sang bên cho khách xem đồ.
+Khanh đứng nép sang bên.
 
-Trong lúc mẹ anh nói giá, anh mở lại sổ.
-
-Ngày mùng mười nằm ở đó. Không có chỗ nào cần suy luận nhiều. Những đơn phía trên và phía dưới cũng cùng một ngày. Chữ “mười bốn” nằm ở cột hẹn lấy, không thể lẫn với ngày ghi đơn.
+Trong lúc mẹ anh nói giá, anh mở lại sổ. Những đơn phía trên và phía dưới đều nằm dưới cùng ngày mùng mười. Chữ “mười bốn” nằm ở cột hẹn lấy.
 
 Ông Cường chết đêm mười ba.
 
-Ba ngày trước đó, có người tới tiệm nhà anh đặt một món đồ mã ghi đúng tên ông.
+Trước đó ba ngày, có người tới tiệm nhà anh đặt một món đồ mã ghi đúng tên ông.
 
 Khanh đóng sổ.
 
-Một phần trong anh lập tức tìm những đường thoát quen thuộc: ai đó ghét ông Cường; một trò dọa; một người biết ông sắp gặp chuyện; một người trùng tên; mẹ anh nhớ sai người nhận.
+Có thể là một trò dọa. Có thể ai đó biết ông Cường sắp gặp chuyện. Có thể còn một cách giải thích rất thường mà anh chưa nghĩ tới.
 
-Nhưng cuốn sổ vẫn nằm dưới bàn tay anh, lạnh và cứng như một thứ không chịu đổi theo những khả năng ấy.
+Cuốn sổ không giải thích gì. Nó chỉ giữ nguyên ngày mùng mười.
 
 Bà Lan tiễn khách ra cửa rồi quay vào.
 
@@ -156,7 +144,7 @@ Bà Lan tiễn khách ra cửa rồi quay vào.
 
 — Gọi cái gì. Có mấy bước.
 
-Bà đóng hộp chiếc đài, lấy dây nilon buộc quanh. Rồi bà nhìn Khanh.
+Bà đóng hộp chiếc đài, lấy dây nilon buộc quanh rồi nhìn Khanh.
 
 — Đi với mẹ.
 
@@ -164,25 +152,21 @@ Bà đóng hộp chiếc đài, lấy dây nilon buộc quanh. Rồi bà nhìn K
 
 — Chứ mẹ ôm cái này, xách đồ, lại còn xe cộ thì ai giữ?
 
-Khanh nhìn chiếc hộp.
-
-Anh định nói đây là chuyện nhà người khác. Nhưng mẹ anh đã đưa sổ vào ngăn kéo, khóa lại, rồi đặt chìa khóa vào túi áo.
+Khanh nhìn chiếc hộp. Anh định nói đây là chuyện nhà người khác, nhưng mẹ anh đã đưa sổ vào ngăn kéo, khóa lại.
 
 — Đi thì đi.
 
 *
 
-Chợ Bến buổi sáng không có chỗ cho một câu chuyện đứng yên.
+Khanh nghe thêm hai phiên bản về cái chết của ông Cường trước khi tìm thấy Lan Anh ở Chợ Bến.
 
-Người bán rau kéo bạt tránh nắng. Xe máy chen nhau qua khoảng hẹp trước dãy hàng khô. Một chiếc xe ba gác lùi vào, tiếng máy nổ giật từng nhịp. Có người đang mặc cả cá, người khác gọi nhau qua ba hàng quầy, và giữa tất cả những thứ ấy, tin ông Cường chết chạy nhanh hơn bất cứ ai.
-
-Khanh nghe hai phiên bản trước khi tìm thấy Lan Anh.
-
-Một người nói ông Cường trượt chân.
+Một người nói ông trượt chân.
 
 Người khác nói lúc người nhà phát hiện, ông nằm ngửa ngay dưới cầu thang.
 
 Không ai nhắc lại cái cổ như người đàn ông ở tiệm.
+
+Chợ đang đông. Người bán rau kéo bạt tránh nắng. Xe máy chen qua khoảng hẹp trước dãy hàng khô. Một chiếc xe ba gác lùi vào, tiếng máy giật từng nhịp. Hai người mặc cả cá ngay cạnh chỗ một phụ nữ khác gọi với sang quầy bên hỏi chuyện nhà ông Cổn.
 
 Lan Anh đứng trước một quầy gần ngã tư, một tay giữ hai túi hàng, tay kia đang lấy tiền. Khanh suýt không nhận ra vì cô cúi mặt, tóc búi vội, quầng mắt thẫm sau một đêm không ngủ.
 
@@ -202,17 +186,15 @@ Cô quay lại.
 
 Mẹ Khanh đặt chiếc hộp lên mặt quầy trống bên cạnh.
 
-Không ai trong chợ lập tức im lặng. Chuyện ấy không xảy ra. Một người bán hàng vẫn đang cân đỗ. Hai phụ nữ phía sau vẫn tranh nhau mấy nghìn bạc. Nhưng khi bà Lan tháo nút dây, những người đứng gần tự nhiên nhìn sang.
+Một người bán hàng vẫn đang cân đỗ. Hai phụ nữ phía sau vẫn tranh nhau mấy nghìn bạc. Nhưng khi bà Lan tháo nút dây, mấy người đứng gần đều nhìn sang.
 
 Bà lấy chiếc đài giấy ra.
 
-Lan Anh nhìn nó, rồi nhìn bà Lan.
+Lan Anh nhíu mày.
 
 — Cái gì đấy bác?
 
 — Đơn nhà bác. Người ta đặt từ hôm mùng mười, hẹn sáng nay lấy.
-
-Lan Anh không hiểu.
 
 — Vâng?
 
@@ -222,13 +204,11 @@ Bàn tay đang giữ túi của cô hạ xuống một chút.
 
 — Bố cháu?
 
-Bà Lan quay mặt chiếc đài về phía cô. Miếng giấy nhỏ buộc ở quai hộp có dòng tên người nhận.
-
-Lan Anh đọc.
+Bà Lan quay mặt chiếc hộp về phía cô. Miếng giấy nhỏ buộc ở quai có dòng tên người nhận.
 
 Vũ Văn Cường — xóm Trại.
 
-Cô không nói gì trong mấy giây.
+Lan Anh im mấy giây.
 
 Người bán hàng cạnh đó nghiêng người, nhìn theo.
 
@@ -246,27 +226,19 @@ Lan Anh ngẩng lên.
 
 — Không thể nào.
 
-Câu trả lời bật ra rất nhanh.
-
-Khanh nhìn thấy cô tính ngày trong đầu. Không cần ai nhắc. Mùng mười ông Cường còn sống. Đêm qua mới chết.
+Mắt cô dừng trên miếng giấy, rồi chuyển sang chiếc đài.
 
 — Nhà cháu không đặt cái này.
 
 — Bác biết nhà cháu không đặt nên bác mới mang ra hỏi. Người đặt có ghi tên.
 
-Lan Anh nhìn chiếc đài như thể nếu nhìn lâu hơn nó sẽ tự nói rõ chuyện gì đã xảy ra.
-
 — Ai ạ?
 
-Bà Lan đáp bằng giọng bình thường:
+Bà Lan đáp:
 
 — Vũ Thị Thoa.
 
-Lan Anh ngẩng phắt lên.
-
-Không phải vẻ nhận ra.
-
-Đó là vẻ của một người vừa nghe thêm một cái tên lạ trong lúc đầu óc đã đầy quá nhiều việc.
+Lan Anh hỏi lại ngay:
 
 — Ai cơ?
 
@@ -274,11 +246,9 @@ Không phải vẻ nhận ra.
 
 — Cháu không biết.
 
-Phía sau họ, tiếng nói chuyện nhỏ đi đôi chút. Người bán hàng vừa hỏi chuyện Cường đang nhìn chiếc đài. Một bà đứng mua trầu quay hẳn người lại.
+Phía sau họ, tiếng nói chuyện nhỏ đi đôi chút. Người bán hàng vừa hỏi chuyện Cường vẫn nhìn chiếc đài. Một bà đứng mua trầu quay hẳn người lại.
 
-Lan Anh nhận ra những ánh mắt ấy.
-
-Cô siết hai túi vào sát người.
+Lan Anh liếc quanh, kéo hai túi sát vào người.
 
 — Bác cầm về giúp cháu. Nhà cháu không nhận đâu.
 
@@ -290,9 +260,7 @@ Cô siết hai túi vào sát người.
 
 — Không, bác ạ.
 
-Giọng Lan Anh không lớn, nhưng đủ cắt ngang.
-
-Cô nhìn quanh, như vừa lúc ấy mới thấy câu chuyện đã có người nghe.
+Giọng Lan Anh không lớn nhưng dứt.
 
 — Bố cháu mới mất đêm qua. Hôm mùng mười ông vẫn còn đi lại bình thường. Nhà cháu không ai đi đặt thứ này trước cho ông cả. Bác cầm về giúp cháu.
 
@@ -308,17 +276,9 @@ Lan Anh quay sang.
 
 — Tôi bảo tôi không biết.
 
-Cô trả tiền vội cho người bán, không chờ xếp gọn tiền thừa, nhét cả vào túi rồi cầm hàng lên.
+Cô trả tiền cho người bán, nhét vội tiền thừa vào túi rồi cầm hàng lên.
 
-Trước khi đi, cô nhìn chiếc đài thêm một lần.
-
-Không phải nhìn như nhận ra một kỷ vật.
-
-Khanh thấy rõ điều đó.
-
-Cô nhìn nó như nhìn một thứ đáng lẽ không nên có mặt trong buổi sáng này.
-
-Lan Anh đi nhanh qua đám xe.
+Trước khi đi, cô nhìn chiếc đài thêm một lần rồi bước nhanh qua đám xe.
 
 Một bà phía sau hỏi ngay:
 
@@ -340,43 +300,31 @@ Người khác chen vào:
 
 — Thì tôi bảo có khi.
 
-Câu chuyện bắt đầu tách khỏi họ ngay khi họ còn đứng đó.
-
 Khanh cầm chiếc hộp lên.
 
-Anh hiểu rất rõ một điều đơn giản: đến chiều, sẽ có người kể rằng Lan Anh vừa nhận đồ mã đặt trước cho bố chồng. Đến tối, chưa chắc cái hộp còn là chiếc đài giấy nữa.
+Đến chiều, rất có thể người ta sẽ kể rằng Lan Anh vừa nhận đồ mã đặt trước cho bố chồng. Đến tối, chưa chắc món đồ trong câu chuyện còn là chiếc đài giấy.
 
-Nhưng ngày mùng mười trong sổ nhà anh thì vẫn là ngày mùng mười.
+Ngày mùng mười trong sổ nhà anh thì vẫn là ngày mùng mười.
 
 — Về thôi mẹ.
 
-Bà Lan gật đầu.
-
 *
 
-Ở nhà, Khanh đặt chiếc hộp trở lại kệ trong.
+Khanh đặt chiếc hộp trở lại kệ trong.
 
-Bà Lan kéo cuốn sổ ra, kiểm tra một lần nữa rồi cất vào ngăn kéo.
+Bà Lan kéo cuốn sổ ra, kiểm tra một lần nữa rồi cất vào ngăn kéo. Khách mới tới, bà quay ra hỏi người ta lấy gì.
 
-Không ai nói tới chuyện đốt chiếc đài hay mang nó đi đâu khác.
-
-Một lúc sau có khách đến mua hàng. Bà Lan quay ra bán. Khanh buộc tiếp bó đồ lúc sáng còn bỏ dở.
-
-Cuộn dây nhựa cọ vào ngón tay anh.
-
-Ngoài đường, tiếng người gọi nhau vọng qua cửa.
-
-Ở đâu đó bên Chợ Bến, câu chuyện chắc đã chạy sang một quầy khác.
+Khanh ngồi xuống buộc tiếp bó hàng lúc sáng còn bỏ dở.
 
 *
 
 Lan Anh về tới nhà gần trưa.
 
-Căn nhà đông người nhưng không có cảm giác đông. Ai cũng đang làm một việc riêng: người kê lại bàn, người mang ấm nước, người đứng ngoài sân gọi điện, người đi qua hành lang rồi quay lại vì quên thứ gì đó.
+Người ra vào liên tục. Một người kê lại bàn. Một người mang ấm nước từ bếp ra. Ngoài sân có người vừa gọi điện vừa đi qua đi lại. Trong hành lang, mấy chiếc ghế nhựa được dồn sát tường để chừa lối.
 
-Toàn đứng gần cửa buồng dưới, nói với một người họ hàng về chỗ để mấy chiếc ghế nhựa.
+Toàn đứng gần cửa buồng dưới, nói với một người họ hàng về chỗ để ghế.
 
-Lan Anh chờ người kia đi rồi mới lại gần.
+Lan Anh chờ người kia đi rồi lại gần.
 
 — Anh.
 
@@ -392,13 +340,11 @@ Lan Anh không đi.
 
 — Sáng nay bác Lan tìm em ở chợ.
 
-Toàn nhíu mày.
-
 — Bác nào?
 
 — Bác Lan bán hàng mã.
 
-Tên cửa tiệm khiến ánh mắt Toàn dừng lại.
+Toàn ngừng kéo chiếc ghế đang cầm.
 
 Lan Anh hạ giọng.
 
@@ -412,15 +358,13 @@ Toàn không đáp.
 
 Ngoài sân, có người gọi nhau bê thêm bàn vào.
 
-Lan Anh nói tiếp:
+Lan Anh nói:
 
 — Người đặt tên Vũ Thị Thoa.
 
-Bàn tay Toàn đang đặt trên lưng ghế siết lại.
+Bàn tay Toàn trên lưng ghế siết lại.
 
-Rất nhẹ.
-
-Nhưng Lan Anh nhìn thấy.
+Lan Anh nhìn xuống tay anh.
 
 — Ai nói với cô cái tên ấy?
 
@@ -428,13 +372,9 @@ Nhưng Lan Anh nhìn thấy.
 
 — Cô nói cái tên ấy với ai rồi?
 
-Lan Anh sững ra.
-
 — Em có nói gì đâu. Bác ấy nói ngay giữa chợ. Người ta đứng đấy nghe cả.
 
-Toàn bước sát lại.
-
-Giọng anh hạ xuống đến mức gần như không còn lọt ra ngoài khoảng giữa hai người.
+Toàn đặt chiếc ghế xuống, bước lại gần.
 
 — Từ giờ không nhắc lại.
 
@@ -446,17 +386,15 @@ Giọng anh hạ xuống đến mức gần như không còn lọt ra ngoài kho
 
 — Không nói với hàng xóm. Không nói với họ hàng. Ai hỏi thì bảo không biết. Càng không được tự dưng đem chuyện này đi nói với người ngoài.
 
-Lan Anh nhìn chồng.
-
-Cô định hỏi thêm, nhưng phía sau có tiếng gọi:
+Lan Anh mở miệng định nói tiếp thì phía sau có tiếng gọi:
 
 — Toàn, tránh ra cho bọn này kê cái bàn.
 
-Hai người đàn ông đang khiêng một chiếc bàn gấp từ gian trước vào. Toàn lùi sang bên. Lan Anh cũng nép sát tường.
+Hai người đàn ông đang khiêng một chiếc bàn gấp từ gian trước vào. Toàn lùi sang bên. Lan Anh nép sát tường.
 
-Chiếc bàn dài đi qua cửa, chân kim loại đã gập lên dưới mặt bàn. Người đi trước quay lưng, vừa lùi vừa nhìn qua vai để tránh cạnh tường.
+Chiếc bàn dài đi qua cửa, chân kim loại đã gập lên dưới mặt. Người đi trước quay lưng, vừa lùi vừa nhìn qua vai.
 
-Khi tới khoảng trống gần chân cầu thang, chiếc bàn dừng lại.
+Tới khoảng trống gần chân cầu thang, chiếc bàn dừng lại.
 
 — Nâng lên tí.
 
@@ -468,11 +406,7 @@ Bàn không đi.
 
 — Có vướng gì đâu.
 
-Người trước kéo sang trái.
-
-Mặt bàn dịch được một đoạn ngắn rồi khựng.
-
-Anh ta cau mặt, đổi góc sang phải. Mép bàn lại dừng giữa khoảng không, cách tường cả một gang tay.
+Người trước kéo sang trái. Mặt bàn dịch được một đoạn rồi khựng. Anh ta đổi góc sang phải. Mép bàn lại dừng giữa khoảng không, cách tường cả một gang tay.
 
 — Ông giữ à?
 
@@ -480,23 +414,19 @@ Anh ta cau mặt, đổi góc sang phải. Mép bàn lại dừng giữa khoản
 
 Người phía sau đẩy mạnh hơn.
 
-Chiếc bàn rung lên trong tay cả hai người, chân kim loại va lách cách dưới mặt gỗ ép. Nó không tiến thêm.
+Mặt bàn rung trong tay cả hai, chân kim loại va lách cách bên dưới. Nó không tiến thêm.
 
 Một người đứng gần đó bước tới.
 
 — Đưa đây xem.
 
-Anh ta nắm vào cạnh bàn cùng người phía trước. Ba người đổi thế, nhấc lên, hạ xuống, xoay chéo.
+Anh ta nắm cạnh bàn cùng người phía trước. Ba người đổi thế. Họ nâng cao một đầu; mép bàn đi được một chút rồi bật ngược. Hạ xuống thấp, cạnh dưới lọt qua nhưng phần mặt bàn lại bị giữ ở giữa lối. Xoay chéo sang trái, nó trượt thêm được gần nửa gang rồi khựng lần nữa.
 
 Khoảng giữa chân cầu thang và bức tường vẫn trống.
 
-Không có ghế.
+Không ghế. Không thùng. Không có cạnh cửa chìa ra.
 
-Không có thùng.
-
-Không có cạnh cửa nào chìa ra.
-
-Nhưng mỗi lần mặt bàn tiến vào đúng khoảng ấy, hai người cầm phía trước đều phải ghì tay lại như vừa đẩy nó chạm vào một vật mềm mà nặng.
+Người phía trước thử đẩy thêm. Hai cánh tay anh ta gồng lên, nhưng mặt bàn chỉ rung nhẹ, như đang tì vào một sức nặng không có hình.
 
 Người đàn ông lớn tuổi hơn buông tay.
 
@@ -506,22 +436,12 @@ Người đàn ông lớn tuổi hơn buông tay.
 
 — Tao bảo vòng thì vòng.
 
-Không ai cãi nữa.
-
 Họ lùi chiếc bàn ra, quay đầu về phía cửa bên.
 
-Lối đi trước chân cầu thang được bỏ trống.
+Một người đang bưng ấm nước tới gần khoảng trống ấy thì chậm lại. Anh ta nhìn chiếc bàn đang được khiêng vòng, rồi men sát tường đi qua.
 
-Một người khác đang bưng ấm nước đi tới đó, nhìn theo chiếc bàn rồi chậm chân. Anh ta không hỏi gì, chỉ đổi sang sát mép tường còn lại.
-
-Lan Anh vẫn đứng bên Toàn.
-
-Hai túi hàng trong tay cô đã kéo quai nhựa hằn đỏ lên các ngón.
-
-Toàn nhìn khoảng sàn trống trước chân cầu thang.
-
-Một lúc sau, anh nói:
+Toàn vẫn nhìn chỗ vừa bị bỏ trống.
 
 — Mang đồ vào trong đi.
 
-Lan Anh đi vòng theo lối người ta vừa chọn.
+Lan Anh cũng đi vòng.
