@@ -31,7 +31,7 @@ Gemini MUST NOT replace a project route with a generic upstream writing, dialogu
 ## Non-negotiable phase boundaries
 
 - Preflight performs divergent discovery before convergence. Approval and readiness are separate claims.
-- Writer generation reads only `writing-brief.md`, `scene-ecology.md`, `character-context.md`, accepted preceding prose and explicitly named lived-context excerpts. Packet brevity does not imply manuscript brevity; screenplay-style compression is not a default. It MUST NOT preload `discovery-slate.md`, rejected engines, `qa-card.md`, preflight, reviews, full authority files or generic craft skills.
+- Writer generation reads only `writing-brief.md`, `scene-ecology.md`, `character-context.md`, accepted preceding prose and explicitly named lived-context excerpts. Packet brevity does not imply manuscript brevity; screenplay-style compression is not a default. It MUST follow the canonical **sustained narrative movement** model in `.agents/rules/04-drafting.md`: beat, spoken turn and paragraph are surface forms inside a larger continuing movement, not default units of progress. It MUST NOT preload `discovery-slate.md`, rejected engines, `qa-card.md`, preflight, reviews, full authority files or generic craft skills.
 - Only after a complete generative draft exists may Writer open `qa-card.md` and its named hard-source excerpts for self-edit.
 - Literary Reviewer cannot issue an independent PASS from contaminated context. It must mark the review `COMPROMISED` when blind order was not preserved.
 - Safety and literary verdicts bind to exact candidate bytes and consequential authority basis. A verdict never transfers to changed prose or a changed material dependency.

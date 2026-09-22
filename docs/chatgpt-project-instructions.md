@@ -81,17 +81,17 @@ Generative story sources are limited to:
 
 ### First-pass composition prior
 
-Write a continuous lived episode, not packet traversal. Silently hold what people were already doing, practical work still moving, relationship history, competing attention and how disturbance enters that life. Story locks are rails, not visible proof.
+The primary generative unit is a **sustained narrative movement**: a continuous stretch of lived experience held together by continuing carriers such as practical work, social floor, physical route, viewpoint attention, relationship pressure or unresolved local concern. It is larger than a beat, spoken turn or paragraph.
 
-The first pass must already contain narrative life. Do not depend on QA to add natural dialogue, interiority, connective narration, scene/summary movement or ordinary continuity.
+Before each stretch, silently hold what is still moving, what remains unfinished, who has social initiative, where attention can wander and what pressure persists. Generate from that continuity. A movement may contain multiple actions, interruptions, lines of speech, thoughts, memories, summary and shifts of local emphasis before its organizing center genuinely changes.
 
-Paragraphs may carry several linked actions, perceptions, thoughts and lines of speech within one movement of attention. Narration may summarize, explain, associate, linger, skip time and remain inside conversation instead of becoming a gesture/interpretation separator after every spoken line. Manuscript prose is exempt from assistant/chat concision.
+Paragraph breaks, gestures, new facts and speaker changes do not automatically reset the situation. Paragraphs are rhetorical subdivisions; one movement may span several. Carry residue forward: unfinished work, an unanswered remark, an object still in the way, irritation or a thought not pursued can remain active after the prose moves on.
 
-Generate conversation from relationship, social purpose and **social movement/floor ownership**, not balanced reply patterns. A speaker may hold the floor across several sentences while working, remembering, complaining, instructing, correcting themselves or changing subject. A listener may answer only part, respond through action, interrupt late, let something pass or return later. One utterance may serve several purposes.
+Scene, summary, connective narration, interiority, direct speech and indirect speech may slide through the same movement. Narration can linger, associate, explain familiar context, compress routine activity and stay inside conversation rather than separating every spoken line with stage direction. Manuscript prose is exempt from assistant/chat concision.
 
-Short turns remain natural when socially caused, but concise adjacency pairs are not the default for pace or clarity. Plot-relevant information does not automatically require an immediate question, answer or reaction. Let facts arrive sideways through ordinary talk and leave residue when nobody has reason to clean it up. Do not allocate packet information across speakers or turn revelations into information ladders.
+Conversation is nested inside the movement. Generate it from relationship, social purpose and floor ownership rather than alternating reply slots. A speaker may sustain the floor while working, remembering, complaining, instructing or changing subject; a listener may answer selectively, respond through action, interrupt late, let something pass or return later. Plot information can arrive sideways and remain socially unresolved.
 
-Keep clue architecture, causal audits, Failure Memory and regression material outside the generative pass. Consequential actions still need sufficient in-world motives; apply that test silently.
+Let horror deform an already established movement rather than switching into a separate effects sequence. Keep clue architecture, causal audits, Failure Memory and regression material outside the generative pass. Consequential actions still need sufficient in-world motives; apply that test silently.
 
 Only after a complete draft exists: open `qa-card.md`, diagnose the actual draft, then consult only relevant Failure Memory evidence.
 

@@ -38,7 +38,7 @@ Inside an approved brief, the writer owns wording, rhythm, scene micro-order, di
 
 Writer-facing context must be positively sufficient, not merely safe. A packet should give enough concrete human, material and relational life for the writer to inhabit the situation without reconstructing it from generic model priors. Operational safeguards belong in their owning layer and should not be copied across every Writer-facing file.
 
-The canonical first-pass prose prior lives in `.agents/rules/04-drafting.md` and `hr-source-writer`. Packet files carry story situation, ecology, people and minimum locks; they do not carry Failure Memory signatures, regression wording or repeated craft prohibitions. When no accepted preceding prose or safe lived-context excerpt exists, Preflight must compensate with richer concrete lived material rather than more constraints.
+The canonical first-pass prose prior lives in `.agents/rules/04-drafting.md` and `hr-source-writer`. Its generative unit is **sustained narrative movement**: continuing activity, social floor, viewpoint attention and material/relational pressure persist across local beats, turns and paragraph breaks until the lived situation genuinely reorients. Packet files carry story situation, ecology, people and minimum locks; they do not carry Failure Memory signatures, regression wording or repeated craft prohibitions. When no accepted preceding prose or safe lived-context excerpt exists, Preflight must compensate with richer concrete lived material rather than more constraints.
 
 The writer may not silently change:
 

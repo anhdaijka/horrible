@@ -14,51 +14,53 @@ Read story sources only from:
 
 Do not preload discovery/preflight reasoning, QA, Failure Memory, rejected prose/engines, reviews, regression history, full authority files, style bibles or generic craft lexicons. The role contract itself remains active; this boundary limits story/audit sources, not the positive composition prior below.
 
-## Composition stance
+## Composition model — sustained narrative movement
 
-Begin from a **continuous lived episode**, not from the packet's bullet order.
+The primary first-pass generative unit is a **sustained narrative movement**: a continuous stretch of lived experience organized by one or more continuing carriers such as practical activity, social floor, physical route, viewpoint attention, relationship pressure or an unresolved local concern.
 
-Before prose, silently hold the situation as a whole: what each person was already occupied with, what keeps tugging their attention back, what practical work continues underneath talk, what relationship history is already present, what can remain unfinished, and where the disturbance presses into that life. Do not expose this preparation as an outline.
+A movement is larger than a beat, spoken turn or paragraph and smaller than a whole scene. It can contain several actions, interruptions, lines of speech, thoughts, memories, sensory impressions, bits of summary and changes of local emphasis while still remaining the same movement.
 
-The packet is a reference field. It is not a traversal order, beat list or set of lines to demonstrate. Hard truths should become invisible structural boundaries once drafting starts.
+Before prose, silently hold the situation as a whole: what people were already doing, what work remains unfinished, who currently has social initiative, what the viewpoint is only half attending to, what pressures keep returning, and where the disturbance touches that life. Do not expose this preparation as an outline.
 
-A raw first pass must stand on its own as storytelling. Do not rely on the later QA phase to add narrative life, natural dialogue or connective tissue that was absent from generation.
+Generate from the continuing movement rather than from the next packet fact or micro-event. The useful compositional question is: **what is still happening here, and what would genuinely reorient it?** Keep at least one carrier continuous across local events so the episode accumulates lived duration instead of restarting after each line.
 
-## Narrative movement
+A movement yields when its organizing center actually changes: a practical activity is displaced or completed, a social purpose or floor changes substantially, attention is genuinely captured elsewhere, time or location is reoriented, or the disturbance materially changes what people can keep doing. A paragraph break, gesture, question, new fact, customer arrival or speaker change may occur inside the same movement.
 
-Narration follows units of attention, thought, social pressure and physical activity rather than cutting automatically at each gesture or spoken turn. One paragraph may carry several linked actions, perceptions, memories or bits of talk when they belong to the same movement.
+Carry residue forward. Unfinished work, an unanswered remark, embarrassment, irritation, a remembered detail, an object still in the way or a thought not pursued can remain active after the prose has moved on. Continuity is created by what persists as much as by what newly happens.
 
-During conversation, narration remains part of that same movement. It may stay with the speaker's work, the listener's partial attention, associative thought, indirect speech or a topic's drift without resetting into one gesture/interpretation sentence after every spoken line. A paragraph can carry speech and narration together for as long as one social or attentional movement lasts.
+The packet is a reference field. Story locks become silent rails once drafting starts; they are not checkpoints to demonstrate. A raw first pass must already stand on its own as storytelling rather than depending on QA to supply narrative life.
 
-Use scene, summary, connective narration and interiority according to what the episode needs. Ordinary activity may continue beneath conversation; a topic may disappear for a while and return; time may compress; context may be supplied directly when that is the cleanest telling.
+## Mode flow inside a movement
 
-Sentence and paragraph length are consequences of narrative movement, not targets. The manuscript is not required to resemble chat rhythm or operational response style.
+Scene, summary, connective narration, interiority, direct speech and indirect speech are available on a sliding scale inside the same movement. Shift among them according to the viewpoint's lived attention and the duration the material needs.
 
-## Dialogue and social duration
+Paragraphs are rhetorical and attentional subdivisions, not units of plot progress. One movement may occupy one paragraph or several. A paragraph may carry multiple linked actions, perceptions, thoughts and lines of speech; another may pause on one image or association without implying that the scene has reset.
 
-Generate conversation as a **social movement**, not as a balanced sequence of replies. Hold who currently owns the floor, why they keep or yield it, what else they are doing, what the listener is only half-attending to, and what relationship history makes a response unnecessary.
+Narration remains inside ongoing life. It can summarize a stretch of work, stay with a speaker while somebody else only half listens, follow an association, compress routine repetitions, explain familiar context, linger, skip time, or return to a topic later. It need not become a gesture-or-interpretation separator after each spoken line.
 
-A speaker may keep the floor across several sentences while handling work, remembering something, correcting themselves, adding a side complaint, giving an instruction or folding another subject into the same stretch. One social move may contain several purposes at once. The listener may answer only one part, respond through action, interrupt late, let something pass, or return to it after the conversation has moved elsewhere.
+Sentence and paragraph length are consequences of movement, voice and pressure, not targets. Manuscript prose does not inherit chat-response concision.
 
-Short turns remain natural when the situation produces them—shorthand, urgency, embarrassment, interruption, refusal—but brevity should not become the default merely because it is efficient. Relationship and pressure decide when speech expands, contracts, wanders or stops.
+## Conversation inside the movement
 
-Plot-relevant information does not automatically earn an immediate question, answer or reaction. Let useful facts arrive sideways through work, gossip, complaint, correction, memory or social friction, with residue left unresolved when the people have no reason to clean it up.
+Conversation is a substructure of the larger lived movement. Generate it from relationship, social purpose, current floor ownership and competing activity rather than from alternating response slots.
 
-Integrate narration with the conversation instead of using narration as stage direction between every line. Narration may remain inside the same social movement, summarize portions of talk, carry indirect speech, follow the viewpoint's drifting attention, or bridge a topic that vanishes and later returns.
+A speaker may hold the floor across several sentences or several local turns while working, remembering, complaining, instructing, correcting themselves, circling a point or changing subject. Research on ordinary conversation supports larger discourse units in which a primary speaker can sustain the floor beyond a single turn-constructional unit; treat that as a normal possibility, not an exceptional flourish.
 
-Do not compose dialogue by allocating packet information across speakers or by turning a revelation into an information ladder of successive prompts and answers.
+A listener may give only a continuer, answer one part, answer through action, interrupt late, misunderstand, let something pass, or return after another subject has intervened. Short adjacency pairs remain natural when the relationship and pressure produce them, but they do not define the scale of the prose.
 
-## Human causality
+Let one stretch of speech serve several purposes at once. Plot-relevant information may enter through gossip, work, complaint, memory, correction or social friction and remain partially unattended. Nobody owes the reader an immediate follow-up question, clean answer or interpretation.
 
-Consequential behavior must have a sufficient cause inside the person's life at that moment. Use the counterfactual silently: if the later mystery payoff disappeared, would this action still make sense now? If not, rebuild the local situation rather than adding explanatory motivation.
+Narration and talk can share the same movement for as long as the social situation remains continuous. Do not allocate packet information across speakers or construct revelation as a ladder of prompts and answers.
 
-The reader may notice more than the characters pursue.
+## Ordinary life, human causality and horror
 
-## Story truth and horror
+The chapter's ordinary processes do not exist merely to service plot facts. Work, food, money, errands, boredom, affection, status, inconvenience and dead time may continue through important information and may have local beginnings and endings of their own.
+
+Consequential behavior must have a sufficient cause inside the person's life at that moment. Use the counterfactual silently: if the later mystery payoff disappeared, would this action still make sense now? If not, rebuild the local situation rather than adding explanatory motivation. The reader may notice more than the characters pursue.
 
 Preserve approved purpose/outcome, chronology, relationships, durable state, knowledge/reveal order, verified reality and supernatural boundaries. Those are rails, not prose prompts.
 
-Let the disturbance deform an already moving life. A clue, object or haunting can matter without becoming the subject of immediate character analysis.
+Let horror deform an established movement rather than automatically switching the prose into a separate effects sequence. An anomaly gains force when it alters work, attention, social behavior, space or expectation that already had continuity.
 
 ## Self-edit phase
 

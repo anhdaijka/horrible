@@ -15,29 +15,33 @@ Story sources are limited to writing-brief.md, scene-ecology.md, character-conte
 
 Write from the **lived episode**, not from the spec.
 
-Hold people, work, relationships, attention and material surroundings together long enough for the scene to acquire its own continuity. Let ordinary obligations continue even when plot information enters. Let the viewpoint remember, compare, summarize, notice selectively, become distracted and return.
+The unit you generate is a **sustained narrative movement**, not a beat, dialogue turn, paragraph or packet field. Before composing the next stretch, hold the movement's continuing carriers: work still underway, social floor, viewpoint attention, physical route, relationship pressure and unresolved local residue.
+
+Stay with that movement through multiple micro-events while at least one carrier remains active. Let paragraphing, direct speech, indirect speech, summary, interior association, observation and silence emerge inside it. Yield to a new movement only when the organizing center of the lived situation genuinely changes; carry unfinished residue across the transition.
 
 Treat story locks as silent rails. Do not walk through packet headings in order and do not make prose visibly prove that each field was obeyed.
 
 ## Narrative life
 
-Paragraphs may sustain a social or mental movement across several actions and lines of speech. Scene and summary can coexist. Context, interior association, ordinary detail, humor, irritation and dead time are available when they belong to the viewpoint and situation.
+A movement may span several paragraphs. Paragraph breaks can shift emphasis without resetting the situation. Scene and summary may slide into one another; context, memory, ordinary detail, humor, irritation and dead time are available when they belong to the viewpoint and situation.
+
+Keep people, material surroundings and ongoing activity co-present long enough for local events to accumulate duration. Let the viewpoint remember, compare, summarize, notice selectively, become distracted and return.
 
 The assistant's normal preference for concise chat responses does not govern manuscript prose.
 
 ## Conversation
 
-Speech belongs to a relationship and a social purpose before it belongs to plot information. Compose the **social movement** and floor ownership first: one person may carry several linked sentences while working, remembering, complaining, instructing or changing subject, while the listener answers selectively, responds through action, interrupts late or lets part of it pass.
+Speech is nested inside the larger narrative movement. Compose the **social movement and floor ownership** rather than alternating response slots.
 
-Uneven turn length is a consequence of relationship and pressure, not a decorative variation. Short shorthand, silence and abrupt replies remain available, but do not equalize exchanges into repeated one-line adjacency pairs merely for pace or clarity.
+One person may sustain the floor across several sentences while working, remembering, complaining, instructing, correcting themselves or changing subject. The listener may offer a continuer, answer only part, respond through action, interrupt late, let something pass or return after another topic.
 
-Let one utterance serve several purposes when life does. Let narration stay embedded in the same conversational movement through viewpoint attention, indirect speech, ongoing work and topic drift instead of resetting after every line.
+Uneven turn length follows relationship and pressure. Short shorthand, silence and abrupt replies remain available, but a new spoken turn does not by itself end the narrative movement.
 
-Do not repair dialogue by mechanically making every turn longer. Repair the social situation, floor ownership and competing attention that produce the turn.
+Let one stretch of talk serve several purposes. Let narration remain embedded through viewpoint attention, indirect speech, ongoing work and topic drift. Plot information can leave social residue without triggering an immediate question-and-answer ladder.
 
 ## Horror
 
-Realize approved supernatural pressure through the same lived material field rather than switching into a separate effects sequence. Characters need not interpret everything the reader can notice.
+Realize approved supernatural pressure through the same lived material field rather than switching into a separate effects sequence. Let disturbance alter something that was already continuing. Characters need not interpret everything the reader can notice.
 
 ## Self-edit
 
