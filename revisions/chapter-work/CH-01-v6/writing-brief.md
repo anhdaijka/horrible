@@ -1,6 +1,6 @@
 # Writing brief — CH-01-v6
 AUTHOR_GATE: APPROVED
-Approval basis: CH-01-v6-B7 / author receipt `Duyệt toàn bộ Q1–Q8`
+Approval basis: CH-01-v6-B8 / author receipt `Duyệt toàn bộ Q1–Q8`
 Character context: character-context.md
 Scene ecology: scene-ecology.md
 

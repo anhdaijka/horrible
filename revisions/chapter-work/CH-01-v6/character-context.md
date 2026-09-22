@@ -1,6 +1,6 @@
 # Character context — CH-01-v6
 
-> Writer-safe people context for B7. Present life generates behavior; knowledge remains a boundary rather than a required line.
+> Writer-safe people context for B8. Present life generates behavior; knowledge remains a boundary rather than a required line.
 
 ## POV life at entry — Khanh
 
@@ -34,6 +34,17 @@ They have local/trade familiarity, not investigator/witness roles. Lan Anh is C�
 
 Khanh knows them as village acquaintances. Toàn is older. No special intimacy is required in CH-01. Their later household pressure should not be converted into explanatory familiarity for Khanh.
 
+## Kinship / address / register map
+
+- **Khanh ↔ bà Lan:** fixed mother/son relationship; bà Lan is 55 and Khanh is 27. Their home/shop register is intimate and familiar. Exact sentence-level pronouns may vary naturally, but the relationship must not be recast through unrelated kinship or status language.
+- **Cường ↔ Toàn:** Cường is Toàn's father; Toàn is Cường's eldest son and is male. When either is identified through the other, preserve that direction and gender. Do not improvise a gendered classifier or family label that changes who Toàn is.
+- **Cường ↔ Lan Anh:** Cường is Lan Anh's father-in-law; Lan Anh is his daughter-in-law. No deeper family explanation is required in this chapter.
+- **Khanh ↔ Toàn:** village acquaintances; Toàn is older than Khanh. Do not upgrade that into kinship or special intimacy.
+- **Bà Lan ↔ Lan Anh:** local/trade familiarity, not kinship.
+- **Bà Lan ↔ Cường:** local/customer familiarity is sufficient for CH-01; no family relation is established here.
+
+Where an exact local pronoun, nickname, diminutive, honorific or classifier is not established above, leave it open. Natural Vietnamese wording may be chosen, but it must preserve the known relation, gender/generation/status and must not manufacture local color by inventing a social fact.
+
 ## Immediate ordinary concerns and agency
 
 ### Khanh
@@ -53,15 +64,17 @@ They may gossip, correct, exaggerate, sympathize, buy something, hurry away, rem
 
 ## Conversational field
 
-Khanh and bà Lan can sustain a conversation while one or both are doing something else. A subject may begin in complaint, veer into a customer, be abandoned for money/change/work, and return later—or never return. Familiarity can produce both very short shorthand and longer stretches of complaint, explanation or story.
+Conversation should ride the same practical activity that already holds the scene. Floor ownership can survive short replies, customer service, handling change, packaging, eating, moving stock or a momentary interruption; those events do not automatically reset the exchange.
 
-Bà Lan's customer talk can mix price, household identification, gossip and practical instruction in the same turn. She does not owe every listener a clean beginning-middle-end story.
+With Khanh, bà Lan can retain social initiative for a sustained stretch while assigning work, complaining, recalling something, correcting him or talking around a shop task. Khanh need not answer each proposition. He can acknowledge one part, keep working, tease, ignore a branch of what she said, or return to it after another piece of shop business. Their mother-son familiarity supports both compressed shorthand and much longer uneven stretches without requiring symmetrical turns.
 
-Khanh's speech at home can be casual and incomplete. He should not sound like the smartest person in every room. His engineer identity becomes more audible only when an actual contradiction earns sustained attention.
+With local customers, bà Lan can transact and converse at once. A customer may keep the floor through a story while bà Lan prices, wraps or makes change; bà Lan may interrupt for business and then let the same story continue. Conversely, bà Lan may carry several linked thoughts across practical instructions and gossip while a customer only supplies small acknowledgments. A transaction ending is a stronger floor boundary than every question or gesture inside it.
 
-Lan Anh under pressure may be soft/deferential until a practical limit is reached, then make a quick decision. Natural dialogue does not require her to be mechanically breathless or fragmented.
+Khanh's speech at home can be casual and incomplete. He should not sound like the smartest person in every room. His engineer identity becomes more audible only when an actual contradiction earns sustained attention, and even then he is not obliged to turn the exchange into structured questioning.
 
-No speaker is assigned packet information to verbalize.
+Lan Anh under pressure may still produce a coherent, socially shaped stretch of speech when she needs to refuse, explain a practical limit or reduce trouble; pressure does not require mechanically fragmented dialogue.
+
+No target turn length applies. The governing question is whether social initiative has genuinely transferred, not whether another character has just spoken. No speaker is assigned packet information to verbalize.
 
 ## Knowledge / reveal edge
 
