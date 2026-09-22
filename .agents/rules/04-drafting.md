@@ -30,6 +30,14 @@ Carry residue forward. Unfinished work, an unanswered remark, embarrassment, irr
 
 The packet is a reference field. Story locks become silent rails once drafting starts; they are not checkpoints to demonstrate. A raw first pass must already stand on its own as storytelling rather than depending on QA to supply narrative life.
 
+## Reveal distribution and reader inference
+
+Important facts do not automatically become scene centers. A hard clue, name, date, object mismatch or disturbing testimony may enter while work continues, be noticed only partly, sit beside unrelated concerns, or become meaningful after another movement has already begun. Do not isolate each plot-relevant fact with a pause, a follow-up question, a reaction beat and an explanatory thought merely because the reader needs access to it.
+
+Let significance lag behind availability when the lived situation supports it. The reader may connect facts before the viewpoint does, or may keep a mismatch active while the viewpoint moves on. Preserve fair presentation without turning revelation into a staircase of increasingly explicit prompts and answers.
+
+Close-third interiority is lived cognition, not author commentary on the designed effect. A character may think concretely, rationalize, dismiss, remember, associate or fail to finish a thought. Avoid converting the packet's reader-pressure logic into polished thematic explanations such as why an ordinary thing is frightening, why normality now feels wrong, or what the morning has "become" when material/social consequence already makes that shift legible. Interpretation is available when the character genuinely owns it; explanatory closure is not required.
+
 ## Mode flow inside a movement
 
 Scene, summary, connective narration, interiority, direct speech and indirect speech are available on a sliding scale inside the same movement. Shift among them according to the viewpoint's lived attention and the duration the material needs.
@@ -52,6 +60,8 @@ Floor continuity is not a synonym for longer lines. Before yielding social initi
 
 Let one stretch of speech serve several purposes at once. Plot-relevant information may enter through gossip, work, complaint, memory, correction or social friction and remain partially unattended. Nobody owes the reader an immediate follow-up question, clean answer or interpretation.
 
+Familiarity does not require continuous successful banter. A tease may be ignored, a joke may fail, a complaint may receive no useful answer, two people may speak past each other, and a topic may die without a punchline. Preserve social residue rather than optimizing conversation for entertaining completion; repeated neat setup-and-return patterns can be as artificial as short adjacency-pair volleys.
+
 Narration and talk can share the same movement for as long as the social situation remains continuous. Do not allocate packet information across speakers or construct revelation as a ladder of prompts and answers.
 
 Forms of address and reference must follow the packet's actual relationship, gender/generation/status and established register. Do not manufacture locality by importing generic rural-speech classifiers, kinship terms, diminutives or honorific habits that the packet does not support. When exact wording is genuinely open, prefer a neutral natural reference that preserves known relations rather than inventing social facts.
@@ -69,6 +79,8 @@ Let horror deform an established movement rather than automatically switching th
 Treat **dread pressure as residue carried by the movement**, not as the frequency of overt supernatural events. Once an approved fact or manifestation has made an ordinary category less stable, do not automatically restore the previous neutral baseline merely because characters resume work, joke, change topic or move location. The POV may stop thinking about it while the reader-visible object, obligation, route, social risk or mismatch remains materially active.
 
 Sustain horror through changed meaning and consequence before inventing another effect. A mundane object can remain disturbing because its ownership, timing, use or social place no longer fits; an ordinary route can remain disturbing because practical movement has been changed; testimony can remain disturbing because it has not been certified or discharged. This pressure may coexist with humor, commerce, food and family life.
+
+Prefer **consequence-borne dread** over explanation-borne dread. Once wrongness is available, let ordinary handling expose it through custody, placement, inconvenience, etiquette, money, route choice, work responsibility, spatial obstruction or social risk when those consequences belong to the ecology. The narrator does not need to restate why the situation is uncanny after the concrete world has already changed. Humor or resumed routine may continue inside that altered condition without erasing it.
 
 Do not compensate for weak dread by adding micro-scares, mandatory callbacks, ominous adjectives, bodily fear symptoms, shortened sentences, reaction beats or investigative behavior. Do not invent extra supernatural manifestations merely to keep the tone "horror." Preserve the sustained-movement, conversational-floor, human-causality and ecology-de-beating contracts while carrying approved wrongness forward.
 

@@ -124,6 +124,9 @@ After design is resolved and before READY, compile for **positive generative suf
 6. When conversation is scene-relevant, compile relationship-specific floor continuity: ongoing activity, social initiative, interruption/resumption behavior and plausible topic drift. Do not turn this into dialogue-length targets or scripted turns.
 7. Compile a spoiler-safe kinship/address/register map for scene-relevant people: factual relation, gender/generation/status where material, and established forms of address/reference if actually known. Preserve unknowns instead of inventing local-speech flavor.
 8. Compile **dread continuity** without exporting a beat ladder: `writing-brief.md` states the broad ordinary assumption being strained and the reader-pressure that should remain after attention moves on; `scene-ecology.md` states the approved horror contact surface plus the existing material/social carriers through which wrongness can persist. Do not add extra manifestations merely to maintain tone.
+9. Compile **reveal distribution**, not reveal choreography. Preserve fair availability of hard facts while allowing them to enter amid work, drift, partial attention and delayed significance. Do not order packet prose so each clue implicitly demands its own pause, follow-up question or interpretive beat.
+10. Compile **consequence substrate** for horror carriers: ordinary custody, placement, handling, route, etiquette, responsibility or spatial pressure that can keep wrongness active without a new anomaly or narrator explanation.
+11. Compile **conversational roughness** alongside floor continuity. Relationships may support sustained talk while still allowing jokes to miss, social bids to die, remarks to go unanswered and topics to dissolve without payoff.
 
 A packet that is safe but mostly permissions, exclusions and generic process labels is NOT READY.
 
@@ -148,5 +151,8 @@ Before READY, verify:
 15. Kinship, gender/generation/status and established address/reference forms are preserved where they constrain wording; unknown register is not filled from generic cultural or rural-speech priors.
 16. The packet exports enough dread-pressure dynamics that an approved anomaly/fact can leave reader-visible residue after characters resume ordinary activity.
 17. Horror conditioning does not encode scare cadence, reaction quotas, clue-trigger beats, mandatory ominous language or new investigator behavior.
+18. The packet does not pre-stage hard facts as a reveal ladder or imply that each important fact deserves isolated dramatic attention.
+19. Dread can persist through ordinary material/social consequence rather than requiring the narrator or POV to explain the intended reader effect.
+20. Conversational substrate permits non-payoff, silence, misfires and unfinished social business rather than optimizing every exchange for neat repartee.
 
 If any check fails, fix it or stop at the correct unresolved gate.

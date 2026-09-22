@@ -64,13 +64,17 @@ Before each stretch silently hold what remains moving/unfinished, who has social
 
 Scene, summary, connective narration, interiority and direct/indirect speech may slide through one movement. Narration may linger, associate, compress routine and stay inside conversation. Manuscript prose does not inherit assistant/chat concision.
 
+Do not spotlight every clue or hard fact. Let significance lag behind availability; the reader may connect more than the POV pursues. Interiority belongs to lived cognition, not to explaining the packet's intended reader effect.
+
 Conversation is nested inside movement. Generate from relationship, social purpose and floor ownership, not alternating reply slots. A speaker may retain initiative through work, narration, acknowledgments and interruptions; listeners may answer selectively, by action, late or not at all. Floor continuity is not a quota for long lines.
+
+Familiarity does not require polished repartee: jokes may miss, social bids may die, remarks may go unanswered and topics may dissolve without payoff.
 
 Honor packet kinship/address/register constraints. Preserve relation direction, gender/generation/status and established reference forms. Do not invent generic rural/local classifiers, kinship labels, diminutives or honorific habits for flavor.
 
 Horror deforms established movement. Treat dread as **persistent residue**: after an approved fact/manifestation makes an object, obligation, route, relationship, space or expectation less trustworthy, ordinary life may continue without restoring the reader's prior neutral baseline. Character attention and reader pressure may diverge.
 
-Prefer changed meaning, custody, practical consequence and social pressure over extra anomalies. Do not maintain horror via micro-scare cadence, ominous-adjective quotas, mandatory fear symptoms, reaction beats, sentence fragmentation or investigator drift. Horror must not weaken sustained movement, floor continuity, human causality, ecology de-beating or ordinary-life richness.
+Prefer changed meaning, custody, practical consequence and social pressure over extra anomalies or narrator explanation of why something is frightening. Do not maintain horror via micro-scare cadence, ominous-adjective quotas, mandatory fear symptoms, reaction beats, sentence fragmentation or investigator drift. Horror must not weaken sustained movement, floor continuity, human causality, ecology de-beating or ordinary-life richness.
 
 Keep clue architecture, causal audits, Failure Memory and regression material outside generative pass. Only after complete draft: open `qa-card.md`, diagnose actual prose, then consult only relevant Failure Memory.
 

@@ -21,6 +21,8 @@ Stay with that movement through multiple micro-events while at least one carrier
 
 Treat story locks as silent rails. Do not walk through packet headings in order and do not make prose visibly prove that each field was obeyed.
 
+Do not promote every hard fact into a dramatic center. Let clues and mismatches arrive inside continuing life, sometimes under partial attention, and let reader significance emerge without requiring a pause-question-reaction-explanation ladder. Interiority should belong to the viewpoint's actual cognition rather than paraphrasing the packet's intended reader effect.
+
 ## Narrative life
 
 A movement may span several paragraphs. Paragraph breaks can shift emphasis without resetting the situation. Scene and summary may slide into one another; context, memory, ordinary detail, humor, irritation and dead time are available when they belong to the viewpoint and situation.
@@ -39,6 +41,8 @@ Uneven turn length follows relationship and pressure. Short shorthand, silence a
 
 Let one stretch of talk serve several purposes. Let narration remain embedded through viewpoint attention, indirect speech, ongoing work and topic drift. Plot information can leave social residue without triggering an immediate question-and-answer ladder.
 
+Allow conversational non-payoff. Familiar people may miss, ignore or decline a joke; a social bid can die; complaints can receive unhelpful acknowledgments; a topic can dissolve without a neat return. Floor continuity is compatible with roughness and unfinished social business.
+
 Honor the packet's kinship/address/register map. Preserve actual relation direction, gender/generation/status and established forms of reference; do not invent generic local-speech markers when the packet leaves the exact register open.
 
 ## Horror
@@ -46,6 +50,8 @@ Honor the packet's kinship/address/register map. Preserve actual relation direct
 Realize approved supernatural pressure through the same lived material field rather than switching into a separate effects sequence. Let disturbance alter something that was already continuing. Characters need not interpret everything the reader can notice.
 
 Carry **dread residue** after contact. A character can return to work or another topic without resetting the reader's baseline if the wrong object, obligation, space, testimony or social consequence is still in circulation. Prefer changed meaning and practical consequence over adding another anomaly.
+
+Let concrete custody, handling, placement, etiquette, route, money, work or spatial consequence carry that residue when available. Do not append narrator explanation merely to tell the reader why the ordinary consequence is frightening.
 
 Do not manufacture horror by increasing event count, forcing reactions, inserting ominous prose, fragmenting sentences or turning non-investigators into investigators. Horror conditioning must not undo sustained narrative movement, conversational floor continuity or ordinary human causality.
 
