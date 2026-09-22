@@ -1,16 +1,16 @@
 # Writing brief — CH-01-v6
 AUTHOR_GATE: APPROVED
-Approval basis: CH-01-v6-B2 / author receipt `Duyệt toàn bộ Q1–Q8`
+Approval basis: CH-01-v6-B3 / author receipt `Duyệt toàn bộ Q1–Q8`
 Character context: character-context.md
 Scene ecology: scene-ecology.md
 
-> Compressed generative boundary. This is not a beat sheet, dialogue plan or QA checklist.
+> Bounded generative context. This is not a beat sheet, dialogue plan, prose-length target or QA checklist. Packet brevity must never imply manuscript brevity.
 
 ## Core disturbance and reader experience
 
 On the morning after Cường's sudden death, mutable village talk collides with a stable shop record: a custom paper radio for him was ordered on mùng 10 while he was still alive.
 
-The chapter should leave the reader with dread around three facts: the death already has an ugly physical shape in community speech; the order predates it; the name **Vũ Thị Thoa** means more to Toàn than to the people around him.
+The reader should feel first that the death has already entered ordinary village life through speech and practical disruption, then discover that the shop record is harder to dismiss than rumor. The name **Vũ Thị Thoa** should acquire pressure because Toàn knows more than Lan Anh, not because the narrator explains it.
 
 ## Hard story boundary
 
@@ -24,7 +24,7 @@ The chapter should leave the reader with dread around three facts: the death alr
 - The chapter closes in Cường's household with the approved physical haunting: apparently empty human-sized space near the death site can obstruct/deflect a mundane object strongly enough to alter practical movement.
 - Do not reveal that Thoa is dead, the supernatural killer, or the objective truth of the mùng-10 purchaser.
 
-These are end-state/reveal boundaries. They do not prescribe exact dialogue, reactions or micro-order inside the approved shop → Chợ Bến → household presentation.
+These are boundaries/end-states, not a required route through dialogue or narration.
 
 ## Reader-detective field
 
@@ -39,7 +39,9 @@ Do not explain the intended deduction.
 
 ## Dramatic space
 
-The writer owns how people reach these outcomes: interruptions, indirect speech, misunderstanding, ordinary work, silence, humor, embarrassment, delays, local bystanders, practical decisions and the exact conversational route.
+The writer owns narrative distance, scene/summary balance, sentence and paragraph rhythm, dialogue tactics, silence, gesture, local activity, transient interactions, and how information emerges.
+
+The story may linger, summarize, connect, explain context, follow Khanh's associative thought, or let ordinary activity continue beneath conversation when that creates better storytelling.
 
 Khanh need not interrogate anyone or verbalize every discrepancy.
 
@@ -55,7 +57,7 @@ No concrete ritual taboo or universal hàng-mã rule is required.
 
 ## Execution freedom
 
-Open: exact death-news teller, shop task, vernacular phrasing, dialogue length, who interrupts whom, minor market business, transient bystanders, incidental humor/irritation, mundane object used in the coda, silence and narrative distance.
+Open: exact death-news teller, shop task, vernacular phrasing, dialogue length, who interrupts whom, minor market business, transient bystanders, incidental humor/irritation, mundane object used in the coda, silence, summary, interiority and narrative connective tissue.
 
 Packet facts are not required spoken lines.
 
