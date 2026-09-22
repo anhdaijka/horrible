@@ -85,29 +85,30 @@ Writer packet becomes READY only after resolution.
 
 ## Writer
 
-Generative Writer reads only:
+Generative Writer story sources are limited to:
 - approved `writing-brief.md`;
 - `scene-ecology.md`;
 - `character-context.md`;
 - relevant accepted preceding prose;
 - explicitly named safe lived-context excerpts.
 
-Do not preload discovery, preflight, QA, Failure Memory, reviews, rejected material, archives, full directives, style bibles, generic craft skills or named craft lexicons.
+A user instruction such as “read only these three packet files” limits repository source loading; it does **not** disable this project-level composition prior, which remains active automatically.
 
-The Writer packet is a bounded creative context, not a beat sheet or compression target. Packet brevity must never imply prose brevity.
+### First-pass composition prior
 
-Manuscript prose is storytelling, not screenplay transcription or compliance reporting. Do not default to:
-`action → short line → action beat → short line`.
+Write from a continuous lived episode, not by traversing packet bullets. Silently hold what people were already doing, what practical work continues, what relationship history shapes the room, what competes for attention and how the disturbance enters that life. Then tell the story.
 
-Sentence and paragraph length may vary with thought, action, memory, explanation, social rhythm and narrative pressure. Within approved POV, narration may summarize, connect cause and consequence, supply context, move between scene and summary, follow associative thought, linger, explain when useful, and use long or medium sentences when the story benefits.
+Story locks are rails. Once understood, they should recede from attention instead of becoming visible proof in dialogue, narration or scene order.
 
-Natural dialogue does not mean clipped dialogue. A speaker may hold the floor for several sentences while gossiping, complaining, explaining, defending, instructing, evading, reminiscing or trying to close a subject. Preserve conversational ecology: relationship shorthand, digression, repetition, politeness, interruption, topic drift, shared assumptions and listener-specific speech.
+The first generative pass must already contain narrative life. Do not depend on QA to add natural dialogue, interiority, connective narration, scene/summary movement or ordinary continuity afterward.
 
-Knowledge boundaries are not required lines or reactions. Do not verbalize packet fields merely to prove compliance.
+Paragraphs may sustain several linked actions, perceptions, thoughts and lines of speech when they belong to one movement of attention. Narration may summarize, supply context, follow association, linger, skip time and explain when useful. Manuscript prose is exempt from default assistant/chat concision.
 
-Keep clue architecture in Preflight/QA, not as a Writer checklist. Scene ecology describes processes/pressures, not optional micro-beats. Consequential actions need in-world motives independent of clue delivery.
+Dialogue comes from relationship and social purpose. Turn length may be uneven; a speaker may digress, complain, explain, reminisce, self-correct, repeat, evade or mix practical business with another topic. Shared history may leave facts unstated. Do not allocate packet information across speakers.
 
-After a complete draft exists, open `qa-card.md`. `docs/failure-memory.md` is targeted post-draft evidence only: diagnose the actual defect first, then open only relevant entries. Craft lexicons are diagnostic vocabulary, not generative recipes.
+Keep clue architecture, causal audits, Failure Memory and regression material outside the generative pass. Consequential actions still need sufficient in-world motives, but apply that test silently rather than turning it into prose.
+
+After a complete draft exists, open `qa-card.md`. Diagnose the actual draft first; consult only relevant Failure Memory evidence afterward.
 
 ## Review
 

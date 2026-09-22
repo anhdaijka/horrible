@@ -160,4 +160,13 @@
 
 ---
 
+## FM-014: Constraint saturation làm nghèo prose prior (Compliance-Conditioned Generation)
+
+- **Chapter / Candidate:** CH-01-v6 / B4 bounded raw opening trial trong ChatGPT ngày 2026-09-22; non-candidate, không lưu prose vào repo.
+- **Lời tác giả:** thoại vẫn ngắn và thiếu tự nhiên, văn hời hợt; lỗi được xác định là bottleneck ở gốc repo chứ không phải chỉ scene engine.
+- **Cơ chế lỗi:** `CONSTRAINT_SATURATION` / `POSITIVE_PRIOR_STARVATION` — cùng các guard chống screenplay cadence, investigator drift, clue exposure và spec leakage bị lặp qua nhiều tầng instruction/packet, trong khi Writer không có accepted prose và B4 không có lived-context excerpt đủ giàu. Packet trở thành phần lớn là boundary, permissions và process labels. Model vì vậy vẫn compose theo spec, dù spec nói không được compose theo spec.
+- **Dấu hiệu:** engine đã qua human-causality audit nhưng raw prose vẫn có turn ngắn, micro-cut, narrator tổng kết, POV mỏng; đổi scene engine không loại được signature.
+- **Cách khắc phục:** một canonical positive first-pass prior; giảm lặp anti-pattern giữa root/rule/skill/packet; compiler bắt buộc positive lived/material/relationship sufficiency và distinct ownership; locks đứng sau situation; raw generative pass phải tự đứng được trước QA.
+- **Anti-pattern signature:** `[Writer context chứa nhiều guard/exclusion hơn lived material cụ thể; cùng một prohibition xuất hiện ở nhiều tầng; prose vẫn mang hình dạng compliance dù scene engine thay đổi]`
+
 *Cập nhật lần cuối: 2026-09-22. Chỉ dùng Failure Memory targeted post-draft/hậu-feedback; không preload trước generation.*

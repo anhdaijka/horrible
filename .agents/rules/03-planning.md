@@ -72,16 +72,24 @@ For `RECONCILIATION_REQUIRED`, ask only about unresolved collateral choices, mar
 
 After resolution, synchronize durable changes into authoritative sources and update the consequential authority basis when affected. Chapter-local pacing/staging remains chapter design and must not pollute global canon.
 
+## Generative packet compiler gate
+
+Before READY, treat the Writer packet as a compiler output, not a condensed Preflight report.
+
+- **Distinct ownership:** `writing-brief.md` owns the story situation, reader pressure and minimum durable/reveal locks; `scene-ecology.md` owns concrete material/social processes; `character-context.md` owns people, relationships, present-life residue and spoiler-safe knowledge. A fact should normally have one generative owner.
+- **Positive sufficiency:** the packet must contain enough concrete lived material to imagine the chapter as life even if the later mystery payoff vanished. Generic labels such as customer traffic, errands, family pressure or gossip are not sufficient by themselves when the scene depends on their texture.
+- **Constraint budget:** keep prohibitions and audit language to the minimum needed to protect a hard boundary. Do not copy Failure Memory signatures, regression wording or the same warning across all three generative files.
+- **Ordering:** lead Writer-facing files with situation, people and material reality. Put minimum locks/reveal edges later so the packet does not read primarily as a compliance checklist.
+- **Bootstrap without accepted prose:** if there is no accepted preceding prose or safe lived-context excerpt, do not fabricate a style exemplar. Compensate with stronger concrete human/material context and rely on the canonical positive composition prior in the Writer role.
+
+READY fails if the three generative files are technically safe but still force the Writer to invent the lived world, relationship texture or POV attention from generic model priors.
+
 ## Readiness
 
 Approval and readiness are different claims. Before READY, verify consequential hinges only where different readings would change knowledge, choice, obligation or durable consequence. Do not manufacture causal locks for routine behavior.
 
 Only after mandatory Q1–Q8, canon-impact audit, required reconciliation and authority synchronization may Preflight create internal `preflight.md`; generative `writing-brief.md`, `scene-ecology.md`, spoiler-safe `character-context.md`; and separate `qa-card.md`.
 
-Generative files must stand alone. Keep rejected engines, rejected manifestations, audit reasoning, causal tests, regression history and safety verification outside Writer generative context.
-
-`scene-ecology.md` carries independent pressures, material activity, social traffic and horror-relevant material conditions as processes/forces, not beats. Reader-detective clue architecture stays in Preflight/QA unless an irreducible fact must appear in the hard story boundary.
-
-Character context carries current relationships, ongoing lives, practical concerns, ordinary motive baselines, conversational ecology and spoiler-safe knowledge. Do not copy performance tics, example dialogue or future solutions.
+Compile generative files according to the compiler gate above. Internal clue architecture, causal audits, rejected alternatives and regression material stay outside first-pass Writer context.
 
 Classify invention by consequence: transient/local life is generative freedom; cross-scene promises, established history, custody/state changes and future obligations are candidate deltas; material changes outside approved boundaries become author decisions.

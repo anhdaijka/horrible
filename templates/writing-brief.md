@@ -4,45 +4,28 @@ Approval basis:
 Character context: character-context.md
 Scene ecology: scene-ecology.md
 
-> This file is a bounded generative context, not a scene outline, clue checklist, dialogue plan, prose-length target or QA checklist. Packet brevity must never imply manuscript brevity.
+> Writer-facing orientation. This file should make the chapter feel like a situation to inhabit, not a spec to execute.
 
-## Core disturbance and reader experience
-State the chapter's central disturbance and broad reader experience/question. Do not enumerate clue-delivery tasks.
+## Story situation
+Write 2–4 cohesive paragraphs describing the life already underway, the disturbance entering it, and the broad change in pressure. Describe simultaneous human reality rather than a sequence of beats.
 
-## Hard story boundary
-List only the minimum facts that must remain true for approved purpose, chronology, reveal edge and durable end state.
+A good section should still make human sense if the later mystery payoff is temporarily ignored.
 
-Prefer end-state/boundary language over route language.
+## Reader pressure
+State the broad experience, question or emotional pressure the chapter should leave with the reader. Do not prescribe a craft technique or evidence-delivery route.
 
-Bad:
-- A tells B X, B reacts Y, then C asks Z.
-- reader must receive clues A/B/C through named interactions.
+## Concrete reality needed
+Project only practical, verified or author-approved facts the Writer genuinely needs in order to imagine the place, work, objects and immediate circumstances. Prefer concrete reality over abstract labels.
 
-Better:
-- By chapter end, B has encountered X without learning Y.
-- Object O remains in custody C.
+## Non-negotiable locks
+List the minimum chronology, reveal, relationship, supernatural and durable end-state facts that must remain true.
 
-Do not duplicate character knowledge already carried by character-context unless it is also a chapter-level reveal boundary.
+Keep this section short. A lock is a rail, not a requested line, reaction, question or scene order. Do not duplicate knowledge that belongs only in character-context.
 
-## Human-causality boundary
-State only any motive/role constraint needed to prevent false behavior.
+## Open composition space
+State what the Writer genuinely owns: local activity, timing, narrative distance, scene/summary balance, dialogue tactics and length, silence, incidental people, humor, misunderstanding, connective narration, interiority and small non-durable inventions.
 
-Characters must act from work, kinship, responsibility, convenience, embarrassment, grief, conflict, proportionate curiosity or another in-world cause—not because the mystery needs a fact surfaced.
+People act from their present lives and obligations. Information may emerge without becoming the subject of pursuit.
 
-Do not prescribe exact motive beats unless the author locked them.
-
-## Dramatic space
-State what remains open. The writer owns narrative distance, scene/summary balance, sentence and paragraph rhythm, dialogue tactics, silence, gesture, local activity, transient interactions and how information emerges inside the hard boundary.
-
-## Concrete reality
-Project only practical verified facts the writer truly needs. Keep verification rationale and long exclusions out of generative context.
-
-## Execution freedom
-Local events, timing, narrative distance, dialogue length, explanatory context, interiority, indirectness, misunderstanding, humor, cooperation and chapter-local life are free unless explicitly locked by the author.
-
-A packet fact is never a required spoken line, question, record check, visit or visible reaction merely because it appears here.
-
-Record after drafting any new promise, established prior event, custody change, future meeting, distinctive object fact or durable knowledge.
-
-## Deliberately unanswered
-Questions the prose may leave implicit or the writer may decide locally. Do not hide an expected answer, clue route or QA test here.
+## Reveal edge / still unknown
+Name only the truths that must remain unrevealed or unresolved by chapter end. Do not hide a clue route or QA checklist here.

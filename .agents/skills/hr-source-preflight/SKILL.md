@@ -110,6 +110,18 @@ Only when steering, canon-impact audit, reconciliation, authority synchronizatio
 
 Keep rejected engines, rejected manifestations, audit reasoning, long exclusions, regression history and safety checks out of Writer generative context.
 
+## Packet compilation gate
+
+After design is resolved and before READY, compile for **positive generative sufficiency** as well as safety:
+
+1. Give each packet fact one primary home: brief = situation/locks, ecology = material/social processes, character context = people/relationships/knowledge.
+2. Lead with lived situation and concrete reality, not prohibitions.
+3. Supply enough specific ordinary life, material texture and POV residue that the Writer is not forced to invent the scene's human texture from generic model priors.
+4. Keep Failure Memory language, regression signatures, rejected alternatives and repeated anti-pattern warnings out of all generative files.
+5. If no accepted prose/lived excerpt exists, strengthen factual and relational context; do not compensate by adding more craft constraints.
+
+A packet that is safe but mostly permissions, exclusions and generic process labels is NOT READY.
+
 ## Pre-READY Self-Audit
 
 Before READY, verify:

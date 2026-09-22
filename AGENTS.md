@@ -20,7 +20,7 @@ No chapter is currently canonized. `chapters/` contains only the empty registry.
 The active process protects literary life and story truth through separate roles:
 
 - Preflight begins with divergent discovery: life already moving, materially different scene engines, a specific ghost-horror experience and a reader-detective field. It selects the strongest execution autonomously, asks only unresolved material questions, then creates internal `discovery-slate.md` + `preflight.md`; generative `writing-brief.md` + `scene-ecology.md` + `character-context.md`; and separate `qa-card.md`.
-- Writer completes a generative pass from `writing-brief.md`, `scene-ecology.md`, `character-context.md` and relevant accepted prose only. It must not preload discovery/rejected engines, `qa-card.md`, preflight, regression history, reviews, full directives, style bible or generic craft skills. After a complete draft exists, it opens `qa-card.md` and named hard-source excerpts for self-edit. Preserve relationships, address and ordinary life without exposing future solutions.
+- Writer follows the bounded source route in `.agents/rules/02-context.md` and the canonical composition contract in `.agents/rules/04-drafting.md` + `hr-source-writer`. AGENTS does not duplicate prose anti-pattern instructions: the generative contract should remain a positive storytelling prior, while audit/failure language stays outside first-pass prose context.
 - Literary reviewer reads locator-only candidate identity and prose before session-state, writer handoff, prior findings or packet; then uses context to diagnose intent versus execution without erasing first impressions.
 - Safety reviewer checks canon, chronology, knowledge, reveal order, durable state, cultural/professional facts, rejected-material contamination and only those implications whose failure creates a contradictory action, obligation or later state.
 - Writer and reviser self-edit before handoff. `candidate.md` remains locator-only; self-edit, deltas and rationale belong in `writer-handoff.md` or revision audit. Reviews and acceptance bind to exact candidate bytes and consequential authority basis.
@@ -32,7 +32,13 @@ See `.agents/rules/writing-workflow.md`, `docs/playbooks/horrible-craft-review.m
 
 Any agent-facing response-style instruction such as **concise**, **clinical**, **brief**, **structured**, or **literary** applies to operational communication, analysis and workflow reporting unless it explicitly says it governs manuscript prose. It must not be projected into sentence length, paragraph length, dialogue turn length, narrative distance or storytelling density.
 
-Inside an approved brief, the writer owns wording, rhythm, scene micro-order, dialogue tactics, silence, gesture, incidental action, sensory selection, image, sentence/paragraph architecture, scene/summary balance, interiority and small non-durable detail. No mandatory word count, clue count, sensory inventory, body-reaction quota, clipped-dialogue pattern, or universal ambiguity requirement applies.
+Inside an approved brief, the writer owns wording, rhythm, scene micro-order, dialogue tactics, silence, gesture, incidental action, sensory selection, image, sentence/paragraph architecture, scene/summary balance, interiority and small non-durable detail.
+
+### Generative conditioning rule
+
+Writer-facing context must be positively sufficient, not merely safe. A packet should give enough concrete human, material and relational life for the writer to inhabit the situation without reconstructing it from generic model priors. Operational safeguards belong in their owning layer and should not be copied across every Writer-facing file.
+
+The canonical first-pass prose prior lives in `.agents/rules/04-drafting.md` and `hr-source-writer`. Packet files carry story situation, ecology, people and minimum locks; they do not carry Failure Memory signatures, regression wording or repeated craft prohibitions. When no accepted preceding prose or safe lived-context excerpt exists, Preflight must compensate with richer concrete lived material rather than more constraints.
 
 The writer may not silently change:
 
@@ -56,13 +62,9 @@ Realism is the floor, not the ceiling. Ambiguity is optional. Fictional ghosts m
 
 The main plot should interrupt, deform or recontextualize lives already in motion. Work, money, errands, affection, embarrassment, family obligations, community traffic and private concerns may have their own local causes and endings. They do not need to become clues, symbols or permanent subplots. A concentrated scene may omit them when concentration strengthens the horror; there is no side-story quota.
 
-Before locking a packet, explore materially different scene engines rather than immediately converting the approved outcome into beats. Select for human life, ghostly pressure and fair mystery, not merely ease of continuity validation. Audit human causality before READY: consequential actions need motives inside the character's life, not only usefulness to the mystery. Rejected engines remain internal and do not enter Writer context.
+Before locking a packet, explore materially different scene engines rather than immediately converting an approved outcome into beats. Preflight owns human-causality and reader-detective architecture; keep that reasoning internal and project only the minimum story boundary the Writer needs. See `.agents/rules/03-planning.md`.
 
-The reader is the story's primary detective. Evidence may be distributed across viewpoints, testimony, records, objects, ordinary routines and omissions so the reader can form and revise hypotheses before any one character assembles them. Khanh remains a recurring cognitive bridge, not an all-solving investigator.
-
-**Reader-detective does not mean character-detective.** Fair evidence should emerge from lives, work, records, mistakes, testimony and consequences that already have in-world causes. Do not make Khanh, bà Lan, Lan Anh, bystanders or other non-investigators ask timeline/provenance/alibi questions, inspect records, seek witnesses, make visits or transport objects merely because a clue must become visible. Use the counterfactual: if the later mystery payoff vanished, would this person still have a sufficient reason to do it now?
-
-Reader-detective clue architecture belongs primarily to Preflight and QA. The generative Writer packet should not enumerate a clue-delivery checklist or soft-beat sequence.
+The reader remains the story's primary detective, but the Writer should encounter this as a property of the living scene, not as a checklist of evidence to expose. Rejected engines, clue-delivery plans and anti-investigator audit language stay out of first-pass Writer context.
 
 Transient interactions, local inconveniences and chapter-local events are execution freedom. Cross-scene promises, established backstory, custody/state changes, future meetings or other durable obligations are recorded as candidate deltas. Only material changes outside approved boundaries require author choice.
 

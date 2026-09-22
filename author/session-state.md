@@ -22,33 +22,24 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 — B4 OPENING ENGINE LOCKED / READY FOR FRESH-CONTEXT TRIAL**
+**CH-01-v6 — B4 RAW TRIAL REJECTED / ROOT PROSE-CONDITIONING PATCH APPLIED**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
 - Existing complete candidate remains `CH-01-v6-C3`, bound to frozen B2.
 - B3 shop-opening trial remains a non-candidate diagnostic bound to frozen B3.
-- Active Writer packet: `CH-01-v6-B4`.
-- B4 execution engine E1 is locked internally:
-  - routine shop life;
-  - ordinary death-news interruption;
-  - routine resumes;
-  - ordinary order handling reaches Cường's order;
-  - practical shop/custody problem;
-  - independent Chợ Bến errand;
-  - incidental public collision.
-- Engine counterfactual audit: PASS.
-- Rejected routes are internal only and do not enter Writer context.
-- `preflight.md` and `discovery-slate.md` are reconciled to E1.
-- Fresh-context prompt: `scene-trial-B4-fresh-context-prompt.md`.
-- No B4 prose has been generated yet.
+- B4 packet and locked E1 engine remain historical inputs to the failed diagnostic trial; do not treat the failure as evidence that E1 itself is invalid.
+- A bounded B4 raw opening trial was generated in a fresh ChatGPT Project chat on 2026-09-22 and rejected by the author for persistent shallow narration, short-turn dialogue and compliance-shaped prose. The trial was not written to repository files and did not modify candidate/manuscript/canon/continuity.
+- Root audit identified a workflow/compiler bottleneck: repeated negative conditioning across instruction layers plus insufficient positive lived/material/POV context when no accepted prose seed exists.
+- Root Writer/compiler contracts and templates have been patched to require positive generative sufficiency, distinct packet ownership and a canonical first-pass composition prior.
 
-Next action: in a NEW Project chat, generate the bounded B4 shop-to-market-transition trial from only `writing-brief.md`, `scene-ecology.md`, and `character-context.md`. Do not load preflight/discovery/QA/Failure Memory or old prose first.
+Next action: recompile the already-approved CH-01-v6 design and locked E1 engine into a new B5 Writer packet using the patched compiler. This is a packet projection change, not a new scene engine or author-design choice. Preserve B4 files as provenance. Then run a fresh-context bounded raw trial from B5 only.
 
 ## Open design / verification gates
 
 - No new AUTHOR-DESIGN choice is open.
-- Current chat is contaminated for a strict Writer trial because it has read internal preflight/discovery material.
+- B5 may preserve the approved E1 design and change only Writer-facing projection/conditioning.
+- Any chat that has read internal audit/preflight/history is contaminated for the later strict B5 Writer trial.
 - C3 remains unreviewed B2 prose.
-- B3 trial remains diagnostic only.
-- Any complete B4 rewrite still requires a new candidate identity and fresh reviews.
+- B3 and B4 trials are diagnostic only.
+- Any complete rewrite still requires a new candidate identity and fresh reviews.
 - Canonization remains blocked.

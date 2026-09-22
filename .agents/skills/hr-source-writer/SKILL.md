@@ -5,63 +5,38 @@ description: Write and self-edit Horrible ghost-horror prose from a bounded Writ
 
 # Horrible writer
 
-Read `.agents/rules/04-drafting.md`.
+Read .agents/rules/04-drafting.md. That file is the canonical first-pass composition contract; do not duplicate a second checklist here.
 
-## Generative phase
+## Generative source boundary
 
-Read only:
+Story sources are limited to writing-brief.md, scene-ecology.md, character-context.md, relevant accepted preceding prose and explicitly named safe lived-context excerpts. Keep audit/review/history/craft-diagnostic material out until the draft phase that owns it.
 
-- `writing-brief.md`;
-- `scene-ecology.md`;
-- `character-context.md`;
-- relevant accepted preceding prose;
-- explicitly named safe lived-context excerpts.
+## First-pass stance
 
-Do not open discovery, preflight, QA, failure-memory, rejected material, reviews, regression history, full authority files, style bibles, generic craft skills or named craft lexicons before a complete draft exists.
+Write from the **lived episode**, not from the spec.
 
-The packet is a **bounded creative context**, not a beat sheet and not a compression target. Packet brevity must never imply prose brevity.
+Hold people, work, relationships, attention and material surroundings together long enough for the scene to acquire its own continuity. Let ordinary obligations continue even when plot information enters. Let the viewpoint remember, compare, summarize, notice selectively, become distracted and return.
 
-Write as a storyteller inhabiting people whose work, relationships, memories and private concerns were already moving before the disturbance arrived.
+Treat story locks as silent rails. Do not walk through packet headings in order and do not make prose visibly prove that each field was obeyed.
 
-Story truth says what must remain true. Character context says what people know and how they are socially situated. Ecology supplies ongoing processes and pressures. None automatically becomes dialogue, reaction, exposition, scene order, clue-delivery action or sentence form.
+## Narrative life
 
-Own wording, narrative distance, sentence rhythm, paragraph architecture, dialogue tactics, silence, gesture, incidental action, summary, interiority, connective narration, sensory selection and micro-order.
+Paragraphs may sustain a social or mental movement across several actions and lines of speech. Scene and summary can coexist. Context, interior association, ordinary detail, humor, irritation and dead time are available when they belong to the viewpoint and situation.
 
-### Prose
+The assistant's normal preference for concise chat responses does not govern manuscript prose.
 
-Do not default to screenplay cadence. Narration may carry thought across several clauses, summarize stretches of ordinary activity, explain necessary context, move associatively inside the approved POV, or let one paragraph sustain a social situation.
+## Conversation
 
-Use short sentences when they are earned, not as a universal tension device. Use long or medium sentences when continuity of thought, gossip, memory, explanation or physical action benefits from them.
+Speech belongs to a relationship and a social purpose before it belongs to plot information. Allow uneven turn length, digression, repetition, unfinished shared context, practical overlap, self-correction and topic drift when natural to these people.
 
-A camera-only style is optional, not a virtue by itself.
+Do not repair dialogue by mechanically making every turn longer. Repair the social situation that produces the turn.
 
-### Dialogue
+## Horror
 
-Do not equate natural speech with short turns. Let a speaker hold the floor when social purpose calls for it. Vietnamese everyday speech may include repetition, side information, self-correction, relationship shorthand, complaint, practical explanation, politeness padding, topic drift and sentences that do more than advance plot.
+Realize approved supernatural pressure through the same lived material field rather than switching into a separate effects sequence. Characters need not interpret everything the reader can notice.
 
-Before finalizing a dialogue-heavy scene, check whether it has collapsed into alternating one-line turns. If so, reconsider relationship, practical situation and conversational purpose rather than inserting filler.
+## Self-edit
 
-Do not verbalize or actively investigate a fact merely because it appears in the packet.
+Only after the complete draft exists, open qa-card.md and the narrow sources it names. If the actual prose shows a recurring mechanism, consult only the relevant Failure Memory entry after diagnosis.
 
-Before consequential character behavior, ask whether the person would still do it without the later mystery payoff. If not, rebuild the local situation so the information emerges from work, responsibility, social friction, habit, accident, ordinary curiosity or another lived cause.
-
-The reader is allowed to notice a pattern that no character pursues. Do not promote Khanh, bà Lan, Lan Anh or bystanders into temporary investigators merely to make evidence visible.
-
-### Horror
-
-Deliver a ghost-horror experience without applying named techniques by quota or recipe. If the packet contains a concrete manifestation/pressure, realize it through scene reality; craft terminology may be used later to diagnose the result.
-
-## Self-edit phase
-
-Only after the complete draft exists:
-
-- open `qa-card.md`;
-- open named hard-source excerpts only as needed;
-- repair actual truth/reveal/custody/continuity defects;
-- diagnose actual prose defects without adding compliance dialogue or stage-business.
-
-If a recurring failure is suspected, open only the relevant Failure Memory entry after the defect has been identified.
-
-Use literary diagnostics post-draft. Protect living narration, varied syntax, summary, interiority, ordinary talk, long speech, silence, humor, indirectness and scene texture.
-
-Output clean prose, locator-only `candidate.md` and separate `writer-handoff.md`. Preserve prior candidates. Never self-certify independent PASS.
+Output clean prose, locator-only candidate.md and separate writer-handoff.md. Preserve prior candidates. Never self-certify independent PASS.

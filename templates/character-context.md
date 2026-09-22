@@ -1,46 +1,31 @@
 # Character context — <chapter>
 
-> Writer-safe selection; no future solution. Character knowledge is a boundary, not a required line, question, reaction, confession or visible proof.
+> Writer-safe people context. Give enough present life to generate behavior; keep future solutions out.
 
-## Relationships and address
-Kinship/social familiarity, age/status where relevant, and natural address in this interaction.
+## POV life at entry
+For the focal character, state the current bodily/mental residue, ordinary concerns, outside life, recent displacement or preoccupation that can shape attention before the plot demands anything.
 
-## People beyond the plot
-Shared history, ordinary priorities, work/family/social concerns, ways of helping or irritating one another, contradictions and pressures that exist even if the case does not advance today.
+This is not a list of required thoughts. It is the life from which selective attention emerges.
 
-Give enough lived material to imagine behavior.
+## Relationships with history
+For important pairs, give the useful shared history, familiarity, status, address, affection, irritation, debt, embarrassment, habits of cooperation or old friction that already exists before this chapter.
 
-## Ordinary motive baseline
-For each important person, project what can plausibly make them act **today** independent of mystery payoff: work duty, family role, money, time, grief, convenience, embarrassment, social obligation, habit, personal history or proportionate curiosity.
+Prefer relationship texture over trait labels.
 
-Do not turn these motives into prescribed beats.
+## Immediate ordinary concerns and agency
+What can each person plausibly want to finish, avoid, protect, postpone, complain about or get back to today for reasons larger than the mystery?
 
-A character should not ask investigative questions, inspect records, pursue provenance, seek witnesses or initiate a visit merely because the reader needs information. If such behavior occurs, it needs a sufficient in-world reason for that person at that moment.
+These are present-life affordances, not prescribed mini-arcs.
 
-## Conversational ecology
-Project relationship-level speech dynamics without scripting lines or prescribing tics.
+## Conversational field
+Describe situation-specific social dynamics: who can talk at length with whom and why, what shared context need not be explained, what kinds of practical talk can overlap with gossip or conflict, where politeness or familiarity changes turn length, and what topics people are likely to abandon rather than resolve.
 
-Useful dimensions:
-- who can hold the floor and when;
-- who interrupts, lets things pass, circles back or changes subject;
-- how shared context removes explanation;
-- when politeness produces longer speech rather than shorter speech;
-- whether a person tends to gossip, complain, justify, narrate, instruct, evade, over-explain, under-explain or let practical work carry part of the exchange;
-- how turn length changes by listener and pressure.
+Do not script sample lines or reusable tics.
 
-Do not provide reusable catchphrases, exact example lines or a dialogue template to imitate.
+## Knowledge / reveal edge
+State only what each important person knows, believes, misreads or cannot know at this point when it materially constrains narration or action.
 
-## Agency outside the case
-What each person can choose, postpone, protect, misunderstand or pursue for reasons not reducible to the main plot. These are affordances, not hidden-agenda requirements.
-
-## Knowledge and viewpoint
-What each person knows, believes, misreads or cannot know at this point.
-
-Important:
-- knowing X does not require saying X;
-- not knowing X does not require asking about X;
-- withholding X does not require looking suspicious;
-- a reveal boundary does not prescribe a reaction.
+Knowledge is a boundary. It does not require a line, visible reaction or question.
 
 ## Targeted lived-context
-Only generative-safe excerpts when truly needed. If a source section also contains future solutions, project the needed fact here instead. QA/research sources belong outside generative context.
+Include an explicitly approved generative-safe excerpt only when one truly helps. If no safe excerpt exists, leave this section empty rather than importing rejected prose or inventing a style sample.

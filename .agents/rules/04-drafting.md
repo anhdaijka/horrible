@@ -2,104 +2,68 @@
 
 Verify from the handoff that the design gate is current, not AWAITING_AUTHOR or superseded. A stale packet is not writing authorization. Drafting has two context-separated phases.
 
-## Generative pass
+## Generative pass — source boundary
 
-Read only:
+Read story sources only from:
 
-- `writing-brief.md`;
-- `scene-ecology.md`;
-- `character-context.md`;
+- writing-brief.md;
+- scene-ecology.md;
+- character-context.md;
 - relevant accepted preceding prose;
 - explicitly named safe lived-context excerpts.
 
-Do NOT open or preload:
+Do not preload discovery/preflight reasoning, QA, Failure Memory, rejected prose/engines, reviews, regression history, full authority files, style bibles or generic craft lexicons. The role contract itself remains active; this boundary limits story/audit sources, not the positive composition prior below.
 
-- `discovery-slate.md`;
-- `preflight.md`;
-- `qa-card.md`;
-- `docs/failure-memory.md`;
-- rejected engines/prose;
-- regression history;
-- reviews;
-- full directives;
-- style bibles;
-- generic craft skills;
-- named craft lexicons unless the author explicitly makes one part of chapter design.
+## Composition stance
 
-The generative pass must inhabit a living situation, not answer an audit.
+Begin from a **continuous lived episode**, not from the packet's bullet order.
 
-Hard constraints define what must remain true. They do NOT prescribe dialogue, sentence shape, gesture, reaction, micro-order, paragraph length, beat count or visible proof of compliance unless the author explicitly locked that execution choice.
+Before prose, silently hold the situation as a whole: what each person was already occupied with, what keeps tugging their attention back, what practical work continues underneath talk, what relationship history is already present, what can remain unfinished, and where the disturbance presses into that life. Do not expose this preparation as an outline.
 
-A fact in character context is knowledge, not a required spoken line. A reveal edge is a boundary, not an instruction to verbalize it. A durable outcome is an end-state, not a mandatory route.
+The packet is a reference field. It is not a traversal order, beat list or set of lines to demonstrate. Hard truths should become invisible structural boundaries once drafting starts.
 
-Treat scene ecology as an affordance field of processes and pressures, not a menu of beats. Discover the concrete route yourself.
+A raw first pass must stand on its own as storytelling. Do not rely on the later QA phase to add narrative life, natural dialogue or connective tissue that was absent from generation.
 
-## Human motive firewall
+## Narrative movement
 
-Characters are not delivery systems for clues.
+Narration follows units of attention, thought, social pressure and physical activity rather than cutting automatically at each gesture or spoken turn. One paragraph may carry several linked actions, perceptions, memories or bits of talk when they belong to the same movement.
 
-Before a character asks a consequential question, checks a record, follows someone, carries an object somewhere, revisits a fact or initiates contact, make sure the action has a sufficient motive available **inside the character's life at that moment**: work, responsibility, money, kinship, embarrassment, grief, convenience, conflict, habit, curiosity proportionate to the situation, or another lived cause.
+Use scene, summary, connective narration and interiority according to what the episode needs. Ordinary activity may continue beneath conversation; a topic may disappear for a while and return; time may compress; context may be supplied directly when that is the cleanest telling.
 
-Use this counterfactual test:
+Sentence and paragraph length are consequences of narrative movement, not targets. The manuscript is not required to resemble chat rhythm or operational response style.
 
-> If the later mystery payoff disappeared, would the action still make sense for this person now?
+## Dialogue and social duration
 
-If not, rebuild the situation. Do not solve the problem by adding a line saying the character is "curious."
+Generate speech from what the speaker is trying to do socially with this listener now: sell, complain, avoid, explain, gossip, instruct, defend, reminisce, hurry, save face, reduce trouble, or simply keep company.
 
-The reader may notice more than any character. Fair clue visibility does not require characters to collect, compare, verify or discuss every clue.
+A turn may be a word or several sentences. People may repeat themselves, digress, correct a detail, mix practical business with another topic, talk past one another, leave shared facts unstated, or continue working while speaking. Relationship and pressure decide turn shape.
 
-## Narrative prose prior
+Do not compose dialogue by allocating packet information across speakers.
 
-Manuscript prose is storytelling, not screenplay transcription and not a compliance report.
+## Human causality
 
-Do NOT equate:
-- clarity with short sentences;
-- tension with fragments;
-- naturalism with clipped dialogue;
-- objectivity with camera-only narration;
-- restraint with omission of connective tissue;
-- literary prose with constant compression.
+Consequential behavior must have a sufficient cause inside the person's life at that moment. Use the counterfactual silently: if the later mystery payoff disappeared, would this action still make sense now? If not, rebuild the local situation rather than adding explanatory motivation.
 
-Sentence and paragraph length should vary with thought, action, memory, explanation, social rhythm and narrative emphasis. A sentence may carry several linked actions or perceptions when they belong to one movement of thought. A paragraph may sustain a situation instead of cutting after each gesture.
+The reader may notice more than the characters pursue.
 
-Within approved POV, narration may summarize time, supply necessary context, connect cause and consequence, follow associative thought, linger on ordinary detail, move between scene and summary, and tell rather than show when telling is the cleaner storytelling choice.
+## Story truth and horror
 
-Avoid default `action → one-line dialogue → action beat → one-line dialogue` cadence. If a scene reads like stage blocking with quotation marks, rebuild the narrative flow rather than merely lengthening sentences.
+Preserve approved purpose/outcome, chronology, relationships, durable state, knowledge/reveal order, verified reality and supernatural boundaries. Those are rails, not prose prompts.
 
-## Dialogue prior
+Let the disturbance deform an already moving life. A clue, object or haunting can matter without becoming the subject of immediate character analysis.
 
-Dialogue may be long, short, indirect, interrupted, repetitive, evasive, affectionate, awkward, explanatory, anecdotal or plain according to social purpose.
-
-Do not equate natural dialogue with brevity. A speaker may hold the floor for several sentences while gossiping, complaining, defending, instructing, explaining, telling a story, changing the subject or trying to end one.
-
-Shared history often removes the need for explicit setup but can also produce digression, repetition and unfinished assumptions. Turn length should emerge from relationship and practical situation, not from a preference for ping-pong one-liners.
-
-Do not turn clue records, knowledge boundaries or approved outcomes into question-and-answer sequences merely to expose packet fields. Do not make a non-investigator ask timeline, identity, route, alibi or provenance questions solely because those answers are useful to the mystery.
-
-## Story life and authority
-
-The main plot should enter, deform or recontextualize ordinary life rather than replace it. Preserve observable clue surfaces without explaining the intended deduction or making every incidental detail evidence.
-
-Preserve approved purpose/outcome, chronology, durable relationships/state, knowledge/reveal order and world rules. Rebuilding execution inside those boundaries is Writer authority. A changed plot decision, relationship trajectory, supernatural rule or durable state requires the author/canon gate.
-
-## Self-edit pass
+## Self-edit phase
 
 Only after a complete draft exists:
 
-1. open `qa-card.md`;
-2. open only its named hard-source excerpts as needed;
-3. inspect the actual draft for contradictions, knowledge leakage, dropped obligations and demonstrated craft failures;
-4. use literary diagnostics only on defects that actually appear.
+1. open qa-card.md;
+2. open named hard-source excerpts only as needed;
+3. inspect the actual draft for truth/reveal/custody/continuity defects;
+4. diagnose demonstrated literary defects before consulting any matching Failure Memory entry.
 
-`docs/failure-memory.md` is targeted post-draft diagnostic evidence, not generative context. Open only relevant FM entries after identifying a suspected recurring mechanism or when the author/reviewer names one.
+Self-edit must repair the prose that exists, not add visible compliance. Preserve prior candidates and record consequence-bearing deltas outside prose.
 
-Likewise, `docs/playbooks/literary-quality.md` and craft lexicons belong to post-draft diagnosis/review, not pre-generation recipe selection.
-
-Self-edit must not repair compliance by adding explanatory dialogue, visible reactions, narrator summaries or clipped stage-business. If hard truth is already preserved implicitly, leave it implicit.
-
-Classify new details after drafting. Texture, transient interactions and chapter-local life remain execution freedom. A promise, established prior event, custody change, future meeting, distinctive object fact or durable knowledge becomes a consequence-bearing delta and must be recorded outside prose.
-
-Self-editing is required; independent PASS belongs to review.
+Independent literary PASS belongs to review.
 
 ## Handoff
 
