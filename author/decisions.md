@@ -114,3 +114,39 @@ Phê duyệt này khóa chapter allocation, POV CH-02 và vị trí coda; chưa 
 - **Bản chất tri thức:** Cụ đồ (ông nội Khanh) năm 1996 từ chối làm đồ mã yểm đầm sen cho họ Vũ không phải nhờ bói toán hay thuật tiên tri trước tương lai 30 năm, mà xuất phát từ sự thấu suốt sâu sắc về quy luật Nhân Quả và cấm kỵ đạo đức của nghề làm đồ mã truyền thống.
 - **Ý nghĩa lời răn:** Dòng chữ *"Tuyệt đối không nhận lễ!"* ghi lại lời răn con cháu không được tiếp tay cho tà ý, không nhận lễ phi nghĩa của người sống mưu hại cõi âm. Lời răn 30 năm trước trở thành lời cảnh báo rợn gáy xuyên thời gian giáng xuống hiện tại: tiệm nhà Khanh đã vô tình phạm vào cấm kỵ khi nhận đơn hàng chiếc đài mùng 10 cho người chưa chết.
 
+## D-006 — Reset nguồn sinh dị tượng và khóa discovery-led manifestation (2026-09-22)
+
+**AUTHOR APPROVAL: APPROVED.** Chỉ thị trực tiếp của tác giả: các dị tượng từng được tạo trong prose test, workflow test, prototype hoặc workspace đã reset không còn là nguồn thiết kế cho manuscript hiện hành. Mỗi preflight phải tự reasoning để phát sinh dị tượng mới từ đời sống, môi trường vật chất, nghề nghiệp, thói quen, quan hệ và áp lực cụ thể của chương.
+
+### Canon backbone và manifestation
+
+Canon hiện hành tiếp tục khóa sự thật khách quan, chronology, supernatural source đang hoạt động, giới hạn/range của nguồn, character knowledge, reveal timing, durable state và các plot/clue fact đã được tác giả khóa.
+
+Những khóa đó KHÔNG tự quy định manifestation cụ thể. Uncanny anchor, sensory form, scare ecology và staging phải được khám phá mới trong preflight.
+
+### Supersede manifestation cũ
+
+Manifestation hoặc hướng cảnh cụ thể từng nằm trong D-002 câu 17–19, prototype, prose/workflow test, archive, rejected draft hoặc artifact đã reset:
+
+- không còn là thiết kế hiện hành;
+- không phải bank of possibilities;
+- không phải whitelist hoặc blacklist sáng tác;
+- không được preload, phục dựng, remix, paraphrase hoặc dùng làm điểm xuất phát cho discovery.
+
+Nếu decision lịch sử còn chứa manifestation cũ, phần đó chỉ tồn tại để truy vết lịch sử.
+
+### Clarification đối với D-004
+
+D-004 tiếp tục khóa kiến trúc CH-01/CH-02: CH-01 mở sáng 14; CH-02 hồi tưởng sáng mùng 10; chapter allocation, POV/reveal boundaries và nhu cầu CH-01 có một horror coda ngắn trong không gian gia đình Cường vẫn giữ hiệu lực.
+
+Yêu cầu cũ rằng coda phải dùng một "tiếng gọi" cụ thể bị D-006 supersede. Manifestation của coda được mở lại cho discovery-led preflight và phải mới, organic với ecology, source và reveal boundary hiện hành.
+
+### Registry semantics
+
+`plot/di-tuong-registry.md` chỉ ghi:
+
+1. manifestation đã thực sự xuất hiện trong manuscript canonized hiện hành; hoặc
+2. manifestation mà tác giả chủ động cấm trong project hiện hành.
+
+Không nhập manifestation từ archive, workflow/prose test, rejected prose, deleted workspace hoặc prototype đã reset. Registry trống nghĩa là creative space mở, không phải tín hiệu để truy ngược lịch sử tìm constraint.
+
