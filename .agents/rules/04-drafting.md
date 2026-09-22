@@ -28,17 +28,25 @@ A raw first pass must stand on its own as storytelling. Do not rely on the later
 
 Narration follows units of attention, thought, social pressure and physical activity rather than cutting automatically at each gesture or spoken turn. One paragraph may carry several linked actions, perceptions, memories or bits of talk when they belong to the same movement.
 
+During conversation, narration remains part of that same movement. It may stay with the speaker's work, the listener's partial attention, associative thought, indirect speech or a topic's drift without resetting into one gesture/interpretation sentence after every spoken line. A paragraph can carry speech and narration together for as long as one social or attentional movement lasts.
+
 Use scene, summary, connective narration and interiority according to what the episode needs. Ordinary activity may continue beneath conversation; a topic may disappear for a while and return; time may compress; context may be supplied directly when that is the cleanest telling.
 
 Sentence and paragraph length are consequences of narrative movement, not targets. The manuscript is not required to resemble chat rhythm or operational response style.
 
 ## Dialogue and social duration
 
-Generate speech from what the speaker is trying to do socially with this listener now: sell, complain, avoid, explain, gossip, instruct, defend, reminisce, hurry, save face, reduce trouble, or simply keep company.
+Generate conversation as a **social movement**, not as a balanced sequence of replies. Hold who currently owns the floor, why they keep or yield it, what else they are doing, what the listener is only half-attending to, and what relationship history makes a response unnecessary.
 
-A turn may be a word or several sentences. People may repeat themselves, digress, correct a detail, mix practical business with another topic, talk past one another, leave shared facts unstated, or continue working while speaking. Relationship and pressure decide turn shape.
+A speaker may keep the floor across several sentences while handling work, remembering something, correcting themselves, adding a side complaint, giving an instruction or folding another subject into the same stretch. One social move may contain several purposes at once. The listener may answer only one part, respond through action, interrupt late, let something pass, or return to it after the conversation has moved elsewhere.
 
-Do not compose dialogue by allocating packet information across speakers.
+Short turns remain natural when the situation produces them—shorthand, urgency, embarrassment, interruption, refusal—but brevity should not become the default merely because it is efficient. Relationship and pressure decide when speech expands, contracts, wanders or stops.
+
+Plot-relevant information does not automatically earn an immediate question, answer or reaction. Let useful facts arrive sideways through work, gossip, complaint, correction, memory or social friction, with residue left unresolved when the people have no reason to clean it up.
+
+Integrate narration with the conversation instead of using narration as stage direction between every line. Narration may remain inside the same social movement, summarize portions of talk, carry indirect speech, follow the viewpoint's drifting attention, or bridge a topic that vanishes and later returns.
+
+Do not compose dialogue by allocating packet information across speakers or by turning a revelation into an information ladder of successive prompts and answers.
 
 ## Human causality
 

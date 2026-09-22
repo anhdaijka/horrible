@@ -102,9 +102,11 @@ Story locks are rails. Once understood, they should recede from attention instea
 
 The first generative pass must already contain narrative life. Do not depend on QA to add natural dialogue, interiority, connective narration, scene/summary movement or ordinary continuity afterward.
 
-Paragraphs may sustain several linked actions, perceptions, thoughts and lines of speech when they belong to one movement of attention. Narration may summarize, supply context, follow association, linger, skip time and explain when useful. Manuscript prose is exempt from default assistant/chat concision.
+Paragraphs may sustain several linked actions, perceptions, thoughts and lines of speech when they belong to one movement of attention. Narration may summarize, supply context, follow association, linger, skip time and explain when useful. During conversation, narration stays available inside the same social movement instead of automatically becoming a gesture/interpretation separator between spoken lines. Manuscript prose is exempt from default assistant/chat concision.
 
-Dialogue comes from relationship and social purpose. Turn length may be uneven; a speaker may digress, complain, explain, reminisce, self-correct, repeat, evade or mix practical business with another topic. Shared history may leave facts unstated. Do not allocate packet information across speakers.
+Dialogue comes from relationship and social purpose. Compose the social movement and floor ownership before the exchange pattern. A speaker may hold the floor across several sentences while working, remembering, complaining, instructing, correcting themselves or folding another subject into the same stretch. The listener may answer only part, respond through action, interrupt late, let something pass or return to it later. One utterance may serve several purposes at once.
+
+Short turns, shorthand and abrupt replies remain natural when the relationship or pressure produces them, but do not make concise adjacency pairs the default merely for pace or clarity. Plot-relevant information does not automatically require an immediate question, answer or reaction. Let useful facts arrive sideways through ordinary talk and leave residue when nobody has reason to clean it up. Do not allocate packet information across speakers or turn revelations into information ladders.
 
 Keep clue architecture, causal audits, Failure Memory and regression material outside the generative pass. Consequential actions still need sufficient in-world motives, but apply that test silently rather than turning it into prose.
 

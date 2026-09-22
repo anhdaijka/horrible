@@ -22,27 +22,28 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 — B5 WRITER PACKET READY / FRESH-CONTEXT RAW TRIAL PENDING**
+**CH-01-v6 — B6 WRITER CONTRACT/PACKET READY / FRESH-CONTEXT RAW TRIAL PENDING**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
 - Existing complete candidate remains `CH-01-v6-C3`, bound to frozen B2.
 - B3 shop-opening trial remains a non-candidate diagnostic bound to frozen B3.
 - B4 raw ChatGPT trial was rejected for persistent compliance-shaped prose and was never stored as repo prose.
-- B4 active packet has now been frozen under `*-B4.md` provenance files.
-- Active Writer packet: **CH-01-v6-B5**.
-- B5 preserves the approved Q1–Q8 design and locked E1 engine exactly; it changes only Writer-facing projection under the patched positive-sufficiency compiler.
-- B5 compiler audit: **READY**.
-- Fresh-context prompt: `scene-trial-B5-fresh-context-prompt.md`.
+- B5 bounded raw ChatGPT trial was also rejected as diagnostic prose: E1/human causality held, but conversation still collapsed into short adjacency-pair volleys and narration repeatedly reset between turns. It was not stored as repo prose.
+- B5 packet remains frozen under `*-B5.md` provenance files.
+- Root Writer composition contract is patched for B6 around social-movement generation, sustained floor ownership, mixed-purpose speech, selective response and narration/dialogue integration.
+- Active Writer packet: **CH-01-v6-B6**. Story situation, E1 engine, chronology, reveal architecture and durable boundaries are unchanged from B5.
+- B6 compiler/contract audit: **READY**.
+- Fresh-context prompt: `scene-trial-B6-fresh-context-prompt.md`.
 
-Next action: in a NEW Project chat, run the bounded B5 raw opening trial from only `writing-brief.md`, `scene-ecology.md`, and `character-context.md` as story sources. Stop before/at the independent Chợ Bến routes colliding. Do not open QA or self-edit afterward.
+Next action: in a NEW Project chat, run the bounded B6 raw opening trial from only `writing-brief.md`, `scene-ecology.md`, and `character-context.md` as story sources. Stop before/at the independent Chợ Bến routes colliding. Do not open QA or self-edit afterward.
 
 ## Open design / verification gates
 
 - No new AUTHOR-DESIGN choice is open.
-- E1 remains locked; do not redesign the opening before testing B5.
+- E1 remains locked; do not redesign the opening before testing B6.
 - This chat is contaminated for a strict Writer trial because it has read preflight/audit/history.
 - C3 remains unreviewed B2 prose.
-- B3 and B4 trials are diagnostic only.
-- B5 trial must remain non-candidate.
+- B3, B4 and B5 trials are diagnostic only.
+- B6 trial must remain non-candidate.
 - Any complete rewrite still requires a new candidate identity and fresh reviews.
 - Canonization remains blocked.

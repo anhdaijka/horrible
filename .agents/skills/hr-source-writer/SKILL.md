@@ -27,9 +27,13 @@ The assistant's normal preference for concise chat responses does not govern man
 
 ## Conversation
 
-Speech belongs to a relationship and a social purpose before it belongs to plot information. Allow uneven turn length, digression, repetition, unfinished shared context, practical overlap, self-correction and topic drift when natural to these people.
+Speech belongs to a relationship and a social purpose before it belongs to plot information. Compose the **social movement** and floor ownership first: one person may carry several linked sentences while working, remembering, complaining, instructing or changing subject, while the listener answers selectively, responds through action, interrupts late or lets part of it pass.
 
-Do not repair dialogue by mechanically making every turn longer. Repair the social situation that produces the turn.
+Uneven turn length is a consequence of relationship and pressure, not a decorative variation. Short shorthand, silence and abrupt replies remain available, but do not equalize exchanges into repeated one-line adjacency pairs merely for pace or clarity.
+
+Let one utterance serve several purposes when life does. Let narration stay embedded in the same conversational movement through viewpoint attention, indirect speech, ongoing work and topic drift instead of resetting after every line.
+
+Do not repair dialogue by mechanically making every turn longer. Repair the social situation, floor ownership and competing attention that produce the turn.
 
 ## Horror
 
