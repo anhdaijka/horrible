@@ -1,6 +1,6 @@
 # Character context — CH-01-v6
 
-> Writer-safe people context for B9. Present life generates behavior; knowledge remains a boundary rather than a required line.
+> Writer-safe people context for B10. Present life generates behavior; knowledge remains a boundary rather than a required line.
 
 ## POV life at entry — Khanh
 
@@ -8,7 +8,7 @@ Khanh is 27 and only temporarily back in the family home after several years of 
 
 At home his default is physically loose rather than professionally composed. He can be sleepy, lazy, amused, petty, distracted, nostalgic, embarrassed or uninterested. His analytical/root-cause mode exists, but it is not always switched on. It sharpens when something genuinely refuses ordinary explanation; even then curiosity competes with inconvenience, family boundaries and the possibility that something is none of his business.
 
-Close-third may move associatively with him rather than turning his thoughts into polished deductions. His childhood fear of ghosts remains bodily memory, but adult fear need not announce itself through a fixed set of symptoms.
+Close-third may move associatively with him rather than turning his thoughts into polished deductions. His childhood fear of ghosts remains bodily memory, but adult fear need not announce itself through a fixed set of symptoms. His thoughts may stop at a concrete inconvenience, an unfinished comparison or a provisional ordinary explanation. He does not need to articulate the packet's reader-pressure logic for the reader to feel a mismatch.
 
 ## Relationships with history
 
@@ -51,7 +51,7 @@ Where an exact local pronoun, nickname, diminutive, honorific or classifier is n
 He can help because his mother asks, resist because he is home on a break, look for food/rest, do the easiest useful thing, become mildly embarrassed by local attention, postpone a question, or decide a practical explanation is enough for now. A strange fact may catch him without obligating him to pursue it.
 
 ### Bà Lan
-She wants the shop and household to function: customers served, money not lost, orders not mixed up, finished work dealt with, errands completed. Her strong customer memory is useful to commerce before it is useful to mystery. An unresolved radio is first an awkward shop responsibility occupying space and ownership, not a case to investigate.
+She wants the shop and household to function: customers served, money not lost, orders not mixed up, finished work dealt with, errands completed. Her strong customer memory is useful to commerce before it is useful to mystery. An unresolved radio is first an awkward shop responsibility occupying space and ownership, not a case to investigate. If she consults the order notebook, the immediate reason should belong to that responsibility—checking what has been promised, paid, assigned, collected or needs handling—not to a desire to establish mystery evidence.
 
 ### Lan Anh
 She wants to get through urgent family errands, reduce additional questions and responsibilities, and return to the household. Her refusal of the radio can be abrupt or socially awkward because her bandwidth is already consumed. She does not know the buried truth behind Thoa.
@@ -74,6 +74,8 @@ Khanh's speech at home can be casual and incomplete. He should not sound like th
 
 Lan Anh under pressure may still produce a coherent, socially shaped stretch of speech when she needs to refuse, explain a practical limit or reduce trouble; pressure does not require mechanically fragmented dialogue.
 
+Familiarity does not mean every tease or complaint becomes successful banter. Khanh or bà Lan may ignore a joke because their hands are busy, answer the wrong part, repeat themselves, give an unhelpful acknowledgment, or let a social bid die. A topic may dissolve without a punchline and later resume for a different reason.
+
 No target turn length applies. The governing question is whether social initiative has genuinely transferred, not whether another character has just spoken. No speaker is assigned packet information to verbalize.
 
 ## Knowledge / reveal edge
@@ -94,4 +96,4 @@ The household coda is objective/off-POV. No hidden reason becomes narrator knowl
 
 ## Targeted lived-context
 
-None. There is still no accepted/canonized preceding prose safe to use as a style seed. B5 compensates with concrete present-life, relationship and material context rather than importing rejected prose.
+None. There is still no accepted/canonized preceding prose safe to use as a style seed. B10 continues to rely on concrete present-life, relationship and material context rather than importing rejected prose.

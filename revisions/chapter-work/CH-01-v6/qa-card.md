@@ -41,6 +41,10 @@ Inspect the produced prose itself for:
 - thin POV attention despite available life/context;
 - narrator summaries that merely close or label what the scene already conveyed;
 - a scene whose ordinary activity exists only to escort mystery information.
+- hard facts being isolated into a visible reveal staircase of pause → question → answer → interpretation;
+- narrator/POV sentences that explain the intended dread after concrete consequence already made it legible;
+- dread existing mainly as remembered/declared unease while custody, work, etiquette, placement or route remain practically unchanged;
+- mother-son familiarity being over-smoothed into repeated successful banter where every setup receives a return.
 
 If the actual draft reproduces the B4 root signature, consult FM-014 only after diagnosis.
 

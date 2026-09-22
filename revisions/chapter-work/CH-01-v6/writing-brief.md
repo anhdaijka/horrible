@@ -1,6 +1,6 @@
 # Writing brief — CH-01-v6
 AUTHOR_GATE: APPROVED
-Approval basis: CH-01-v6-B9 / author receipt `Duyệt toàn bộ Q1–Q8`
+Approval basis: CH-01-v6-B10 / author receipt `Duyệt toàn bộ Q1–Q8`; B10 is a root-composition recompile of the same approved E1
 Character context: character-context.md
 Scene ecology: scene-ecology.md
 
@@ -16,14 +16,13 @@ Chợ Bến is already a destination for ordinary buying, selling and errands. B
 
 ## Reader pressure
 
-The reader should feel an ordinary morning becoming harder to explain without watching the characters assemble a case: first through a disturbing but fallible account of a sudden death, then through a fixed pre-death shop responsibility, then through social embarrassment and family secrecy, and finally through direct physical supernatural pressure.
+The reader should feel an ordinary morning becoming harder to place as different kinds of reality remain active at once: fallible death-news, fixed shop obligations created before the death, social embarrassment around ownership and family history, and later direct physical supernatural pressure. These do not need to present themselves as a clean escalation ladder or receive equal dramatic emphasis.
 
-The dread vector is a loss of confidence in ordinary categories rather than an increase in scare frequency. Death-news can initially remain fallible village testimony; the shop's finished object and handwritten order record belong to a harder mundane reality of stock, promises and customer responsibility. Once those realities sit together, the morning should not fully return to its earlier neutral baseline merely because work continues.
+The dread vector is a loss of confidence in ordinary categories rather than an increase in scare frequency. Death-news can remain incomplete village testimony while the shop's finished object, handwritten order record and customer responsibility belong to a harder mundane reality. Their relation may become legible unevenly: a fact can be available before anyone treats it as important, and work can continue without giving each mismatch a dedicated pause.
 
-The radio remains materially ordinary and performs nothing supernatural. Its pressure comes from continuing to be a real shop obligation whose recipient has just died and whose purchaser record does not yet fit into any usable explanation. It can be shifted, carried, ignored for a while or subordinated to errands without ceasing to burden the reader's sense of what kind of morning this is. By the movement toward Chợ Bến, ordinary commerce should still be functioning, but it is carrying something temporally and socially wrong into public space.
+The radio remains materially ordinary and performs nothing supernatural. Its pressure comes from staying inside real shop life after its social placement has become difficult: it occupies space, belongs to an already-paid custom obligation, has a named recipient who has just died, and can still require somebody to store, move, carry, hand over or bring back. Those practical consequences can keep the wrongness reader-visible without Khanh or the narrator explaining what the reader should feel.
 
-The reader may understand that several facts sit badly together before any character decides what they mean. Khanh does not need to sustain conscious fear or investigation for that pressure to remain active.
-
+By the movement toward Chợ Bến, ordinary commerce should still be functioning and the trip should still have reasons of its own. The unresolved object can enter that public circulation as one burden among other errands. The reader may understand that several facts sit badly together before any character decides what they mean; Khanh does not need to sustain conscious fear, investigation or a polished interpretation for that pressure to remain active.
 ## Concrete reality needed
 
 - The family shop is a long-established home-and-shop on a main road beside the Chợ Bến market crossroads in a fictional semi-urbanizing hometown. It sells ordinary stocked votive goods, handles custom orders and does limited finishing/customization; not every item is made in-house.
@@ -51,6 +50,8 @@ The reader may understand that several facts sit badly together before any chara
 The Writer owns the local route inside E1: exact shop work, transient customers, what Khanh is doing before he is pulled into work, how long talk lasts, what gets interrupted or abandoned, how bà Lan multitasks, what ordinary errand takes them toward Chợ Bến, scene/summary balance, connective narration, interior association, humor, irritation, silence and incidental problems.
 
 Information does not have to arrive cleanly or receive an immediate response. Shop work may swallow a topic for a while. A person may remember something late, answer only part of what was said, or care more about a practical problem than the reader does.
+
+Hard facts do not need solitary dramatic presentation. Their availability, the moment a character notices them, and the moment the reader connects them may be different. Let practical shop needs and competing attention determine when an order detail is handled rather than constructing a prompt-and-answer path toward it.
 
 ## Reveal edge / still unknown
 

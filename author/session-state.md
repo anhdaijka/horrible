@@ -22,7 +22,7 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 — B9 WRITER PACKET READY / FRESH-CONTEXT RAW TRIAL PENDING**
+**CH-01-v6 — B10 WRITER PACKET READY / FRESH-CONTEXT RAW TRIAL PENDING**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
 - Existing complete candidate remains `CH-01-v6-C3`, bound to frozen B2.
@@ -37,19 +37,22 @@ Tổng dung lượng bản thảo: 0 từ.
 - `workflow-audit-B8-conversational-floor-register.md` generalizes both defects at root rather than patching CH-01 only. Preflight packet compilation now emits relationship-specific floor continuity plus a kinship/address/register map; Writer generation must preserve floor initiative and actual relation/gender/generation/status without generic local-speech invention.
 - B8 was recompiled for conversational-floor and register accuracy but its fresh-context trial was intentionally not run. Before testing, author rereading of B7 identified a separate genre defect: the prose remained too easy to experience as an ordinary realist/mystery novel because horror pressure did not persist strongly enough after strange facts entered the movement.
 - `workflow-audit-B9-persistent-dread-pressure.md` confirms a root horror-pressure compression defect between discovery, packet compilation and Writer generation. The fix adds pressure propagation, packet-level dread continuity and persistent reader-facing residue while explicitly firewalling sustained movement, conversational floor, anti-investigator causality, ecology de-beating, ordinary life and register accuracy.
-- Active Writer packet: **CH-01-v6-B9**. It recompiles the same approved E1 under the new root horror-pressure contract. No manifestation, chronology, reveal architecture, supernatural mechanism, relationship, object state or durable story fact changes.
-- B9 snapshots: `writing-brief-B9.md`, `scene-ecology-B9.md`, `character-context-B9.md`. Fresh-context prompt: `scene-trial-B9-fresh-context-prompt.md`.
+- B9 snapshots remain frozen: `writing-brief-B9.md`, `scene-ecology-B9.md`, `character-context-B9.md`; its fresh-context prompt remains `scene-trial-B9-fresh-context-prompt.md`.
+- The bounded B9 ChatGPT raw trial was completed in Project chat and remains non-candidate/chat-only. It materially preserved B7 sustained movement, B8 floor/register gains and B9 dread residue, but independent author-requested review found four second-order root defects: reveal spotlighting, narrator/POV interpretation of intended dread, practical consequence under-realization, and over-smoothed conversational payoff.
+- `workflow-audit-B10-reveal-consequence-continuity.md` generalizes those defects at root. Preflight compilation now protects reveal distribution, consequence substrate and conversational roughness; Writer generation lets significance lag behind availability, prefers consequence-borne dread to explanatory summary, and permits social non-payoff without collapsing floor continuity.
+- Active Writer packet: **CH-01-v6-B10**. It recompiles the exact same approved E1 under the B10 root composition contract. No manifestation, chronology, reveal allocation, supernatural mechanism, relationship, object end-state or durable story fact changes.
+- B10 snapshots: `writing-brief-B10.md`, `scene-ecology-B10.md`, `character-context-B10.md`. Fresh-context prompt: `scene-trial-B10-fresh-context-prompt.md`.
 
-Next action: in a NEW Project chat, run the bounded B9 raw opening trial from only `writing-brief.md`, `scene-ecology.md`, and `character-context.md` as story sources. Stop before/at the independent Chợ Bến routes colliding. Do not open QA or self-edit afterward.
+Next action: in a NEW Project chat, run the bounded B10 raw opening trial from only `writing-brief.md`, `scene-ecology.md`, and `character-context.md` as story sources. Stop before/at the independent Chợ Bến routes colliding. Do not open QA or self-edit afterward.
 
 ## Open design / verification gates
 
 - No new AUTHOR-DESIGN choice is open.
-- E1 remains locked; B9 is a compiler/conditioning recompile, not a scene-engine redesign.
+- E1 remains locked; B10 is a compiler/conditioning recompile, not a scene-engine redesign.
 - B8 is frozen as an untrialed intermediate packet; do not run it now that B9 supersedes its next-test role.
 - This chat is contaminated for a strict Writer trial because it has read workflow/compiler/audit material.
 - C3 remains unreviewed B2 prose.
-- B3–B7 trials are diagnostic only.
+- B3–B7 and B9 trials are diagnostic only.
 - The next raw trial must remain non-candidate.
 - Any complete rewrite still requires a new candidate identity and fresh reviews.
 - Canonization remains blocked.

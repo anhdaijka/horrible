@@ -18,6 +18,8 @@ Shop time can be occupied by several mundane processes at once: selling stock, f
 
 Custom orders create ordinary residue after the customer leaves: a note, a promised pickup, a finished object taking up space, an unpaid balance or simply the shopkeeper's responsibility not to hand the wrong thing to the wrong family. These pressures exist independently of Cường's death.
 
+The blue order notebook can re-enter use whenever ordinary order work needs a recipient, pickup, payment, customization or handoff detail checked. It is not a mystery database and does not need to be opened in response to a chain of investigative questions. A finished custom object may likewise create mundane decisions about where it can sit safely, whether it is in the way, who is responsible for it, and whether carrying it during an existing errand solves or creates another practical problem.
+
 Local news travels through people who already have a reason to stop near the shop or speak with bà Lan. Tellers can be distracted, inaccurate, vivid about the wrong detail, interrupted by commerce, or satisfied after one anecdote. Other people can hear only fragments and continue with their own business.
 
 Market errands are not one mission. A trip can carry several unrelated purposes, and an object can be brought along because leaving it behind would create another practical problem. Nobody needs to arrange a meeting around the anomaly.
@@ -30,7 +32,7 @@ Khanh is not mentally on duty. Home puts him back inside family rhythms that can
 
 Bà Lan's attention is divided by practiced work. She can talk while her hands remain occupied, drop a subject when a customer needs something, remember an order because a practical task touches it, or postpone a strange question because the shop still needs running.
 
-Other people bring hunger, time pressure, money, transport, funeral errands, social obligations and their own curiosity into the same spaces. No conversation receives exclusive attention merely because the reader finds it important.
+Other people bring hunger, time pressure, money, transport, funeral errands, social obligations and their own curiosity into the same spaces. No conversation receives exclusive attention merely because the reader finds it important. An important name, date or object mismatch can become available without producing a room-wide pause; later activity may continue to coexist with it before anybody gives it sustained attention.
 
 ## Social field
 
@@ -44,18 +46,17 @@ Market bystanders may notice a public disagreement because they are physically n
 
 ## Horror pressure field
 
-A human account of Cường's body can be disturbing because of one concrete physical image while remaining hearsay. Its uncertainty matters: the shop does not need to certify or investigate it for the reader to carry the image forward.
+A human account of Cường's body can be disturbing because of one concrete physical image while remaining hearsay. The teller may be more certain about a vivid fragment than about its source, sequence or meaning. The shop does not need to certify, investigate or ceremonially react to the account for the reader to retain it.
 
-The shop's fixed pre-death responsibility has a different kind of persistence. The paper radio is physically mundane and must not emit sound, move or otherwise perform, but it exists as finished stock tied to a named recipient and a handwritten order. Shop labor cannot simply make that combination unreal. The object, ledger entry, promised handoff and question of custody remain available as ordinary carriers of wrongness while customers are served and other work continues.
+The shop's fixed pre-death responsibility has a different kind of persistence. The paper radio is physically mundane and must not emit sound, move or otherwise perform, but it exists as finished stock tied to Vũ Văn Cường, a mùng-10 order and purchaser Vũ Thị Thoa. Those facts can become available through ordinary shop handling without being arranged as successive dramatic reveals.
 
-This pressure should survive attention drift without requiring repeated supernatural events. A joke, sale, meal, interruption or practical explanation can coexist with the mismatch without fully discharging it. The radio can remain first and foremost an awkward shop responsibility while its timing and ownership become increasingly difficult for the reader to domesticate.
+Once the combination is present, pressure can travel through practical consequence. The radio has awkward volume but little weight; it needs somewhere safe to sit, somebody remains responsible for a paid custom order, handling can threaten the fragile antenna, and taking it into public space can create etiquette, recognition and handoff problems. The blue notebook, the object, the paid obligation and later custody are ordinary things whose jobs have become harder to classify. Work may continue around them without restoring their previous meaning.
 
-Chợ Bến can extend that pressure socially because the object enters a denser field of trade, recognition and partial hearing. The market is not a staged audience and the route is not an investigation; ordinary errands carry the unresolved object toward public exposure.
+Nothing here requires Khanh to formulate why the situation is frightening. He can be distracted, mildly curious, practically helpful or satisfied with a provisional explanation while the reader keeps the unresolved timing, purchaser and custody in view. A joke, sale, meal or interruption may occur inside that altered condition without functioning as a reset.
 
-The later public refusal can make a private impossibility socially dangerous without anyone solving it.
+Chợ Bến extends the same pressure through density rather than staging. Existing errands carry people and objects into a field of trade, recognition, partial hearing and social obligation. The radio may simply be one more thing that has to be carried while its presence becomes harder to place. The later public refusal can make a private impossibility socially dangerous without anyone solving it.
 
 At Cường's house, a mundane carried object can repeatedly meet resistance in visibly empty, approximately human-sized space near the death site. The horror comes through altered physical work: people cannot use the route as if it were empty.
-
 ## Local invention
 
 Transient customers, ordinary purchases, minor shop mistakes, meals/drinks, packaging, transport inconveniences, family requests, market purchases and temporary moods are free when consistent with the field above.
