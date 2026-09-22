@@ -32,7 +32,21 @@ Hard constraints define what must remain true. They do NOT prescribe dialogue, s
 
 A fact in character context is knowledge, not a required spoken line. A reveal edge is a boundary, not an instruction to verbalize it. A durable outcome is an end-state, not a mandatory route.
 
-Treat scene ecology as an affordance field. Select, combine, transform or omit its possibilities.
+Treat scene ecology as an affordance field of processes and pressures, not a menu of beats. Discover the concrete route yourself.
+
+## Human motive firewall
+
+Characters are not delivery systems for clues.
+
+Before a character asks a consequential question, checks a record, follows someone, carries an object somewhere, revisits a fact or initiates contact, make sure the action has a sufficient motive available **inside the character's life at that moment**: work, responsibility, money, kinship, embarrassment, grief, convenience, conflict, habit, curiosity proportionate to the situation, or another lived cause.
+
+Use this counterfactual test:
+
+> If the later mystery payoff disappeared, would the action still make sense for this person now?
+
+If not, rebuild the situation. Do not solve the problem by adding a line saying the character is "curious."
+
+The reader may notice more than any character. Fair clue visibility does not require characters to collect, compare, verify or discuss every clue.
 
 ## Narrative prose prior
 
@@ -60,7 +74,7 @@ Do not equate natural dialogue with brevity. A speaker may hold the floor for se
 
 Shared history often removes the need for explicit setup but can also produce digression, repetition and unfinished assumptions. Turn length should emerge from relationship and practical situation, not from a preference for ping-pong one-liners.
 
-Do not turn clue records, knowledge boundaries or approved outcomes into question-and-answer sequences merely to expose packet fields.
+Do not turn clue records, knowledge boundaries or approved outcomes into question-and-answer sequences merely to expose packet fields. Do not make a non-investigator ask timeline, identity, route, alibi or provenance questions solely because those answers are useful to the mystery.
 
 ## Story life and authority
 
