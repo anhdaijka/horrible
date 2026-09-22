@@ -1,6 +1,6 @@
 # Character context — CH-01-v6
 
-> Writer-safe relationship/knowledge context. Knowledge is not a required line, question, reaction or visible proof.
+> Writer-safe relationship, motive and knowledge context. Knowledge is not a required line, question, reaction, confession or visible proof.
 
 ## Relationships and address
 
@@ -18,58 +18,63 @@
 
 ## People beyond the plot
 
-Khanh has a life and work routine outside the village. At home he can be sleepy, lazy, amused, mildly petty, distracted or simply not interested in turning every oddity into a case.
+Khanh has a life/work routine outside the village. At home he can be sleepy, lazy, amused, mildly petty, distracted or simply uninterested.
 
-Bà Lan has a shop to run. Customers, prices, stock, packing and household errands can matter to her at the same time as gossip or an unsettling order.
+Bà Lan has a shop to run. Customers, prices, stock, pickup obligations and errands can matter more to her in the moment than a strange story.
 
-Lan Anh's day is crowded by sudden death and errands. She is not present to serve as a mystery witness.
+Lan Anh's day is crowded by sudden death and practical duties. She is not present to provide mystery testimony.
 
-Toàn is grieving/managing household pressure while hiding dangerous knowledge. He need not behave suspiciously in every moment.
+Toàn is grieving/managing household pressure while hiding dangerous knowledge. He need not perform suspicion in every moment.
+
+## Ordinary motive baseline
+
+### Khanh
+Plausible causes of action: helping because his mother asks, avoiding work, hunger, family shorthand, embarrassment, ordinary village familiarity, or curiosity only when something genuinely refuses an easy explanation.
+
+He has no role-based reason to reconstruct Cường's movements, establish who knew what when, identify witnesses, or trace purchaser provenance.
+
+### Bà Lan
+Plausible causes: serving customers, completing/picking up orders, resolving ambiguous ownership/custody, avoiding shop mistakes, money, convenience, family errands and ordinary gossip.
+
+Her problem with the radio is first a **shop responsibility problem**. She has no natural reason to investigate Cường's death timeline or family secret.
+
+### Lan Anh
+Plausible causes: finish errands, reduce questions, protect household bandwidth, follow/contest family expectations, get home, refuse additional responsibility.
+
+### Toàn
+Plausible causes: keep household functioning, contain exposure, protect himself/family, grieve, redirect practical attention. His fear may shape choices without turning his speech into confession.
+
+### Bystanders
+Plausible causes: gossip, correction, social positioning, boredom, trade, sympathy, skepticism. They do not owe the scene a complete factual account.
 
 ## Conversational ecology
 
 ### Khanh ↔ bà Lan
-They have mother-son shorthand and do not need to exchange information in clean turns. Bà Lan can keep the floor while working, fold an instruction into gossip, abandon a sentence for a customer, return to it later, or answer a question by telling Khanh to do something else. Khanh may answer with a longer complaint, tease, argue lazily, let her win, or stop listening until something genuinely catches.
-
-Their familiarity allows omission of setup, but does not require brevity.
+Mother-son shorthand. Either may hold the floor, complain, digress, abandon a topic for work, circle back later or let a matter drop. Familiarity does not require brevity.
 
 ### Bà Lan ↔ customers / market people
-Local commerce and gossip can occupy the same stretch of speech. A customer may tell a story with unnecessary family/location detail, correct herself, repeat what "người ta bảo", then abruptly return to price or goods. Bà Lan may listen while counting money, challenge one detail, ignore another, or reply practically rather than philosophically.
+Commerce and gossip overlap. People may tell stories badly, remember irrelevant detail, correct themselves, disagree, lose interest or return to price/work.
 
 ### Bà Lan ↔ Lan Anh
-There is enough local/trade familiarity for politeness without formality. Lan Anh under pressure may give a longer practical explanation to close the interaction instead of answering every question separately. Bà Lan need not interrogate her.
+Local/trade familiarity allows practical politeness. Neither needs to conduct an interview.
 
 ### Lan Anh ↔ Toàn
-They are spouses under acute pressure, not strangers exchanging evidence. Shared household context permits unfinished references, topic shifts and assumptions. Toàn may evade by talking more—giving practical reasons, redirecting to household work, minimizing, asking about exposure, or burying the dangerous subject inside something ordinary. Evasion does not require clipped speech.
+Spouses under acute pressure. Shared context permits unfinished references, topic shifts and assumptions. Toàn may evade through ordinary practical talk or longer justification; evasion does not require clipped speech.
 
 No exact line, catchphrase or turn pattern is prescribed.
-
-## Agency outside the case
-
-Khanh may help, postpone curiosity, joke, get annoyed, accept an ordinary explanation temporarily or decide something is not his business.
-
-Bà Lan may prioritize a customer, money, an order or an errand over discussing the mystery.
-
-Lan Anh may leave, refuse an object, explain enough to end a conversation, redirect attention or focus on getting home.
-
-Toàn may evade, lie, shut down a topic, keep working, redirect his wife or give an ordinary practical rationale for silence.
 
 ## Knowledge and viewpoint
 
 ### Khanh — main POV at shop/market
 He does not know the 1996 truth, that Thoa is dead, Toàn's night-13 scuffle, the clean-nails anomaly or supernatural killer truth.
 
-He may learn the death report and order facts in CH-01. He does not need to articulate every inference.
-
 ### Bà Lan
-She personally handled the mùng-10 transaction. CH-01 may use only what the present practical situation requires; CH-02 owns the full experiential replay.
+She personally handled the mùng-10 transaction. CH-02 owns the full experiential replay.
 
 ### Lan Anh
-She knows Cường is dead and the immediate household crisis available to her. She does **not** know Thoa's actual fate or buried 1996 truth.
-
-Not knowing Thoa does not require her to ask who Thoa is, and it does not require any particular visible reaction.
+She knows Cường is dead and the immediate household crisis available to her. She does not know Thoa's actual fate or buried 1996 truth.
 
 ### Toàn
 He knows the family secret that makes the name **Vũ Thị Thoa** dangerous to him. He does not know that Thoa supernaturally killed Cường.
 
-Because the household coda is objective/off-POV, his underlying reason remains unknown to the reader. Recognition may emerge through whatever outward behavior feels natural; no fixed line or reaction is required.
+The household coda is objective/off-POV; his underlying reason remains unknown to the reader.
