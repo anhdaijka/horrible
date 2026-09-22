@@ -81,24 +81,28 @@ Toàn kể mình vừa về và thấy bố nằm đó. Lan Anh giữ áo vì ho
 - Không có băng âm thanh giải án 1996.
 - Bút tích 1996 của cụ đồ (C-12) xuất phát từ sự thấu suốt quy luật Nhân Quả, không phải bói toán tiên tri.
 
-## Bảng nguồn dị tượng — chỉ dành cho tác giả
+## Bảng nguồn siêu nhiên và ranh giới tiết lộ — chỉ dành cho tác giả
 
-| Giai đoạn | Nguồn | Phạm vi và cách kể |
+> Bảng này khóa SOURCE / ONTOLOGY / REVEAL, không khóa manifestation. Không dùng các dòng dưới đây như prompt bank cho dị tượng.
+
+| Giai đoạn | Nguồn siêu nhiên | Ranh giới hiện hành |
 |---|---|---|
-| Trước khi Cường chết | Thoa | Đơn hàng; cuộc chạm trán đêm 13. Cảnh chạm trán đầy đủ để sau reveal; không gọi người mua là ma sớm. |
-| P2–P4 | Cường | Tiếng cào, bước chân/giọng vô nguồn, hiện diện trong nhà, cản Thủy. Không bắt mọi tiếng nước/băng thành mã định danh linh hồn. |
-| P1–P5 | Chưa định danh cho độc giả | Radio giấy/âm thanh gắn quá khứ có thể tạo câu hỏi, không xác nhận Thoa chết hay đang ám. |
-| Sau cổng P6 | Thoa | Radio, đầm và tên bị xóa được tái nghĩa, có xác nhận siêu nhiên đối với độc giả. |
-| Chi tiết không mang reveal | Có thể không quy nguồn | Môi trường và động vật được có chức năng cảm giác riêng; không cần biến mọi hiện tượng thành clue. |
+| Trước khi Cường chết | Thoa | Thoa thực sự liên quan đến đơn hàng và cái chết của Cường theo canon tác giả. Không để hình thức hiện diện làm lộ sớm việc Thoa đã chết hoặc toàn bộ cơ chế báo oán. |
+| P2–P4 | Cường | Cường là supernatural pressure chính quanh gia đình/không gian và quan hệ gắn với ông. Không toàn tri, không tùy ý tiếp cận mọi nơi, dữ liệu hoặc tri thức. Manifestation cụ thể để mở cho từng preflight. |
+| P1–P5 | Có thể chưa định danh cho độc giả | Có thể có trải nghiệm bất khả giải nhưng manifestation không được vô tình xác nhận Thoa chết, hung thủ siêu nhiên hoặc truth gate dành cho P6. |
+| Sau gate P6 phù hợp | Thoa | Có thể xác nhận supernatural truth theo reveal architecture đã khóa. Manifestation cụ thể vẫn phải discovery ở chapter tương ứng. |
+| Hiện tượng không mang reveal | Không bắt buộc quy nguồn | Môi trường có thể tạo cảm giác, ma sát hoặc bất an mà không cần mọi chi tiết thành clue hoặc mã nhận dạng linh hồn. |
 
-Trùng tang là cách cộng đồng hiểu hồn Cường, không phải quy luật phổ quát. Cường vẫn mang tính chiếm hữu/đổ lỗi sau khi chết; việc Thoa giết ông không biến ông thành oan hồn vô tội hoặc tự động xóa lịch sử gây hại.
+Các supernatural source boundaries trên là điều kiện thiết kế, không phải danh sách hiệu ứng. Không suy ra một nguồn phải có "signature manifestation" cố định vì workflow test cũ từng dùng nó.
+
+Trùng tang là cách cộng đồng có thể diễn giải hiện tượng, không phải quy luật supernatural phổ quát. Cường vẫn mang lịch sử chiếm hữu/đổ lỗi sau khi chết; việc Thoa giết ông không biến ông thành oan hồn vô tội hoặc xóa trách nhiệm khi sống.
 
 ## Sáu chặng thông tin
 
 | Phase | Công việc tự sự | Điều kiện ra khỏi chặng |
 |---|---|---|
 | P1 — Lời hứa kinh dị | Đơn có trước cái chết; tên Thoa; vật mẫu cá nhân và đời sống tiệm. | Người đọc nắm nghịch lý đủ sức kéo tiếp; chưa biết án 1996. |
-| P2 — Tang gia bị xâm nhập | Haunting Cường, người thấy/người phủ nhận, gia đình chịu sức ép thủ tục và tang. | Dị tượng có hậu quả hành động; không chỉ ảnh thờ đổi mặt rồi cú vỗ vai. |
+| P2 — Tang gia bị xâm nhập | Supernatural pressure của Cường xâm nhập đời sống gia đình trong lúc họ còn phải xử lý tang, thủ tục và xung đột người sống. | Manifestation tạo hậu quả đủ thực cho hành động, quan hệ hoặc khả năng sinh hoạt; không chỉ là một scare rời rạc. |
 | P3 — Tội lỗi trần thế | Cho thấy hành vi giấu/hủy, nợ và áp lực đất qua nhiều POV. | Độc giả có mảnh hơn Khanh; chưa có confession toàn bộ. |
 | P4 — Thoa có thể còn sống | Ký ức mất tích, hồ sơ chưa xác định chết, CCTV và người biết gia đình. | Giả thuyết có thể bị kiểm tra; thiếu khai tử không được coi là bằng chứng còn sống. |
 | P5 — Các lời giải cụ thể thất bại | Ngoại phạm Thủy được kiểm chứng; phần ẩu đả và che giấu của Toàn/Lan Anh lộ. | Phân biệt tội người sống với cái chết chưa giải thích; chưa nhảy từ “loại hai người” sang “chỉ có ma”. |
@@ -118,15 +122,23 @@ Cường có tình thương thật với con, đồng thời gây hại và bóc
 
 Khanh chịu sức ép vì đơn hàng của tiệm: lời đồn, khách hủy và người khuyên giữ kín; vẫn có người bênh tiệm. Anh chọn bảo toàn thông tin/cung cấp đúng nơi, trả giá bằng quan hệ và công việc, không tự nhận quyền điều tra. Mai vẫn là bạn thuần túy.
 
-## Giới hạn và các hướng cảnh haunting đã duyệt
+## Giới hạn siêu nhiên và discovery-led manifestations
 
-Cường gắn với nhà/quan hệ quen thuộc, không toàn tri về nơi hay dữ liệu chưa tiếp cận. Thoa không sửa được hồ sơ, ký ức và quyết định người sống. Những giới hạn này phải được tôn trọng cả khi giải quyết đoạn kết.
+Cường gắn với không gian, con người và quan hệ quen thuộc thuộc phạm vi supernatural source đã khóa. Ông không toàn tri về nơi, dữ liệu hoặc sự kiện ngoài phạm vi ấy.
 
-Dấu hiệu riêng của Cường là giọng gọi, đợi được đáp rồi gọi lại theo thói quen kiểm soát lúc sống. Có cảnh ban ngày hơn một người nghe từng phần nhưng hiểu khác; có cảnh Toàn định đáp/lên cầu thang, Lan Anh giữ lại rồi tiếng gọi chuyển sang cô. Không nhét mọi manh mối vào cùng một cảnh. Hậu quả: mất chỗ ngủ an toàn, phải đi cùng nhau hoặc không làm được việc thường ngày.
+Thoa không sửa được hồ sơ, ký ức hay quyết định của người sống. Reveal liên quan đến Thoa phải tuân theo các gate P1–P6/G6 đã khóa.
 
-Động vật/im lặng/lạnh là lựa chọn, không báo ma bắt buộc. Nghi lễ có thể tạm gắn kết người sống mà chưa giải hết haunting; thực hành cụ thể cần nguồn. Body horror dùng ít chi tiết có hậu quả, không góc cổ cố định hoặc biến động vật thành máy đo ma.
+Các giới hạn này là ontology boundaries. Chúng không quy định manifestation.
 
-D-004 khóa thứ tự kể mở đầu: CH-01 mở sáng 14 với tin ông Cường xóm Trại chết và đơn đặt từ khi còn sống, rồi kết bằng coda tiếng gọi ngắn ở nhà Cường; không dùng toàn cảnh cầu thang. CH-02 dành trọn cho hồi tưởng sáng mùng 10 trong limited POV bà Lan, không quay lại ngày 14 ở cuối chương. Hồi tưởng phải cho độc giả trải nghiệm/thông tin mới từ cuộc nhận đơn, không chỉ diễn lại tên/ngày. Timeline thực tế giữ nguyên. Radio giấy chưa hoàn thiện trong cảnh đặt đơn. Không ép cảnh đủ số giác quan/clue/POV.
+Mỗi chapter preflight phải khám phá manifestation mới từ scene ecology cụ thể: môi trường vật chất, quy trình đang diễn ra, công việc/sinh hoạt, thói quen, quan hệ, nghĩa vụ, áp lực xã hội và giới hạn tri giác của chapter đó.
+
+Không đọc archive, rejected prose, workflow/prose test hoặc decision-history manifestation để tìm ý tưởng, biến thể hay anti-example. Dị tượng mới không cần lặp một sensory channel, cơ chế hoặc "signature scare" cố định giữa các chương. Tính liên tục của supernatural source đến từ ontology, consequence và relationship, không từ việc tái dùng cùng hiệu ứng.
+
+Nghi lễ cụ thể vẫn cần cultural-reality verification khi đưa vào cảnh. Body horror hoặc environmental horror chỉ dùng khi organic với ecology và có hậu quả tự sự; không có quota.
+
+D-004 tiếp tục khóa CH-01 mở sáng 14 và CH-02 hồi tưởng sáng mùng 10. CH-01 vẫn kết bằng một horror coda ngắn trong không gian gia đình Cường để bắc P1 sang mép P2, nhưng manifestation của coda KHÔNG còn bị khóa là "tiếng gọi". CH-01 preflight phải discovery manifestation mới.
+
+CH-02 dành trọn cho hồi tưởng sáng mùng 10 trong limited POV bà Lan, không quay lại ngày 14 ở cuối chương. Timeline khách quan giữ nguyên. Radio giấy chưa hoàn thiện trong cảnh đặt đơn.
 
 ## Ending-state sheet
 
