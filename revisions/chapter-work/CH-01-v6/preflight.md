@@ -1,10 +1,12 @@
 # Internal preflight — CH-01-v6
 
-Consequential authority-basis ID: **CH-01-v6-B1**
+Consequential authority-basis ID: **CH-01-v6-B2**
 
 ## Authority and approval
 
 Design gate: **RESOLVED**.
+
+Packet revision note: B2 changes only the **generative projection/compiler** after the author-approved workflow audit. It does not change Q1–Q8 story design, canon, chronology, reveal architecture, relationships, supernatural ontology or durable state. B1 is preserved for C1/C2 provenance.
 
 Author receipt: `Duyệt toàn bộ Q1–Q8`, recorded in `design-discussion.md`.
 
@@ -140,6 +142,7 @@ Creative readiness: chapter contains independent shop/market/household life, esc
 ## Handoff
 
 Workspace: `revisions/chapter-work/CH-01-v6/`  
-Packet basis: `CH-01-v6-B1`  
-Candidate status: none yet.  
-Next operation: `/hr-write CH-01-v6`.
+Packet basis: `CH-01-v6-B2`  
+Existing candidate: `CH-01-v6-C2` remains bound to frozen B1 and is not re-based.  
+Active packet for any future rewrite: `CH-01-v6-B2`.  
+Next writing operation, if requested: create a new candidate from B2; do not overwrite/rebase C2.
