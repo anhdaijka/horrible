@@ -79,10 +79,10 @@ This internal file may state objective truth. Reader-facing material before the 
 
 Referred to in narration and dialogue as `ông Cường` or `bác Cường` according to speaker relationship.
 
-## Family complexity and haunting signature — D-002
+## Family complexity and post-death boundary — D-002 / D-006
 
 Cường genuinely cared for Toàn as well as controlling him; warm memories must coexist with wrongdoing, not erase it. His wife (Toàn’s mother) died years before 2026, after their son reached adulthood. No further murder, name, year or cause is implied.
 
-His haunting works through familiar calls, pauses and repeated demands: family may obey by habit before recognizing the impossibility. It is tied to the household and familiar relationships, not omniscient control at any distance. Daytime partial witnesses and a later Toàn–Lan Anh stairway encounter are approved directions; the full latter beat does not belong in CH-01’s brief coda.
+Post-death, Cường is tied to the household and familiar relationships and is not omniscient at arbitrary distance. D-006 supersedes historical concrete manifestation/signature directions: no familiar-call, pause/repeat, partial-witness or stairway pattern is mandatory current design. Each chapter preflight must discover the concrete manifestation from current ecology within the active source/reveal boundary.
 
 An observable final confrontation/withdrawal is required, but its exact cause and manifestation remain to be designed before P6. A confession or ritual is not automatically a magic switch.
