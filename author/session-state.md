@@ -22,26 +22,27 @@ Tổng dung lượng bản thảo: 0 từ.
 
 ## Current next action
 
-**CH-01-v6 CANDIDATE — AWAITING LITERARY REVIEW**
+**CH-01-v6 CANDIDATE C2 — REVISED / AWAITING AUTHOR INSPECTION**
 
 - Active workspace: `revisions/chapter-work/CH-01-v6/`.
-- Candidate: `CH-01-v6-C1`.
-- Prose: `draft.md`.
-- SHA-256: `59eaf7663c1468d3513953a5ed9e54401a3db25a1752bc56b231cf3d46922155`.
+- Candidate: `CH-01-v6-C2`.
+- Prose: `draft-r1.md`.
+- SHA-256: `9941eabad79be08dcd567e6fc9ade25862bee491c3f43cd5a7801ecbb4267350`.
 - Scope: complete chapter.
 - Consequential authority-basis ID: `CH-01-v6-B1`.
-- Writer generative pass: completed.
-- Writer QA/self-edit pass: completed.
+- Writer generative pass: completed on C1.
+- Author-directed dialogue revision: completed on C2.
+- Revision self-edit/audit: completed.
 - Independent literary review: NOT RUN.
 - Safety review: NOT RUN.
 - Author acceptance: NOT REQUESTED.
 - Manuscript canon state remains 0 chapters.
 
-Next action: `/hr-review CH-01-v6` using blind intake from `candidate.md` + complete `draft.md` before packet/handoff/context.
+Next action: author inspects C2 prose. If accepted for review, run fresh `/hr-review CH-01-v6` using `candidate.md` + complete `draft-r1.md` before packet/handoff/context.
 
 ## Open design / verification gates
 
 - No design gate blocks review.
-- Candidate has no literary or safety PASS yet.
+- Candidate C2 has no literary or safety PASS yet; any C1 identity is superseded for active review.
 - Writer run occurred in the same ChatGPT conversation as Preflight; prior conversational exposure is disclosed in `writer-handoff.md`. This does not affect a genuinely independent reviewer if that reviewer has fresh context.
 - Canonization remains blocked until fresh literary PASS, fresh safety PASS, explicit author acceptance and approved durable-state diff.
