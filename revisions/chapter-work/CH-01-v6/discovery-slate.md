@@ -1,181 +1,195 @@
-# Discovery slate — CH-01-v6
+# Discovery slate — CH-01-v6 / B4 execution engine
 
-Status: INTERNAL DISCOVERY — REVISED AFTER AUTHOR STEERING  
+Status: INTERNAL DISCOVERY — POST-APPROVAL HUMAN-CAUSALITY REASONING  
 Chapter: CH-01  
 Workspace: `revisions/chapter-work/CH-01-v6/`  
-No prose. No Writer packet.
+No prose. No new author-design choice.
 
-## Authority basis
+## Authority boundary
 
-Current active basis:
-- `author/session-state.md`
-- D-003, D-004, D-005, D-006 in `author/decisions.md`
-- Case Zero arc
-- Case Zero clue/epistemic matrix
-- current Khanh / bà Lan / Lan Anh / Toàn / Cường profiles
-- `plot/di-tuong-registry.md`
-- `research/verified/case-zero-mechanics-audit-v1.md`
+Q1–Q8 remain approved exactly as recorded in `design-discussion.md`.
 
-Current author exception for THIS preflight:
-- archived workflow-test Chapters 1–2 may be read for timeline handling, manifestation ideas and cinematic technique;
-- archive remains non-canon and cannot silently restore superseded truth;
-- author now specifically asks to mine oral horror/body-horror potential from the death news.
+This slate changes only **execution causality** inside that approved design:
+- morning 14;
+- Khanh limited POV at shop/market;
+- oral death horror precedes order recontextualization;
+- public Chợ Bến refusal remains;
+- Toàn recognizes the name Thoa and suppresses it;
+- radio returns to shop custody;
+- objective household coda retains the approved body-sized obstruction.
 
-## Fixed current truth
+No canon, reveal, relationship or supernatural rule changes.
 
-1. Objective timeline: order mùng 10 → Cường dies night 13 → order is recontextualized morning 14.
-2. CH-01 opens morning 14 at the family votive shop; Khanh is the main cognitive anchor.
-3. CH-01 surfaces C-01/C-10 at P1 level: Vũ Văn Cường, order date mùng 10, paper radio, purchaser name Vũ Thị Thoa.
-4. D-005 requires a public Chợ Bến encounter: bà Lan brings the radio; Lan Anh is on funeral errands; she refuses it publicly; the scene becomes gossip that later reaches Long independently of the family.
-5. CH-02 retains the full mùng-10 flashback in limited bà Lan POV.
-6. Reader must not learn in CH-01 that Thoa died in 1996, that she killed Cường, or the full 1996 truth.
-7. CH-01 ends with a short objective/off-POV household coda bridging P1→P2.
-8. Cường is the early domestic haunting source; manifestation remains open under D-006.
-9. Registry is OPEN.
-10. Lan Anh does NOT know the buried 1996 truth or Thoa's real fate. Toàn DOES know the family secret around Thoa and is the person whose recognition/gag order makes the name dangerous.
+## Failure being repaired
 
-## Canon correction after author feedback
+B3 improved prose rhythm but still produced authored scene causality:
 
-Previous discovery overstated Lan Anh's reaction as evidence that the name Thoa itself was socially charged for her.
+- death gossip behaved like evidence delivery;
+- bà Lan/Khanh drifted toward investigation;
+- the radio was effectively staged to collide with death news;
+- Chợ Bến risked becoming a verification trip;
+- concrete ecology suggestions acted as soft beats.
 
-Correct model:
-- Lan Anh can be horrified/confused by the impossible pre-death order and may refuse the radio for that reason.
-- Her refusal does not prove recognition of Thoa.
-- Toàn's later overt reaction to the name is the first family behavior that may tell the reader the name touches a buried secret.
-- Market witnesses see an impossible order/refusal; they need not know why the purchaser name matters.
+B4 repair target:
 
-## Archive reading — retained craft value
+> Mystery contaminates actions that already have sufficient ordinary causes.
 
-Useful:
-- daylight horror;
-- ordinary work interrupted by impossible timing;
-- hard recontextualization;
-- sound bridge / hard cut;
-- pull-back or decentered observation;
-- horror carried through a concrete object rather than exposition.
+Counterfactual test for every consequential action:
 
-Not restored as canon:
-- no-shadow purchaser;
-- cold stairwell;
-- watching-object prose;
-- archived panic choreography;
-- archived ritual/trade claims without verification.
+> If the later mystery payoff disappeared, would this person still have sufficient reason to do this now?
 
-## Revised scene engine
+## Rejected execution engines
 
-### Engine A2 — Oral death horror → fixed record → public refusal → family secret → direct haunting [RECOMMENDED]
+### R1 — Radio already foregrounded when death news arrives
+The radio is already in Khanh's hands / immediate attention before the death story.
 
-### Entry: shop life + oral horror
+**Reject:** even if technically plausible, the object is staged to await the mystery cue. The scene reads as setup → trigger → clue.
 
-Morning shop traffic brings news of Cường's death before the order paradox is discovered.
+### R2 — Death news causes immediate ledger lookup
+Bà Lan hears Cường died and immediately checks whether the shop has an order for him.
 
-The death enters through **oral horror**, not forensic exposition. A local customer/person coming from xóm Trại recounts what people are saying about the discovery:
-- Cường was found below/near the stairs;
-- the head/neck reportedly looked grotesquely misaligned or "wrong";
-- the teller may use vivid vernacular language.
+**Reject:** she has no ordinary reason to search shop records for a newly dead villager. This is investigator drift.
 
-Hard boundary:
-- this is attributed testimony/gossip, not narrator-certified forensic fact;
-- no fixed angle;
-- no exact cause;
-- no exact time of death;
-- no claim that the injury could/could not be caused by a living person;
-- no autopsy result.
+### R3 — Bystander notices Cường's label
+A customer/visitor spots the recipient name and triggers the discovery.
 
-The point is reader experience: death already has a disturbing physical shape before the impossible order appears.
+**Reject:** bystander becomes a clue-delivery device. The customer would exist mainly to expose the anomaly.
 
-### Turn: record horror
+### R4 — Follow-up questions about Cường's last movements/death sequence
+Bà Lan or Khanh asks who saw him, when, where he went, what happened earlier.
 
-Ordinary shop handling exposes the mùng-10 order for Vũ Văn Cường.
+**Reject:** ordinary gossip does not supply sufficient motive for timeline reconstruction.
 
-The horror now changes category:
-- oral report can distort;
-- the order book/date/name are materially stable;
-- someone apparently commissioned a death-object before the death.
+### R5 — Chợ Bến trip exists to verify the radio
+Bà Lan/Khanh go to the market specifically to find Lan Anh and resolve the mystery.
 
-The radio becomes frightening because of timing, not because it performs a trick.
+**Reject:** removes the independent life cause. The trip collapses if clue payoff is removed.
 
-### Public consequence: Chợ Bến
+## Surviving opening engine
 
-Bà Lan takes the finished radio to Chợ Bến as a practical delivery/clarification task.
+### E1 — Routine → interruption → routine resumes → practical order problem → incidental public collision
 
-Lan Anh:
-- does not recognize Thoa's buried truth;
-- understands only that an impossible/custom order exists for her father-in-law;
-- refuses it publicly because the situation is disturbing, suspicious and socially dangerous amid funeral errands.
+This engine passes the human-causality counterfactual.
 
-The crowd sees enough to create gossip. No one needs to solve the mystery.
+### Process 1 — Shop life precedes mystery
 
-### Family-secret pressure
+The shop is already operating before Cường becomes narratively important.
 
-After returning home, Lan Anh tells Toàn about the order and purchaser name.
+Orders, pickup obligations, customers, cash, packaging, stock and household overlap generate their own demands. Khanh helps because he is home and bà Lan uses available family labor.
 
-Toàn's visible reaction changes the meaning:
-- he recognizes the name as dangerous;
-- he forbids Lan Anh from repeating it;
-- narration does not reveal why.
+The Cường radio is not foregrounded as a special object at entry. It may physically exist among ordinary finished work, but no character or narration selects it for mystery value.
 
-This is human secrecy, not supernatural explanation.
+**Counterfactual:** fully survives with no ghost/murder plot.
 
-### Direct supernatural coda
+### Process 2 — Death news intrudes through ordinary social traffic
 
-Replace the earlier selective-acoustic recommendation with a more physical ecology-led manifestation:
+A person who already has a reason to be at/near the shop carries the news as village talk while ordinary business continues.
 
-**Body-sized obstruction at the death site.**
+The teller may supply one memorable grotesque bodily image, but no complete death chronology or witness statement is required.
 
-During ordinary household movement/preparation, people carry or move a mundane object through the ground-floor route near where Cường was found. The object repeatedly stops, deflects or has to pivot around an apparently empty human-sized volume although the passage is visibly clear. More than one person feels the same physical resistance.
+Bà Lan/Khanh may respond socially, but do not reconstruct Cường's movements or circumstances.
 
-No apparition. No voice. No cold spot. No call-response pattern.
+**Counterfactual:** sudden local death would still be discussed during trade.
 
-Reader experience: the house behaves as though a body is still occupying the place where the dead man is no longer visible.
+### Process 3 — Routine resumes
 
-Practical consequence: people alter the route / stop using that passage.
+Death talk does not immediately trigger the order discovery.
 
-This is provisional manifestation design pending Q5 approval.
+Work absorbs attention again. Time may pass through scene or summary. Other customers/tasks may intervene without becoming clue machinery.
 
-## Why this is stronger horror
+Purpose: separate the two causal streams so the later collision feels discovered rather than staged.
 
-The chapter escalates across four different horror registers:
+### Process 4 — Ordinary order handling reaches Cường's order
 
-1. **oral body horror** — death acquires a grotesque remembered image;
-2. **temporal horror** — a stable record implies preparation before death;
-3. **social/family horror** — rumor spreads while Toàn tries to suppress one name;
-4. **direct supernatural horror** — the dead man's absence gains physical volume inside his house.
+A shop operation that would occur anyway—handling finished orders/pickups/storage/payment/space—brings the existing Cường order into practical relevance.
 
-No single anomaly has to carry the whole chapter.
+The reason to consult the ledger, if consulted, is business uncertainty: pickup date, ownership/custody, payment/order identification, or avoiding a shop mistake.
 
-## Reader-detective field — corrected
+It is not opened to investigate death.
 
-Surface:
-- Cường died suddenly overnight;
-- attributed oral account says the discovered body/neck looked grotesquely wrong;
-- order date mùng 10;
-- recipient Vũ Văn Cường;
-- purchaser name Vũ Thị Thoa;
-- paper radio exists by morning 14;
-- Lan Anh publicly refuses it;
-- Toàn, not Lan Anh, reacts as though the name Thoa is dangerous;
-- market witnesses are sufficient for gossip to reach Long later.
+The fixed record then becomes disturbing **to the reader and characters as a consequence of routine**, not because anyone sought a clue.
 
-Withhold:
-- Thoa died in 1996;
-- why Toàn recognizes/fears the name;
-- Thoa's objective identity as purchaser/killer;
-- Toàn–Cường fight and scratches;
-- C-03 clean nails;
-- Thủy's campaign mechanics;
-- formal forensic conclusions.
+**Counterfactual:** the same shop handling would occur if Cường were alive.
 
-## Cultural / forensic safety
+### Process 5 — Practical problem, not case formation
 
-The oral corpse description must remain testimony/gossip. The verified research does not authorize a fixed neck angle or diagnostic conclusion.
+The first live problem is:
 
-Do not import archive claims about khâm liệm timing, point-eye taboos, disposal rules or universal vàng-mã practice.
+> What does the shop do with a completed custom order for a recipient who has just died?
 
-## Revised provisional selection
+Bà Lan's concern remains responsibility/custody/customer handling.
 
-ENGINE A2 is strongest.
+Khanh need not query every field. The reader can register date/name/object without characters enumerating why each matters.
 
-It preserves D-004/D-005, keeps CH-02 valuable, corrects Lan Anh's epistemic state, and makes horror arise from the collision of body, record, social transmission and domestic supernatural pressure.
+The purchaser name **Vũ Thị Thoa** need not be emphasized in the opening shop scene merely because it exists in the ledger. Its later emergence must have a practical/social reason.
 
-Pending revised Q1–Q8 author approval.
+### Process 6 — Chợ Bến remains an independent destination
+
+Bà Lan/Khanh have an ordinary reason to go to Chợ Bến independent of the radio anomaly.
+
+The exact errand remains Writer execution freedom. It need not become a subplot.
+
+The unresolved radio may accompany them because it is an outstanding shop responsibility, but the trip must still make sense if no mystery exists.
+
+They do not need to find Lan Anh. If they fail to meet her, the errand still succeeds/fails on its own terms and the radio can be handled later.
+
+### Process 7 — Public collision is incidental
+
+Lan Anh is independently at Chợ Bến on her own errands.
+
+The encounter occurs because two ordinary routes cross in a public place, not because one side tracks the other.
+
+Once the custom radio becomes relevant to Lan Anh, she has a direct personal reason to refuse it / ask enough to understand what is being handed to her. Public witnesses arise from market ecology, not staged testimony.
+
+This preserves D-005 while passing the motive test.
+
+## Counterfactual receipt
+
+| Consequential action | Mystery removed | Result |
+|---|---|---|
+| Shop opens / Khanh helps | still happens | PASS |
+| Customer/local person mentions sudden death | still plausible social talk | PASS |
+| Shop returns to work | still happens | PASS |
+| Finished orders are handled | still happens | PASS |
+| Ledger consulted for shop responsibility if needed | still happens | PASS |
+| Bà Lan has reason to go to market | must still happen independently | REQUIRED PASS |
+| Lan Anh is at market | already independently motivated by errands | PASS |
+| Radio brought along | must remain a practical custody/customer-service choice, not investigation | PASS CONDITION |
+| Lan Anh refuses custom item for dead father-in-law | still plausible even absent deeper mystery | PASS |
+| Bystanders hear/retell | follows public social setting | PASS |
+
+## Reader-detective architecture — INTERNAL ONLY
+
+Preflight/QA retains these dependencies; they are **not Writer tasks**:
+
+- death body description remains attributed testimony;
+- mùng-10 order facts remain fairly available;
+- reader can notice the temporal contradiction without character-led investigation;
+- public Chợ Bến exposure can seed later gossip to Long;
+- Lan Anh does not know the Thoa truth;
+- Toàn's later behavior carries different epistemic weight;
+- CH-02 retains the full mùng-10 experiential replay.
+
+Do not project this section into generative context.
+
+## Selection
+
+**SELECT E1.**
+
+Reason:
+- all major movement has an independent lived cause;
+- death news and order handling begin as separate processes;
+- clue visibility becomes a by-product of routine;
+- Chợ Bến is a collision of independent errands;
+- Khanh/bà Lan do not need investigator behavior;
+- approved Q1–Q8 outcomes remain intact.
+
+## Readiness for bounded scene trial
+
+READY for a **shop-to-market-transition trial only**, with these limits:
+
+- no full chapter;
+- no reuse of B3 scene-trial staging;
+- no QA loaded during generation;
+- stop before or at the point the independent Chợ Bến routes are about to collide;
+- evaluate motive/causal naturalness before prose polish or chapter scaling.
