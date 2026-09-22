@@ -1,25 +1,33 @@
 # QA card — <chapter>
-Open only after a complete generative draft exists. This file is not part of the generative writer context.
+Open only after a complete generative draft exists. This file is not part of generative Writer context.
 
 - Consequential authority-basis ID:
 - Candidate scope expected:
 
 ## Hard truth verification
-Only facts, chronology, knowledge/reveal limits, relationships, world rules and durable state whose violation would make the candidate false. Cite precise source sections.
+Only facts, chronology, knowledge/reveal limits, relationships, world rules and durable state whose violation would make the candidate false.
+
+A missing explicit line/reaction is not a defect if the truth remains intact.
 
 ## Consequence-bearing dependencies
-Only where competing readings would materially change later knowledge, obligation or durable consequence. State the contradiction to avoid, not required wording or a required visible reaction.
+Only where a competing reading would materially break later knowledge, obligation or durable state. State the contradiction to avoid, not required wording/staging.
 
-## Horror and reader-detective contract
+## Horror / mystery integrity
+Check that the approved disturbing experience and fair evidence survived.
 
-Only chapter-specific risks: the disturbing experience/question that must survive, observable evidence that must remain fair, and any reveal that must remain unconfirmed. Do not prescribe a scare, deduction, clue count or character reaction.
+Do not require the draft to reproduce a numbered escalation, exact scare cadence, named technique or preflight sequence unless the author explicitly locked that execution.
 
-## Plot-dominance risk
+## Human-life / plot-dominance diagnosis
+Ask whether people still behave as people with work, relationships and pressures, or whether they have become information couriers.
 
-Record only a demonstrated risk from this design, such as every person becoming an information courier or ordinary activity disappearing once exposition starts. The self-edit question is whether human life and material reality still exert pressure—not whether the draft contains a mandatory subplot, interruption or page of slice-of-life.
+Do NOT repair plot dominance by inserting filler dialogue, errands or visible reactions solely to prove "life."
 
-## Demonstrated regression mechanisms
-Carry only unresolved mechanisms observed in prior prose: symptom, consequence and observable counterexample. Do not copy rejected prose, prescribe the former repair or anticipate hypothetical style defects.
+## Targeted regression diagnosis
+Only after seeing the draft, name actual suspected mechanisms. If one matches Failure Memory, open only that relevant FM entry.
+
+Do not preload or paste old rejected prose into Writer context.
 
 ## Self-edit boundary
-Protect strengths discovered in the generative draft. Ordinary silence, compression, direct speech, nonreaction and local texture need no defense. Record new cross-scene obligations separately; do not turn them into mandatory prose explanation.
+Self-edit must not add explanatory dialogue, narrator recap or visible compliance signals merely to satisfy packet fields. Protect indirectness, silence, humor, ordinary nonreaction and local texture when they do not break hard truth.
+
+Record new cross-scene obligations separately.
