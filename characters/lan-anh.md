@@ -69,8 +69,10 @@ Referred to in narration and dialogue as `Lan Anh` or `chị Lan Anh` according 
 
 Usually soft and deferential around elders, but capable of abrupt practical decisions under pressure. Dialogue should remain natural rather than mechanically breathless or fragmented.
 
-## Chosen trajectory — D-002
+## Chosen trajectory — D-002 / D-005 / CH-01-v6 author steering
 
-Lan Anh comes directly to the shop on morning 14 in CH-01. She buys/prepares goods; this is not proof of body release or completed funeral rites. She returns before the short household coda.
+On morning 14, Lan Anh is handling funeral-related errands and encounters bà Lan/Khanh with the custom paper radio publicly at Chợ Bến. This market encounter replaces the older direct-shop CH-01 staging. Her refusal is driven by the impossible pre-death order and the pressure of the situation; she does NOT recognize the buried truth behind the name Thoa.
+
+After she reports the purchaser name at home, Toàn is the character whose disproportionate reaction shows that the name touches a hidden family secret. He forbids her from repeating it to outsiders. Lan Anh still does not know Thoa's actual fate or the 1996 objective truth.
 
 Her husband’s mother died years earlier, after Toàn became an adult; do not invent a hidden mother-in-law plot. After the loyalty-driven concealment, Toàn asks her to attest an unwitnessed fact. She refuses. This choice costs something in their marriage and family position; it does not erase the shirt destruction or turn her into an instant detective.
