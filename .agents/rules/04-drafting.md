@@ -1,25 +1,64 @@
 # Drafting
 
-Verify from the handoff that the design gate is current, not AWAITING_AUTHOR or superseded. A stale packet is not writing authorization. The drafting operation then has two context-separated phases.
+Verify from the handoff that the design gate is current, not AWAITING_AUTHOR or superseded. A stale packet is not writing authorization. Drafting has two context-separated phases.
 
-**Generative pass:** read writing-brief.md, scene-ecology.md, character-context.md, `docs/failure-memory.md` and relevant accepted preceding prose. Do not open discovery-slate.md, preflight.md, qa-card.md, rejected scene engines, regression history, reviews, full directives or the style bible. Write the complete scene/chapter as people whose lives were already moving when the disturbance arrived. Follow the truth boundaries projected into the brief, but do not write explanations merely to prove compliance.
+## Generative pass
 
-**Self-edit pass:** only after a complete draft exists, read qa-card.md and its named hard-source excerpts. Repair actual contradictions, continuity failures and demonstrated regression mechanisms while protecting what is alive in the draft. Do not retrofit every optional hypothesis into the prose. Anti-regression check: compare each newly written or revised passage against the anti-pattern signatures in `docs/failure-memory.md`. If a passage shares the structural signature of a rejected pattern (narrator explaining why X is important/hidden, narrator recapping actions just shown, technical jargon from outside the character's world, narrator revealing information reserved for later chapters, unmotivated action staged to display a clue), it is a regression — rewrite before delivery.
+Read only:
 
-The writer may choose momentary preferences, practical actions, mistaken assumptions, warmth, tact, irritation, concessions and local consequences consistent with established character. Cooperation, direct speech and ordinary kindness need no hidden agenda. Agency means a choice affects what follows, not that everyone interrogates or wins.
+- `writing-brief.md`;
+- `scene-ecology.md`;
+- `character-context.md`;
+- relevant accepted preceding prose;
+- explicitly named safe lived-context excerpts.
 
-Treat scene ecology as an affordance field, not a beat sheet. Select, combine, transform or omit its possibilities. You may invent transient customers, errands, work complications, minor social encounters and chapter-local events when they fit the place and people. They do not need to become clues, symbols or subplots. If an invention creates a durable cross-scene obligation, record it after drafting; do not suppress the scene in advance merely because it might matter.
+Do NOT open or preload:
 
-Narration may summarize routine work, supply useful relationship context, enter the approved viewpoint and vary distance. Dialogue may be long or short. Neither fragments nor decorative body reactions make it natural. Do not turn a clue record into an exchange merely to display every field.
+- `discovery-slate.md`;
+- `preflight.md`;
+- `qa-card.md`;
+- `docs/failure-memory.md`;
+- rejected engines/prose;
+- regression history;
+- reviews;
+- full directives;
+- style bibles;
+- generic craft skills;
+- named craft lexicons unless the author explicitly makes one part of the chapter design.
 
-The main plot should enter, deform or recontextualize ordinary life rather than replace it. A quiet scene can still be horror when a precise impossible fact contaminates familiar work, kinship or memory. Preserve observable clue surfaces for the reader, including facts that characters overlook or misread, but do not explain the intended deduction or make every incidental detail evidence.
+The generative pass must inhabit a living situation, not answer an audit.
 
-Preserve approved outcome, durable relationships/state, chronology, knowledge and world rules. Rebuilding scene execution within those boundaries is authorized when drafting/revision is requested. A changed plot decision or relationship trajectory requires the author.
+Hard constraints in the Writer packet define what must remain true. They do NOT prescribe dialogue, sentence shape, gesture, reaction, micro-order, beat count or a visible proof of compliance unless the author explicitly locked that execution choice.
 
-Before handoff, self-edit the whole candidate against the Negative Craft Matrix in `docs/playbooks/literary-quality.md`: eliminate all full-name references in ordinary narrative (use given name + kinship/social role only), eliminate POV head-hopping (keep secondary characters observable from the anchor viewpoint only), eliminate pseudo-intellectual tell / sociological jargon, eliminate purple prose, and eliminate AI cinematic fade-out endings. Use qa-card.md to test only dependencies whose failure would change knowledge, obligation or durable consequence. Correct defects you find while preserving intentional compression, silence, ambiguity and ordinary nonreaction. Self-editing is required; independent PASS belongs to review.
+A fact appearing in character context is knowledge, not a required line of dialogue. A reveal edge is a boundary, not an instruction to verbalize it. A durable outcome is an end-state, not a mandatory route.
 
-Do not add dialogue or interior explanation merely to defend routine work against an imagined objection. When the packet establishes an ordinary family, trade or social baseline, the prose may let that baseline remain implicit. Retrospective horror can arise from a normal action acquiring a later meaning; the character need not anticipate that meaning for the action to be credible.
+Treat scene ecology as an affordance field. Select, combine, transform or omit its possibilities. You may invent transient customers, errands, work complications, minor social encounters, local misunderstandings, warmth, irritation, mistakes and chapter-local consequences consistent with current people/place.
 
-Classify new details after drafting. Texture, transient interactions and chapter-local life that end inside the scene remain execution freedom; a promise, established prior event, custody change, future meeting, distinctive object fact or durable knowledge is a consequence-bearing delta and must be recorded outside the prose for later review. Do not ask approval for ordinary life merely because it is not in the main plot.
+Dialogue may be long, short, indirect, interrupted, repetitive, evasive, affectionate, awkward or plain. Natural speech is not produced by a quota of fragments, filler, hidden agendas, aggression or body beats. Do not turn a clue record, knowledge boundary or approved outcome into a question-and-answer sequence merely to expose fields to the reader.
 
-Write clean prose only. Keep the locator-only candidate identity separate from writer-handoff and findings so a literary reviewer can read blind. Preserve existing candidates before writing a replacement; update session-state to the actual next operation.
+The main plot should enter, deform or recontextualize ordinary life rather than replace it. Preserve observable clue surfaces without explaining the intended deduction or making every incidental detail evidence.
+
+Preserve approved purpose/outcome, chronology, durable relationships/state, knowledge/reveal order and world rules. Rebuilding execution inside those boundaries is Writer authority. A changed plot decision, relationship trajectory, supernatural rule or durable state requires the author/canon gate.
+
+## Self-edit pass
+
+Only after a complete draft exists:
+
+1. open `qa-card.md`;
+2. open only its named hard-source excerpts as needed;
+3. inspect the actual draft for contradictions, knowledge leakage, dropped obligations and demonstrated craft failures;
+4. use literary diagnostics only on defects that actually appear.
+
+`docs/failure-memory.md` is **targeted post-draft diagnostic evidence**, not generative context. Do not read it wholesale by default. Open only the relevant FM entry(s) when the draft shows a suspected recurring mechanism or when the author/reviewer names one.
+
+Likewise, `docs/playbooks/literary-quality.md` and craft lexicons belong to self-edit/review diagnosis, not pre-generation recipe selection.
+
+Self-edit must not "repair" compliance by adding explanatory dialogue, visible reactions or narrator summaries. If a hard truth is already preserved implicitly, leave it implicit.
+
+Classify new details after drafting. Texture, transient interactions and chapter-local life remain execution freedom. A promise, established prior event, custody change, future meeting, distinctive object fact or durable knowledge becomes a consequence-bearing delta and must be recorded outside prose.
+
+Self-editing is required; independent PASS belongs to review.
+
+## Handoff
+
+Write clean prose only. Keep locator-only candidate identity separate from writer-handoff/findings. Preserve previous candidates before replacement and update session-state to the actual next operation.
