@@ -7,7 +7,7 @@ Open only after a complete generative draft exists.
 ## Hard truth verification
 
 Check against:
-- `author/decisions.md` — D-003, D-004, D-005, D-006;
+- `author/decisions.md` — D-003, D-004, D-005, D-006, D-007;
 - `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`;
 - `plot/case-zero-clue-and-epistemic-matrix.md`;
 - `plot/timeline.md`;
