@@ -1,13 +1,46 @@
 ---
-description: Horrible preflight with character-grounded context and versioned handoff.
+description: Horrible preflight with discovery-led manifestations, mandatory author steering, canon-impact audit and versioned handoff.
 ---
 
 # /hr-preflight <chapter>
 
-Read .agents/skills/hr-source-preflight/SKILL.md and follow its role instructions.
+Read `.agents/skills/hr-source-preflight/SKILL.md` and follow its role instructions.
 
-First compare author intent with inherited design, then perform divergent discovery in `discovery-slate.md`: life already moving, materially different scene engines, ghost-horror experience and reader-detective affordances. Select for literary/horror potential rather than validation convenience. Execution-level ENGINE selection is autonomous when it does not change POV, Phase scope, reveal order, or supernatural source. If the selection changes ANY of those, or if a structural flaw forces a redesign, save design-discussion.md with viable tested options, ask the author and stop at AWAITING_AUTHOR. Do NOT generate the packet before author selection.
+Start from current canon backbone and current lived context, not historical manifestations.
 
-After engine selection, create `design-discussion.md` with the structured Author Validation Questionnaire (Q1-Q8 minimum groups). Fill proposals, mark AWAITING_AUTHOR and STOP. Only after author confirmation, test consequence-bearing causal hinges and cross-chapter dependencies, record truth + creative READY evidence and the consequential authority basis, then build internal preflight.md; generative writing-brief.md + scene-ecology.md + character-context.md; and separate qa-card.md. Keep rejected engines and regression/safety material out of generative context. Update every active handoff surface to the actual gate, not automatically to write.
+Perform divergent discovery in `discovery-slate.md`:
 
-Shared details: docs/playbooks/horrible-craft-review.md. No current PASS transfers to changed prose.
+- life already moving;
+- materially different scene engines;
+- physical/material ecology;
+- relationship, work and social pressure;
+- reader-detective affordances;
+- supernatural source / ontology / reveal boundaries.
+
+Generate manifestation possibilities by reasoning from those conditions.
+
+Do not load, recover or consult manifestations from workflow tests, prose tests, rejected drafts, deleted workspaces, archive or superseded anomaly examples as inspiration, templates, variation targets or blacklist.
+
+Only after ecology-led candidates exist may you check `plot/di-tuong-registry.md` and current canonized prose for mechanism-level reuse.
+
+Select a provisional engine. Rejected engines and rejected manifestation candidates remain internal and never enter Writer generative context.
+
+Then create `design-discussion.md` with the mandatory Q1–Q8 Author Steering Questionnaire. Fill every group with source-grounded proposals, mark `AWAITING_AUTHOR`, and STOP. No Writer packet yet.
+
+After the author responds:
+
+1. record the receipt;
+2. classify consequential answers as `CONFIRM_EXISTING`, `CHAPTER_DESIGN`, `CANON_DELTA` or `EXPLICIT_SUPERSEDE`;
+3. run canon-impact audit.
+
+Audit behavior:
+
+- `CLEAN` → continue automatically; no ceremonial second approval;
+- explicit X → Y → keep Y and audit downstream effects; do not re-ask X versus Y;
+- unresolved collateral conflict → mark `AWAITING_RECONCILIATION`, present only those choices, and STOP.
+
+After all collateral conflicts are resolved, synchronize durable canon changes into authoritative sources and update consequential authority basis when affected. Keep chapter-local design local.
+
+Only then test consequence-bearing causal hinges and cross-chapter dependencies, record truth + creative readiness, and build internal `preflight.md`; generative `writing-brief.md` + `scene-ecology.md` + `character-context.md`; and separate `qa-card.md`.
+
+Update active handoff/state surfaces to the actual gate. No current PASS transfers to changed prose or changed consequential authority.
