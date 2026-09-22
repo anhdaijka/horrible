@@ -23,15 +23,31 @@ The approval settles CH-01 purpose, morning-14 presentation, POV, character emph
 
 ## Discovery receipt
 
-Selected engine: **oral death horror → fixed order record → public Chợ Bến refusal → Toàn's name-recognition/gag order → short domestic physical haunting**.
+Selected B4 execution engine:
 
-Why selected:
-- lived motion comes from shop work, local traffic, market errands and household movement;
-- horror escalates across body, time, social transmission and direct supernatural consequence;
-- reader receives fair evidence without promoting Khanh into investigator;
-- CH-02 retains the full mùng-10 transaction.
+**routine shop life → ordinary death-news interruption → routine resumes → ordinary order handling reaches Cường's order → practical shop problem → independent Chợ Bến errand → incidental public collision**
 
-Selection required author steering and is now approved.
+This replaces the stale execution-level A2 sequencing while preserving every approved Q1–Q8 outcome.
+
+Human-causality basis:
+- the shop runs independently of Cường's death;
+- death news enters through ordinary social traffic and does not trigger investigation;
+- order handling would occur even if Cường were alive;
+- any ledger lookup serves shop responsibility, not death reconstruction;
+- Chợ Bến must remain an independent destination, not a verification mission;
+- Lan Anh's market presence is independently motivated by her own errands;
+- public exposure follows from two ordinary routes crossing.
+
+Counterfactual receipt: **PASS**, with one continuing execution condition: carrying the radio to Chợ Bến must remain a practical custody/customer-service choice, not the reason the market trip exists.
+
+Rejected execution routes:
+- foregrounding the radio before death news;
+- death news causing immediate ledger search;
+- bystander spotting the Cường label to trigger discovery;
+- Khanh/bà Lan reconstructing Cường's last movements;
+- trip to Chợ Bến existing specifically to verify the anomaly.
+
+No rejected route enters Writer context.
 
 ## Invariants
 
@@ -50,45 +66,54 @@ Selection required author steering and is now approved.
 ## Life–haunting–mystery weave
 
 Life already moving:
-- bà Lan is running a busy family shop;
-- Khanh is temporarily home and helping rather than seeking a case;
-- local people pass news while doing ordinary market/shop business;
-- Lan Anh is on funeral-related errands;
+- bà Lan is running a shop whose customer/order/pickup processes have their own causes;
+- Khanh is temporarily home and available as family labor, not seeking a case;
+- local death news can pass through ordinary commerce without becoming testimony collection;
+- bà Lan/Khanh have an independent market reason before the radio problem matters there;
+- Lan Anh is independently at Chợ Bến on family errands;
 - Cường's household is trying to keep ordinary movement/tasks going under sudden death pressure.
 
-Haunting contamination:
-- oral news gives the death a disturbing bodily shape;
-- the ledger turns rumor into a stable temporal contradiction;
-- Chợ Bến turns private unease into public gossip;
-- Toàn's reaction reveals family suppression;
-- the coda makes an apparently empty space physically obstruct household movement.
+Mystery contamination:
+- oral news changes the emotional meaning of an otherwise ordinary morning;
+- after life resumes, routine order handling independently encounters the Cường order;
+- the fixed record creates a contradiction without anyone needing to investigate it;
+- the unresolved custom order becomes a shop/custody problem;
+- independent market routes cross publicly, allowing the anomaly to become social;
+- Toàn's later behavior adds hidden-family pressure;
+- the coda gives absence a direct physical consequence in the house.
 
-Reader-detective field:
-- death report is testimony and may distort;
-- ledger date/name/object are stable;
-- Lan Anh's refusal signals alarm at the impossible order, not secret recognition;
-- Toàn's reaction to the name carries a different epistemic weight.
-
-Atmosphere/human life need not become clues.
+Reader-detective architecture stays internal to Preflight/QA:
+- testimony may distort;
+- the shop record does not;
+- public exposure can spread;
+- Lan Anh/Toàn carry different knowledge;
+- characters need not enumerate or pursue these contrasts.
 
 ## Consequence-bearing hinges and dependencies
 
-### H1 — Oral death account
-Perception: Khanh hears a vivid local account.  
-Available inference: death was physically disturbing.  
-Consequence: the later order discovery lands against an already embodied death image.
+### H1 — Death news enters ordinary trade
 
-Counter-reading: teller exaggerates. This does not alter durable truth because the account is explicitly testimony, not forensic authority.
+Perception: Khanh hears locally circulating news while shop/social traffic is already happening.  
+Available inference: the death was sudden and, through attributed telling, physically disturbing.  
+Human cause: the teller is already present/nearby for ordinary reasons; bà Lan/Khanh do not reconstruct the death.  
+Consequence: later routine shop work occurs under a changed emotional context.
+
+Counterfactual: sudden local death would still be discussed even without the later mystery. PASS.
 
 Classification: EXECUTION inside approved boundary.
 
-### H2 — Chợ Bến refusal
-Perception: Lan Anh sees the custom radio/order connection publicly.  
-Knowledge: she knows Cường died after the order date; she does not know Thoa's buried truth.  
-Choice: refuses the radio.  
-Consequence: witnesses gain a strange story that later reaches Long.
+### H2 — Routine order handling creates the practical contradiction
 
-Classification: approved chapter design + source-grounded D-005 consequence.
+Perception: ordinary pickup/order/storage work reaches the completed Cường order after the death-news interruption has passed.  
+Human cause: the shop would process the order regardless of mystery; any ledger consultation resolves business uncertainty.  
+Available inference: reader/characters can register that the order predates the death without forming an investigative chain.  
+Consequence: the shop now has an unresolved custom-order/custody problem.
+
+Counterfactual: if Cường were alive, the same order-handling process would still occur. PASS.
+
+The later Chợ Bến encounter must arise from an **independent market errand plus this outstanding shop responsibility**, not from a verification mission.
+
+Classification: EXECUTION inside approved D-005 boundary.
 
 ### H3 — Toàn's reaction
 Perception: Lan Anh reports purchaser name Thoa.  
@@ -115,13 +140,13 @@ Classification: approved CHAPTER_DESIGN.
 
 ## Projection sufficiency
 
-`writing-brief.md` carries purpose, truth/reveal edge, selected horror pressure and custody outcome without audit history.
+`writing-brief.md` carries minimum truth/end-state plus human-causality boundaries, without a clue checklist.
 
-`scene-ecology.md` offers shop/market/household forces rather than beats.
+`scene-ecology.md` carries only shop/market/household processes, pressures and material conditions; it does not suggest clue-trigger micro-events.
 
-`character-context.md` projects only current relationships/knowledge needed for writing and excludes future Case Zero solutions.
+`character-context.md` projects relationships, ordinary motive baselines, conversational ecology and current knowledge while excluding future Case Zero solutions.
 
-`qa-card.md` holds hard-source checks, forensic attribution rule and reveal/custody verification.
+`qa-card.md` alone carries reader-detective dependencies, forensic attribution, investigator-drift checks and reveal/custody verification.
 
 ## Verification
 
@@ -137,12 +162,13 @@ Classification: approved CHAPTER_DESIGN.
 
 Truth readiness: current authority synchronized; no unresolved contradiction or knowledge leak.
 
-Creative readiness: chapter contains independent shop/market/household life, escalating horror across distinct registers, and a fair mystery field without overdetermining prose.
+Creative readiness: B4 opening engine passes the human-causality counterfactual; shop/order/market movement has independent lived causes, while clue architecture remains outside Writer context.
 
 ## Handoff
 
 Workspace: `revisions/chapter-work/CH-01-v6/`  
 Packet basis: `CH-01-v6-B4`  
-Existing candidate: `CH-01-v6-C2` remains bound to frozen B1 and is not re-based.  
-Active packet for any future rewrite: `CH-01-v6-B4`.  
-Next writing operation, if requested: create a new candidate from B2; do not overwrite/rebase C2.
+Existing complete candidate: `CH-01-v6-C3` remains bound to frozen B2 and is not re-based.  
+B3 shop-opening trial remains diagnostic and bound to frozen B3.  
+Active packet / execution engine for the next trial: `CH-01-v6-B4` / E1 human-causal opening engine.  
+Next operation: bounded B4 shop-to-market-transition scene trial; do not overwrite or rebase earlier candidates/trials.
