@@ -150,3 +150,14 @@ Yêu cầu cũ rằng coda phải dùng một "tiếng gọi" cụ thể bị D-
 
 Không nhập manifestation từ archive, workflow/prose test, rejected prose, deleted workspace hoặc prototype đã reset. Registry trống nghĩa là creative space mở, không phải tín hiệu để truy ngược lịch sử tìm constraint.
 
+## D-007 — CH-01-v6 durable steering deltas (2026-09-22)
+
+**AUTHOR APPROVAL: APPROVED.** Receipt: “Duyệt toàn bộ Q1–Q8” for `revisions/chapter-work/CH-01-v6/design-discussion.md`.
+
+Only the following Q1–Q8 consequences are promoted to durable cross-scene authority:
+
+1. **CH-01 Lan Anh staging supersede:** the older direct-shop encounter is replaced by the D-005 public Chợ Bến encounter as Lan Anh's central CH-01 radio confrontation. News of Cường's death reaches the shop through ordinary local traffic; the order is discovered at the shop; bà Lan/Khanh bring the completed radio into the Chợ Bến social field; Lan Anh refuses it publicly. This preserves the gossip route by which Long later reaches the shop independently of the family.
+2. **Paper-radio custody:** after Lan Anh publicly refuses the custom radio, it returns to the family votive shop's custody. No ritual disposal/storage rule is implied.
+
+The remaining approved Q1–Q8 choices — pacing, POV execution, oral-horror treatment, selected CH-01 coda manifestation, scene ecology and local ending pressure — remain **CHAPTER_DESIGN** for CH-01-v6. They do not enter the manifestation registry or become reusable global supernatural rules unless they survive canonization and the corresponding durable-state diff.
+
