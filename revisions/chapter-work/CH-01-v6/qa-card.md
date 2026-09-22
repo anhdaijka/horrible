@@ -1,81 +1,54 @@
 # QA card — CH-01-v6
 Open only after a complete generative draft exists.
 
-- Consequential authority-basis ID: **CH-01-v6-B1**
-- Candidate scope expected: complete CH-01-v6 prose, morning 14 through short household coda
+- Consequential authority-basis ID: **CH-01-v6-B2**
+- Candidate scope expected: complete CH-01-v6 prose, morning 14 through household coda
 
 ## Hard truth verification
 
-Check against:
-- `author/decisions.md` — D-003, D-004, D-005, D-006, D-007;
-- `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`;
-- `plot/case-zero-clue-and-epistemic-matrix.md`;
-- `plot/timeline.md`;
-- `characters/lan-anh.md`, `characters/vu-van-toan.md`, `characters/nguyen-minh-khanh.md`;
-- `continuity/state.md`;
-- `research/verified/case-zero-mechanics-audit-v1.md`.
-
-Must remain true:
-- order mùng 10 → death night 13 → discovery/recontextualization morning 14;
-- no full mùng-10 replay;
+Check only whether these remain true:
+- chronology is order mùng 10 → death night 13 → recontextualization morning 14;
+- CH-01 does not replay the full mùng-10 transaction;
 - Lan Anh does not know Thoa's death/1996 truth;
-- Toàn recognizes the name and imposes gag order without explanation;
-- radio returns to shop custody after refusal;
-- coda does not reveal Thoa as killer/dead;
-- coda manifestation is current CH-01 design, not an archived call/cold/no-shadow reuse.
+- reader can perceive that Toàn knows the name matters without being told why;
+- the radio returns to family-shop custody after public refusal;
+- the household coda does not reveal Thoa as dead/killer;
+- the approved physical obstruction remains within current Cường source/ontology boundaries.
+
+A missing explicit line, question or visible reaction is not a defect if these truths remain intact.
 
 ## Consequence-bearing dependencies
 
-### Gossip route to Long
-The public Chợ Bến refusal must be witnessed enough that later community rumor reaching Long is plausible. Do not make Lan Anh or Toàn report the order to police.
+- Chợ Bến must plausibly leave enough public exposure for later gossip to reach Long.
+- No Cường-household character keeps the radio.
+- CH-02 must retain new experiential value.
 
-### Radio custody
-No one from Cường household accepts/keeps the radio in CH-01. It returns to the family shop.
+Check outcomes, not prescribed wording.
 
-### CH-02 value
-Do not narrate the mùng-10 customer's full appearance/behavior/transaction in CH-01. CH-02 must still supply new experience.
+## Horror / mystery integrity
 
-### Toàn/Lan Anh knowledge split
-Lan Anh's alarm is about the impossible order and situation. Any sign that she already knows Thoa died in 1996 is a reveal violation.
+Verify that the candidate actually produces dread/uncertainty rather than only transferring order data, and that the reader can distinguish rumor from stable record.
 
-## Horror and reader-detective contract
+Do not require a numbered five-step escalation, exact scare cadence or named horror technique.
 
-The chapter must preserve the escalation:
-1. embodied dread through oral death account;
-2. stable temporal contradiction through shop record;
-3. public/social spread;
-4. hidden-family pressure through Toàn's reaction;
-5. direct physical domestic haunting.
+The household obstruction must have a practical shared consequence; it does not need explanation.
 
-Oral corpse description:
-- clearly attributable to teller/rumor;
-- no fixed neck angle;
-- no medical mechanism;
-- no exact death-time inference;
-- no claim that the injury proves supernatural force.
+## Human-life / dialogue regression
 
-Reader must be able to distinguish mutable oral story from stable written record.
+Demonstrated project risk from C1: **spec-to-dialogue leakage / information-courier dialogue**.
 
-Coda:
-- physical obstruction in apparently empty human-sized volume;
-- more than one person shares the practical resistance;
-- visible apparition/explanation is unnecessary;
-- practical behavior changes because of it.
+Suspect it only if the actual draft shows characters asking/answering mainly to verbalize packet fields, relationships losing shorthand/subtext, or multiple speakers sounding equally informational.
 
-## Plot-dominance risk
+Do not "repair" this by adding filler, slang, fragments or tics. Repair at relationship/situation level if present.
 
-Risk: once the order is discovered, every person becomes an information courier and shop/market life disappears.
+## Forensic boundary
 
-Self-edit question: do work, errands, embarrassment, traffic and household logistics still exert pressure after the mystery arrives?
+Any grotesque corpse/neck description remains attributed testimony. No fixed medical angle/mechanism, exact time-of-death inference or supernatural forensic conclusion.
 
-## Demonstrated regression mechanisms
+## Targeted regression diagnosis
 
-- **Archive contamination:** symptom = old no-shadow/cold-stair/call-response mechanism reappears; consequence = violates D-006/current selected design; counterexample = horror arises from approved oral/temporal/social/body-sized-obstruction architecture.
-- **Knowledge leakage:** symptom = Lan Anh reacts as if she knows Thoa's buried fate; consequence = collapses epistemic firewall; counterexample = she reacts only to the pre-death order and later to Toàn's unexplained prohibition.
-- **Forensic overclaim:** symptom = narration treats village description as medical fact; consequence = false authority; counterexample = vivid account remains owned by a speaker/rumor source.
+If the draft shows a suspected recurring mechanism, open only the relevant Failure Memory entry. Do not preload the whole file or use rejected prose as a model.
 
 ## Self-edit boundary
 
-Do not flatten ordinary dialogue, humor, silence, shop texture or local interruptions merely because they are not clues.
-
-If drafting invents a new durable fact, witness obligation, custody change, established history or future meeting, record it separately for review rather than silently treating it as canon.
+Do not add explanatory dialogue, narrator recap or visible compliance signals merely to satisfy this card. Protect silence, indirectness, ordinary nonreaction, humor and local texture.
