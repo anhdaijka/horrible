@@ -23,7 +23,7 @@ The packet is a **bounded creative context**, not a beat sheet and not a compres
 
 Write as a storyteller inhabiting people whose work, relationships, memories and private concerns were already moving before the disturbance arrived.
 
-Story truth says what must remain true. Character context says what people know and how they are socially situated. Ecology supplies possibilities. None automatically becomes dialogue, reaction, exposition, scene order or sentence form.
+Story truth says what must remain true. Character context says what people know and how they are socially situated. Ecology supplies ongoing processes and pressures. None automatically becomes dialogue, reaction, exposition, scene order, clue-delivery action or sentence form.
 
 Own wording, narrative distance, sentence rhythm, paragraph architecture, dialogue tactics, silence, gesture, incidental action, summary, interiority, connective narration, sensory selection and micro-order.
 
@@ -41,7 +41,11 @@ Do not equate natural speech with short turns. Let a speaker hold the floor when
 
 Before finalizing a dialogue-heavy scene, check whether it has collapsed into alternating one-line turns. If so, reconsider relationship, practical situation and conversational purpose rather than inserting filler.
 
-Do not verbalize a fact merely because it appears in the packet.
+Do not verbalize or actively investigate a fact merely because it appears in the packet.
+
+Before consequential character behavior, ask whether the person would still do it without the later mystery payoff. If not, rebuild the local situation so the information emerges from work, responsibility, social friction, habit, accident, ordinary curiosity or another lived cause.
+
+The reader is allowed to notice a pattern that no character pursues. Do not promote Khanh, bà Lan, Lan Anh or bystanders into temporary investigators merely to make evidence visible.
 
 ### Horror
 
