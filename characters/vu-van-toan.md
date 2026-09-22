@@ -68,6 +68,6 @@ His speech depends on listener and situation. Under pressure he may become defen
 
 His mother died years before 2026, after he became an adult; her name, exact date and cause are not locked. His father’s real affection makes grief and anger coexist.
 
-He asks Lan Anh to support an account containing something she did not witness. Her refusal becomes a consequential break in his assumed entitlement to loyalty. In a later haunting scene, he answers/goes toward his father’s familiar call before Lan Anh interrupts; the call then targets her. Do not stage that entire escalation in CH-01 or use it to disclose the concealed fight early.
+He asks Lan Anh to support an account containing something she did not witness. Her refusal becomes a consequential break in his assumed entitlement to loyalty. D-006 removes the old later-scene manifestation lock involving a familiar call/stairway escalation; future haunting behavior must be discovered afresh from each chapter's ecology and must not disclose the concealed fight early.
 
 A 2026 recording of Cường speaking after the scuffle cannot medically rule out a contribution from earlier injuries. Objective supernatural cause, Toàn’s fear and investigators’ conclusions remain distinct.
