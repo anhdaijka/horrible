@@ -10,24 +10,34 @@ Only facts, chronology, knowledge/reveal limits, relationships, world rules and 
 A missing explicit line/reaction is not a defect if the truth remains intact.
 
 ## Consequence-bearing dependencies
-Only where a competing reading would materially break later knowledge, obligation or durable state. State the contradiction to avoid, not required wording/staging.
+Keep reader-detective and cross-chapter clue architecture here, outside generative context. Verify only what must actually remain visible or causally available for later story use.
+
+Do not prescribe wording, staging or who must ask for the information.
+
+## Human-causality audit
+For each consequential question, lookup, visit, object transfer, confrontation or decision, ask:
+
+> If the downstream mystery payoff disappeared, would this person still have a sufficient reason to do this now?
+
+Flag:
+- `INVESTIGATOR_DRIFT` — ordinary characters behave like case investigators without role/motive;
+- `CLUE_EXPOSURE_ENGINE` — action/dialogue exists mainly to surface a clue;
+- `SOFT_BEAT_SHEET_ECOLOGY` — prose mechanically reproduces packet examples/affordances as beats.
+
+Curiosity alone is not a universal repair; it must be proportionate to the person and situation.
 
 ## Horror / mystery integrity
-Check that the approved disturbing experience and fair evidence survived.
-
-Do not require the draft to reproduce a numbered escalation, exact scare cadence, named technique or preflight sequence unless the author explicitly locked that execution.
+Check that the approved disturbing experience and fair evidence survived. Fair visibility does not require a protagonist to collect or interpret every clue.
 
 ## Human-life / plot-dominance diagnosis
 Ask whether people still behave as people with work, relationships and pressures, or whether they have become information couriers.
 
-Do NOT repair plot dominance by inserting filler dialogue, errands or visible reactions solely to prove "life."
+Do NOT repair by inserting filler dialogue, errands or visible reactions solely to prove "life."
 
 ## Targeted regression diagnosis
 Only after seeing the draft, name actual suspected mechanisms. If one matches Failure Memory, open only that relevant FM entry.
 
-Do not preload or paste old rejected prose into Writer context.
-
 ## Self-edit boundary
-Self-edit must not add explanatory dialogue, narrator recap or visible compliance signals merely to satisfy packet fields. Protect indirectness, silence, humor, ordinary nonreaction and local texture when they do not break hard truth.
+Self-edit must not add explanatory dialogue, investigative questions, narrator recap or visible compliance signals merely to satisfy this card. Protect indirectness, silence, humor, ordinary nonreaction and local texture when they do not break hard truth.
 
 Record new cross-scene obligations separately.
