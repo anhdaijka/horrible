@@ -5,7 +5,7 @@ story: horrible
 
 # Story Timeline
 
-> Objective chronology under D-002, retaining non-conflicting D-001 facts. P1–P6 in the clue matrix control presentation, not occurrence.
+> Objective chronology under D-002/D-008, retaining non-conflicting D-001 facts. The precise earlier Thủy visit and the new volume's chapter architecture remain open design questions. P1–P6 in the clue matrix control presentation, not occurrence.
 
 | When | Event | Presentation constraint |
 |---|---|---|
@@ -17,6 +17,7 @@ story: horrible
 | Before mùng 10, 2026 | Pond-bank survey/work disturbs weakened buried structure | Physical trigger; not discovery of remains yet |
 | Mùng 8 to noon 13 | Thủy's threat campaign against Cường | Revealed piecemeal P3–P5 |
 | Morning mùng 10 | Thoa places custom order under her own name for Cường | Revisited P1; ghost identity withheld |
+| Before the fatal window (date/time OPEN) | **D-008:** Thủy makes a concealed suspicious visit to Cường's house, then returns to her factory sufficiently early for a TRUE multi-source alibi when he dies | Earlier action, trace, witnesses, transport and exact hour remain design gates; no murder-time entry or forged alibi |
 | 22:35–22:45 night 13 | Toàn/Cường scuffle; Toàn leaves for truck | Reconstructed P5 |
 | Around 22:54 | Cường makes local recording; Thoa kills him before impact | 22:54:32 internal author anchor only; no fixed file length or medical precision |
 | 23:05–23:10 | Toàn discovers body, examines hands, calls Lan Anh | Clean-nail account withheld until P5/G6b |
