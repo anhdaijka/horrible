@@ -1,5 +1,7 @@
 # Session State — Horrible
 
+> **CURRENT D-009 OVERRIDE, 2026-09-25:** See [round-3 hybrid/Bình development proposal](../chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md), **AWAITING AUTHOR for new incidents**. The author chose to *develop* the 1996 pre-wedding pregnancy possibility (not a fixed date/fact), requested a NEW/HYBRID suspicious earlier visit for Thủy (D-008 visit + true death-window factory alibi remain firm), wants deeper critique of Bình's 2026 knowledge route and explicitly DEFERRED Cổn's concrete 2026 choice pending character work. Next design: stress-test Thủy T-H1/T-H2 and Bình B-I/B-III, define chronology and Cổn's relational contradictions. No prose/legacy B10.
+
 > **D-008 / CURRENT 2026-09-25:** For new ChatGPT sessions, start with [CHATGPT_SESSION.md](../CHATGPT_SESSION.md) and [chat-memory/case-zero](../chat-memory/case-zero/00_START_HERE.md). Current action is **Case Zero volume redesign**, not old CH-01-v6-B10 testing.
 
 > Handoff cho `anhdaijka/horrible@main`. Đây là router trạng thái, không thay canon trong author/plot/characters/continuity.
