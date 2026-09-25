@@ -177,3 +177,13 @@ The remaining approved Q1–Q8 choices — pacing, POV execution, oral-horror tr
 **Next action:** Chat Mode thiết kế bảng nhân quả 1996–2026, timeline chồng lấn đêm 13, các mô hình chuyến ghé Thủy và nối diễn biến/kinh dị/side stories rồi xin duyệt những dữ kiện mới. **Sau** khi chốt scene card volume mới, thử văn xuôi cùng một cảnh bằng hai context (đầy đủ vs chat mới context tối thiểu), so sánh trải nghiệm đọc trước khi audit. Không tự động chạy packet B10 đã tạm dừng. **0 chương canonized.**
 
 Cross-chat entry: [CHATGPT_SESSION.md](../CHATGPT_SESSION.md), [chat-memory/case-zero](../chat-memory/case-zero/00_START_HERE.md).
+
+## D-009 — Case Zero vòng 3: thai kỳ, Thủy lai/mới, phản biện Bình, tạm hoãn chốt Cổn (2026-09-25)
+
+**AUTHOR RESPONSE: RECORDED.** Bốn lựa chọn được tác giả gửi trực tiếp: (1) **phát triển** hướng mẹ Toàn đã mang thai khi chuẩn bị cưới năm 1996; (2) với chuyến ghé của Thủy theo D-008, **phát triển một phương án lai hoặc mới**, chưa chọn A1/A2/A3 hay hành vi/vật chứng cụ thể; (3) **phản biện thêm** cơ chế Bình lấy thông tin tống tiền, KHÔNG phê duyệt đề xuất đơn giản “Cường chủ động tìm Bình, lỡ tiết lộ hết”; (4) **chưa chốt biến cố Cổn năm 2026**, ưu tiên phát triển nhân vật và mâu thuẫn nội tại trước.
+
+**Đã duyệt phạm vi phát triển, CHƯA duyệt sự kiện mới:** Thai kỳ là hướng nghiên cứu/thiết kế để giải tuổi Toàn và bi kịch đạo đức 1996, không mặc nhiên khóa lịch sinh, mức độ mẹ Toàn biết, động cơ Cổn hay cách trao đổi sính lễ. D-008 vẫn khóa đúng hai điều về Thủy: tới nhà trước cửa sổ tử vong và ngoại phạm nhà máy THẬT khi Cường chết. Thủy chưa được tác giả chọn nội dung chuyến ghé. Cơ chế tri thức của Bình phải vượt stress-test (những gì biết chắc, chỉ suy đoán, có thể chứng minh và điều khiến Cường thật sự sợ); không phong ông thành thầy biết cả quá khứ. Không viết một lựa chọn 2026 cụ thể cho Cổn trước khi đào sâu tình cha/con, quyền lực và lệ thuộc.
+
+**Current development proposal:** [chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md](../chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md) — mẫu timeline thai kỳ, phương án Thủy “đổi chứng cứ” gắn fake scare với tranh chấp tài chính và mối nguy mất tín nhiệm (vẫn chỉ là đề xuất), ba mô hình tri thức Bình với tiêu chí phản biện, khung tâm lý Cổn không khóa sự kiện.
+
+**Next:** phát triển/đối chiếu các nhánh đề xuất mới với lịch Thủy–Cường–Bình và khả năng người đọc biết gì; tác giả chọn các dữ kiện cụ thể rồi mới đồng bộ core canon, sơ đồ volume và thử hai bản văn xuôi cùng cảnh. **0 chương canonized.**
