@@ -25,7 +25,7 @@ acts: []
 
 # Case Zero — Đơn hàng cho người chưa chết
 
-> Thiết kế hậu reset, đồng bộ D-002; D-001 giữ phần không xung đột và DIR-01–DIR-07. Không có chương canon. Phase là cổng thông tin, không là số chương. Không dùng Git-history prose làm mẫu.
+> D-002/D-008: Case Zero hiện phát triển thành **volume độc lập**. Thủy có chuyến ghé nhà **trước** án mạng và ngoại phạm xưởng **THẬT** lúc Cường chết; thiết kế cô ở hiện trường 22:54/giả ngoại phạm đã hết hiệu lực. Phase là cổng thông tin, không phải số chương. CH-01/CH-02 cũ có thể remap có kiểm soát cho volume mới. Không có chương canon.
 
 ## Lõi cảm xúc và lời hứa kinh dị
 
@@ -49,7 +49,7 @@ Radio gắn sở thích cá nhân, ký ức và một nét tự sửa/vẽ của
 
 Khảo sát/thi công bờ đầm trước mùng 10 làm động phần chôn giấu đã suy yếu. Đây là trigger vật lý; không phải toàn bộ đầm đã bị đào hoặc hài cốt đã lộ. Giá đất và việc Cường tước phần Thủy làm bi kịch cũ lặp lại. Ba mươi năm là chiều dài tổn thương, không là đồng hồ bùa.
 
-Mùng 8 đến trưa 13, Thủy dùng lời đe dọa, âm thanh dọa ma và ảnh bị gạch mặt gây áp lực lên Cường. Mùng 10, Thoa thực sự đến tiệm đặt hàng. Người mua có nét họ Vũ và thao tác tay trái linh hoạt; CCTV đủ cho câu hỏi nhận dạng, không đủ khẳng định là Thủy/Thoa. Không có tuyến nữ trộm giống mặt.
+Mùng 8 đến trưa 13, Thủy dùng lời đe dọa, âm thanh dọa ma và ảnh bị gạch mặt gây áp lực lên Cường. **Theo D-008, Thủy cũng ghé nhà Cường trước giờ tử vong, giấu một mục đích/hành vi đáng ngờ, rồi về xưởng kịp để có ngoại phạm thật khi Cường chết; chi tiết chuyến ghé còn OPEN.** Mùng 10, Thoa thực sự đến tiệm đặt hàng. Người mua có nét họ Vũ và thao tác tay trái linh hoạt; CCTV đủ cho câu hỏi nhận dạng, không đủ khẳng định là Thủy/Thoa. Không có tuyến nữ trộm giống mặt.
 
 ### Đêm 13 và chuỗi phát hiện thi thể
 
@@ -58,13 +58,13 @@ Mùng 8 đến trưa 13, Thủy dùng lời đe dọa, âm thanh dọa ma và �
 | Trước 22:35 | Thầy Bình đến nhà Cường đòi tiền "trấn yểm/diệt khẩu" vụ đầm sen. Hai người cãi vã. Lan Anh (ở trong buồng) nghe lén được Bình đe dọa. | Bình để lại dấu vết tro bùa đặc trưng. Bình giấu giếm cuộc gặp này với công an. |
 | 22:35–22:45 | Toàn đòi sổ đỏ; hai cha con ẩu đả. Cường cào cổ, xé áo; Toàn xô ông rồi ra xe ben cách khoảng 200m. | Toàn dẫm qua lớp tro bùa của Bình mà không biết. |
 | Sau 22:45 | Cường tự đứng dậy, còn hoạt động, nghe tiếng băng/bước chân và tưởng Thủy tiếp tục dọa. | Hoạt động sau ẩu đả là mắt xích cần chứng thực độc lập ở P5. |
-| Khoảng 22:54 | Cường bật ghi âm cục bộ. Thoa giết ông bằng tổn thương cổ trước va đập. Cùng lúc đó, Thủy (đã trốn khỏi xưởng may) lẻn vào bằng chìa khóa cũ để trộm Sổ đỏ. | Thủy chứng kiến hiện trường siêu nhiên, tay dính máu nạn nhân, để lại vệt dầu máy khâu và dấu tay dị dạng, rồi bỏ chạy. |
+| Khoảng 22:54 | Cường bật ghi âm cục bộ. Thoa giết ông bằng tổn thương cổ trước va đập. **Thủy thực sự đang ở xưởng**. | Chứng cứ ca làm + nhân chứng + hành trình cần xác minh thời gian thực tế. Thủy không chứng kiến án mạng, không để dấu dầu/dấu tay tại hiện trường trong cửa sổ giờ chết. |
 | 23:05–23:10 | Toàn quay lại, thấy bố bất động, móng tay sạch. Toàn hoảng loạn nghĩ Thủy hoặc Bình đã giết bố rồi đổ oan cho mình. | Nỗi hoảng sợ của Toàn đến từ sự nghi kỵ chéo (Mutual Destruction). |
 | Ngay sau đó | Toàn gọi Lan Anh. Cô gọi trợ giúp y tế và báo cơ quan chức năng. Toàn dặn vợ giấu nhẹm mọi chuyện. | Lan Anh chưa vội khai chuyện Thầy Bình vì sợ lôi công an vào sẽ làm lộ chuyện Toàn xô xát. |
 | Trong lúc chờ | Toàn thay áo; Lan Anh cất chiếc áo bẩn, che vết thương bằng băng/vải thường. | Áo giấu đi, vết cào xước trên cổ Toàn lúng túng khai là tai nạn. |
-| Cùng đêm | Thủy về xưởng, làm giả ngoại phạm (nhờ quẹt thẻ/xóa cam). Cô vờ như nhận được tin báo khi đang làm việc bình thường. | Thủy nói dối công an vì sợ đi tù tội đột nhập trộm cắp và giết người. Cảnh sát sẽ tìm ra lỗ hổng thời gian này. |
+| Cùng đêm, sau tin báo | Thủy nhận tin khi đang làm việc, rời xưởng rồi trở về theo lộ trình khả thi. | Ngoại phạm giờ chết là thật. Cô che giấu chiến dịch đe dọa và chuyến ghé nhà xảy ra **trước** đó; không làm giả chấm công. |
 | Sau tin báo | Thủy hỏi dồn điện thoại ở đâu, vì sợ lộ tin nhắn đe dọa "mạng đổi mạng" cô gửi Cường ngay trước án mạng. | Không có lần tìm/lấy máy trước hạn chế tiếp cận. |
-| Lần khám đầu | Công an ghi nhận hiện trường: Vết tro bùa (chỉ Bình có), vệt dầu máy khâu/dấu tay dị dạng (của Thủy), và thu giữ điện thoại. | Công an có 3 hướng nghi phạm vật lý (Toàn, Thủy, Bình), cả 3 đều nói dối. |
+| Lần khám đầu | Cơ quan có thẩm quyền khám hiện trường và thu giữ điện thoại; đối chiếu vật chứng có nguồn. | Không gán vệt dầu/dấu tay của Thủy vào mốc tử vong. Dấu vết nếu có từ chuyến ghé nhà sớm phải được thiết kế thời gian và cơ chế lưu lại riêng. |
 
 Cổn không có mặt tại chân cầu thang khi xô xát; ông được báo cùng người nhà. Tiếng động nghe từ các phần nhà khác chỉ là lời chứng giới hạn, không tạo nhân chứng toàn tri. 
 
@@ -72,10 +72,10 @@ Toàn kể mình vừa về và thấy bố nằm đó. Lan Anh giữ áo vì ho
 
 ### Vật chứng và giới hạn kết luận
 
-- **Sự bế tắc điều tra (Rashomon Effect):** Cán bộ Long thu được 3 nhóm vật chứng vật lý hướng tới 3 người (Áo rách/vết cào của Toàn; Dầu máy/Dấu tay/Ngoại phạm giả của Thủy; Tro bùa/Lời khai tống tiền của Bình). Cả 3 nghi phạm đều nói dối để che giấu tội lỗi khác (bạo lực gia đình, trộm cắp, tống tiền diệt khẩu), biến họ thành những "Red Herrings" hoàn hảo, dọn đường cho lời giải kinh dị siêu nhiên ở Phase 6.
+- **Điều tra bất đối xứng (D-008):** Toàn che giấu xô xát/chiếc áo; Thủy che giấu những lời đe dọa/chuyến ghé nhà trước án mạng nhưng có ngoại phạm thật ở xưởng khi Cường chết; Bình che giấu tống tiền và phải có nguồn tri thức 2026 hợp lý. Những hành vi thật có thể khiến các bên nghi kỵ/làm hại nhau. Không ép ba bộ vật chứng đối xứng hoặc loại người sống = ma.
 - Bản ghi cục bộ chứng thực Cường còn nói/hoạt động sau xô xát.
 - Móng tay sạch: Đẩy Toàn vào hoảng loạn vì nghĩ có kẻ thứ 3 (Bình/Thủy) nhúng tay dọn dẹp hiện trường hãm hại mình.
-- Dấu tay và dầu máy của Thủy: Chứng minh Thủy có mặt, nhưng Thủy chối tội đến cùng vì cô thực sự không giết người. 
+- Chuyến ghé nhà trước án mạng của Thủy: vật/dấu cụ thể còn OPEN; nếu thiết kế, nó chỉ chứng minh một mệnh đề hữu hạn về chuyến ghé, không phủ định ngoại phạm thật tại cửa sổ tử vong. 
 - Tro bùa của Bình: Chứng minh Bình có mặt, nhưng Bình chối vì sợ khai ra động cơ tống tiền sẽ lộ vụ giấu xác 1996.
 - Mảnh áo/cúc sống sót trong khe lò hoặc tro khi Khanh phụ dọn. Dấu riêng thuộc đơn vị vận tải.
 - Không có băng âm thanh giải án 1996.
