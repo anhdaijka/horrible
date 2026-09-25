@@ -1,6 +1,6 @@
 # Session State — Horrible
 
-> **CURRENT D-009 OVERRIDE, 2026-09-25:** See [round-3 hybrid/Bình development proposal](../chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md), **AWAITING AUTHOR for new incidents**. The author chose to *develop* the 1996 pre-wedding pregnancy possibility (not a fixed date/fact), requested a NEW/HYBRID suspicious earlier visit for Thủy (D-008 visit + true death-window factory alibi remain firm), wants deeper critique of Bình's 2026 knowledge route and explicitly DEFERRED Cổn's concrete 2026 choice pending character work. Next design: stress-test Thủy T-H1/T-H2 and Bình B-I/B-III, define chronology and Cổn's relational contradictions. No prose/legacy B10.
+> **SUPERSEDED BY D-010 FOR CURRENT ACTION; retained historical round-3 status.** CURRENT D-009 OVERRIDE, 2026-09-25: See [round-3 hybrid/Bình development proposal](../chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md), **AWAITING AUTHOR for new incidents**. The author chose to *develop* the 1996 pre-wedding pregnancy possibility (not a fixed date/fact), requested a NEW/HYBRID suspicious earlier visit for Thủy (D-008 visit + true death-window factory alibi remain firm), wants deeper critique of Bình's 2026 knowledge route and explicitly DEFERRED Cổn's concrete 2026 choice pending character work. Next design: stress-test Thủy T-H1/T-H2 and Bình B-I/B-III, define chronology and Cổn's relational contradictions. No prose/legacy B10.
 
 > **D-008 / CURRENT 2026-09-25:** For new ChatGPT sessions, start with [CHATGPT_SESSION.md](../CHATGPT_SESSION.md) and [chat-memory/case-zero](../chat-memory/case-zero/00_START_HERE.md). Current action is **Case Zero volume redesign**, not old CH-01-v6-B10 testing.
 
@@ -24,7 +24,11 @@ Không nhầm D-001/D-002 hậu reset với log lưu trữ. Generated bibles/ind
 **0 chương canonized.**
 Tổng dung lượng bản thảo: 0 từ.
 
-## CURRENT NEXT ACTION — Case Zero volume (D-008)
+## CURRENT NEXT ACTION — Case Zero volume (D-010)
+
+**D-010 NEW STATUS:** Author approved round-3 direction: pregnancy before 1996 wedding to develop (actual calendar OPEN); **T-H1b simplified existing-threat/confrontation** and **B-I limited opportunistic Bình probe** are leading design models; T-H2/B-III retained only as fallbacks. Cổn's concrete new 2026 act remains intentionally OPEN. A detailed 2026 trial clock, evidence/knowledge ledger, interwoven five-movement turning-point graph and post-truth horror design gates are now recorded in [round-4 workbook](../chat-memory/case-zero/06_STRESS_TEST_AND_WOVEN_ENGINE.md). **NEXT:** refine the one earlier Thủy visit action/trace (no new device by coincidence), credible first bounded Bình probe, Toàn birthday vs lunar month, employer and travel geometry, and Cổn's three relationship tests; then pitch NEW fresh scares and choose a new same-scene A/B packet. Zero chapters canonized, legacy B10 PAUSED.
+
+### Prior D-008 state (still valid for all non-conflicting facts)
 
 Author approved an independent slow-burn Case Zero volume, three autonomous investigation / Cường-haunting / intergenerational-tragedy tracks and five flexible dramatic movements. Thủy **A**: an earlier concealed suspicious visit to Cường's home; **real independently supported factory alibi while Cường dies**. Exact earlier action/time/trace and volume word count remain OPEN. Work in Chat Mode on multi-decade causality, simultaneous 2026 timelines, Bình 2026 knowledge source, Toàn inherited knowledge, nails visual/forensic distinction, grandfather ethics, independent side-story engines and escalating horror that climaxes after much human truth is known. Present new concrete plot facts for author approval **before prose**. Preserve a later two-context experiment with an identical frozen scene; CH-01-v6-B10 is paused.
 
