@@ -187,3 +187,9 @@ Cross-chat entry: [CHATGPT_SESSION.md](../CHATGPT_SESSION.md), [chat-memory/case
 **Current development proposal:** [chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md](../chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md) — mẫu timeline thai kỳ, phương án Thủy “đổi chứng cứ” gắn fake scare với tranh chấp tài chính và mối nguy mất tín nhiệm (vẫn chỉ là đề xuất), ba mô hình tri thức Bình với tiêu chí phản biện, khung tâm lý Cổn không khóa sự kiện.
 
 **Next:** phát triển/đối chiếu các nhánh đề xuất mới với lịch Thủy–Cường–Bình và khả năng người đọc biết gì; tác giả chọn các dữ kiện cụ thể rồi mới đồng bộ core canon, sơ đồ volume và thử hai bản văn xuôi cùng cảnh. **0 chương canonized.**
+
+## D-010 — Author approves round-3 direction (2026-09-25)
+
+**APPROVED DESIGN DIRECTION:** Author said "Ok đồng ý vs các đề xuất, bước tiếp theo đi" in response to round-3 proposal. Develop the pregnancy-before-1996-wedding branch; advance Thuy T-H1 evidence-exchange hybrid and Binh B-I bounded opportunistic probe as preferred working designs, retaining T-H2 and B-III as fallbacks. Continue developing Con's contradictory motivations and relations without selecting a new 2026 action. D-008 remains binding: Thuy makes an earlier suspicious home visit and is genuinely at the factory during Cuong's death.
+
+**NOT YET FIXED:** birthdate/lunar month, exact meeting time, object/trace and custody, the factory's actual shift and commute, Binh's specific 2026 observations and proof, Con's concrete next misdeed, new manifestations and scene/chapter map. Approval of the design direction is not approval of every suggested incident. Next: chronological and evidentiary stress tests, then an interleaved three-track volume event graph; no prose or legacy B10 trial yet. Working document: [06_STRESS_TEST_AND_WOVEN_ENGINE.md](../chat-memory/case-zero/06_STRESS_TEST_AND_WOVEN_ENGINE.md).
