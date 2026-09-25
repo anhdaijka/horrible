@@ -1,5 +1,7 @@
 # Current state, precise next work and two-context prose experiment
 
+> **PROGRESS 2026-09-25:** A new concrete **candidate** has been stored as [04_CAUSAL_ENGINE_PROPOSAL.md](04_CAUSAL_ENGINE_PROPOSAL.md). It awaits author approval of the *new specific incidents* (pregnancy/age chronology, Thủy's earlier trip variant, Bình's 2026 information bridge, Cổn's 2026 choice, which independent subplots to develop). No event examples in it have been canonized. Treat the detailed steps below as design checks supporting this decision, not a mandate to repeat the same initial brainstorming.
+
 **Now:** the author approved Case Zero as a separate slow-burn volume, the full macro three-track/five-movement redesign, and Thủy **option A**. Specific new plot facts and manifestations remain open. There is no approved volume length/TOC or canonized prose.
 
 ## Next design deliverable: rigorous cause-and-effect volume engine
