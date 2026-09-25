@@ -1,5 +1,7 @@
 # Current state, precise next work and two-context prose experiment
 
+> **LATEST D-009, 2026-09-25:** Author responses recorded: DEVELOP the pregnancy-before-1996-wedding possibility (no hard timeline yet); DESIGN a hybrid or fresh earlier Thủy visit (D-008 visit and true factory alibi already fixed); CRITIQUE the naïve Bình knowledge route; DEFER a concrete new 2026 action for Cổn until deeper character work. Current proposal [05_ROUND3_HYBRID_AND_BINH.md](05_ROUND3_HYBRID_AND_BINH.md) is **AWAITING AUTHOR** for every new event. The former round-2 questionnaire in 04 is superseded. Next: test T-H1/T-H2 and B-I/B-III under causal/knowledge constraints, grow Cổn's inner life, then offer a refined author decision gate before writing.
+
 > **PROGRESS 2026-09-25:** A new concrete **candidate** has been stored as [04_CAUSAL_ENGINE_PROPOSAL.md](04_CAUSAL_ENGINE_PROPOSAL.md). It awaits author approval of the *new specific incidents* (pregnancy/age chronology, Thủy's earlier trip variant, Bình's 2026 information bridge, Cổn's 2026 choice, which independent subplots to develop). No event examples in it have been canonized. Treat the detailed steps below as design checks supporting this decision, not a mandate to repeat the same initial brainstorming.
 
 **Now:** the author approved Case Zero as a separate slow-burn volume, the full macro three-track/five-movement redesign, and Thủy **option A**. Specific new plot facts and manifestations remain open. There is no approved volume length/TOC or canonized prose.
