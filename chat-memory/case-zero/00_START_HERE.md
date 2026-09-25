@@ -7,10 +7,10 @@ This folder is a **handoff/router**, not a parallel canon. It records what the a
 1. [01_APPROVED_TRUTH.md](01_APPROVED_TRUTH.md): fixed past/present/supernatural truth, latest Thủy option A, legal/reveal firewalls, accepted author choices.
 2. [02_VOLUME_REDESIGN.md](02_VOLUME_REDESIGN.md): approved editorial architecture and deeper slow-burn/horror goals, carefully separated from suggested but not yet fixed details.
 3. [06_STRESS_TEST_AND_WOVEN_ENGINE.md](06_STRESS_TEST_AND_WOVEN_ENGINE.md): **CURRENT ROUND-4 WORKING DESIGN** after D-010 approval; simplified T-H1b, bounded B-I, hypothetical factory and date overlap, Cổn relationship tests, five-movement cross-causal graph and exact outstanding gates. **Not a prose brief or fixed invented-incident canon.**
-4. [05_ROUND3_HYBRID_AND_BINH.md](05_ROUND3_HYBRID_AND_BINH.md): preceding round-3 development after D-009 choices. Pregnancy *development only*, new Thủy hybrid T-H1/T-H2 *not approved*, Bình epistemic alternatives B-I/B-III *not approved*, and Cổn character work *without locking a new 2026 act*.
+4. [05_ROUND3_HYBRID_AND_BINH.md](05_ROUND3_HYBRID_AND_BINH.md): preceding round-3 development after D-009 choices. Pregnancy *development only*, new Thủy hybrid T-H1/T-H2 and Bình epistemic alternatives B-I/B-III were proposed here; **D-010 subsequently approved T-H1/B-I as leading development models only**, and Cổn character work *without locking a new 2026 act*.
 5. [04_CAUSAL_ENGINE_PROPOSAL.md](04_CAUSAL_ENGINE_PROPOSAL.md): preceding round-2 causal framework; its old approval questionnaire is superseded by D-009.
 6. [03_NEXT_AND_AB_TEST.md](03_NEXT_AND_AB_TEST.md): remaining research gates and preserved future A/B prose experiment.
-4. For any disputed canon: `author/decisions.md` D-008; `author/directives/DIR-02-thoa-1996-manslaughter-canon.md`; `DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md`; `plot/timeline.md`; `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`; relevant character profiles. Newer direct user instructions win.
+7. For any disputed canon: `author/decisions.md` D-008; `author/directives/DIR-02-thoa-1996-manslaughter-canon.md`; `DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md`; `plot/timeline.md`; `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`; relevant character profiles. Newer direct user instructions win.
 
 ## Approved project status
 
