@@ -66,7 +66,9 @@ His speech depends on listener and situation. Under pressure he may become defen
 
 ## Family and moral pressure — D-002
 
-His mother died years before 2026, after he became an adult; her name, exact date and cause are not locked. His father’s real affection makes grief and anger coexist.
+His mother died years before 2026, after he became an adult; her name, exact date and cause are not locked.
+
+**D-010 pregnancy development:** author approved developing the direction that Toàn's future mother was **already pregnant when Cường's summer-1996 wedding was being arranged**. Exact wedding month, gestational stage, Toàn birthday, 2026 lunar-month setting and the mother's knowledge/stance are NOT yet locked. Ensure his stated age ~30 is compatible with the later chosen calendar; he bears no responsibility for crimes committed before his birth. His mother's later ordinary death is not a hidden murder link. His father’s real affection makes grief and anger coexist.
 
 He asks Lan Anh to support an account containing something she did not witness. Her refusal becomes a consequential break in his assumed entitlement to loyalty. D-006 removes the old later-scene manifestation lock involving a familiar call/stairway escalation; future haunting behavior must be discovered afresh from each chapter's ecology and must not disclose the concealed fight early.
 
