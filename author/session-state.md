@@ -1,5 +1,7 @@
 # Session State — Horrible
 
+> **D-008 / CURRENT 2026-09-25:** For new ChatGPT sessions, start with [CHATGPT_SESSION.md](../CHATGPT_SESSION.md) and [chat-memory/case-zero](../chat-memory/case-zero/00_START_HERE.md). Current action is **Case Zero volume redesign**, not old CH-01-v6-B10 testing.
+
 > Handoff cho `anhdaijka/horrible@main`. Đây là router trạng thái, không thay canon trong author/plot/characters/continuity.
 
 ## Start here
@@ -20,7 +22,11 @@ Không nhầm D-001/D-002 hậu reset với log lưu trữ. Generated bibles/ind
 **0 chương canonized.**
 Tổng dung lượng bản thảo: 0 từ.
 
-## Current next action
+## CURRENT NEXT ACTION — Case Zero volume (D-008)
+
+Author approved an independent slow-burn Case Zero volume, three autonomous investigation / Cường-haunting / intergenerational-tragedy tracks and five flexible dramatic movements. Thủy **A**: an earlier concealed suspicious visit to Cường's home; **real independently supported factory alibi while Cường dies**. Exact earlier action/time/trace and volume word count remain OPEN. Work in Chat Mode on multi-decade causality, simultaneous 2026 timelines, Bình 2026 knowledge source, Toàn inherited knowledge, nails visual/forensic distinction, grandfather ethics, independent side-story engines and escalating horror that climaxes after much human truth is known. Present new concrete plot facts for author approval **before prose**. Preserve a later two-context experiment with an identical frozen scene; CH-01-v6-B10 is paused.
+
+## Paused legacy CH-01-v6-B10 workflow (historical, NOT current action)
 
 **CH-01-v6 — B10 WRITER PACKET READY / FRESH-CONTEXT RAW TRIAL PENDING**
 
@@ -45,7 +51,7 @@ Tổng dung lượng bản thảo: 0 từ.
 
 Next action: in a NEW Project chat, run the bounded B10 raw opening trial from only `writing-brief.md`, `scene-ecology.md`, and `character-context.md` as story sources. Stop before/at the independent Chợ Bến routes colliding. Do not open QA or self-edit afterward.
 
-## Open design / verification gates
+## Legacy B10-only design gates (not the current volume-design gate)
 
 - No new AUTHOR-DESIGN choice is open.
 - E1 remains locked; B10 is a compiler/conditioning recompile, not a scene-engine redesign.
