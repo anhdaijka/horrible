@@ -20,7 +20,7 @@ Bản ghi, nếu được xác thực, hỗ trợ trình tự hoạt động/âm
 
 ## 3. Thủy — ngoại phạm và nỗi sợ sau tin báo
 
-Thủy ở xưởng lúc Cường chết; đối chiếu chấm công, log/camera, người cùng ca và hành trình. Cô nhận tin rồi rời ca. Không bắt chuyến về phải nhanh hơn lực lượng bảo vệ hiện trường.
+**D-008, AUTHOR APPROVED (2026-09-25):** Thủy đến nhà Cường trong một chuyến đáng ngờ **trước** cửa sổ tử vong (ngày, giờ, hành vi, dấu vết chưa khóa), rồi trở về xưởng đủ sớm để có **ngoại phạm THẬT và được kiểm chứng đa nguồn** khi Cường chết. Đối chiếu chấm công, log/camera, người cùng ca và hành trình từ chuyến ghé nhà đến xưởng. Cô nhận tin rồi rời ca. Tuyệt đối không phục hồi cơ chế cô có mặt tại hiện trường lúc 22:54, chứng kiến án mạng, để dấu tay/dầu máy giờ chết hoặc giả chấm công. Không bắt chuyến về phải nhanh hơn lực lượng bảo vệ hiện trường.
 
 **Bỏ lần Thủy tìm/chạm/lấy máy trước hạn chế tiếp cận.** Cô hỏi dồn máy ở đâu rồi biết đã được thu, lo chiến dịch đe dọa bị lộ và tìm cách tác động lời kể người nhà. Người cung cấp thông tin chỉ nói phần có thể biết; cô không được nghe kết quả phân tích chỉ vì hỏi.
 
