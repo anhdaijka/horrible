@@ -5,10 +5,11 @@ story: horrible
 
 # Story Timeline
 
-> Objective chronology under D-002/D-008, retaining non-conflicting D-001 facts. The precise earlier Thủy visit and the new volume's chapter architecture remain open design questions. P1–P6 in the clue matrix control presentation, not occurrence.
+> Objective chronology under D-002/D-008/D-010, retaining non-conflicting D-001 facts. T-H1/B-I are current design approaches; exact earlier Thủy act/trace, factory shift, lunar month/birthday and new volume chapter architecture remain OPEN. P1–P6 in the clue matrix control presentation, not occurrence.
 
 | When | Event | Presentation constraint |
 |---|---|---|
+| Before summer-1996 wedding (exact months OPEN) | **D-010 pregnancy direction:** Toàn's future mother was already pregnant during wedding preparations; precise birth/wedding dates and 2026 age alignment still to be designed | Family-specific pressure, not a universal marriage custom or an excuse for harming Thoa |
 | Summer 1996, afternoon | Forced-marriage dispute; Cường strikes/shoves Thoa; fatal head injury and abandonment | G6b reconstruction from independent sources; no cassette audio evidence |
 | Same night | Thủy finds her sister dead; Cổn orders concealment; Cường helps | Thủy knows discovery, not the earlier blow; no tape evidence of the crime |
 | Afterward | Grandfather refuses an opaque coercive request; outside specialist performs binding; Bình assists without knowing a body is involved | Partial knowledge; no precise grave map from grandfather |
