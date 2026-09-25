@@ -1,6 +1,6 @@
 # ChatGPT session handoff — Horrible / Case Zero
 
-**Entry point for any new ChatGPT conversation continuing Case Zero. Last author approval: 2026-09-25.**
+**Entry point for any new ChatGPT conversation continuing Case Zero. Last author decisions: D-008 and D-009, 2026-09-25.**
 
 Read `chat-memory/case-zero/00_START_HERE.md`, then its linked files. Cross-chat state lives in this **private GitHub repository**, not in ChatGPT account Memory. Do not infer that account Memory was updated.
 
@@ -8,6 +8,6 @@ Read `chat-memory/case-zero/00_START_HERE.md`, then its linked files. Cross-chat
 
 **Explicit new canon decision (D-008):** Thủy made a suspicious trip to Cường's house **before** the murder but was **genuinely at her Yên Phong factory** during Cường's fatal window; her multi-source alibi is real. The exact earlier trip's time, intent, acts, physical trace and journey require design/author approval. Older descriptions of her seeing the killing, leaving oil/handprint at 22:54 and falsifying her alibi are void.
 
-**CURRENT STATUS — PROPOSAL AWAITING AUTHOR:** a concrete causal-history, parallel-night, side-story and logic-gate proposal is now saved in `chat-memory/case-zero/04_CAUSAL_ENGINE_PROPOSAL.md`. Read it after the approved truth and macro redesign. **Next: ask the author to approve/revise key NEW facts**, especially Toàn age/wedding chronology, Thủy's earlier-visit variant, Bình's new 2026 knowledge source and Cổn's preventable 2026 choice. Do NOT promote that file to canon yet, write prose, or run legacy B10. Once choices are approved, update decision log + sources and move to detailed interlocking volume beat map / fresh supernatural scene ideation. A two-context **same-scene** writing experiment (context-rich chat vs fresh minimal-input chat) is approved *later*, after the volume and scene are designed.
+**LATEST ROUND-3 D-009:** author chose to DEVELOP mother-of-Toàn pregnancy before the 1996 wedding (exact birth/calendar not canon), requested a genuinely new or hybrid earlier Thủy visit, challenged rather than approved the easy Cường-recontacts-Bình knowledge route, and deferred fixing a new Cổn act until his psychology is deeper. Detailed candidate and critique: `chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md`. **Next:** stress-test the proposed Thủy evidence-exchange hybrid T-H1 versus simpler T-H2, and the opportunistic bounded-information Bình route B-I versus a very limited 2026 contact B-III. Develop Cổn's relational contradictions without asking the author to lock a new plot act. None of these new candidate events is canon; do NOT write prose or run legacy B10. A two-context **same-scene** writing experiment (context-rich chat vs fresh minimal-input chat) is approved *later*, after the volume and scene are designed.
 
 **Authority:** latest explicit author instructions > `author/decisions.md` D-008 and active directives > updated current plot/timeline/characters > this handoff > historical CH-01-v6/audits. No chapters are canonized. Do not preload rejected prose, old scares or failure/audit reports as writing examples.
