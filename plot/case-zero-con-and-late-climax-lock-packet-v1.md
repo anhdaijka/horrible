@@ -46,7 +46,7 @@
 4. **Motive:** Cổn's wrongdoing has social force only after his credible everyday competence and tenderness, and a sourced acknowledgment of Thủy's staged scares; none of this makes him a secret all-knowing monster.
 5. **Finite ending:** rescue succeeds by ordinary skills and choices but costs time, income/care/housing; ghost withdrawal is observed, not guaranteed permanent, and no new death is introduced.
 
-**Focused author gate (still OPEN):** Choose or revise C-2026-1 as Cổn's one fresh modern wrong; choose or revise this specific side-passage/known-window rescue and a single meaningful nonfatal lasting cost. Story-level independence and ending timing were already approved by D-011, but this exact wrongdoing/injury/geography have not yet been approved. No prose has been canonized.
+**D-014 STATUS — AUTHOR-APPROVED DESIGN:** C-2026-1 is chosen as Cổn's post-G6a deliberate discrediting of Thủy's narrow truthful rainy-night discovery through her real modern fake scares. The specific late daylight return, known side-passage and adult-passable shuttered storeroom window with kitchen side exit, active rescue against independent embodied Cường, and Toàn's meaningful nonfatal shoulder injury affecting trucking/debt are ALSO CHOSEN at scene-design level. Do NOT request selection of these broad choices again; exact speaking voices, physical obstruction, each person's staging, treatment/diagnosis and eventual ghost image remain scene-craft open. No prose has been canonized.
 
 ## D-014 overlay — reader misdirection, real cat leap and approved boundaries
 
