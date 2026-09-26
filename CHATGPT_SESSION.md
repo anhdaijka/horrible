@@ -1,6 +1,8 @@
 # ChatGPT session handoff — Horrible / Case Zero
 
-**Entry point for any new ChatGPT conversation continuing Case Zero. Last author decision: D-012, 2026-09-26 (2026 return and supernatural nail intervention approved; D-011 V1 treatment also approved).**
+**Entry point for any new ChatGPT conversation continuing Case Zero. Last author decision: D-013, 2026-09-26 (2026 return and supernatural nail intervention approved; D-011 V1 treatment also approved).**
+
+**D-013 APPROVED POND SCENE DESIGN:** Author accepted a small protected flat fired-clay/tile anchor hidden by the outside specialist behind an old brick drainage outlet at the lotus-pond bank during a plausible 1996 repair. The physical anchor is away from the hidden remains. Bình only handled exterior supplies/work. Public 2026 drainage works cut the previously untouched outlet before mùng10, allowing Thoa's return without uncovering the remains. The S02 market inconvenience, S13 bounded Bình survey/job contact, independent G6a/G6b historic proof and reader-only G6c confirmation are approved plot functions. See author/decisions.md D-013, chat-memory/case-zero/11_BINDING_POND_1996_2026_SCENE_PREFLIGHT.md and plot/case-zero-pond-seeding-scene-cards-v1.md. Exact day/material markings/dialogue still open. Other D-012, D-011 and S01 A/B boundaries unchanged.
 
 Read `chat-memory/case-zero/00_START_HERE.md`, then its linked files. Cross-chat state lives in this **private GitHub repository**, not in ChatGPT account Memory. Do not infer that account Memory was updated.
 
