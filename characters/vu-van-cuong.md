@@ -54,7 +54,7 @@ Outwardly jovial, loud and socially ordinary; inwardly controlling, superstitiou
 
 Objective author truth is locked by **D-058 / DIR-04**:
 - **22:35–22:45:** Toàn confronts Cường over the land deed. Cường scratches Toàn's neck and tears his work shirt; Toàn shoves him and leaves for the sand truck.
-- **22:45–22:53:** Cường is alone. Tape-like mechanical hiss and wet footsteps upstairs make him assume Thủy is continuing her intimidation campaign.
+- **After 22:45:** Cường is active without Toàn present. The form of his next genuine sensory disturbance is a **fresh scene-design gate**, not a replay of retired tape hiss/footstep/staircase manifestations; given Thủy's existing earlier threats he has reason to misread what happens as her continuing campaign.
 - **Around 22:54:** Cường starts a local recording to retain evidence of what he assumes is further intimidation.
 - **22:54:32 (author-time only):** Thoa inflicts fatal neck injury before impact. No fixed angle or early medical time-of-death precision.
 - **23:05–23:10:** Toàn returns, finds him dead and incorrectly believes his own earlier shove caused the death.
@@ -86,3 +86,8 @@ Cường genuinely cared for Toàn as well as controlling him; warm memories mus
 Post-death, Cường is tied to the household and familiar relationships and is not omniscient at arbitrary distance. D-006 supersedes historical concrete manifestation/signature directions: no familiar-call, pause/repeat, partial-witness or stairway pattern is mandatory current design. Each chapter preflight must discover the concrete manifestation from current ecology within the active source/reveal boundary.
 
 An observable final confrontation/withdrawal is required, but its exact cause and manifestation remain to be designed before P6. A confession or ritual is not automatically a magic switch.
+
+
+## D-011 approved V1 role, physical haunting still in design
+
+Cường's genuine affection for his son and ability to impose dependency must be lived before/after death, not used to flatten him into all-bad spectral furniture. Thủy's earlier confrontation is developed through existing threats and a disputed current family account (one actual concealed document action still OPEN), while she is REALLY at her Yên Phong workplace ~22:54. He misattributes an unknown genuine intrusion before local recording; ghost Thoa causes fatal neck harm before impact. **After death** his own separate haunting inhabits familiar family-household relations early and reaches a substantial physically dangerous **post-G6a/G6b/G6c** household climax. No automatic exorcism, time-limit or preselected signature manifestation; see [haunting design](../plot/case-zero-volume-horror-engine-v1.md).
