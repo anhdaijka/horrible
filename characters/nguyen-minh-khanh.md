@@ -100,3 +100,7 @@ Fear does not require a fixed checklist of breath, heartbeat and muscle tension.
 ## Case Zero agency — D-002
 
 Khanh’s concrete stake is the family shop and integrity of its order record. Rumors, customers, family ties and work demands push him to choose whether to preserve and accurately describe what was recorded. He is not licensed to alter or withhold evidence. He can reason about local facts he knows, ask questions and revise assumptions without becoming the case investigator. Ordinary warmth, his family and his platonic friendship with Mai remain living counterweights, not filler or a mandatory romance.
+
+## D-011: Khanh has a life outside solving Case Zero
+
+The V1 volume preserves mother–son shop obligations, separate ongoing Japan-facing engineering work (a specific incident may involve misattributed session logs and Khanh owning his own rushed review) and platonic Mai friendship. He is neither selected medium nor freelance police technician, and the software case must have a real workplace outcome independent of ghost clues. S01 opens **mùng14 morning in bà Lan's close limited POV**, with Khanh present for ordinary shop work; the same-scene A/B candidate ends before public Chợ Bến collision. Future private Long evidence and actual 1996 truth stay outside his legitimate early access. See [approved V1 treatment](../chat-memory/case-zero/07_VOLUME_TREATMENT_V1.md) and [opening candidate card](../plot/case-zero-opening-ab-scene-card-v1.md).
