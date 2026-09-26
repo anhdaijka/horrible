@@ -46,5 +46,6 @@ The existing D-018 approved S01 already states a mùng10-agreed mùng14 familiar
 - [S02 oral-horror prose small-cut candidate; direction approved only](../revisions/chapter-work/CASEZERO-S01-S03-D021-EDITORIAL-PASS/S02-ORAL-HORROR-LITERARY-CUT-V1.md)
 - [S03 V3 literary-revised working manuscript, newly authored, not byte-for-byte chat V2](../revisions/chapter-work/CASEZERO-S01-S03-D021-EDITORIAL-PASS/S03-V3-LITERARY-REVISED.md)
 - [S04 focused memory preflight](case-zero-s04-mung10-flashback-preflight-d021.md)
+- [S05–S07 funeral/cat/early ghost and Long public-lead preflight](case-zero-s05-s07-scene-preflight-d021.md)
 
 **Batch gate:** User has requested no per-scene back-and-forth. These reviewed variants are ready to feed the structural/epistemic whole-volume integration review. New author input is only needed for substantive unresolved canon conflicts, not trivial prose polish or repeated rubber-stamp approval.
