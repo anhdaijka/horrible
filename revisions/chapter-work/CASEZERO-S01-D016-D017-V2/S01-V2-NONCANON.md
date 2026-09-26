@@ -14,7 +14,7 @@ Ngoài cửa có tiếng xe máy dựng chống, tiếp đó là tiếng một n
 
 — Cô Lan ơi, cháu mang bìa đến đây. Bên kho bảo chuyến này đủ rồi đấy.
 
-— Đủ thì mày xem chỗ nào sạch kê vào trước. Đừng đặt ngay cửa, lát còn người vào lấy hàng.
+— Đủ thì cháu kê vào chỗ sạch giúp cô. Đừng đặt ngay cửa, lát còn người vào lấy hàng.
 
 — Cô ra ký hộ cháu, không tí nữa cháu quên mất.
 
