@@ -28,7 +28,7 @@
 
 S01 shop-opening **same-scene A/B candidate card** is in [opening card](../../plot/case-zero-opening-ab-scene-card-v1.md). It relies only on fixed opening, shop custody, POV and family address constraints. The old CH-01-v6-B10 trial is paused. The new card is NOT yet frozen for a formal A/B experiment; user approval is needed for the exact common boundaries before both generation contexts are trialed.
 
-**Next author interaction after seeing developed scene map and horror options:** request focused approval or targeted edits only for calendar, T-H1/B-I specific first action/probe and Cổn/late-climax event. Append D-012 and synchronize exact fields to main story/timeline/characters upon explicit acceptance. No canonized prose chapters yet.
+**Next focused author gate after D-013:** review the two fully drafted packet links at the bottom of this file for calendar and human-action choices plus Cổn/late-climax design. These remain PROPOSALS, not D-014. D-011/12/13 are already approved. Record any NEW exact decision only after fresh author approval; do not overwrite or re-ask the settled D-013 physical pond model. No canonized prose chapters yet.
 
 
 ## Current factual verification (2026-09-26)
