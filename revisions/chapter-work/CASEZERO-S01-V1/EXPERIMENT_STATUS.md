@@ -1,6 +1,6 @@
 # Case Zero S01 — status, exact identity and honest comparison restrictions
 
-**2026-09-26.** D-011 Treatment V1 approved. This directory contains a safe preflight packet and a provisional identical common scene contract. **No author-level formal freeze of the exact common contract and no valid controlled A/B pair yet.**
+**2026-09-26 — NOT A CONTROLLED A/B.** D-011 Treatment V1 approved. This directory contains a safe preflight packet and a provisional identical common scene contract. **No author-level formal freeze of the exact common contract and no valid controlled A/B pair yet.**
 
 - `COMMON_S01_TEST_CONTRACT.md`: **provisionally sealed common experimental source**, currently GitHub blob SHA `f682a0486f2084b736c324233dfab6419bfa240c`. Do not edit after explicit author freeze; if a detail changes, version the contract and record a new A/B run. The story-relative mùng14 avoids the unresolved solar/lunar branch.
 - `writing-brief.md`, `scene-ecology.md`, `character-context.md`: safe additional rich-context inputs for a later isolated writer A. Never deliver them to fresh writer B.
