@@ -1,5 +1,8 @@
 # Case Zero — repo-native memory for future ChatGPT sessions
 
+> **LATEST S05 HANDOFF — 2026-09-26:** S05 micro-preflight/Q1–Q8 + spoiler-safe Writer packet are saved and [S05 V1 complete NONCANON prose](../../revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V1-WORKING.md) is preserved. Old 'next write S05' text below is historical. NEXT: genuine first-reader literary review (do not call a same-context author review independent), then S01–S05 join and evidence-based versioned revision. S06 must independently preflight H1 and place the approved real coffin-crossing cat only AFTER legitimate body release. D-018 S01 original intact, no chapter canonized, D-021 consolidated approval remains later.
+
+
 > **LATEST EXECUTION CHECKPOINT — 2026-09-26, post-S04 V3:** The old paragraph below recommending S04 composition is superseded. S04 noncanon V1→V2→V3 has been committed, separately read by the same assistant in an internal editor role and reconciled with D-018 S01 / D-021 S03: mùng10 helper was actually present to notice the red stripe after the customer left. See [S04 V3](../../revisions/chapter-work/CASEZERO-S04-D022-WORKING/S04-V3-CROSS-SCENE-INTEGRATED.md) and [S01–S04 audit](../../revisions/chapter-work/CASEZERO-S04-D022-WORKING/S01-S04-CROSS-SCENE-JOIN.md). **Next:** D-021-delegated focused S05 micro-preflight, then separately versioned noncanon S05 prose if the no-body-before-release, POV and established-house gates pass. Do not mistake D-022 structural coverage for approved manuscript or revive the legacy B10 trial; defer one material author checkpoint until a coordinated batch is actually prepared.
 
 
