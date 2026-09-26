@@ -6,6 +6,10 @@ This folder is a **handoff/router**, not a parallel canon. It records what the a
 
 ## Required reading order — current stage
 
+**NEW DESIGN PROPOSAL, NOT ADDITIONAL CANON:** [11 — 1996 binding / 2026 pond-break scene preflight](11_BINDING_POND_1996_2026_SCENE_PREFLIGHT.md) develops D-012 into a **possible** physical anchoring near an old brick drainage outlet distinct from the body, tests how 1996 limited assistance and 2026 public works align without exposing remains, and specifies early/later scene seeding across already-planned movements. Its actual anchor material, calendar days, worker events and exact occult rite remain author-review candidates. It does not alter the already approved reason for Thoa's return or the provisional S01 test card.
+
+
+
 **LATEST CONTINUED WORK 2026-09-26:** D-011 full treatment remains approved. In addition to earlier map/horror/combined preflight, use [detailed historical finance + true night-shift stress test](../../plot/case-zero-causal-economy-and-night13-preflight-v1.md), [physical room/witness/rescue geography](../../plot/case-zero-house-space-and-setpieces-v1.md), [independent Chợ Bến/Yên Phong three-episode packets](../../plot/case-zero-independent-side-story-packets-v1.md) and [Cổn three-character-trial scenes](../../plot/case-zero-con-character-tests-v1.md). An [S01 PROVISIONAL experimental packet/status](../../revisions/chapter-work/CASEZERO-S01-V1/EXPERIMENT_STATUS.md) now exists; its raw exploratory sample was generated in an exposed planning-heavy chat, NOT a valid controlled A, and no fresh B has run. The identical common scene contract must receive explicit freeze before formal two-context comparison. New dates, acts and horror forms remain proposal-only; avoid duplicating old brainstorming.
 
 1. **APPROVED full-volume plan:** [07_VOLUME_TREATMENT_V1.md](07_VOLUME_TREATMENT_V1.md), author approval **D-011**; supporting [08 event and epistemic ledger](08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md) and [09 independent subplots and honest V1 critique](09_SIDE_STORIES_CLIMAX_AND_V1_CRITIQUE.md) distinguish approved story from optional exact scene illustrations.
