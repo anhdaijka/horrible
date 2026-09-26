@@ -1,5 +1,7 @@
 # Case Zero — SAME-SCENE A/B CANDIDATE: Opening at bà Lan's shop
 
+> **ARCHIVED PREFLIGHT, NOT THE INPUT TO THE CURRENT CONTROLLED TEST.** As of 2026-09-26 the operational experimental prompt is [S01-AB-20260926-D015-V1 FROZEN COMMON](case-zero-s01-ab-frozen-common-v1.md), with exact SHA, A-only rich pack and independent-session instructions in [RUN MANIFEST](case-zero-s01-ab-run-manifest-v1.md). This earlier card is retained for development history only; it is superseded as test input by the new byte-frozen common card. D-015 character/epistemic corrections remain canon, while one agreed market receiving-point handoff is frozen only as a TEST assumption, NOT as new author-approved story canon. No A/B raw drafts exist yet; do not call this a completed literary comparison.
+
 **2026-09-26. D-015 author-approved character/knowledge correction applied. This is still only the prepared common S01 A/B card, NOT YET AUTHOR-FROZEN or trialed.** It is a neutral compact common writer-facing specification for *the exact same bounded scene* in two separate writing contexts: (A) context-rich chat with approved safe story context; (B) fresh minimal-context chat with ONLY the frozen card. No prose has been generated or canonized. The previous CH-01-v6-B10 packet is retired as next action.
 
 ## A/B invariants — the exact same scene for both writers
