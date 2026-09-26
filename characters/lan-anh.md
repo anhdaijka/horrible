@@ -76,3 +76,7 @@ On morning 14, Lan Anh is handling funeral-related errands and encounters bà La
 After she reports the purchaser name at home, Toàn is the character whose disproportionate reaction shows that the name touches a hidden family secret. He forbids her from repeating it to outsiders. Lan Anh still does not know Thoa's actual fate or the 1996 objective truth.
 
 Her husband’s mother died years earlier, after Toàn became an adult; do not invent a hidden mother-in-law plot. After the loyalty-driven concealment, Toàn asks her to attest an unwitnessed fact. She refuses. This choice costs something in their marriage and family position; it does not erase the shirt destruction or turn her into an instant detective.
+
+## D-011: Domestic horror and agency
+
+The approved V1 slow-burn has a **separate Lan Anh arc**: early practical funeral labor and firsthand response to real Cường household hauntings; a genuine but culpable concealed/ultimately burned shirt; a costly refusal to substantiate any blow she never witnessed; a plausible period of temporary separation. A late practical **daylight** return to retrieve belongings can gather the family without paranormal sleuthing, with Thủy accompanying by choice. Exact supernatural mechanism, injured person and marital end-state remain focused detail gates. Lan Anh's public Chợ Bến refusal is from shock at pre-death order, **not** buried 1996 knowledge; radio returns to bà Lan's shop and Long follows public market gossip independently.
