@@ -1,6 +1,6 @@
 # Case Zero — Volume Treatment V1: chronology, who-knows-what, horror scene ecology
 
-**2026-09-26. PROPOSED / AUTHOR REVIEW NEEDED.** Companion to [07_VOLUME_TREATMENT_V1.md](07_VOLUME_TREATMENT_V1.md). Core canon D-002/D-005–D-010 remains unchanged except where newer explicit approvals supersede it. This file is a **development ledger**, never to be preload prose source. Do not promote precisely dated candidate incidents, horror effects, new names or new witnesses before approval.
+**2026-09-26. D-011 APPROVES THE PARENT VOLUME TREATMENT. THIS COMPANION LEDGER'S PRECISE DATES/INCIDENTS/PHYSICS REMAIN PROPOSED WHERE SO MARKED.** Companion to [07_VOLUME_TREATMENT_V1.md](07_VOLUME_TREATMENT_V1.md). Core canon D-002/D-005–D-010 remains unchanged except where newer explicit approvals supersede it. This file is a **development ledger**, never to be preload prose source. Do not promote precisely dated candidate incidents, horror effects, new names or new witnesses before approval.
 
 ## A. Calendar and geographic stress test
 
