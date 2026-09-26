@@ -1,6 +1,6 @@
 # Case Zero — Supporting v1: autonomous mini-arcs, concrete late climax, candid design audit
 
-**2026-09-26 — DEVELOPMENT OPTIONS, NOT AUTHOR-APPROVED NEW FACTS.** Read with [07 Volume Treatment V1](07_VOLUME_TREATMENT_V1.md) and [08 chronology/horror ledger](08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md). This annex concretizes the weak sections of V1 rather than claiming they are resolved. Author must approve any concrete new participants, details, horror phenomena, injury and final Cổn behavior before they become canon.
+**2026-09-26 — D-011 APPROVED THE PARENT V1 TREATMENT; OPTIONAL FULL MINI-ARC DETAILS, PERSON NAMES, PRECISE HORROR PHYSICS AND LAST-HOUSE EVENT BELOW REMAIN DEVELOPMENT CANDIDATES.** Read with [07 Volume Treatment V1](07_VOLUME_TREATMENT_V1.md) and [08 chronology/horror ledger](08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md). This annex concretizes the weak sections of V1 rather than claiming they are resolved. Author must approve any concrete new participants, details, horror phenomena, injury and final Cổn behavior before they become canon.
 
 ## 1. Chợ Bến — "một buổi chợ, ba bên cùng thiệt" (full candidate mini-arc)
 
