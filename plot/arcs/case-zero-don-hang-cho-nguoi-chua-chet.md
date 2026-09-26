@@ -57,7 +57,7 @@ Mùng 8 đến trưa 13, Thủy dùng lời đe dọa, âm thanh dọa ma và �
 |---|---|---|
 | Trước 22:35 | Thầy Bình đến nhà Cường đòi tiền "trấn yểm/diệt khẩu" vụ đầm sen. Hai người cãi vã. Lan Anh (ở trong buồng) nghe lén được Bình đe dọa. | Bình để lại dấu vết tro bùa đặc trưng. Bình giấu giếm cuộc gặp này với công an. |
 | 22:35–22:45 | Toàn đòi sổ đỏ; hai cha con ẩu đả. Cường cào cổ, xé áo; Toàn xô ông rồi ra xe ben cách khoảng 200m. | Toàn dẫm qua lớp tro bùa của Bình mà không biết. |
-| Sau 22:45 | Cường tự đứng dậy, còn hoạt động, nghe tiếng băng/bước chân và tưởng Thủy tiếp tục dọa. | Hoạt động sau ẩu đả là mắt xích cần chứng thực độc lập ở P5. |
+| Sau 22:45 | Cường tự đứng dậy, còn hoạt động, gặp một dị tượng chưa khóa dạng thể hiện và tưởng Thủy tiếp tục dọa. | Hoạt động sau ẩu đả là mắt xích cần chứng thực độc lập ở P5. |
 | Khoảng 22:54 | Cường bật ghi âm cục bộ. Thoa giết ông bằng tổn thương cổ trước va đập. **Thủy thực sự đang ở xưởng**. | Chứng cứ ca làm + nhân chứng + hành trình cần xác minh thời gian thực tế. Thủy không chứng kiến án mạng, không để dấu dầu/dấu tay tại hiện trường trong cửa sổ giờ chết. |
 | 23:05–23:10 | Toàn quay lại, thấy bố bất động, móng tay sạch. Toàn hoảng loạn nghĩ Thủy hoặc Bình đã giết bố rồi đổ oan cho mình. | Nỗi hoảng sợ của Toàn đến từ sự nghi kỵ chéo (Mutual Destruction). |
 | Ngay sau đó | Toàn gọi Lan Anh. Cô gọi trợ giúp y tế và báo cơ quan chức năng. Toàn dặn vợ giấu nhẹm mọi chuyện. | Lan Anh chưa vội khai chuyện Thầy Bình vì sợ lôi công an vào sẽ làm lộ chuyện Toàn xô xát. |
@@ -79,7 +79,7 @@ Toàn kể mình vừa về và thấy bố nằm đó. Lan Anh giữ áo vì ho
 - Tro bùa của Bình: Chứng minh Bình có mặt, nhưng Bình chối vì sợ khai ra động cơ tống tiền sẽ lộ vụ giấu xác 1996.
 - Mảnh áo/cúc sống sót trong khe lò hoặc tro khi Khanh phụ dọn. Dấu riêng thuộc đơn vị vận tải.
 - Không có băng âm thanh giải án 1996.
-- Bút tích 1996 của cụ đồ (C-12) xuất phát từ sự thấu suốt quy luật Nhân Quả, không phải bói toán tiên tri.
+- Bút tích 1996 của cụ đồ (C-12) phản ánh lời từ chối đạo đức với một yêu cầu cưỡng ép mập mờ; không chứng nhận quy luật Nhân Quả siêu nhiên hoặc một cấm kỵ nghề vàng mã phổ quát.
 
 ## Bảng nguồn siêu nhiên và ranh giới tiết lộ — chỉ dành cho tác giả
 
