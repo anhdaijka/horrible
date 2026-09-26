@@ -1,7 +1,7 @@
 # CASE ZERO — ĐƠN HÀNG CHO NGƯỜI CHƯA CHẾT
 ## Volume Treatment V1 — truyện kinh dị dài độc lập, 5 đại chặng
 
-**Tình trạng 2026-09-26: PROPOSED / AUTHOR REVIEW NEEDED.** Đây là bản kể toàn bộ đường đi của volume để đánh giá sức nặng như một tiểu thuyết, không phải manuscript hay chapter outline khóa. D-008–D-010 phê duyệt sự thật gốc, Thủy A, ba tuyến/năm chặng, phát triển thai kỳ và T-H1/B-I làm nhánh chính. **Những người mới, hành vi cụ thể, lịch tháng, hiệu ứng ma, hậu quả vụ phụ và giải pháp kết trong tài liệu này đều là ĐỀ XUẤT**, không tự động canon hóa. Chưa khóa số chương/số từ. Đối chiếu lịch và ma trận ở [08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md](08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md).
+**Tình trạng 2026-09-26: D-011 — AUTHOR-APPROVED VOLUME TREATMENT.** Đây là **nền cốt truyện volume đã được tác giả duyệt**, không phải manuscript hay chapter outline khóa. D-008–D-010 phê duyệt sự thật gốc, Thủy A, ba tuyến/năm chặng, phát triển thai kỳ và T-H1/B-I làm nhánh chính. **Những người mới, hành vi cụ thể, lịch tháng, hiệu ứng ma, hậu quả vụ phụ và giải pháp kết trong tài liệu này đều là ĐỀ XUẤT**, không tự động canon hóa. Chưa khóa số chương/số từ. Đối chiếu lịch và ma trận ở [08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md](08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md).
 
 ### Câu chuyện này thực sự nói về điều gì?
 
