@@ -6,6 +6,8 @@ This folder is a **handoff/router**, not a parallel canon. It records what the a
 
 ## Required reading order — current stage
 
+**LATEST FOUR SCENE CARDS (proposal):** [case-zero-pond-seeding-scene-cards-v1.md](../../plot/case-zero-pond-seeding-scene-cards-v1.md) joins the physical preflight below. Use its bounded S02/S13/G6b/G6c slots to plant the 2026 pond work naturally, constrain Bình, and leave actual supernatural certainty until after human facts have earned G6a/G6b. The card's outlet/tile/time and observation specifics still await targeted approval.
+
 **NEW DESIGN PROPOSAL, NOT ADDITIONAL CANON:** [11 — 1996 binding / 2026 pond-break scene preflight](11_BINDING_POND_1996_2026_SCENE_PREFLIGHT.md) develops D-012 into a **possible** physical anchoring near an old brick drainage outlet distinct from the body, tests how 1996 limited assistance and 2026 public works align without exposing remains, and specifies early/later scene seeding across already-planned movements. Its actual anchor material, calendar days, worker events and exact occult rite remain author-review candidates. It does not alter the already approved reason for Thoa's return or the provisional S01 test card.
 
 
