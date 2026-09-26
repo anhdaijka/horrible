@@ -1,6 +1,6 @@
 # Case Zero — Ma trận manh mối và tri thức hậu reset
 
-> Authority: D-002/D-008, DIR-01–DIR-07 và [arc](arcs/case-zero-don-hang-cho-nguoi-chua-chet.md). P1–P6/G6 là hàng rào tri thức, không phải lịch chương cố định cho volume mới. Thủy có chuyến ghé nhà trước án mạng và ngoại phạm THẬT ở xưởng khi Cường chết. Không có knowledge-state canon từ manuscript.
+> Authority: D-002/D-008/D-011, DIR-01–DIR-07 và [arc](arcs/case-zero-don-hang-cho-nguoi-chua-chet.md). P1–P6/G6 là hàng rào tri thức, không phải lịch chương cố định cho volume mới. Thủy có chuyến ghé nhà trước án mạng và ngoại phạm THẬT ở xưởng khi Cường chết. Không có knowledge-state canon từ manuscript.
 
 ## Cách đọc
 
@@ -19,7 +19,7 @@ Sự kiện xảy ra và thời điểm người đọc được biết là hai 
 | C-09 | Ký ức mất tích, lời đồn, hồ sơ lưu trữ; người/hệ thống được phép cung cấp | P4; một phần tin đồn có thể gieo trước mà chưa giải thích | P4 qua cộng đồng; truy cập chính thức do người có quyền | “Bỏ theo trai” che một cái chết | Không có khai tử ≠ còn sống; không có nữ trộm làm người đóng thế |
 | C-10 | Đơn/mẫu radio và nét tự sửa/vẽ; tiệm giữ, ký ức Thủy nhận ra | P1 mô tả/món giấy sau thời gian làm; P4 ký ức; P6 tái nghĩa | Nguồn tiệm P1, ký ức chỉ khi được chia sẻ | Một người muốn lấy lại đúng món đồ mình từng có | Bỏ băng làm chứng cứ âm thanh 1996; không khóa đào thấy radio thật; nhận dạng vật không tự chứng minh ma/cái chết |
 | C-11 | Chấm công + log/camera + người làm cùng + hành trình từ chuyến ghé nhà trước đó đến xưởng và giờ rời ca sau tin báo | Gieo công việc/chuyến ghé trong cảnh có nguồn; xác minh ngoại phạm sau | Qua nguồn hợp lệ | **D-008:** Thủy có ngoại phạm xưởng THẬT lúc Cường chết; trước đó đã ghé nhà và che giấu lý do | Chấm công đơn lẻ không đủ; vật/dấu của chuyến ghé nếu có không tự định thời điểm; chưa khóa loại dấu vết mới |
-| C-12 | Ghi chép “Không nhận lễ” (1996); gia đình Khanh giữ | P4 biết có lần từ chối, chưa có chi tiết xác | P4/P5 đọc với gia đình | Lời răn Nhân Quả và cấm kỵ nghề vàng mã giáng xuyên thời gian xuống hiện tại (D-005) | Không có tọa độ giấu xác hoặc biết tất cả; không bói toán tiên tri 30 năm; không dùng sổ thay điều tra |
+| C-12 | Ghi chép “Không nhận lễ” (1996); gia đình Khanh giữ | P4 biết có lần từ chối, chưa có chi tiết xác | P4/P5 đọc với gia đình | Cụ Khanh từ chối một yêu cầu ép buộc mập mờ vì nguyên tắc đạo đức riêng; sổ ghi lại thái độ và bối cảnh có nguồn, không tạo lệnh cấm vàng mã phổ quát | Không có tọa độ giấu xác hoặc biết tất cả; không bói toán tiên tri 30 năm; không dùng sổ thay điều tra |
 | C-13 | Dấu khảo sát/thi công và phần việc yểm Bình nhớ | Gieo vật lý P1/P3; P5 mới nối nhu cầu khảo sát đầm | Từng mẩu xã hội; đối chiếu cùng người có trách nhiệm P5/P6 | Trigger làm động chỗ chôn giấu; phạm vi tìm kiếm có nguồn | Không tự chỉ chính xác nơi có xác bằng thuật bói/sổ ông nội |
 | C-14 | Hài cốt và nhận dạng; khai quật có thẩm quyền, đối chiếu nhiều nguồn | G6a | G6a theo thông tin được công bố/chia sẻ | Xác nhận Thoa chết, phá chuyện bỏ đi | Không vừa thấy xương đã biết danh tính hoặc nguyên nhân chết |
 | C-15 | Thủy kể phần tìm xác; Cổn đối diện chứng cứ và phần che giấu | G6b | G6b qua hoàn cảnh phù hợp | Nối việc đã được gieo bằng vật chứng/lời chứng độc lập | Thủy không bịa mình thấy cú xô; lời thú nhận không tự xác minh mọi chi tiết |
@@ -44,3 +44,8 @@ Mỗi cảnh ghi: phase/cổng → clue ID → nguồn biết → trạng thái 
 Năm cụm để người đọc theo dõi: đơn/radio (C01/C10); xô xát/áo (C02–C05); đe dọa/điện thoại/ngoại phạm (C07/C08/C11); Thoa mất tích (C09/C12); đầm/lời chứng/nhận dạng (C13–C15). C06 đưa áp lực lợi ích nối các cụm. Không phát clue tuần tự như bài kiểm tra.
 
 **CH-01-v6 legacy:** D-004/D-007 từng duyệt mở sáng 14, hồi tưởng mùng 10 và horror coda, nhưng D-006 đã loại cảnh tiếng gọi cụ thể. D-008 cho phép remap lịch chương trong volume mới; các sự thật về lời đồn Chợ Bến dẫn Long tới tiệm, Lan Anh từ chối công khai và radio về lại tiệm vẫn giữ. Một độc giả đoán Thoa là ma sớm không là lỗi; POV phải trung thực với tri thức nhân vật.
+
+
+## D-011 approved V1, operational reveal order
+
+V1 whole story has author approval. Stagger **G6a credible identity → G6b several-source human responsibility → G6c short author/reader-only ghost Thoa order/killing certainty → separate physically risky late Cường household crisis**. Different human suspects have **asymmetrical** separate culpability, not symmetrical three-box alibi sequence. Independent Chợ Bến trade and Yên Phong pay/shift stories must have own causal endings. Thủy's optional photographed 2026 ledger entry is under a focused author gate and, if adopted, proves only finite accounting/source access; Bình's first probing words/proof are also not final. Refer to [scene map](case-zero-volume-scene-map-v1.md), [horror engine](case-zero-volume-horror-engine-v1.md), [postapproval gate](../chat-memory/case-zero/10_POST_APPROVAL_DESIGN_GATE.md). Before G6a avoid deceptive limited POV inside a person who already knows Thoa died; retain early bà Lan/Khanh/Lan Anh/Long or external witness viewpoints. The first S01 opening A/B card is prepared but NOT formally frozen.
