@@ -1,5 +1,7 @@
 # Case Zero — D-015: S01/S03/S04/S07 social geography, shop knowledge and first Khanh–Toàn pressure
 
+> **S01 CONTROLLED TEST UPDATE (not new author D-number):** The D-015-safe scene card has now been operationally frozen only for writing comparison at [COMMON V1](case-zero-s01-ab-frozen-common-v1.md); [RUN MANIFEST](case-zero-s01-ab-run-manifest-v1.md) records exact SHA, independent A/B contexts and after-the-fact rubric. Its single concrete **mùng10-arranged mùng14 usual Chợ Bến receiving point** is a test-only disambiguation of the delivery gap and is NOT automatic new plot canon. The old exploratory [S01 preflight candidate](case-zero-opening-ab-scene-card-v1.md) is NOT the live test input. No prose approved or A/B run completed.
+
 **Author-approved 2026-09-26; directly implements D-015.** Read [author decision](../author/decisions.md), [corrected common S01 A/B card](case-zero-opening-ab-scene-card-v1.md) and [D-014 fair misdirection/cat guard](case-zero-d014-living-thoa-and-black-cat-misdirection.md). This packet does NOT canonize finished prose or freeze the A/B experiment. Any pre-D-015 scene map, treatment or character prose assuming bà Lan knew Vũ Văn Cường personally or that he was alive on mùng10 is **superseded**.
 
 ## Facts the writer MUST keep separate
