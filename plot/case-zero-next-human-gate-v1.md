@@ -32,7 +32,7 @@ Proposed Toàn birthday: **early August 1996** (06 August solely as an internal 
 
 G6a credible identification of recovered Thoa remains **cannot** be achieved from the broken anchor; G6b uses corroborated independent human accounts, site work and bounded evidence; only G6c reader-level revelation confirms the actual supernatural mechanism. Thủy never saw the fatal 1996 blow, Bình never saw the corpse/anchor insertion, Lan Anh never saw the 2026 scuffle, Toàn has partial inherited knowledge but no ghost certainty, and Thoa does not orchestrate suspect alibis. Cường's separate haunting continues beyond G6c.
 
-**Three compact choices for targeted approval only:** (1) month seven/Toàn early-August age alignment + mùng8 rupture and mùng9 overheard Cường–Toàn land discussion; (2) T-H1c one photographed contemporary ledger entry versus simpler no-photo fallback; (3) Bình first brief, bounded question after a separate paid job. Cổn's one 2026 wrongdoing and late rescue need a separate fully staged packet. No prose chapter canonized; S01 A/B still provisional.
+**D-014 STATUS:** The author approved the three choices above AS THE ACTIVE DESIGN: lunar July 2026 / early-August 1996 Toàn / mùng8 anchor rupture / mùng9 real observed exclusion, one disputed contemporary-ledger photograph by Thủy, and a bounded Bình first question following unrelated paid work. Do NOT ask for these approvals again. The Cổn/late rescue companion packet was ALSO approved under D-014. Only exact example wording, named witnesses, transportation, shift documentation, birth DAY and naturalistic final scene blocking remain craft details. No prose chapter canonized; S01 A/B provisional.
 
 ## D-014 overlay — reader misdirection, real cat leap and approved boundaries
 
