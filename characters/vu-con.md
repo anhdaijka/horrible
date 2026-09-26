@@ -65,3 +65,7 @@ Rasping, sharp and commanding; prone to explosive curses and barking orders to s
 ## Approved ending direction — D-002
 
 Cổn remains alive. He loses sole control over the family’s account when Thủy and Lan Anh make costly truth-telling choices. Resistance may persist; survival does not promise repentance, forgiveness or a particular criminal sentence. No all-explaining confession or single-night completion of recovery, identification and legal process.
+
+## D-011: Cổn character before a new modern wrong
+
+The approved full-volume story develops the grandfather's **true capacity to care and run a household alongside his need to control daughters and descendants**. Earlier family wedding urgency includes the developmental direction of an already pregnant future daughter-in-law; no exact birthday/medical gestation or mother's informed complicity is inferred. His private dependence on Thủy's skill/help vs public characterization of it as duty must appear in lived ordinary scenes. **His specific avoidable 2026 new choice is STILL NOT author-approved.** Focused candidate C-2026-1: after G6a he could weaponize proof of her fake scares to discredit what she actually witnessed about the 1996 discovery in a small family meeting, then suffer a loss of cooperation before direct Cường ghost encounter. This is a suggestion for future author approval, not existing canon. He survives the finale but loses exclusive narrative control; no compulsory confession, penitence or universally effective rite.
