@@ -1,5 +1,8 @@
 # ChatGPT session handoff — Horrible / Case Zero
 
+> **LATEST S05 HANDOFF — 2026-09-26:** [S05 focused preflight and Writer packet](revisions/chapter-work/CASEZERO-S05-D022-WORKING/preflight.md) and [complete S05 V1 noncanon working prose](revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V1-WORKING.md) are now committed. Prior 'next draft S05' instructions below are superseded. A truly independent first-reader literary review has NOT yet occurred. NEXT = S05 first-read review, then bounded S01–S05 continuity/surgical edit as justified; S06 later owns its distinct Cường H1 and the approved real cat crossing AFTER lawful coffin release. No per-scene author signoff under D-021.
+
+
 > **CURRENT EXECUTION ROUTER — D-022 after S04 V3 (2026-09-26):** S04 working prose V3, internal literary review and S01–S04 cross-scene join have been COMMITTED, despite older handoff blocks below still describing S04 as a card. S01 D-018 approved original is immutable absent separate approval; S02 D-019 direction only, S03 V3 and S04 V3 are NOT canon. Under D-021 do not solicit per-scene approval: prepare a focused S05 funeral/house micro-preflight using D-022's existing house and lawful-body-release boundary; only then separately draft a versioned NONCANON S05 working episode if READY. Cat's real coffin leap occurs only after legitimate release, and S06 independent Cường H1 is a later distinct unit. Consolidated entrypoint: [D-022 master](plot/case-zero-precanon-batch-packet-d022.md); [S04 V3](revisions/chapter-work/CASEZERO-S04-D022-WORKING/S04-V3-CROSS-SCENE-INTEGRATED.md); [join audit](revisions/chapter-work/CASEZERO-S04-D022-WORKING/S01-S04-CROSS-SCENE-JOIN.md).
 
 
