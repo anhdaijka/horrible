@@ -108,6 +108,19 @@
 - **Separate spectral source Thoa** mùng10 paper order and ~22:54 kill; **separate spectral source Cường** early domestic haunting → fractures living household, Cổn direct encounter and own late climax after human truth.
 - Market/public refusal → Long independent shop lead; shop/worker/engineering side plots have **their own** deadlines, outcomes and costs whether or not they yield small contextual information.
 
-## G. What to decide next *after* author reads the whole treatment
+## G. Current review status: D-011 treatment accepted, D-012 return mechanism now accepted
+
+Author has approved full V1; do NOT request another general V1 approval. Only the limited incident-specific gates remain. The former review advice below is historical.
+
+## Historical G. What to decide next *after* author reads the whole treatment
 
 To avoid another 30-question gate, seek one **treatment-level** approval/revision on the overall novel: does the human/haunting late payoff feel earned, and do Chợ Bến/Yên Phong have their own compelling stories? Then narrow only three mutually dependent factual choices: (1) month-seven/1996-to-2026 age branch; (2) one T-H1b earlier-visit action/trace + credible first bounded B-I probe; (3) precise ordinary necessity and Cổn relational choice grounding the **late terrifying household climax**. Exact manifestation scene cards and an A/B shared opening prompt should only be frozen when these are approved. **Never present working model as already canonized prose.**
+
+## D-012 overlay: author-approved return and nail event; older proposed assumptions here yield to this
+
+- 1996 **actual outside binding:** Thoa's ghost constrained near the burial/binding site; old specialist performs it, Bình only assists in bounded unknown-to-corpse work; Khanh's grandfather refuses opaque work without knowing the fatal crime. Her three-decade subjective experience and exact rite remain unspecified.
+- **Pre-mùng10 2026 physical trigger:** public pond work damages the previously untouched burial/binding structure, weakening or breaking that actual constraint without necessarily revealing remains. Thirty years are elapsed history, NOT a curse timer. The real land-exclusion of Thủy plus the 1996 attack/cover-up motivate Thoa's own revenge, not perfect clairvoyance.
+- **Mùng10 / night13:** Thoa intentionally orders a paper radio for living Cường; on night13 independent human pressures leave him alone, he misreads a real supernatural intrusion as Thủy's prior hoax and records locally; real Thoa fatally strikes ~22:54. Night13 has no special occult power.
+- **Between fatal attack and Toàn's 23:05 discovery:** author truth that Thoa deliberately removes the **visible** expected fingernail trace by spectral intervention. Toàn believes he did not kill his father, sees none, briefly feels relieved and later increasingly fears either ghost intervention or a different human killer. No automatically negative DNA report, no ghost proof available to Long; precise mode/motive still G6c staging.
+- Preserve G6a→G6b→G6c before Cường's separate late haunting climax. Lunar month, actual material component, Thủy's exact earlier act, Bình's first social probe, Cổn's 2026 new choice and HA–HD physical manifestations remain focused optional scene gates.
+
