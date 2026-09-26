@@ -1,0 +1,11 @@
+# S05 — Writer brief: Người lo tang
+
+The family is trying to make a house usable for the living while nobody can yet tell them when the dead man can be brought home. Lan Anh returns from a difficult Chợ Bến errand with necessary funeral goods, a portion of her shopping left for later collection, and a photograph of an original prepaid order for an unfamiliar-looking paper radio she has refused to bring home. Her day cannot now become an investigation: people need water, somewhere to sit, places to sleep and a workable plan for receiving relatives. The house is full of people who have already done some things and are waiting for others.
+
+She needs to tell her husband Toàn about the paid order because it concerns his father and she must explain why she left the radio at bà Lan's family shop. The order was paid on mùng10 under the name Vũ Thị Thoa, meant for Vũ Văn Cường, who died night13. Lan Anh does not know the history behind the purchaser's name. Toàn must still deal with real funeral work and grief, but the news unsettles him in a way she cannot fully account for. Their marriage includes tenderness, fatigue and unequal control; an encounter about a parcel cannot absorb the whole afternoon.
+
+The more urgent pressure is also older than this death: ông Cổn makes competent arrangements and quietly treats the labor and time of daughter Thủy as his to allocate. Lan Anh can make a finite practical choice instead of accepting every demand. The family's ordinary work brings people through the front courtyard, side passage, kitchen and rear storage.
+
+Keep Lan Anh close-third through this continuing domestic stretch, later than S03 and after S04's separate shop return. This working episode stays before any established home-coffin access and before the distinct S06 Cường incident. The genuine black neighbor cat can be just an animal already known around food and open gates, not a source of an occult event here.
+
+The reader already knows the radio's payment/date/recipient mismatch. As the household keeps preparing for a funeral, a name no one will explain becomes something that affects who may speak, what can be brought into the house and how little control Lan Anh has over the meaning of her own shopping. Do not resolve that mismatch here. Leave a real change in daily responsibility and real unfinished business when the stretch ends.

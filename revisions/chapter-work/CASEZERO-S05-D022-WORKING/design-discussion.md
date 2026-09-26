@@ -1,0 +1,22 @@
+# S05 — Q1–Q8 steering and authority receipt (D-022)
+
+**Gate state for versioned NONCANON working trial: RESOLVED UNDER EXISTING AUTHOR DIRECTION / D-021 DELEGATION.** This is not a new author vote on exact S05 text, micro-staging, the cat's date or new ghost physics.
+
+Actual authority receipts: D-014 approved the real post-release coffin-crossing cat, independent Cường haunting and family rescue; D-015 fixed Lan Anh/Toàn/shop identities and knowledge; D-017 approved Cổn/Thủy voice dynamics without canonizing a gutter-repair scene; D-018 approved exact S01 prose; D-019 approved S02 oral-horror direction; D-020 approved post-draft literary review; D-021 explicitly asked the assistant to continue editorial/scene preparation without per-scene signoff until a single integrated material checkpoint. On 26 September 2026 the author expressly instructed continuation of the next recommended operation: correct D-022 handoffs, micro-preflight S05 and proceed to working S05 prose. These receipts cover inherited design and delegated noncanon micro-staging only.
+
+| Gate | Proposed S05 resolution | Classification |
+|---|---|---|
+| Q1 purpose/pacing | Follow the paid radio's new social cost into a bereaved home without reducing it to an interrogation. Give funeral work lived duration; tension can continue inside useful chores. | CONFIRM_EXISTING D-011/D-015; CHAPTER_DESIGN trial pacing |
+| Q2 scope/chronology | After S03 public refusal and S04's parallel mùng14 shop frame, begin when household preparation areas may be occupied; do not assert that Cường's body is back. End with an actual household task allocation and a changed marital limit. | CONFIRM_EXISTING D-014/D-022; CHAPTER_DESIGN bounded window |
+| Q3 POV/firewall | Lan Anh close third. She knows her own shirt concealment and Toàn's account of a shove, NOT the 1996 buried truth, objective killer or police conclusions. Do not enter Toàn, Cổn or Thủy insider interiors pre-G6a. | CONFIRM_EXISTING |
+| Q4 people/life | Purchases/supplies, visitors and usable rooms; Toàn has real grief and practical contributions as well as concealment, Cổn organizes competently but assigns Thủy's labor without asking, Lan Anh chooses a feasible redistribution. Thủy need not deliver a whole wage/shift subplot here. | CONFIRM_EXISTING + local execution |
+| Q5 horror | Sustain the already-earned mùng10-before-death radio wrongness via household etiquette and who may say Thoa's name. No new overt manifestation in S05. Cat ordinary access only; actual cat crossing and Cường H1 belong to later duly staged scenes. | CONFIRM_EXISTING boundary; CHAPTER_DESIGN placement |
+| Q6 reader-detective | The photographed slip's known buyer, date and provenance already exist; Toàn's behavior may be observable beyond what Lan Anh understands. No fresh evidence hunt; no certainty about Thoa's status. | CONFIRM_EXISTING |
+| Q7 materials/future obligations | Radio remains at bà Lan's shop; Lan Anh's image stays on her phone, Hảo has one separate return entry. Set genuine kitchen side-exit/straight passage/rear shutter/storage shelf through routine use, without measuring final escape width here. | CONFIRM_EXISTING; CHAPTER_DESIGN ordinary handling |
+| Q8 end/carry-forward | Family has actually allocated some work and usable space, but no release-time guarantee or resolved family history. Toàn has forbidden repeated public discussion of the name; Lan Anh retains the photo and her own unresolved private ethical burden. | CONFIRM_EXISTING + CHAPTER_DESIGN working exit |
+
+## Canon-impact audit
+
+Status: **CLEAN for NONCANON trial**. No new family history, buyer identity proof, additional old drowning, forensic fact, church/temple practice, ritual cause, supernatural law, guaranteed coffin schedule, new long-term debt, marriage resolution or irreversible house architecture is adopted. Where micro-staging would materially change world truth, preserve it as an explicitly provisional episode until the later integrated checkpoint. D-021 delegation authorizes choosing bounded working particulars; it does NOT canonize them.
+
+No genuinely unresolved AUTHOR-DESIGN choice must be answered to produce S05's limited trial. If authoritative police access, body release timing or actual household geography later contradicts this staging, mark the relevant candidate for bounded revision before any canon promotion. Q1–Q8 is satisfied by the listed actual prior author decisions and the latest instruction to execute this very stage; it is not represented as eight fresh approvals of new scene prose.
