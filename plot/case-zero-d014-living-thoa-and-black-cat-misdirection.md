@@ -1,0 +1,48 @@
+# Case Zero — D-014: Thoa còn sống? Mèo đen thật; quỷ nhập tràng không xảy ra
+
+**2026-09-26 · AUTHOR-APPROVED dramatic design D-014.** Companion to the now-approved [human-night timeline packet](case-zero-next-human-gate-v1.md), [Cổn/late Cường climax](case-zero-con-and-late-climax-lock-packet-v1.md), [D-014 decision](../author/decisions.md) and D-011–13. This is a reveal-and-scene guard, **not finished prose or a verified statement of uniform Vietnamese funeral custom**.
+
+## 1. Two concurrent reader hypotheses must remain available
+
+**Hypothesis A — human return (objectively false):** Thoa was rumored to have eloped in 1996, never had a public funeral or verified death record, and would now be ~52. A woman calling herself Thoa really comes to bà Lan's votive shop mùng10, pays for an unusually personal replica red cassette radio intended for her then-living brother Cường. Genuine new land works and disputes make the village suspect she has returned to insist on a share, staged a menacing premature funeral offering, killed her brother when rejected and disappeared. This is a coherent *public or outsider investigator's provisional suspicion*, not a narrator assertion or a second living impostor. Do **not** falsely label the mùng10 visitor an objectively living woman; use bà Lan's genuine sight, left-handed pencil work, actual money/payment and ordinary social confusion. Any descriptions of her age/appearance must be compatible with both an unverified middle-aged woman and the spectral truth; no conspicuously unchanged 22-year-old face, CCTV miracle, omniscient early ghost POV or artificially altered image is required. The actual D-014 mùng9 Cường–Toàn discussion may be shown through a living observer without disclosing ghost Thoa overheard it.
+
+**Hypothesis B — Cường's spectral retaliation (objectively true source, often misread cause):** Toàn conceals his fight and visible scratch, Lan Anh destroys his shirt, Thủy hides her fake threats and daytime ledger confrontation although she genuinely works at the factory during death, Bình hides blackmail. Their guilt and fear make each attribute early household disturbances to Cường returning to punish or take someone with him; gossip layers black-cat omen and anxiety about trùng tang atop the same events. **Some disturbances are objectively caused by ghost Cường and have finite physical effects/witnesses**; not all are psychological projections, staged hoaxes or evidence that Thoa's ghost orchestrated the later haunting. After G6a/b/c, Cường remains independently threatening and has his own late domestic climax.
+
+**Objective author-only:** Thoa died in 1996; D-012/13 outsider's binding and ruptured drain anchor let her leave before mùng10 2026; after directly hearing Cường's modern exclusion of Thủy she deliberately commissions the radio, kills Cường night13 and supernaturally alters visible nail traces. Thoa does NOT stage the independent Cường haunting, and Cường's return is not itself evidence of quỷ nhập tràng.
+
+## 2. The neighbor's black cat: genuine act, false causal diagnosis
+
+The black cat belongs to a real nearby household. Cường hated it while alive because it regularly trespassed, disturbed or stole from his house. The family's funeral preparations provide ordinary food, an open yard, movement, nearby animals and more opportunity for the same cat to reappear. Cổn/other relatives vigilantly worry about folklore linking cats and funeral coffins. Show one or two mundane sightings before the key incident, with real work/life consequence: someone leaves another task to chase it, relatives argue about who should mind the house or watch the coffin.
+
+**Fixed D-014 event:** After the body has been processed and lawfully released, during the family's actual funeral/watch period when Cường's coffin is present at the home, a human lapse allows the hated black neighbor cat to **physically leap ACROSS THE COFFIN**. It happens. Whether one tired watcher sees it in full, glimpses only part and later acknowledges the truth, or the narrator reveals it in a bounded external observation is an exact-scene choice. Do not demote it to imagination, unreliable rumor or an attempted jump stopped in time. Do not put it at an inaccessible sealed crime scene, assert that a closed coffin made the actual body leap, or present one regional folk variant as universal fact.
+
+**What emphatically DOES NOT happen:** no quỷ nhập tràng creature or phenomenon, no revived/moving corpse, no cat as a conduit to Cường's ghost, no necessary supernatural dependence between the jump and subsequent hauntings, and no objective proof that trùng tang is occurring. The cat may trigger dread and bad decisions but **not a new ghost's creation**. Its own natural behavior continues after the supposed omen; avoid demonizing the animal as an infernal entity or inventing cat-camera evidence that solves the murder.
+
+**Psychological, practical consequence:** Because the cat incident is truly averted too late, every genuine Cường-ghost disturbance afterward becomes easier for guilty family members to read through an omen. A tired watcher can hide their failure because they fear blame, pulling suspicion onto another innocent carer; caregiving, vigilance and practical funeral tasks suffer as people fixate on animal control and frightening folk explanations. The hoped-for quỷ nhập tràng **never visibly arrives**. Retrospective rereading shows a real jump with a false explanation and the independent haunt behind later events.
+
+## 3. Where the story shows what
+
+| Narrative slot | Confirmed objective scene function | Reader can reasonably infer | Must not assert |
+|---|---|---|---|
+| S01 mùng14 shop | Bà Lan remembers actual paid woman naming herself Thoa; hears Cường dead; ordinary shop/business stakes | Missing woman is back and paid for a planned threat | Ghost identity or proof of Thoa dead |
+| S02–S04 market/refusal | Public anger at premature paper radio; land dispute, elopement rumor and actual pond work circulate with incompatible human versions | Thoa returned to claim land and fled after Cường died | Toàn, Thủy, Cổn privately believe Thoa alive |
+| S05–S06 family vigil | Body lawfully released and coffin at home; Cường-hated black neighbor cat appears; **actual leap over coffin in one unattended lapse**; early haunting can occur independently | Families might have invited quỷ nhập tràng or trùng tang | Animate Cường's corpse or prove folk mechanics from cat |
+| S12 onward | More Cường domestic incidents with real bodily/material costs, as Thủy's human fake scares also emerge | Possible ghost vengeance, contagious funeral taboo, perhaps an accomplice to Thoa | Every event is just trauma or spectral omniscient Thoa |
+| G6a | Properly supported identification of Thoa's remains | Human-return story collapses | A single sketch/order/old rite alone proves remains |
+| G6b | Independently grounded 1996 fatal attack, suppression, coercion | Family's old elopement tale was deliberate suppression | Thủy claims she witnessed a blow she never saw |
+| G6c | Brief author/reader-only confirmation of actual ghost Thoa's order, murder and approved nail intervention, with D-013 ruptured binding | Re-read early radio/land clues in new light | Long has court-admissible proof of a ghost |
+| AFTER G6c | Fully embodied independent ghost Cường and practical rescue at established house geometry | Real haunted-house threat survives solved murder | Cat/ritual automatically banishes or creates Cường |
+
+The S05–06 exact watch interval, which person witnessed the leap and which distinct early Cường setpiece follows it are scene-level decisions. Preserve house-space consistency, legal corpse handling and finite POV. Do not make one emotionally exhausted watcher a villain solely to punish them.
+
+## 4. Third ritual idea remains OUTSIDE the approval
+
+The suggestion that Cổn intentionally skips or modifies a **thỉnh hương linh / welcoming-spirit practice**, and that such an omission **causes or strengthens ghost Cường**, was NOT among the two directions explicitly approved here. It may be independently researched and proposed with careful separation between a family's particular custom and fictional ghost-world causality. Until separately approved it must **not** be used as the hidden correct answer to the cat's false quỷ nhập tràng diagnosis. The author has approved an actual supernatural haunting by Cường, not its dependence on an undisclosed mandatory taboo. Nor has the author approved a general folklore claim that a cat jumping across any closed coffin resurrects a corpse.
+
+## 5. Immediate authoring guards
+
+- Have people naturally disagree about whether Thoa could still be alive, not all recite a coordinated false alibi.
+- Keep S01 same-scene two-context experiment's existing boundaries; the living-Thoa hypothesis can develop in S02/S04 and later inquiries without cramming all suspicion into the shop opening.
+- Do not use close Toàn/Thủy/Cổn POV before G6a to misrepresent their actual inherited/direct knowledge; where a bounded external scene is needed, write what they physically say or do without deceptive interior withholding.
+- A leap that really occurs can be dramatic even without a resurrected corpse; the horror payoff is how exhausted relatives spend their judgment, blame and labor under persistent uncertainty while another actual ghost haunts the house.
+- Zero prose canonized. S01 controlled A/B has not yet been run.
