@@ -1,17 +1,16 @@
 # Case Zero — repo-native memory for future ChatGPT sessions
 
-This folder is a **handoff/router**, not a parallel canon. It records what the author approved in Chat Mode on **2026-09-25** and what to do next, so a new session can resume without downloading ZIPs or asking old questions.
+This folder is a **handoff/router**, not a parallel canon. It records what the author approved in Chat Mode through **2026-09-26** and what to do next, so a new session can resume without downloading ZIPs or asking old questions.
 
-## Required reading order
+## Required reading order — current stage
 
-1. **CURRENT AUTHOR-REVIEW OUTPUT, proposed only:** [07_VOLUME_TREATMENT_V1.md](07_VOLUME_TREATMENT_V1.md) is the entire five-movement volume synopsis, with [08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md](08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md) its chronology, knowledge boundaries and horror-scene candidates, plus [09_SIDE_STORIES_CLIMAX_AND_V1_CRITIQUE.md](09_SIDE_STORIES_CLIMAX_AND_V1_CRITIQUE.md) for independent complete subplot proposals, a concrete finale candidate and a candid V1 stress-test. These are **NOT approved new canon**. Read approved source truth below to evaluate them; new chat should continue from author feedback on V1, NOT regenerate the preliminary brainstorm.
-2. [01_APPROVED_TRUTH.md](01_APPROVED_TRUTH.md): fixed past/present/supernatural truth, latest Thủy option A, legal/reveal firewalls, accepted author choices.
-3. [02_VOLUME_REDESIGN.md](02_VOLUME_REDESIGN.md): approved editorial architecture and deeper slow-burn/horror goals, carefully separated from suggested but not yet fixed details.
-4. [06_STRESS_TEST_AND_WOVEN_ENGINE.md](06_STRESS_TEST_AND_WOVEN_ENGINE.md): **CURRENT ROUND-4 WORKING DESIGN** after D-010 approval; simplified T-H1b, bounded B-I, hypothetical factory and date overlap, Cổn relationship tests, five-movement cross-causal graph and exact outstanding gates. **Not a prose brief or fixed invented-incident canon.**
-5. [05_ROUND3_HYBRID_AND_BINH.md](05_ROUND3_HYBRID_AND_BINH.md): preceding round-3 development after D-009 choices. Pregnancy *development only*, new Thủy hybrid T-H1/T-H2 and Bình epistemic alternatives B-I/B-III were proposed here; **D-010 subsequently approved T-H1/B-I as leading development models only**, and Cổn character work *without locking a new 2026 act*.
-6. [04_CAUSAL_ENGINE_PROPOSAL.md](04_CAUSAL_ENGINE_PROPOSAL.md): preceding round-2 causal framework; its old approval questionnaire is superseded by D-009.
-7. [03_NEXT_AND_AB_TEST.md](03_NEXT_AND_AB_TEST.md): remaining research gates and preserved future A/B prose experiment.
-8. For any disputed canon: `author/decisions.md` D-008; `author/directives/DIR-02-thoa-1996-manslaughter-canon.md`; `DIR-04-case-zero-forensic-mechanics-and-evidence-trap.md`; `plot/timeline.md`; `plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md`; relevant character profiles. Newer direct user instructions win.
+1. **APPROVED full-volume plan:** [07_VOLUME_TREATMENT_V1.md](07_VOLUME_TREATMENT_V1.md), author approval **D-011**; supporting [08 event and epistemic ledger](08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md) and [09 independent subplots and honest V1 critique](09_SIDE_STORIES_CLIMAX_AND_V1_CRITIQUE.md) distinguish approved story from optional exact scene illustrations.
+2. **APPROVED core truth:** [01_APPROVED_TRUTH.md](01_APPROVED_TRUTH.md), [02_VOLUME_REDESIGN.md](02_VOLUME_REDESIGN.md), and the latest `author/decisions.md` D-008 through D-011.
+3. **CURRENT generated scene architecture:** [interleaved scene map](../../plot/case-zero-volume-scene-map-v1.md) — **39 editable scene movements, NOT chapters** — and [fresh consequential Cường haunting design](../../plot/case-zero-volume-horror-engine-v1.md). Exact optional physical mechanics/injuries NOT automatically author-approved.
+4. **ONLY REMAINING material decision gate:** [10_POST_APPROVAL_DESIGN_GATE.md](10_POST_APPROVAL_DESIGN_GATE.md) — candidate lunar/Toàn chronology, exact Thủy early act + bounded Bình first probe, Cổn's one preventable 2026 act and late rescue space. Do **not** ask whether the full treatment should be approved again.
+5. **LATER same-scene two-context trial:** [candidate S01 card](../../plot/case-zero-opening-ab-scene-card-v1.md) must be formally frozen by author before the same bounded opening is written in rich-context vs fresh minimal-context sessions; no legacy CH-01-v6-B10 testing.
+6. **Earlier design records only if needed for lineage:** [06_STRESS_TEST_AND_WOVEN_ENGINE.md](06_STRESS_TEST_AND_WOVEN_ENGINE.md), [05_ROUND3_HYBRID_AND_BINH.md](05_ROUND3_HYBRID_AND_BINH.md), [04_CAUSAL_ENGINE_PROPOSAL.md](04_CAUSAL_ENGINE_PROPOSAL.md), and [03_NEXT_AND_AB_TEST.md](03_NEXT_AND_AB_TEST.md). Their old questionnaires are superseded.
+7. For a canonical conflict read `author/decisions.md`, active directives, current plot/timeline/clue matrix and relevant profiles. Newer direct user instruction prevails; no draft or handoff outranks canon.
 
 ## Approved project status
 
