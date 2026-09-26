@@ -1,0 +1,27 @@
+# CASE ZERO — S01 A-only safe richer-context pack V1
+
+**Run ID:** S01-AB-20260926-D015-V1. **This file is supplied to Writer A ONLY, AFTER the exact complete immutable common card** [S01 common](case-zero-s01-ab-frozen-common-v1.md), which must precede it verbatim. It is a bounded *author-approved living-context* supplement and neither alters the common scene conditions nor adds a supernatural clue. Writer B must NEVER receive this pack. If a change is made here, record new run suffix; don't silently adjust B's card.
+
+## 1. Bà Lan: approved ordinary behavioral texture, not extra scene mandates
+
+A woman in her mid-fifties who has done long days in her paper-votive shop; her social memory is good for actual customers, prices, work quality and gossip she really encountered. She is not a village telephone directory, a folklore lecturer or a psychic. She can be affectionate through telling her son to do a concrete task, abrupt when interrupted by a customer, sharp about invoices, capable of joking without a written punchline and petty when someone messes up a routine she does with her eyes closed. When an important detail about a family far away is not known to her, she simply doesn't know it. Keep her life broader than remembering the red radio.
+
+She lives with people outside this bounded scene too: her husband **Nguyễn Văn Hùng**, daughter **Nguyễn Minh Hạnh** (Khanh's older sister) and the workings of a real local household; do not force them to cameo just because these names exist. In family conversation prefer relationship-driven words (mẹ, con, bố, chị) appropriate to who is physically present, not a parade of honorifics. In close third bà Lan is called **bà Lan**, not bare Lan in prose.
+
+## 2. Khanh: somebody who can be useful but does not need to demonstrate brilliance
+
+A practical 27-year-old software engineer with Japanese-work obligations; he spent 1–2 years at the firm's Vietnam-side workplace before a 3-year Japan onsite posting, is **newly returned** for weeks of home leave and will go back to the firm's Hanoi office. At home he may look unkempt, be indolent when family habit takes over, become unusually still when a technical problem actually demands attention, and tease or give in to his mother rather than delivering technology explanations. One believable work interruption (a pending handover or somebody else's changed meeting time) has consequences for his participation in routine shop loading/packing; it does NOT provide a ghost clue or official police access. He is not permanently analytical, and his mother's trade knowledge may simply be better than his.
+
+His childhood friend **Hoàng Ngọc Mai** and old district-high-school classmate **Lê Văn Thắng** live in his larger social world, but this scene does not need to show them. A little family memory may emerge naturally from an actual shop conversation; no obligation to name these people. The person the mother/son already know here is **Lan Anh**, one or two school cohorts senior, once openly fond of Khanh at their district high school; she married Toàn after university into a distant Trại household. No evidence she still loves Khanh, and Khanh **has never met Toàn**.
+
+## 3. Physical and socioeconomic continuity that A may draw on
+
+The shop occupies a functioning commercial street in **xóm Bến near Chợ Bến**. Bulk orders, returning buyers, specific decorative requests, people who help with transport and interruptions from other actual jobs carry financial consequences. In the rằm run-up, time is scarce and priority is not determined by which item later becomes a thriller clue. **Xóm Trại is geographically distant**, so the shop owner has every reason to know an old acquaintance Lan Anh but **no automatic reason to know the name or surname of her father-in-law**. Three people named Cường exist in distant Trại, so a scrap of generic local gossip is never a precise ID of the invoice recipient. The customer on mùng10 paid, specified a custom paper-radio detail, used her left hand fluidly and accepted a normal prearranged **mùng14 drop at the shop's usual Chợ Bến receiving point**; bà Lan neither knew nor had to inquire whether the name on the item belonged to a living man.
+
+The mother and son can hold genuinely divergent priorities without cruelty: bà Lan is protecting deadlines, buyer trust and the cost of redelivery; Khanh is managing a few weeks' family leave under the long shadow of remote office demands and is not a free permanent employee. Let their dialogue react to material work; don't turn either into mouthpiece for a theme.
+
+## 4. Guard against contamination
+
+DO NOT load full plot treatment, hidden 1996 murder, Thoa's actual spectral identity, old failed drafts or author feedback into Writer A during this controlled S01 run. This safe pack is not permission to foreshadow the crime, cat, fingernails, Cường's actual ghost or S03's precise confrontation. Same length **1,700–2,300 words Vietnamese**, same one-scene stop and same writing instruction as B: all those sit in the IMMUTABLE common card, not here.
+
+**Writer A input order:** (i) full common card, copied byte-for-byte; (ii) this safe supplemental pack. Writer B input: (i) full common card ONLY. Start drafts under separate new conversations/sessions with same model and comparable effort/settings if possible.
