@@ -26,8 +26,8 @@ A 58-year-old local ritual specialist (*thầy cúng*) residing in xóm Trại, 
 
 Under current Case Zero canon (**D-054–D-059, DIR-01, DIR-02, DIR-04**), Bình is a human link to the heterodox concealment history and a prime physical suspect in the 2026 murder:
 - **Partial binding knowledge (D-001 post-reset):** As a younger assistant to the outside specialist, Bình performed a limited task around the pond and remembers material/location clues. He helped Cổn/Cường conceal something, and suspects it was a body, though he doesn't know the exact fatal blow of 1996.
-- **2026 Symbiotic Blackmail:** With the new road project threatening to excavate the pond, Bình realized the 1996 remains would be exposed. He began extorting Cường, demanding money to "handle" the spiritual fallout or keep quiet about the illegal burial.
-- **Night-13 Visit & Ash Evidence:** On the night of the murder, Bình visited Cường's house to demand money. Lan Anh, hiding in her room, overheard Bình threaten Cường: *"Đào nó lên thì cả mày và tao đều chết. Chuẩn bị tiền đi."* During the argument, Bình accidentally spilled a specific type of yellow ritual ash. When the police find this ash under Cường's dead body (or stepped on by Toàn), it points directly to Bình.
+- **D-011 B-I developmental line:** Public pond-side works remind Bình of his **limited 1996 assistant assignment** near a broad part of the shore; he does NOT know a corpse was there from that job or independently certify murder. He begins with an ordinary, bounded probe of Cường's reaction, then escalates into money pressure by overstating how much he knows. Precise first encounter, small payment (if any) and direct source remain scene-level choices pending targeted author approval.
+- **Night-13 Visit & Ash Evidence:** On the night of the murder, Bình visited Cường's house to demand money. Lan Anh, hiding in her room, overheard Bình threaten Cường: *"Đào nó lên thì cả mày và tao đều chết. Chuẩn bị tiền đi."* Generic yellow ritual ash may transfer during the argument if its actual source/custody is staged. Finding ash alone is not an exclusive fingerprint or proof he knew where Thoa died; independent witness/material evidence is needed to establish his visit.
 - **The Double-Bind Lie:** When questioned, Bình denies being at the house entirely. He lies not because he killed Cường, but because admitting he was there means explaining *why* he brought suppression ash and *what* he was arguing about, which would expose his complicity in the 1996 cover-up. This lie makes him look like a murderer trying to eliminate his blackmail victim.
 - **Planned ritual beats:** No old chapter or coffin-sealing scene survives as approval. Close ritual practice needs current research; end-state responsibility depends on his actual actions.
 
@@ -52,3 +52,8 @@ Grave and authoritative when performing his social role; sharp or evasive when q
 ## Ritual effect — D-002
 
 A ritual may temporarily restore solidarity, company and the ability to rest without confirming its supernatural explanation or ending the haunting. Bình is neither an infallible exorcist nor automatically a fraudulent villain. Concrete practice remains research-gated. He cannot reveal the full old crime from his limited past role.
+
+
+## D-011 approved narrative role
+
+Bình has a **separate social and paid ritual life** independent of the Cường case. The first probe should arise during actual work among the publicly visible pond-side changes, NOT from Cường telling him the entire crime. His night-mùng13 demand happens before Toàn's fight. He may believe some of the tradition he practices while exaggerating his own 1996 knowledge for money; during later haunting he is capable of genuine fear without becoming an all-knowing lore narrator. Late ritual may help exhausted people cooperate or rest, never automatically clear ghost Cường. Exact role/phrase/ash placement requires scene design and cultural verification.
