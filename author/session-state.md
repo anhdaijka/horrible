@@ -1,5 +1,8 @@
 # Session State — Horrible
 
+> **EXPLORATORY SAME-CHAT DRAFTS EXIST, NOT INDEPENDENT A/B (2026-09-26):** `revisions/chapter-work/CASEZERO-S01-AB-20260926-D015-V1/A-RAW.md` (~2,575 whitespace words) and `.../B-RAW.md` (~2,473) were both written in the SAME lengthy project chat after exposure to rich/common context; neither is a valid independent/blind experiment nor a canon S01. See `plot/case-zero-s01-ab-run-manifest-v1.md` for actual conditions, blob SHAs and preflight. The originally frozen COMMON/A-RICH writing card files still match their committed SHAs. Author can now review both as creative alternatives; do not claim any literary winner, changed canon or valid A/B performance evidence.
+
+
 > **CURRENT S01 A/B FREEZE (TEST ONLY, NOT D-016; 2026-09-26):** The D-015-safe SAME common scene input is now frozen at `plot/case-zero-s01-ab-frozen-common-v1.md` (GitHub SHA `09d495193566b66ca3a905af40f5c95ea13448e5`), additional A-only spoiler-safe lived-context pack at `plot/case-zero-s01-ab-rich-context-v1.md` (SHA `a05749732f2ef7a1f0977a8bc40b23cc1cad581d`) and reproducible blind craft/continuity protocol at `plot/case-zero-s01-ab-run-manifest-v1.md`. A and B must be generated in DISTINCT fresh contexts: A common+rich only, B common only. No A/B raw prose, completed comparison or canon chapter yet. One ordinary mùng10-arranged mùng14 radio drop through bà Lan's regular Chợ Bến receiving point is a TEST FIXTURE to close the S01→S03 transfer gap, NOT new D-015 story canon. Old `plot/case-zero-opening-ab-scene-card-v1.md` now historical, not test prompt. D-015 remains last AUTHOR decision, including that bà Lan/Khanh don't know the recipient's personal identity/living status before S03.
 
 
