@@ -1,7 +1,7 @@
 ---
 name: "Lan Anh"
 role: supporting
-age: 27
+age: "older than Khanh by 1–2 school cohorts; exact age TBD"
 status: alive
 relationships:
   - character: vu-van-toan
@@ -29,7 +29,7 @@ tags:
 
 ## Role
 
-The 27-year-old eldest daughter-in-law (*con dâu trưởng*) of Vũ Văn Cường, married to Vũ Văn Toàn. She is caught between funeral obligations, patriarchal pressure and loyalty to her husband.
+The eldest daughter-in-law (1–2 school cohorts older than the 27-year-old Khanh; exact age to align) (*con dâu trưởng*) of Vũ Văn Cường, married to Vũ Văn Toàn. She is caught between funeral obligations, patriarchal pressure and loyalty to her husband.
 
 ## Durable Case Zero canon
 
@@ -80,3 +80,7 @@ Her husband’s mother died years earlier, after Toàn became an adult; do not i
 ## D-011: Domestic horror and agency
 
 The approved V1 slow-burn has a **separate Lan Anh arc**: early practical funeral labor and firsthand response to real Cường household hauntings; a genuine but culpable concealed/ultimately burned shirt; a costly refusal to substantiate any blow she never witnessed; a plausible period of temporary separation. A late practical **daylight** return to retrieve belongings can gather the family without paranormal sleuthing, with Thủy accompanying by choice. Exact supernatural mechanism, injured person and marital end-state remain focused detail gates. Lan Anh's public Chợ Bến refusal is from shock at pre-death order, **not** buried 1996 knowledge; radio returns to bà Lan's shop and Long follows public market gossip independently.
+
+## D-015 — Older district-school admirer; shop connection without genealogy access
+
+Lan Anh studied **1–2 cohorts above** Khanh at the **district high school**, and liked him intensely enough the village talked. She married Toàn **after university**, rather unexpectedly to observers, and subsequently became part of Cổn/Cường's household in **geographically distant xóm Trại**. Her prior affection is real; **continuing romance with Khanh in 2026 is NOT implied**. Khanh spent 1–2 years at a Japanese company before a 3-year onsite Japan assignment, and has just returned for a few weeks' holiday with continuing remote obligations before his inner-Hanoi office return; **he has NEVER met Toàn** before present plot action. Toàn has heard Khanh's success and her former devotion from village oral accounts (and any past marital discussion, if staged); his chronic jealous comparison and controlling reactions are HIS perception, not evidence of a secret affair. Bà Lan/Khanh are familiar with Lan Anh and general stories of patriarch Cổn but **do not know** Lan Anh's father-in-law's name or even surname, so bà Lan's mùng10 prepaid paper-radio order under recipient “Vũ Văn Cường” was a routine job, not conscious acceptance of a threat to a known living man. When Lan Anh independently comes to Chợ Bến on a mùng14 funeral errand, her conversation supplies the **FIRST earned identification** that her dead father-in-law is **Vũ Văn Cường**, checked against pre-existing order/handoff details where necessary; she publicly rejects the radio in fear/stress. After she reports customer **Vũ Thị Thoa** and shop provenance to Toàn, his response reveals his bounded older death-secret leverage **used to pressure his father for the sổ đỏ** and new fear/jealousy of Khanh; Lan Anh still does NOT inherit eyewitness knowledge of the 1996 killing. Long receives public market rumors independent of her, not a direct tip. Her exact age must align with being 1–2 high-school cohorts senior to the ~27-year-old Khanh (do not force the legacy same-age field to settle it).
