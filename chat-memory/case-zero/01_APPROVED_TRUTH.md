@@ -1,5 +1,10 @@
 # Accepted facts and author decisions — as of 2026-09-26
 
+## D-016 — AUTHOR-APPROVED character voice and anti-clone craft gate
+
+The author read the same-chat S01 A-RAW/B-RAW alternatives, selected **A only as the more convincing ordinary shop-life structural base**, and found BOTH dialogue voices too safe/undifferentiated. They approved rebuilding natural age/social register and unique speech agency **throughout Case Zero**. Adult employed Khanh (27) may address bà Lan as **con/mẹ** but is not a schoolboy endlessly requesting permission; mother bà Lan MAY naturally address him as **mày** as an ordinary familiar option, “con” in another tone or “anh” when context earns it. Cổn's own **mày** to Thủy carries a DIFFERENT coercive family hierarchy with actual costs, never cloned maternal banter. Younger shop customers need actual deadlines, decisions and age-appropriate register rather than one-word setups for bà Lan's punchlines. No default universal complaint→short reply→quip pattern; every consequential speaker has aims, leverage, partial information, changing response to whom they address and tangible decisions. Approved process: create [Voice & Dialogue Bible V1](../../plot/case-zero-voice-and-dialogue-bible-v1.md) for bà Lan/Khanh/Lan Anh/Toàn/Cổn/Thủy/Long plus an independently motivated shop customer; prepare three [micro-tests](../../plot/case-zero-dialogue-microtests-d016-v1.md) covering (1) bà Lan–Khanh–younger customer, (2) post-S03 Lan Anh–Toàn after naming **Thoa** and **Khanh's mother’s shop** (he knows part of Thoa's REAL 1996 death and fears disclosure AND envies never-met Khanh), and (3) Cổn–Thủy on current finances/service with boundary-setting. Evaluate voices and consequences BEFORE full S01 V2. Neither A/B draft NOR prior illustrative rewritten dialogue is canon, and the original D-015 frozen test remains historical/unchanged. No three microtest raw outputs yet. All D-011–15 factual/epistemic approvals unaffected.
+
+
 **A = fixed or directly approved; P = proposal still requiring specific approval.** This doc does not promote example ideas to canon or manuscript.
 
 ## A — original objective story truth retained
