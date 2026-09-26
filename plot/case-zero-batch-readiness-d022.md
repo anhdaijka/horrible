@@ -1,5 +1,8 @@
 # Case Zero — D-022 integrated pre-canon batch readiness register
 
+> **POST-S04 UPDATE (2026-09-26):** D-022's G6a/G6b provenance card, same-house dry run and optional chapter grouping now EXIST as working design. The S04 V1→V3 prose and S01–S04 source/voice/custody join also EXIST, with the helper-absence continuity defect corrected in S04 V3. Prior “next actions” below record how this work was reached, not tasks to repeat. Remaining immediate production task: S05 focused funeral/house micro-preflight, then a versioned noncanon scene only if READY; later S06/S07 and the unified batch checkpoint. No new author approval or completed canon chapter is implied. [S04 V3](../revisions/chapter-work/CASEZERO-S04-D022-WORKING/S04-V3-CROSS-SCENE-INTEGRATED.md) · [join audit](../revisions/chapter-work/CASEZERO-S04-D022-WORKING/S01-S04-CROSS-SCENE-JOIN.md).
+
+
 **Status at 2026-09-26: working package prepared by assistant under author's D-021 delegation. NO request for another per-scene approval. NO fresh author canon claimed.** [39-scene V2 integration](case-zero-volume-scene-map-v2-d022-working.md) + [evidence/house/rumor audit](case-zero-evidence-and-spatial-gates-d022.md) + [D-021 S01–S03 literary pass](../revisions/chapter-work/CASEZERO-S01-S03-D021-EDITORIAL-PASS/INDEPENDENT-LITERARY-REVIEW.md) replace fragmented status guesses as the current PRODUCTION-PREP entrypoint. Earlier decisions D-011–21 remain superior in authority; V1 is useful for historical rationale only where not expressly corrected.
 
 ## Completed and do NOT re-ask
