@@ -1,6 +1,6 @@
 # CASE ZERO — S01-AB-20260926-D015-V1: controlled run manifest
 
-**STATE: READY / COMMON CARD TEST-FROZEN 2026-09-26; A and B raw drafts NOT GENERATED, no literary winner or canon chapter.** Author-approved D-015 is binding on ALL subsequent prose. This manifest records a *controlled development experiment*, not a new author D-number and not authorization to turn the TEST-ONLY market handoff microchoice into story canon.
+**STATE: COMMON CARD STILL FROZEN; TWO EXPLORATORY RAW DRAFTS GENERATED IN THE SAME CHAT ON 2026-09-26. THIS IS NOT AN INDEPENDENT OR BLIND CONTROLLED A/B RUN; NO LITERARY WINNER, NO CANON CHAPTER.** Author-approved D-015 is binding on ALL subsequent prose. This manifest records a *controlled development experiment*, not a new author D-number and not authorization to turn the TEST-ONLY market handoff microchoice into story canon.
 
 ## 1. Frozen inputs: exact files and GitHub blob SHA
 
@@ -52,3 +52,18 @@ Mark each `PASS / FAIL / UNCERTAIN` with exact paragraph evidence, separate from
 ## 5. Decision boundary
 
 A strong raw draft can be revised **after** comparison, but neither draft becomes a canon chapter on tool completion or checklist pass. The author must accept a direction or request a rewrite based on concrete literary evidence. If both fail, report **both failed** and identify which scene premise or instruction generated the failure rather than rewriting the prompt retroactively to make a pass. No D-016 has been recorded by this packet.
+
+## 6. Exploratory same-context draft log — 2026-09-26
+
+**IMPORTANT LIMITATION:** The user requested execution directly in the existing long conversation rather than a handoff to a separate working environment. Both drafts were therefore composed in the **SAME chat/model context**, after this context had already seen both the COMMON and A-only RICH pack and previous instructions. Draft B is stylistically distinct but **cannot honestly be described as a fresh minimal-context blind arm**. The author may compare the two *creative alternatives*, but this run **does NOT test whether rich context beats minimal context** and must not be represented as the genuine isolated A/B experiment described in sections 1–5. No blind first read has occurred. Preserve the original controlled plan for a future valid independent replication, should the author request it.
+
+**Unchanged raw drafts, explicitly NONCANON:**
+
+| File | GitHub blob SHA | Whitespace-delimited Vietnamese words (approx.) | Provenance | Deviations from common target |
+|---|---|---:|---|---|
+| [A-RAW](../revisions/chapter-work/CASEZERO-S01-AB-20260926-D015-V1/A-RAW.md) | `bcea94b761475df834169457d525ae917f6886fd` | **2,575** | Exploratory prose drawing on COMMON and approved richer living texture; written in the ongoing project chat | Exceeds 1,700–2,300 target by ~275 whitespace words; is NOT isolated from prior project context |
+| [B-RAW](../revisions/chapter-work/CASEZERO-S01-AB-20260926-D015-V1/B-RAW.md) | `8e0ecbd254e7614df2ccfb225fe8704396f6062a` | **2,473** | A distinct stylistic alternative emphasizing order slips, packaging and deadline; composed AFTER A in the same context | Exceeds target by ~173 whitespace words; B had potential leakage from A/RICH and therefore is NOT a valid minimal-context arm |
+
+**Provisional continuity check, NOT a blind literary assessment:** Both manuscripts confine the immediate scene to bà Lan's shop and its normal orders on the mùng14 morning; the named Vũ Văn Cường invoice is ordinary to bà Lan, who does not identify Lan Anh's in-laws or know the customer's target was alive when ordered; Khanh has real remote Japanese work and short home leave; package moves along an earned prearranged Chợ Bến route; no meeting with Lan Anh, Long interview, supernatural occurrence or full mùng10 flashback has been inserted. A's opening centers on fixing a paper house roof and a rushed seven-seat-paper-car customer; B's opening centers on a temporarily misplaced delivery slip, clothing repair customer and earlier Chợ Bến route deadline. Both final drafts must still undergo **author's own literary review**, targeted close fact-check and any desired edit. **Neither is canon; no quality winner was designated.**
+
+**Next honest options:** Let the author review BOTH linked raw drafts as readable alternatives and give concrete notes; edit and develop a preferred artistic direction without claiming independent A/B evidence; OR, if the explicit goal remains to test the effect of added context experimentally, execute the frozen COMMON and A-only RICH inputs in two genuinely isolated contexts with matched length/settings and use fresh saved outputs with a new run suffix. Do not silently substitute these two exploratory same-chat drafts for independently generated A/B outputs.
