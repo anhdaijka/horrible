@@ -2,6 +2,8 @@
 
 This folder is a **handoff/router**, not a parallel canon. It records what the author approved in Chat Mode through **2026-09-26** and what to do next, so a new session can resume without downloading ZIPs or asking old questions.
 
+**D-013: approved.** Chosen old brick drain outlet / small protected fired tile anchor, four story slots S02/S13/G6a-G6b/G6c. See author/decisions.md D-013. Fine details still open.
+
 **D-012 CURRENT APPROVED CAUSALITY, 2026-09-26:** 1996 outsider's real rite binds spirit Thoa to concealed burial area; 2026 pre-mùng10 pond construction disturbs that previously untouched binding without automatically exposing remains; not a thirty-year timer. Cường's original crime and renewed 2026 exclusion of Thủy motivate Thoa. Real ghost Thoa intentionally orders mùng10 paper radio for still-living Cường, fatally attacks on night13 when independent conflicts leave him alone, and supernaturally removes the visible trace Toàn expects under Cường's nails. Toàn feels brief relief then deepening terror; exact ghost means/motivation are G6c choices, NOT total DNA erasure. **Full canon**: [D-012](../../author/decisions.md); [approved truth](01_APPROVED_TRUTH.md), [timeline](../../plot/timeline.md), [active arc](../../plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md), [epistemic matrix](../../plot/case-zero-clue-and-epistemic-matrix.md). Do not reopen why she returned in 2026. Do not pre-load this note into a clean Writer A/B run; no raw chapters canonized.
 
 ## Required reading order — current stage
