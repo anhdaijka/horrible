@@ -1,6 +1,6 @@
 ---
 name: "Case Zero — Đơn hàng cho người chưa chết"
-type: subplot
+type: volume
 status: planned
 characters:
   - nguyen-minh-khanh
@@ -25,7 +25,7 @@ acts: []
 
 # Case Zero — Đơn hàng cho người chưa chết
 
-> D-002/D-008: Case Zero hiện phát triển thành **volume độc lập**. Thủy có chuyến ghé nhà **trước** án mạng và ngoại phạm xưởng **THẬT** lúc Cường chết; thiết kế cô ở hiện trường 22:54/giả ngoại phạm đã hết hiệu lực. Phase là cổng thông tin, không phải số chương. CH-01/CH-02 cũ có thể remap có kiểm soát cho volume mới. Không có chương canon.
+> **D-011, 2026-09-26: tác giả đã duyệt [Treatment V1](../../chat-memory/case-zero/07_VOLUME_TREATMENT_V1.md) làm tuyến truyện CHÍNH của volume độc lập; [sơ đồ cảnh đan xen](../case-zero-volume-scene-map-v1.md) và [horror engine](../case-zero-volume-horror-engine-v1.md) đang ở preflight chi tiết, chưa khóa số chương/văn xuôi hoặc mọi manifestation cụ thể.** D-002/D-008: Case Zero hiện phát triển thành **volume độc lập**. Thủy có chuyến ghé nhà **trước** án mạng và ngoại phạm xưởng **THẬT** lúc Cường chết; thiết kế cô ở hiện trường 22:54/giả ngoại phạm đã hết hiệu lực. Phase là cổng thông tin, không phải số chương. CH-01/CH-02 cũ có thể remap có kiểm soát cho volume mới. Không có chương canon.
 
 ## Lõi cảm xúc và lời hứa kinh dị
 
@@ -63,7 +63,7 @@ Mùng 8 đến trưa 13, Thủy dùng lời đe dọa, âm thanh dọa ma và �
 | Ngay sau đó | Toàn gọi Lan Anh. Cô gọi trợ giúp y tế và báo cơ quan chức năng. Toàn dặn vợ giấu nhẹm mọi chuyện. | Lan Anh chưa vội khai chuyện Thầy Bình vì sợ lôi công an vào sẽ làm lộ chuyện Toàn xô xát. |
 | Trong lúc chờ | Toàn thay áo; Lan Anh cất chiếc áo bẩn, che vết thương bằng băng/vải thường. | Áo giấu đi, vết cào xước trên cổ Toàn lúng túng khai là tai nạn. |
 | Cùng đêm, sau tin báo | Thủy nhận tin khi đang làm việc, rời xưởng rồi trở về theo lộ trình khả thi. | Ngoại phạm giờ chết là thật. Cô che giấu chiến dịch đe dọa và chuyến ghé nhà xảy ra **trước** đó; không làm giả chấm công. |
-| Sau tin báo | Thủy hỏi dồn điện thoại ở đâu, vì sợ lộ tin nhắn đe dọa "mạng đổi mạng" cô gửi Cường ngay trước án mạng. | Không có lần tìm/lấy máy trước hạn chế tiếp cận. |
+| Sau tin báo | Thủy hỏi dồn điện thoại ở đâu, vì sợ lộ tin nhắn đe dọa "mạng đổi mạng" cô đã gửi Cường trong chiến dịch mùng 8–trưa 13. | Không có lần tìm/lấy máy trước hạn chế tiếp cận. |
 | Lần khám đầu | Cơ quan có thẩm quyền khám hiện trường và thu giữ điện thoại; đối chiếu vật chứng có nguồn. | Không gán vệt dầu/dấu tay của Thủy vào mốc tử vong. Dấu vết nếu có từ chuyến ghé nhà sớm phải được thiết kế thời gian và cơ chế lưu lại riêng. |
 
 Cổn không có mặt tại chân cầu thang khi xô xát; ông được báo cùng người nhà. Tiếng động nghe từ các phần nhà khác chỉ là lời chứng giới hạn, không tạo nhân chứng toàn tri. 
@@ -146,7 +146,7 @@ CH-02 dành trọn cho hồi tưởng sáng mùng 10 trong limited POV bà Lan, 
 
 | Tuyến | Yêu cầu đã chốt | Hướng kết đã duyệt / chi tiết còn phải thiết kế |
 |---|---|---|
-| Cổn | Quyền kiểm soát lời kể bị phá; phải đối diện việc che giấu. | Còn sống và nhận trách nhiệm trong lời khai; không chết để thoát đối chất. Tội danh/thời hiệu phải nghiên cứu. |
+| Cổn | Quyền kiểm soát lời kể bị phá; phải đối diện việc che giấu. | Còn sống, mất độc quyền kể chuyện; lời khai/trách nhiệm phải dựa trên những gì ông thật sự nhận và chứng cứ, không áp một lời thú tội hoàn hảo để giải oan tức thì. Tội danh/thời hiệu phải nghiên cứu. |
 | Thủy | Phân biệt nạn nhân bị ép im lặng với hành vi đe dọa 2026; được kể đúng phần mình biết. | Tự cung cấp dữ liệu và lời khai, bắt đầu đòi quyền lợi; không được xóa trách nhiệm vì khổ. |
 | Toàn | Xô xát, khai thiếu và che giấu bị làm rõ; không kết tội giết cha bằng vết cào. | Nhận phần mình làm, đối diện điều tra/nợ và lòng tin hỏng; chưa chốt mức án. |
 | Lan Anh | Đốt áo là lựa chọn có cái giá riêng. | Nói rõ phần đã giúp che giấu, ngừng bảo vệ chồng bằng nói dối; không mặc định ly hôn hay tha thứ. |
@@ -161,3 +161,12 @@ Trước preflight P6 cần hoàn thiện cơ chế kết Cường và custody/q
 ## Cổng nghiên cứu
 
 Xem [research note](../../research/verified/case-zero-mechanics-audit-v1.md). Cần kiểm chứng trước cảnh cận: tổ chức công an 2026 và phân quyền; khám nghiệm/bàn giao; thương tổn và giá trị âm thanh; điện thoại/app ghi âm 2026; nhận dạng hài cốt; truy cập hồ sơ CMND/khai tử; nghi lễ/tang phục. Có thể lược bỏ chi tiết chưa chắc, nhưng không khóa một chuỗi cảnh phụ thuộc nó như đã xác minh.
+
+
+## D-011 — Approved V1 dramatic progression and current preflight authority
+
+The author approved **Nhà có tang → Mỗi nhà một lời khai → Những món nợ không có tên → Đầm sen → Không ai nhận lễ** as flexible *dramatic movements*, not a fixed 5-act chapter count. The mùng14 shop opening and public Chợ Bến refusal must develop with an independently interesting trader dispute; Yên Phong workers' wage/shift episode is a separate meaningful story that also, without contrivance, permits independent corroboration of Thủy's REAL factory alibi. Long legally follows independently sourced market rumor. Thoa's earlier drawing/music life, real 1996 debt-to-2026-obligation transition, Toàn's partial inherited truth, Cổn's caring/controlling contradiction and Khanh's real engineer constraints all contribute independent narrative life.
+
+**G6a** qualified body identification and **G6b** separately supported 1996 responsibility are followed by short **G6c reader-level** ghost-order/ghost-murder confirmation *before* Cường's autonomous late household crisis; confirmation of spirit agency is **not** legal proof for Long. Ghost Cường's early practical household terror survives exposure of Thủy's human stagecraft and culminates *after* major human truth; a physically meaningful rescue and a witnessed spirit withdrawal occur without automatic forgiveness/exorcism law. Thoa need not forgive. Cổn survives without sole narrative power; Lan Anh owns shirt concealment and refuses unwitnessed testimony; Thủy owns threats and gives only firsthand 1996 evidence. Story-level treatment is fixed; exact mechanism of new scenes, Cổn's new modern choice, employer route, optional ledger photo and birth/month chronology remain focused author gates.
+
+**Active detail sources:** [scene map](../case-zero-volume-scene-map-v1.md), [haunting design](../case-zero-volume-horror-engine-v1.md), [targeted author choices](../../chat-memory/case-zero/10_POST_APPROVAL_DESIGN_GATE.md); no approved prose/chapter length. Older P1–P6 are knowledge gates, not chapter numbers.
