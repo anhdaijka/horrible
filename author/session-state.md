@@ -1,5 +1,7 @@
 # Session State — Horrible
 
+> **CURRENT 2026-09-26 / VOLUME TREATMENT V1 READY FOR AUTHOR REVIEW:** [full narrative treatment](../chat-memory/case-zero/07_VOLUME_TREATMENT_V1.md) and [event, epistemic and original-horror ledger](../chat-memory/case-zero/08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md) are committed to main as **PROPOSALS**. D-008–D-010 remain the actual approved canon/design direction. Do NOT silently promote the new lunar-seven setting, Toàn birthday, Lệ/Phượng, photo of ledger, new H1/H2/H3/H4 scenes, Cổn 2026 act or specific spiritual outcome into approved canon. **NEXT:** ask for author treatment-level approval or targeted revisions; then lock three material chronology/Thủy–Bình/Cổn–horror gates, build scene map and freeze fresh two-context A/B scene. No prose canon, no B10 trial.
+
 > **SUPERSEDED BY D-010 FOR CURRENT ACTION; retained historical round-3 status.** CURRENT D-009 OVERRIDE, 2026-09-25: See [round-3 hybrid/Bình development proposal](../chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md), **AWAITING AUTHOR for new incidents**. The author chose to *develop* the 1996 pre-wedding pregnancy possibility (not a fixed date/fact), requested a NEW/HYBRID suspicious earlier visit for Thủy (D-008 visit + true death-window factory alibi remain firm), wants deeper critique of Bình's 2026 knowledge route and explicitly DEFERRED Cổn's concrete 2026 choice pending character work. Next design: stress-test Thủy T-H1/T-H2 and Bình B-I/B-III, define chronology and Cổn's relational contradictions. No prose/legacy B10.
 
 > **D-008 / CURRENT 2026-09-25:** For new ChatGPT sessions, start with [CHATGPT_SESSION.md](../CHATGPT_SESSION.md) and [chat-memory/case-zero](../chat-memory/case-zero/00_START_HERE.md). Current action is **Case Zero volume redesign**, not old CH-01-v6-B10 testing.
@@ -24,7 +26,11 @@ Không nhầm D-001/D-002 hậu reset với log lưu trữ. Generated bibles/ind
 **0 chương canonized.**
 Tổng dung lượng bản thảo: 0 từ.
 
-## CURRENT NEXT ACTION — Case Zero volume (D-010)
+## CURRENT NEXT ACTION — Case Zero volume, proposed V1 awaiting author review
+
+The full five-movement V1 treatment has been completed and saved in chat-memory/case-zero/07 and companion 08. All new details require author approval; do not repeat earlier brainstorming or auto-run B10. Upon approval convert accepted choices to decisions and actual source-of-truth story files before any writer trial.
+
+### Previous D-010 state (retained for audit)
 
 **D-010 NEW STATUS:** Author approved round-3 direction: pregnancy before 1996 wedding to develop (actual calendar OPEN); **T-H1b simplified existing-threat/confrontation** and **B-I limited opportunistic Bình probe** are leading design models; T-H2/B-III retained only as fallbacks. Cổn's concrete new 2026 act remains intentionally OPEN. A detailed 2026 trial clock, evidence/knowledge ledger, interwoven five-movement turning-point graph and post-truth horror design gates are now recorded in [round-4 workbook](../chat-memory/case-zero/06_STRESS_TEST_AND_WOVEN_ENGINE.md). **NEXT:** refine the one earlier Thủy visit action/trace (no new device by coincidence), credible first bounded Bình probe, Toàn birthday vs lunar month, employer and travel geometry, and Cổn's three relationship tests; then pitch NEW fresh scares and choose a new same-scene A/B packet. Zero chapters canonized, legacy B10 PAUSED.
 
