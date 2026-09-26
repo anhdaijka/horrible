@@ -60,3 +60,7 @@ Measured, low-pitched, calm and authoritative; speaks in concise, precise invest
 ## Evidential boundaries — D-002
 
 The phone has already been collected when Thủy asks about it; no early-arrival retrieval loophole is necessary. Post-scuffle speech establishes only that the speaker could speak at that point, not medical exclusion of earlier injury. There is no 1996 audio proof to recover. Testimony, remains and corroborated details have separate provenance and limits; do not fast-forward all examinations and legal outcomes into one climactic night.
+
+## D-016 — Source-sensitive investigative dialogue
+
+Long's questions change with the listener: patient and concrete about payment, handwriting and original handoff with busy shopkeeper bà Lan, precise with colleagues about dates/source and pointed when a witness contradicts an earlier account. He should not sound like Khanh's dry banter, Cổn's entitlement or a generic interrogation transcript. One answer may be short when it serves purpose, never from a universal minimal-reply style. S07 publicly acquired Chợ Bến rumor gives a lead, not ghost proof: Long separately confirms recipient identity beyond a common “Cường” and does not deputize Khanh to access a seized phone. See [Voice Bible](../plot/case-zero-voice-and-dialogue-bible-v1.md).
