@@ -21,7 +21,7 @@ relationships:
   - character: lan-anh
     type: village-acquaintance
   - character: vu-van-toan
-    type: village-acquaintance
+    type: only-heard-about-before-plot
 locations:
   - family-votive-shop
   - market-crossroads
@@ -104,3 +104,7 @@ Khanh’s concrete stake is the family shop and integrity of its order record. R
 ## D-011: Khanh has a life outside solving Case Zero
 
 The V1 volume preserves mother–son shop obligations, separate ongoing Japan-facing engineering work (a specific incident may involve misattributed session logs and Khanh owning his own rushed review) and platonic Mai friendship. He is neither selected medium nor freelance police technician, and the software case must have a real workplace outcome independent of ghost clues. S01 opens **mùng14 morning in bà Lan's close limited POV**, with Khanh present for ordinary shop work; the same-scene A/B candidate ends before public Chợ Bến collision. Future private Long evidence and actual 1996 truth stay outside his legitimate early access. See [approved V1 treatment](../chat-memory/case-zero/07_VOLUME_TREATMENT_V1.md) and [opening candidate card](../plot/case-zero-opening-ab-scene-card-v1.md).
+
+## D-015 — Approved precise Japan trajectory and social knowledge limits
+
+Khanh (27) attended the **district high school**. Lan Anh was **1–2 school cohorts above him**, openly liked him in adolescence, and married Toàn after university; this local history is known to bà Lan/Khanh, but it does **NOT** imply Lan Anh still loves him. Khanh first worked **1–2 years for a Japanese company in Vietnam**, then spent **3 years onsite in Japan**. At the mùng14 2026 opening he has **just come home for a few weeks' holiday**, still handles actual Japan-facing remote obligations, and expects to return to **the company's inner-Hanoi office** afterward, not live at home indefinitely. Khanh has **NEVER met or spoken face to face with Toàn before the novel's present**; Toàn may have heard of his career and school reputation, but this is unreciprocated jealousy, not an old rivalry. Khanh/bà Lan know Lan Anh's distant xóm Trại in-laws only through fragments, especially older patriarch Cổn's authoritarian reputation; they **do NOT know** father-in-law Vũ Văn Cường's actual name/surname, his living status mùng10 or the 1996 secret. Their shop is at far-off busy Chợ Bến, not Cường's next-door neighbor. Khanh should not personally deduce from an invoice for “Vũ Văn Cường” that it belongs to Lan Anh's family before the **S03** encounter and proper verification. Do not make him a modern technical detective or secret love interest without separately earned events. See [D-015 order/relationship guard](../plot/case-zero-d015-opening-social-and-order-logic.md).
