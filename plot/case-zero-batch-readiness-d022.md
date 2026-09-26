@@ -1,5 +1,8 @@
 # Case Zero — D-022 integrated pre-canon batch readiness register
 
+> **LATEST POST-S05 V1 UPDATE (2026-09-26):** [S05 focused micro-preflight and bounded Writer packet](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/preflight.md) plus [complete 16,204-character NONCANON S05 V1 prose](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V1-WORKING.md) have been committed. Actual NEXT: independent first-reader post-draft literary gate, then S01–S05 source/custody/voice join and an evidenced surgical revision if necessary. S06 and S07 remain preflight only; the real cat may cross an actual home coffin only after lawful release. Older next-action text below is history; no new author decision or canon chapter is claimed.
+
+
 > **POST-S04 UPDATE (2026-09-26):** D-022's G6a/G6b provenance card, same-house dry run and optional chapter grouping now EXIST as working design. The S04 V1→V3 prose and S01–S04 source/voice/custody join also EXIST, with the helper-absence continuity defect corrected in S04 V3. Prior “next actions” below record how this work was reached, not tasks to repeat. Remaining immediate production task: S05 focused funeral/house micro-preflight, then a versioned noncanon scene only if READY; later S06/S07 and the unified batch checkpoint. No new author approval or completed canon chapter is implied. [S04 V3](../revisions/chapter-work/CASEZERO-S04-D022-WORKING/S04-V3-CROSS-SCENE-INTEGRATED.md) · [join audit](../revisions/chapter-work/CASEZERO-S04-D022-WORKING/S01-S04-CROSS-SCENE-JOIN.md).
 
 
