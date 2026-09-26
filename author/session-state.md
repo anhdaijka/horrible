@@ -1,5 +1,7 @@
 # Session State — Horrible
 
+> **CURRENT D-011 / 2026-09-26:** Author explicitly approved [complete V1 volume treatment](../chat-memory/case-zero/07_VOLUME_TREATMENT_V1.md); prior 'V1 awaits approval' blocks farther below are historical and **SUPERSEDED**. New architecture is complete at development level: [interleaved scene map](../plot/case-zero-volume-scene-map-v1.md), [fresh ghost design](../plot/case-zero-volume-horror-engine-v1.md), [three targeted remaining gates](../chat-memory/case-zero/10_POST_APPROVAL_DESIGN_GATE.md), and [S01 same-scene A/B candidate card](../plot/case-zero-opening-ab-scene-card-v1.md). **NEXT:** finalize only dates/birth, one Thủy afternoon act and Bình's bounded first probe, Cổn's specific avoidable act and spatially legible late haunting/rescue; then freeze S01 for two-context trial. 0 prose canonized, no fixed chapter count, old B10 paused. V1 optional names/scene effects are not silently fixed.
+
 > **CURRENT 2026-09-26 / VOLUME TREATMENT V1 READY FOR AUTHOR REVIEW:** [full narrative treatment](../chat-memory/case-zero/07_VOLUME_TREATMENT_V1.md) and [event, epistemic and original-horror ledger](../chat-memory/case-zero/08_VOLUME_EVENT_AND_KNOWLEDGE_LEDGER_V1.md) are committed to main as **PROPOSALS**. D-008–D-010 remain the actual approved canon/design direction. Do NOT silently promote the new lunar-seven setting, Toàn birthday, Lệ/Phượng, photo of ledger, new H1/H2/H3/H4 scenes, Cổn 2026 act or specific spiritual outcome into approved canon. **NEXT:** ask for author treatment-level approval or targeted revisions; then lock three material chronology/Thủy–Bình/Cổn–horror gates, build scene map and freeze fresh two-context A/B scene. No prose canon, no B10 trial.
 
 > **SUPERSEDED BY D-010 FOR CURRENT ACTION; retained historical round-3 status.** CURRENT D-009 OVERRIDE, 2026-09-25: See [round-3 hybrid/Bình development proposal](../chat-memory/case-zero/05_ROUND3_HYBRID_AND_BINH.md), **AWAITING AUTHOR for new incidents**. The author chose to *develop* the 1996 pre-wedding pregnancy possibility (not a fixed date/fact), requested a NEW/HYBRID suspicious earlier visit for Thủy (D-008 visit + true death-window factory alibi remain firm), wants deeper critique of Bình's 2026 knowledge route and explicitly DEFERRED Cổn's concrete 2026 choice pending character work. Next design: stress-test Thủy T-H1/T-H2 and Bình B-I/B-III, define chronology and Cổn's relational contradictions. No prose/legacy B10.
@@ -26,9 +28,9 @@ Không nhầm D-001/D-002 hậu reset với log lưu trữ. Generated bibles/ind
 **0 chương canonized.**
 Tổng dung lượng bản thảo: 0 từ.
 
-## CURRENT NEXT ACTION — Case Zero volume, proposed V1 awaiting author review
+## CURRENT NEXT ACTION — D-011 post-treatment, focused fact locks then S01 A/B
 
-The full five-movement V1 treatment has been completed and saved in chat-memory/case-zero/07 and companion 08. All new details require author approval; do not repeat earlier brainstorming or auto-run B10. Upon approval convert accepted choices to decisions and actual source-of-truth story files before any writer trial.
+The author already APPROVED the full V1 treatment. Detailed scene map, horror engine, narrow option gate and S01 bounded candidate are now stored in active plot/chat-memory. Do not ask to reapprove the treatment; seek only 3 material fact locks and freeze S01 common conditions for later fresh/rich-context writing comparison. Do NOT produce prose or return to legacy B10 before the newly frozen writer brief is approved.
 
 ### Previous D-010 state (retained for audit)
 
