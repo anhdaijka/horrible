@@ -1,4 +1,4 @@
-# Accepted facts and author decisions — as of 2026-09-25
+# Accepted facts and author decisions — as of 2026-09-26
 
 **A = fixed or directly approved; P = proposal still requiring specific approval.** This doc does not promote example ideas to canon or manuscript.
 
@@ -26,3 +26,10 @@ Case Zero becomes a whole independent **slow-burn volume** with expansive everyd
 ## Supersession
 
 D-008 replaces the old Thủy fake-alibi/murder-site material and abandons the earlier short-story budget. Older D-001 phone retrieval and 1996 evidence-tape proposals are superseded. D-006 retires previously trialed concrete scares. Existing D-004/D-007 CH-01-v6 allocations may be **redesigned for volume**; factual Chợ Bến rumor origin and returned radio remain unless directly changed. Do not turn grandfather's ethical refusal into proof that the ordinary later radio commission violated a universal cultural taboo. No chapter currently canonized.
+
+
+## A — D-011: Full V1 *volume treatment* author approved 2026-09-26
+
+The author explicitly approved [full five-movement Treatment V1](07_VOLUME_TREATMENT_V1.md), including three interleaved but autonomous engines (bounded 2026 investigation, early and post-truth Cường haunting, 1996–2026 living history), independent Chợ Bến commerce and Yên Phong labor subplots, real current software/shop life and **G6c reader-only ghost Thoa confirmation before a later still-dangerous Cường household climax**. This is the **active plot-level narrative authority**; stop asking whether those main threads or the five-movement ending are wanted.
+
+**Scene specifics STILL OPEN under the approval's own express optional labels:** exact seventh-lunar-month calendar, Toàn birthday and future mother's exact gestation/role, Thủy's one afternoon document act, first B-Ic probe and independent corroboration, new incidental names, horror HA–HD physics/injury/house layout, Cổn's one new avoidable 2026 choice and concrete late rescue/withdrawal mechanics. These are **active focused design gates**, not a reason to downgrade the approved V1 story. [Interleaved scene map](../../plot/case-zero-volume-scene-map-v1.md), [horror design](../../plot/case-zero-volume-horror-engine-v1.md), [focused gate](10_POST_APPROVAL_DESIGN_GATE.md), [opening A/B candidate card](../../plot/case-zero-opening-ab-scene-card-v1.md). 0 prose canonized; legacy B10 not the next task.
