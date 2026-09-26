@@ -5,7 +5,7 @@ story: horrible
 
 # Story Timeline
 
-> Objective chronology under D-002/D-008/D-010, retaining non-conflicting D-001 facts. T-H1/B-I are current design approaches; exact earlier Thủy act/trace, factory shift, lunar month/birthday and new volume chapter architecture remain OPEN. P1–P6 in the clue matrix control presentation, not occurrence.
+> Objective chronology under D-002/D-008/D-010/D-011, retaining non-conflicting D-001 facts. T-H1/B-I are current design approaches; exact earlier Thủy act/trace, factory shift, lunar month/birthday and new volume chapter architecture remain OPEN. P1–P6 in the clue matrix control presentation, not occurrence.
 
 | When | Event | Presentation constraint |
 |---|---|---|
@@ -32,6 +32,8 @@ story: horrible
 | Morning 14 onward | Lan Anh buys/prepares funeral goods; body handling and release precede encoffining | Funeral preparation is not permission to interfere with examination |
 | Later, funeral-pressure phase | Lan Anh destroys hidden shirt; fragment found through practical cleanup | No old chapter number; no full shirt later confiscated |
 | P5–P6 story-present | Alibis/evidence converge, pond search, identification, independently checked details and accounts confronted | Multiple scenes and sufficient procedural time; no same-evening all-purpose laboratory result |
+
+**D-011 approves the overall V1 event sequence, NOT each expressly optional date:** verified seventh-lunar-month candidate maps mùng 10/13/14 to **2026-08-22/25/26**; the calendar option and Toàn's exact birth in early August 1996 still require targeted approval. Keep text using relative lunar dates until chosen. The 22:00–06:00 fictional factory shift is a test schedule, with night-shift rest/breaks and a person-observed work interval around ~22:54 to design; clock-in alone does not establish continuous presence. Cổn's new 2026 event and paranormal mechanisms are detail gates, not existing objective history.
 
 Mùng 10 precedes night 13 by three calendar dates. Use the dates in prose, not “four days before death.” The order is learned of on the 14th, which is a different interval.
 
