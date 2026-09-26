@@ -42,9 +42,9 @@ For each finding, quote the shortest unique phrase (or paragraph locator), indic
 
 Return to the author-approved baseline for voice and pace. Make only justified targeted changes. Prefer deletion of redundant narrator explanation to paraphrasing it in pretty language. Keep normal tell/narration where it performs scene transitions, factual orientation or necessary interior proximity and has not been sufficiently shown. Compare reviewer comments with actual text; reject changes that would flatten voices, add theatrical folk sayings or prematurely reveal the supernatural. Run the separate factual/POV/logistics check before publishing a new V3 review candidate.
 
-### 6) Author gate
+### 6) Batch author gate — updated D-021
 
-Present a **new version** alongside a concise change log focused on what was cut/kept and unresolved continuity seam. The author must explicitly approve the new prose before it is copied into `scenes/` as canonical; the D-018 verbatim S01 remains untouched. S02 D-019 is direction-approved but verbatim prose still open; S03 V2’s **pace/dialogue** are accepted, complete text remains **unapproved pending independent review**.
+The author expressly delegated **all S01–S03 interim independent literary review and surgical editing without per-scene approval interruptions**. Preserve and version every review report and candidate. Submit a concise integrated batch change log **only when the linked scene cards, point of view, chronology, physical custody and key story details have been prepared together**, before freezing new complete canon prose; do not demand another “OK” after every line edit. Delegation is permission to complete editorial preparation autonomously, **NOT retrospective user approval of each newly edited literary version as canon**. Original D-018 verbatim S01 remains unchanged and marked approved, S02 D-019 remains direction-approved with revised prose ready for integration, S03 dialogue/pace from chat V2 is accepted and a developed V3 exists but is not yet officially canonized. D-021 batch prep inventory: [separate S01–S03 review](../revisions/chapter-work/CASEZERO-S01-S03-D021-EDITORIAL-PASS/INDEPENDENT-LITERARY-REVIEW.md) and [S01→S07 integration](case-zero-s01-s07-integration-preflight-d021.md).
 
 ## Immediate S03 review seed
 
