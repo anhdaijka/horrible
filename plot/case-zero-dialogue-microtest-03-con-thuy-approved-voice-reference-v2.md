@@ -1,5 +1,8 @@
 # Case Zero — D-017: Cổn–Thủy approved VOICE reference (revised Test 3 V2)
 
+> **D-023 NOTICE (2026-09-28):** The APPROVED dialogue sample below is preserved verbatim as HISTORICAL evidence of the elder's deliberate rhythm and daughter's bounded agency, not as a register model. New manuscripts use narrator/village `cụ Cổn` and daughter-to-father `thầy/con` instead of the sample's `bố/con`. `U` refers to a mother, never to Cổn. Do not silently copy this test as a real chapter or change its already-approved wording.
+
+
 **Approval date:** 2026-09-26. **Scope:** The author explicitly approved the **REVISED portrayal of Cổn/Thủy in the third voice experiment** after rejecting the prior version as too quick, middle-aged-sounding and flat in generational authority. This is an **approved reference for character VOICE, pacing, relationship and agency, not a manuscript scene**, not approval of all exact lines, a canon S-number, a real household repair event or a finalized solar/lunar placement.
 
 **Test-only stage:** The scene explores a proposed **afternoon mùng7 lunar July 2026 = 19 August 2026**, **before** Thủy's mùng8–noon13 real staged haunting, while Cường is alive and before mùng8 pond-drain anchor damage. This time is ONLY an illustrative placement the author has accepted for evaluating speech; it is **NOT a canon chronological event**. The roof/gutter repair estimate **2.4m VND**, 400k deposit, contractor Dưỡng son of Lộc, a next-morning repair appointment, shift coverage and phone negotiation are TEST PROPS. They must be explicitly rechecked/approved if anyone moves the exchange into a real S-number. Do not insert a new mùng7 event or force Cường to be home without a future scene preflight.
