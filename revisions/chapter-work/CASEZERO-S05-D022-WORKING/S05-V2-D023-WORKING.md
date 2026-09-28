@@ -92,19 +92,25 @@ Lan Anh lấy phiếu mua hàng với tờ quảng cáo Toàn vừa ghi đặt l
 
 Lan Anh đã nghĩ đến kho sau từ lúc thấy chiếc chiếu mốc. Cô bảo sẽ mở cửa cho thoáng, chọn đồ còn dùng được rồi chia chỗ cho mọi người. Người bên dịch vụ đứng dậy ra sân đo phần bạt còn thiếu. Cụ Cổn gọi Lan Anh lại, hỏi nhỏ cô đã ăn gì chưa. Cô lắc đầu. Ông bảo trong nồi còn cơm, ăn đi đã rồi hãy làm, người trẻ không biết giữ sức đến lúc khách tới lại lăn ra ốm. Nhưng nói xong ông vẫn đưa cho cô chùm chìa khóa kho, dặn nhớ kiểm cả mấy chiếc gối bông trên nóc tủ, mùa này ẩm dễ có mùi.
 
-Cô đem chìa khóa vào bếp. Cô Thủy vừa từ gian bên bước ra, trên tay cầm cái khăn ướt vắt ngang cổ tay phải. Cô hỏi Lan Anh có cần giúp gỡ mấy tấm đệm không, bảo mình đã chợp mắt được một lúc nhưng ngoài sân ồn quá. Lan Anh chưa kịp trả lời, cụ Cổn nghe tiếng con gái đã quay lại:
+Cô đem chìa khóa vào bếp. Cô Thủy vừa từ gian bên bước ra, tay phải giữ chiếc khăn ướt đặt ngang cổ tay trái. Cô hỏi Lan Anh có cần người gỡ mấy tấm đệm không, bảo mình vừa chợp mắt được một lúc nhưng ngoài sân đóng cọc ầm cả lên. Lan Anh chưa kịp trả lời, cụ Cổn đã gọi con gái lại bên chiếc bàn kê sát cửa.
 
-— Mày xuống đấy à. Chiều có người mang đồ ăn tới thì xem hộ nó, con Lan Anh còn phải dọn kho. Mấy thứ cần mua thêm thầy để trên bàn. Mày gọi chỗ quen hỏi giá, đừng để người ta chờ.
+— Mày tới đây. Nhà bán đồ ăn bảo bốn giờ giao được. Thầy cho số máy mày rồi, người ta gọi thì nhận, đừng để họ phải chở đi chở lại.
 
-Cô Thủy nhìn tờ giấy trên bàn, cầm lên đọc một lượt. Có hai món Lan Anh đã gạch vì mua rồi, cô chỉ cho ông thấy, bảo đừng đặt trùng. Cô cũng bảo lúc nãy người trong xưởng gọi hỏi về một lô hàng trả lại, lát cô phải nói chuyện cho xong, không thể cứ ra nhận đồ rồi lại vào nghe điện thoại mãi. Nếu cần cô sẽ gọi chỗ bán trước, lấy số người giao đưa Lan Anh, còn phần trông hàng lúc họ đến phải có người khác nhận.
+Thủy kéo ghế ngồi xuống đọc tờ giấy. Có hai món Lan Anh đã gạch vì vừa mua ở chợ, cô chỉ ra, bảo nếu đặt thêm thì thừa. Cô nói người trong xưởng đang đợi mình gọi lại về lô hàng phải sửa, lát nữa còn phải xem mai tổ trưởng xếp cô vào công đoạn nào; chuyện nhận hàng lúc bốn giờ cô không dám hứa nếu chưa biết xe đến chính xác lúc nào.
 
-Cụ Cổn hơi nhíu mày. Ông ngồi xuống, chờ cô Thủy nói hết, rồi kéo tờ giấy về phía mình.
+Cụ Cổn chờ cô nói hết, ngón tay giữ mép cuốn sổ khỏi gió lật. Cụ đã ghi số người bán và tên cô bên cạnh giờ hẹn. Thủy thấy thế thì đặt tờ giấy xuống.
 
-— Cứ gọi trước đi. Người ta hỏi nhà nào nhận thì cho số của Toàn. Nó có điện thoại mang theo cả ngày. Cái tay mày hôm nay còn đau không?
+— Thầy cho số con từ lúc nào? Con còn chưa biết nhà mình đặt những gì. Con gọi hỏi lại được, nhưng con không thể ngồi ngoài cổng chờ người ta cả chiều.
 
-— Đau thì vẫn đau. Nãy con bê cái thùng nước vào đấy, tay phải cũng mỏi rồi. Để con ngồi gọi, chứ đừng bảo con bê thêm.
+— Thầy hẹn từ lúc chưa thấy đứa nào về. Nhà có việc, chẳng lẽ người ta tới rồi còn phải đi tìm xem con nào được phép nghe máy? — Cụ nhìn xuống mấy dòng cô vừa chỉ, cầm bút gạch đi hai món bị trùng rồi đưa tờ giấy lại. — Mày cứ gọi, đối chiếu lại cho đúng. Đồ tới thì bảo người ta tìm Toàn hoặc Lan Anh mà dỡ. Còn việc ở xưởng, mày làm xong cú điện thoại này rồi muốn gọi ai thì gọi.
 
-Ông gật đầu, bảo thôi việc nặng cứ để người khác. Nhưng trước khi cô quay vào, ông lại nhắc phải hỏi được giá sớm, người ta giao muộn quá thì bếp không kịp chuẩn bị. Lan Anh đứng cạnh nghe mà không chen lời. Thủy kéo chiếc ghế vào bóng râm, lấy kính ra xem số trong máy. Cô đã bảo mình chỉ nhận việc gọi điện, vậy mà chùm chìa khóa cụ Cổn đưa khi nãy vẫn đang ở tay Lan Anh, chuyện dọn kho và cả cơm nước chưa bớt đi bao nhiêu.
+Thủy im lặng một lúc. Lan Anh đang giữ chùm chìa khóa kho, bước tới bảo nếu người ta giao đúng giờ thì cô có thể đứng nhận, nhưng còn phải đưa đệm ra phơi, không thể bỏ dở cả hai việc. Cụ Cổn nhắc Toàn lúc ấy đang phải đón người làm bạt và đi mua thức ăn, không ai rảnh chỉ để trực cổng. Cụ nói xong mới đẩy điện thoại của mình về phía Thủy.
+
+— Thế con gọi lấy số người lái xe. Họ đến thì con bảo họ gọi thẳng cho Lan Anh; trước bốn giờ con còn phải nói chuyện với tổ trưởng. Con có gọi được thì cũng không nhận thêm phần kiểm, khuân với trả tiền đâu, thầy ạ.
+
+Cụ không đáp ngay. Cụ đọc lại bản danh sách, dùng đầu bút gõ nhẹ lên dòng ghi giờ giao; chỗ nào cô vừa nói chưa chắc cụ khoanh lại thay vì xóa. Rồi cụ hỏi cái tay trái cô còn đau không. Thủy bảo vẫn đau, hôm nay bê thùng nước bằng tay phải cũng mỏi, không muốn lại phải mang vác. Cụ nhìn cổ tay trái cô một lúc rồi bảo thôi, việc nặng cụ đã giao người khác, nhưng gọi xong thì phải chuyển ngay số người giao cho Lan Anh, đừng để tới khi xe đỗ trước cổng mới đi tìm.
+
+Thủy ngồi lại dưới mái hiên gọi người bán. Lan Anh xách chìa khóa đi về kho, qua cửa bếp còn nghe cô đang hỏi người ta mấy lần về giờ xe chạy. Cụ Cổn đã quay sang nói chuyện với bên dịch vụ. Đến đây cô Thủy vẫn phải làm cuộc gọi đã được cụ hẹn thay, Lan Anh vẫn phải dọn kho, Toàn vẫn phải đi mua đồ; chỉ riêng cái chỗ sẽ đặt những thứ giao chiều là chưa ai thu xếp xong.
 
 Trong kho phía sau có mùi vải cất lâu và mùi gỗ ẩm. Lan Anh mở hai cánh cửa chớp; một cánh bị chiếc kệ gỗ kê quá sát chắn mất, cô phải nhờ người phụ trong bếp kéo kệ dịch ra một đoạn. Chỗ cửa mở rộng đủ để đưa những tấm đệm ra ngoài bằng đường sân sau, đỡ phải khiêng dọc hành lang đang chật các thùng hàng. Người phụ bếp vòng qua cửa bên, đi ra dải sân hẹp để đỡ phần đệm từ ngoài. Hai người làm được một tấm mới phát hiện mặt dưới có vết ố dài; Lan Anh bảo để riêng, chiều có nắng thì phơi, còn nếu mùi không hết phải mượn tạm tấm khác, không thể trải cho người ở xa lên ngủ.
 
