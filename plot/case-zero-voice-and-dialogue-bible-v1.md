@@ -1,4 +1,7 @@
 # Case Zero — Voice & Dialogue Bible V1
+
+> **D-023 REGISTER OVERRIDE (2026-09-28):** Active narrator and village reference: `cụ Cổn`. Cổn's daughter Thủy addresses him `thầy`, self-reference `con`; `u` names mother only when a real mother referent belongs in the scene. Cổn's `mày` to Thủy retains unequal obligation; he may self-refer `thầy`. D-017's approved older cadence, actual care and Thủy's bounded agency still apply, but any old `bố/con` instruction below is superseded in new prose. Family members such as Toàn/Lan Anh may use relationship-correct `ông` in their own direct speech; don't global-replace every occurrence. D-023 also asks that the patriarch's decisions incur material/social consequences rather than depicting him as a kindly organizer or a constant shouter.
+
 ## D-016 approved craft direction · 2026-09-26 · ALL text examples remain NONCANON
 
 **Authority:** [Author decisions D-016](../author/decisions.md), [D-015 people/shop knowledge](case-zero-d015-opening-social-and-order-logic.md), [D-014 lie/real-cat boundary](case-zero-d014-living-thoa-and-black-cat-misdirection.md). **A-RAW is the AUTHOR-PREFERRED foundation for lived-in ordinary shop texture only**. Do NOT use the A-RAW wording or the prior illustrative rewrite as fixed dialogue; neither A/B raw draft is a canon chapter or a valid independent A/B score. This is a composition aid, never a machine that automatically assigns catchphrases.
