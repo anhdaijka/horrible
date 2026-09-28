@@ -82,9 +82,9 @@ Người bên dịch vụ hỏi có cần thêm bàn. Cụ Cổn đẩy tờ gi�
 
 — Ông ơi, cô Thủy vừa làm ca đêm về, chiều nay cô ấy còn chưa ngủ được mấy. Con đã nhờ người nấu rồi, phần thức ăn mặn con bảo Toàn mua thêm. Chỗ nào thiếu con gọi sau, ông đừng bắt cô chạy cả buổi nữa.
 
-Cụ Cổn gập cuốn sổ lại. Ông nghe cô nói hết mới đáp, không lớn tiếng:
+Cụ Cổn gập cuốn sổ lại. Cụ nghe cô nói hết mới đáp, không lớn tiếng:
 
-— Tao bảo nó lo đặt đồ, chứ có bảo nó đi khiêng không? Người ta đã được cụ nhà này nhờ thì phải có người đứng ra nhận, chứ không phải ai rảnh thì mới trả lời điện thoại. Mày mua được thứ gì cứ đưa phiếu đây, còn thiếu món nào tao để Thủy hỏi giá. Đừng đến chiều mới cãi nhau mỗi đứa nhớ một kiểu.
+— Tao bảo nó lo đặt đồ, chứ có bảo nó đi khiêng không? Người ta đã nhận lời với nhà mình rồi thì phải có người đứng ra nhận, chứ không phải ai rảnh thì mới trả lời điện thoại. Mày mua được thứ gì cứ đưa phiếu đây, còn thiếu món nào tao để Thủy hỏi giá. Đừng đến chiều mới cãi nhau mỗi đứa nhớ một kiểu.
 
 Lan Anh lấy phiếu mua hàng với tờ quảng cáo Toàn vừa ghi đặt lên bàn. Cụ đọc từ đầu đến cuối, gạch bỏ một món vì trong kho đã có, còn dòng thức ăn mặn cụ viết tên Toàn ở bên cạnh. Lan Anh nói Toàn đã nhận phần ấy rồi; cụ nhìn ra sân, nơi Toàn đang giữ cọc cho người dựng bạt, chờ anh quay vào mới gọi hẳn tên, bắt anh nghe lại giờ giao và số người ăn. Những người đang ngồi quanh bàn thôi góp lời. Cô nhận lại tờ danh sách đã chia việc, không có ai hỏi cô còn sức làm thêm đến mấy giờ.
 
@@ -124,7 +124,7 @@ Một vật nhỏ bị quăng mạnh ra khỏi gầm kệ, đập vào chân t�
 
 Cô lấy tấm bìa lớn chắn một bên kệ, định dồn con mèo về phía cửa kho. Nó nhe răng giữ con mồi, hai tai ép xuống, rồi bất ngờ bật qua chân cô. Lan Anh phải tránh sang một bên để nó khỏi quệt vào người; con chuột va vào bậc cửa, để lại trên mép vải một vệt đỏ sẫm. Con mèo chạy dọc lối hông về phía bếp. Chị phụ bếp đang ở ngoài sân vội vòng qua cửa bên để chặn, nhưng người giao nước vừa mở cổng đưa thêm thùng vào. Con mèo luồn dưới chân anh ta, biến ra đường trước khi ai kịp khép cánh cổng còn lại.
 
-Chị phụ bếp trở vào, đứng nhìn vệt bẩn trên tấm đệm một lúc, rồi bảo nhà đang chuẩn bị có tang, con mèo ấy lại chọn đúng hôm nay mò vào tận kho. Một người hàng xóm ghé đưa rổ rau nghe thấy chữ mèo đen liền hỏi nó có nhảy lên chỗ nào không, giọng bỗng nhỏ hẳn đi. Lan Anh còn đang tìm chậu để mang tấm đệm đi giặt, nghe hai người hỏi qua hỏi lại mà bực. Cô chỉ vào vết chuột để lại, bảo ai có nước giặt thì mang tới giúp trước, giờ thiếu chỗ ngủ thật chứ chưa có chuyện gì khác.
+Chị phụ bếp trở vào, đứng nhìn vệt bẩn trên tấm đệm một lúc, rồi bảo nhà đang chuẩn bị có tang, con mèo ấy lại chọn đúng hôm nay mò vào tận kho. Một người hàng xóm ghé đưa rổ rau nghe thấy chữ mèo đen liền hỏi nó có nhảy lên chỗ nào không, giọng bỗng nhỏ hẳn đi. Lan Anh đặt tấm đệm xuống tìm chậu nước, rồi chỉ vào vết chuột để lại, bảo ai có nước giặt thì mang tới giúp trước, giờ thiếu chỗ ngủ thật chứ chưa có chuyện gì khác.
 
 Cụ Cổn từ sân trước đi vào khi tấm đệm còn trải nửa chừng trên bậc cửa. Cụ không hỏi thêm chuyện con mèo; nghe được mấy tiếng xì xào, cụ bảo người giao nước dời thùng cho khỏi chắn cổng, rồi nhìn chị hàng xóm đang đứng với rổ rau.
 
