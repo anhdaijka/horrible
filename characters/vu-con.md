@@ -56,7 +56,7 @@ Key physical anchors:
 
 ## Narrative reference
 
-Referred to in narration and dialogue as `ông Cổn`, `ông Vũ Cổn`, `ông Trưởng tộc`, or `bác Cổn`.
+D-023 active narrator/village reference: **`cụ Cổn`** (or `cụ Vũ Cổn` when the full name is actually needed). Direct address by family and neighbors still follows actual relationship and familiarity, so Toàn/Lan Anh may say `ông` where natural; do not mechanically change all speech to `cụ`.
 
 ## Voice
 
