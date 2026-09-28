@@ -1,5 +1,8 @@
 # Case Zero — D-022 consolidated pre-canon production packet
 
+> **POST-D-023 / S05 V2 STATE (2026-09-28):** The AUTHOR has now required narrator/village `cụ Cổn`, Cổn–Thủy daughter-to-father `thầy/con` (mother is `u` when relevant), a more intimidating consequential patriarch and a stronger S05 cat sequence. This supersedes stale `ông Cổn`/`bố/con` active-writing lines below without changing historical D-017 cadence. [D-023](../author/decisions.md) and character/voice notes now govern. [S05 V2](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V2-D023-WORKING.md) is COMPLETE NONCANON author-feedback revision; S05 V1 is preserved. Its black-cat-and-prey sequence is MATERIAL GROTESQUERIE and social dread, not a new occult law or the approved post-release coffin crossing. [V2 audit](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/D023-REVISION-AUDIT.md); [nonblind check](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/D023-V2-NONBLIND-CHECK.md). **Current next** = genuinely fresh literary reading of exact S05 V2, followed by S01–S05 continuity/safety and only necessary revision. No new canon scene and no independent review PASS. The older S05 V1 next-task inventory below is a time-stamped historical snapshot.
+
+
 > **POST-S05 V1 STATUS (2026-09-26):** [S05 focused micro-preflight](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/preflight.md) and [complete NONCANON working prose V1](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V1-WORKING.md) now exist. True independent first-reader literary review and S01–S05 joining remain NEXT; S06/S07 are preflight only. No new author approval or chapter canonization. Earlier S05 preparation recommendations below are historical.
 
 
