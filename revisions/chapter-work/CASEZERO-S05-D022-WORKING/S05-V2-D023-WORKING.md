@@ -6,9 +6,9 @@ Lan Anh vừa đưa được chiếc xe qua cổng thì người dựng bạt �
 
 Cô dựng xe sát gốc cau. Cái túi đựng đồ vừa đi chợ về nặng trĩu một bên tay lái, quai đã được cô Lan buộc thêm dây cho khỏi đứt mà đến nhà vẫn trượt xuống gần chạm bánh. Lan Anh phải gỡ từng vòng dây, cất mũ bảo hiểm lên yên xe rồi mới nói với anh dựng bạt rằng cái móc ấy trước kia treo dây phơi, cô không dám chắc chịu nổi cả tấm bạt lúc có gió. Anh ta ngẩng lên ngắm một lúc, bảo đúng là không nên buộc, nhưng nếu không được chỗ ấy thì phải đóng thêm cọc ở mép sân. Hai người còn đang nhìn khoảng gạch trống thì cụ Cổn từ gian chính bước ra, tay cầm cuốn sổ cũ và một chiếc điện thoại.
 
-— Cọc thì đóng chỗ này. — Ông lấy đầu dép đánh dấu mép sân, rồi cúi xuống nhặt cái nắp chai ai vứt ở đó. — Đóng lệch sang bên một chút, xe người ta còn ra vào. Cái cổng này mở cả hai cánh đấy, đừng căng dây ngay giữa lối.
+— Cái móc ấy treo dây phơi, buộc bạt vào đấy làm gì? — Cụ dùng mũi dép gạt cái nắp chai khỏi chỗ định đóng cọc, đánh dấu lên một viên gạch cạnh mép sân. — Cọc ngoài đóng chỗ này. Cọc trong lùi thêm một viên, chừa đủ cả hai cánh cổng mở. Tôi đã dặn từ lúc đưa người đến rồi, đừng để làm xong mới bắt người nhà tháo ra.
 
-Anh dựng bạt nói đã hiểu, nhưng vẫn hỏi lại có cần che hết đoạn sân từ cổng vào nhà không. Cụ Cổn không trả lời ngay. Ông ngồi xuống chiếc ghế được kê cạnh cửa, lật cuốn sổ xem, chờ người kia cuộn bớt sợi dây lại mới bảo cứ dựng phần ngoài trước. Chưa biết lúc nào mọi việc bên cơ quan xong, làm kín cả sân từ hôm nay thì người ra vào chỉ vướng chân nhau.
+Anh dựng bạt cúi xuống đo theo viên gạch cụ vừa chỉ, nhưng vẫn hỏi có che hết khoảng từ cổng tới thềm không. Cụ Cổn ngồi xuống chiếc ghế kê cạnh cửa, lật sổ, chờ anh cuộn xong đoạn dây thừa. Không ai giục cụ trả lời. Sau một lúc cụ chỉ vào con số đã khoanh sẵn trên giấy: cụ thuê làm hai đợt, trước mắt dựng phần sân ngoài cho người nhà có chỗ đón khách, bên trong để trống. Cụ bảo anh ghi riêng phần công phát sinh nếu phải quay lại; cụ không nhận chuyện đến hôm sau tự ý kê thêm bàn rồi tính tiền nhà.
 
 Lan Anh xách túi vào nhà. Trên nền gian trước, mấy chiếc ghế nhựa người ta vừa đưa tới còn chồng lên nhau, một thùng nước đóng chai đã bóc mà chưa ai biết để đâu. Cái bàn dùng để tiếp khách bị đẩy sang sát tường. Cô đành đặt túi lên một chiếc ghế, lấy ra hai bó dây buộc, tập túi rác và mấy gói cốc. Phần cốc lớn đã dặn Hảo để lại ngoài chợ cho chuyến chiều; lúc đứng ở quầy cô còn tưởng mình mua như thế là đủ, về tới nhà nhìn chừng ấy người mới thấy đồ vừa mang về chẳng thấm vào đâu.
 
@@ -78,17 +78,17 @@ Lan Anh nhìn theo. Cái cô muốn biết không phải tại sao anh sợ bà 
 
 Đến lúc cô mang đồ ra gian trước thì cụ Cổn đang nói chuyện với một người bên dịch vụ. Ông kéo ghế cho người ta ngồi, lấy trong túi áo ra mảnh giấy ghi số điện thoại và tên người cần liên hệ, nhờ họ kiểm lại từng phần đã thỏa thuận. Ông không hẹn giờ làm lễ. Ông bảo nhà còn phải đợi thông tin bên xử lý vụ việc, khi nào được phép đưa người về thì mới tính tiếp giờ giấc, nhưng sân bạt, bàn ghế, nước và chỗ cho họ hàng đến trước không thể đợi đến lúc ấy mới lo.
 
-Người bên dịch vụ nghe xong hỏi muốn thêm mấy bàn. Cụ Cổn nghĩ một lúc, bảo trước mắt kê vừa đủ cho người nhà tới ngồi, đừng lấn ra lối xe. Ông còn tự tay chỉ cho họ chỗ để thùng nước và đường điện đi vòng qua chân bạt, tránh khách lớn tuổi vấp. Lan Anh đứng bên bàn định hỏi thêm chuyện cốc, nhưng ông đã chuyển sang việc cơm chiều, nhắc cô Thủy tối nay phải lo thêm mấy phần cho người ở xa tới.
+Người bên dịch vụ hỏi có cần thêm bàn. Cụ Cổn đẩy tờ giấy ghi số lượng cụ đã tính từ trước sang phía anh ta, chỉ lại hai chỗ cần sửa: lối xe phải chừa rộng, đường điện vòng sát chân tường để người già không vấp. Anh dịch vụ định đề nghị làm một lần cho tiện, cụ khoanh bút vào số bàn của đợt đầu rồi gấp sổ. Lan Anh vừa mở miệng hỏi chuyện cốc thì cụ chuyển sang cơm chiều, nói cụ đã dặn cô Thủy liên hệ nhà hàng quen và xem phần ăn cho người ở xa tới. Cụ nói như một việc đã xếp xong từ trước khi cô về nhà.
 
 — Ông ơi, cô Thủy vừa làm ca đêm về, chiều nay cô ấy còn chưa ngủ được mấy. Con đã nhờ người nấu rồi, phần thức ăn mặn con bảo Toàn mua thêm. Chỗ nào thiếu con gọi sau, ông đừng bắt cô chạy cả buổi nữa.
 
 Cụ Cổn gập cuốn sổ lại. Ông nghe cô nói hết mới đáp, không lớn tiếng:
 
-— Tao có bắt nó chạy đâu. Nó quen người bán, biết mua ở chỗ nào vừa tiền thì cứ hỏi nó trước. Mày không quen người ta lại trả hớ. Đồ dùng một hôm đã bao nhiêu thứ, chi đâu cũng phải có người nhớ.
+— Tao bảo nó lo đặt đồ, chứ có bảo nó đi khiêng không? Người ta đã được cụ nhà này nhờ thì phải có người đứng ra nhận, chứ không phải ai rảnh thì mới trả lời điện thoại. Mày mua được thứ gì cứ đưa phiếu đây, còn thiếu món nào tao để Thủy hỏi giá. Đừng đến chiều mới cãi nhau mỗi đứa nhớ một kiểu.
 
-Lan Anh bảo số đồ cô vừa mua có phiếu ghi đủ, những thứ chưa có cô cũng đã ghi rồi, nếu ông muốn soát thì lát cô đưa. Ông nhận lấy tờ quảng cáo Toàn để lại, đọc từ đầu đến cuối, chỉ gạch bỏ một món vì trong kho đã có. Đến dòng thức ăn mặn, ông hỏi ai sẽ đi. Cô nói Toàn đã nhận rồi. Ông nhìn ra sân, nơi Toàn đang giữ cọc cho người dựng bạt đóng xuống, một lúc sau mới gật.
+Lan Anh lấy phiếu mua hàng với tờ quảng cáo Toàn vừa ghi đặt lên bàn. Cụ đọc từ đầu đến cuối, gạch bỏ một món vì trong kho đã có, còn dòng thức ăn mặn cụ viết tên Toàn ở bên cạnh. Lan Anh nói Toàn đã nhận phần ấy rồi; cụ nhìn ra sân, nơi Toàn đang giữ cọc cho người dựng bạt, chờ anh quay vào mới gọi hẳn tên, bắt anh nghe lại giờ giao và số người ăn. Những người đang ngồi quanh bàn thôi góp lời. Cô nhận lại tờ danh sách đã chia việc, không có ai hỏi cô còn sức làm thêm đến mấy giờ.
 
-— Thế để nó đi. Nhưng trước khi người ta mang đồ đến phải dọn cái kho sau. Họ hàng lên đông, nằm cả gian trước không được. Tấm đệm ở đấy là của nhà mình, vứt đi phí.
+— Thế Toàn đi. Còn cháu mở kho sau ngay bây giờ, cho người ta biết còn mấy chỗ ngủ được. Đến tối họ hàng lên rồi lại trải đệm mốc ra, nhà này mang tiếng không có ai biết lo. Cái đệm to còn dùng được thì giữ; không được ai tự tiện đem vứt.
 
 Lan Anh đã nghĩ đến kho sau từ lúc thấy chiếc chiếu mốc. Cô bảo sẽ mở cửa cho thoáng, chọn đồ còn dùng được rồi chia chỗ cho mọi người. Người bên dịch vụ đứng dậy ra sân đo phần bạt còn thiếu. Cụ Cổn gọi Lan Anh lại, hỏi nhỏ cô đã ăn gì chưa. Cô lắc đầu. Ông bảo trong nồi còn cơm, ăn đi đã rồi hãy làm, người trẻ không biết giữ sức đến lúc khách tới lại lăn ra ốm. Nhưng nói xong ông vẫn đưa cho cô chùm chìa khóa kho, dặn nhớ kiểm cả mấy chiếc gối bông trên nóc tủ, mùa này ẩm dễ có mùi.
 
