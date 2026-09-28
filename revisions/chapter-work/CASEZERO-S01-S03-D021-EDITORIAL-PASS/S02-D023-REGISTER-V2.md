@@ -1,0 +1,163 @@
+> **D-023 REGISTER-ONLY VARIANT (2026-09-28), NONCANON:** Derived from `revisions/chapter-work/CASEZERO-S01-S03-D021-EDITORIAL-PASS/S02-ORAL-HORROR-LITERARY-CUT-V1.md`. Only current village/narratorial reference to Cổn is changed from ông to **cụ Cổn** (plus grammatical smoothing of the S02 follow-up when applicable). The D-021 source stays preserved; no new fact, clue, chronology or approved final prose is inferred from this editorial variant.
+
+# S02 — Một buổi chợ không chờ nhà có tang · D-021 literary cut
+
+**Status:** editorially revised draft, D-019 oral-horror **DIRECTION approved**, not verbatim canon. Based on [original reviewed S02 oral-horror trial](../CASEZERO-S02-S03-D019-V1/S02-ORAL-HORROR-APPROVED-DIRECTION.md) (source blob `797a8d2d7d82cc027e29932e6f8bd14fe430614f`); editorial evidence [D-021 full report](INDEPENDENT-LITERARY-REVIEW.md). Five local changes only: remove generalized narrator moral on rumor; remove explicative disbelief gloss; remove mind-reading simile; give Mến a more personal non-omniscient old-road superstition; simplify delivery-man response. Existing contradictory hearsay remains **unverified**, not a newly true death chronology. Source S01 TWO parcels and mùng8 drain roadworks preserved.
+
+---
+
+Hảo đang đếm lại mấy chục chiếc bát nhựa thì bà Mến bán trầu ở đầu dãy xách chiếc làn bước vào. Bà không mua gì, chỉ kéo cái ghế nhựa đặt cạnh quầy ra ngồi, lấy chiếc quạt đã sờn mép quạt liên tiếp mấy cái.
+
+— Mới sáng đã nóng thế này. Cô bán cho tôi chai nước.
+
+Hảo lấy nước trong chiếc thùng xốp dưới chân, mở nắp hộ bà rồi quay về với chồng bát.
+
+— Hôm nay bà không bán hàng à?
+
+— Có con bé nhà tôi trông rồi. Tôi đi xem mấy hàng vàng mã, nhà bên họ đang có tang.
+
+— Nhà nào ạ?
+
+— Nhà ông Cường bên Trại ấy. Đêm qua chết rồi.
+
+Hảo ngẩng lên.
+
+— Cường nào? Bên ấy lắm người tên Cường.
+
+— Cường con cụ Cổn. Cụ có nhà gần đầm ấy.
+
+— Ông đấy chưa già mà bà nhỉ?
+
+Bà Mến nhấp một ngụm nước.
+
+— Già trẻ gì. Nghe đâu tối qua vẫn còn đi lại, nói chuyện với người nhà. Đến đêm thì xảy ra chuyện.
+
+Bà hạ giọng ở mấy chữ cuối. Hảo nhìn ra ngoài chợ, thấy Nhàn đang kê lại thúng chuối, mấy người mua hàng đứng quanh. Chuyện người chết ở xóm Trại không phải lần đầu chị nghe, nhưng tin ông Cường mất thì mới đến tai chị sáng nay.
+
+— Người ta bảo làm sao mà mất hả bà?
+
+— Ai mà biết chính xác. Người thì nói đột quỵ, người lại bảo có chuyện trong nhà. Sáng nay bên ấy đang loạn lên, hỏi cũng chẳng ai nói.
+
+Bà Mến nói xong lại uống nước, nhưng chưa chịu đứng dậy.
+
+— Cái đất ấy tôi vẫn bảo chẳng lành. Cô cứ nhớ xem, bao nhiêu năm nay nhà đấy có bao giờ hết chuyện đâu.
+
+Hảo đặt xấp bát xuống.
+
+— Nhà đông người, đất rộng, có chuyện ra chuyện vào thì cũng thường thôi bà.
+
+— Tôi có nói chuyện cãi nhau đâu.
+
+Bà Mến kéo ghế lại gần thêm một chút. Giọng bà không nhỏ hẳn, chỉ đổi sang cách nói như đang kể cho một người đã biết chuyện từ lâu.
+
+— Ngày xưa, hồi tôi mới về làm dâu, người ta cũng kể có người chết dưới đầm. Đến lúc tìm được thì đã mấy hôm rồi. Hồi ấy đường vào xóm Trại còn toàn bờ ruộng, tối đến có ai dám đi một mình qua đấy.
+
+— Người nào hả bà?
+
+— Lâu lắm rồi, tôi còn nhớ sao được. Hỏi mấy ông già bên ấy chắc họ biết.
+
+— Thế bà biết người ta chết dưới đầm thật hay chỉ nghe kể?
+
+Bà Mến phẩy quạt.
+
+— Cô hỏi kỹ thế thì tôi chịu. Nhưng chuyện không phải mỗi mình tôi kể. Ngày trước có cả người bảo nhìn thấy đèn lập lòe ở bờ đầm. Đêm nào mưa to, đi qua đấy còn nghe tiếng gọi.
+
+Hảo bật cười.
+
+— Đèn thì nhà nào chẳng có. Còn tiếng gọi, biết đâu người ta đi soi ếch.
+
+Bà Mến lườm chị.
+
+— Cô không tin thì thôi. Tôi kể lại chuyện người xưa nói, có bảo tôi tận mắt trông thấy đâu.
+
+Đúng lúc ấy Nhàn sang mua một cuộn dây buộc hàng. Nghe đến chuyện xóm Trại, cô đứng lại.
+
+— Bà đang kể nhà ông Cường à? Sáng nay anh chở chuối cho cháu cũng bảo đường qua đấy tắc lắm. Họ đào cái rãnh cũ gần đầm, xe tải phải đi vòng.
+
+Bà Mến ngừng quạt.
+
+— Đào từ bao giờ?
+
+— Mấy hôm rồi. Cháu có đi qua đâu mà biết rõ. Anh ấy bảo người ta bới cả đống gạch cũ lên.
+
+— Gạch ở chỗ miệng rãnh à?
+
+— Chắc thế. Người ta làm thoát nước mà bà.
+
+Bà Mến nhìn Nhàn một lúc, rồi quay sang Hảo.
+
+— Đấy. Tôi vừa nhắc đến cái đầm thì lại có chuyện đào bới.
+
+Nhàn cầm cuộn dây lên, có vẻ chưa hiểu.
+
+— Thì mưa ngập người ta phải sửa rãnh chứ bà. Không sửa, đến mùa mưa xe lại sa xuống ruộng.
+
+— Tôi có bảo người ta không được sửa đâu. Nhưng đất cũ, nước cũ, có những chỗ người trước xây thế nào thì mình phải hỏi xem tại sao. Đừng thấy vướng là phá.
+
+Một bà khách đang lựa chậu nhựa ở cuối quầy nghe được, quay sang góp chuyện:
+
+— Cái đầm ấy ngày xưa người ta còn bảo có cô gái mất tích, phải không bà Mến? Tôi nghe mẹ chồng tôi kể thế.
+
+— Cô nào?
+
+— Tôi không nhớ tên. Hình như bỏ đi khỏi xóm, mãi chẳng thấy về. Có người đồn rơi xuống nước.
+
+Bà Mến lắc đầu.
+
+— Cô nghe lẫn chuyện rồi. Người bỏ đi thì người ta vẫn bảo là theo trai, còn chuyện dưới đầm là chuyện khác.
+
+— Thì tôi mới hỏi bà.
+
+Hảo lấy cho người khách hai chiếc chậu đúng cỡ chị ấy chọn, báo giá rồi nhận tiền. Đến lúc quay lại, câu chuyện đã chuyển sang mấy vụ chết đột ngột ở những nhà có đất gần đầm. Người kể nói xảy ra trong cùng một xóm; người nghe lại nhớ thành cùng một họ. Nhàn đứng được một lúc thì phải về quầy vì có khách mua chuối.
+
+— Bà cứ kể thế này, tí nữa người ta lại bảo cả xóm Trại chẳng còn ai sống, — cô nói trước khi đi.
+
+Bà Mến không giận, chỉ chỉ chiếc quạt về phía Nhàn.
+
+— Cô còn trẻ, chưa biết người ta kiêng những gì. Đất có chuyện thì có chuyện, tin hay không là việc của cô.
+
+Một chiếc xe giao hàng vừa dừng ở đầu lối. Người lái xe gọi tên Hảo, tháo xuống hai kiện hàng có dán phiếu ngoài vỏ.
+
+— Của cô Lan đây chị. Cô bảo lát qua kiểm lại, còn phải mua giấy với gặp khách.
+
+Hảo đối chiếu số đơn rồi ký nhận. Một kiện được đóng trong chiếc hộp cao, bên ngoài có quai, chữ *hàng nhẹ, không đè* viết bằng bút dạ. Chị đưa nó lên ngăn cao nhất của giá hàng rồi đặt kiện còn lại sang bên.
+
+Anh giao hàng đang chuẩn bị đi thì bà Mến hỏi với:
+
+— Này cậu, cậu có chạy qua xóm Trại không?
+
+— Cháu vừa từ phía ấy vòng về đây.
+
+— Nghe nói cái nhà ông Cường đêm qua có chuyện hả?
+
+Anh ta dừng tay trên quai mũ bảo hiểm.
+
+— Có công an đến đấy bà ạ. Cháu không đi vào trong, chỉ thấy xe đỗ ngoài đường. Sáng nay bên ấy đông người lắm.
+
+— Thế có phải người ta đang đào cái rãnh cũ gần đầm không?
+
+— Vâng. Nhưng làm được mấy hôm rồi bà. Hôm nay họ vẫn đang dọn gạch, xe qua đoạn ấy phải tránh nhau từng tí.
+
+Bà Mến nghiêng người qua chỗ bà khách mua chậu, gõ nhẹ nan quạt vào mép quầy.
+
+Anh giao hàng đội thử mũ bảo hiểm lên rồi lại nhấc ra, nói thêm:
+
+— Cháu chỉ biết đường đang sửa. Còn chuyện nhà ông Cường thế nào cháu không rõ đâu.
+
+Anh đội mũ, dắt xe ra khỏi lối chợ.
+
+Bà Mến đứng dậy, cầm chiếc làn lên. Trước khi đi, bà vẫn ghé sát Hảo dặn:
+
+— Cô có người nhà bên ấy thì dặn họ đêm hôm đừng đi tắt qua đầm. Hồi tôi mới về chợ này, người già đã kiêng đường ấy rồi. Bây giờ người ta đào lên, bảo không có chuyện gì, nhưng cô cứ thử đi qua lúc tối xem.
+
+Hảo không đáp. Chị kéo chiếc ghế nhựa bà Mến vừa ngồi vào sát quầy, nhường lối cho hai người xách chậu đi qua.
+
+Đến lúc bà Mến đi khỏi, Hảo kéo tờ phiếu nhận hàng lại gần, xem mấy chuyến xe còn phải đợi buổi chiều. Anh giao hàng vừa rồi cũng đi vòng qua Trại; chị định lát nữa gọi hỏi xem chiều tuyến ấy còn tắc không.
+
+Điện thoại trên quầy đổ chuông. Bà Lan gọi hỏi hai kiện hàng đã được nhận đủ chưa, lát nữa bà sẽ sang kiểm lại.
+
+— Đủ rồi cô ạ. Em để hộp có quai riêng trên giá cao. Cô cứ sang, hàng vẫn ở đây.
+
+Hảo cúp máy, lấy bút đánh dấu vào sổ.
+
+Ngoài đầu lối, bà Mến đã ngồi xuống bên quầy trầu, đang kể lại chuyện xóm Trại cho một người đàn bà vừa đến mua đồ lễ. Lần này, Hảo nghe thấy bà nói chắc nịch rằng người ta vừa đào lại miệng rãnh cũ thì nhà ông Cường có tang.
