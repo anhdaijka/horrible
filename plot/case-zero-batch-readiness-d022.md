@@ -1,5 +1,8 @@
 # Case Zero — D-022 integrated pre-canon batch readiness register
 
+> **LATEST D-023 POST-S05 V2 READINESS (2026-09-28):** [S05 author-feedback V2 NONCANON prose](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V2-D023-WORKING.md), [exact locator](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V2-LOCATOR.md), [revision audit](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/D023-REVISION-AUDIT.md), [same-context NONBLIND check](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/D023-V2-NONBLIND-CHECK.md) now exist. D-023 changes narrator/public name to `cụ Cổn`, Thủy→father `thầy/con` (mother=`u` if present), deepens elder command's actual cost and tests stronger ordinary cat physical horror. No approved new occult source, cat-caused haunting, coffin before official release, or completed literary PASS. Old S05 V1 remains untouched. CURRENT NEXT = unexposed S05 V2 literary first-read, separately fresh safety and S01–S05 join, bounded V3 only if supported, then distinct S06 preflight. Maintain D-021 one later coordinated author batch checkpoint.
+
+
 > **LATEST POST-S05 V1 UPDATE (2026-09-26):** [S05 focused micro-preflight and bounded Writer packet](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/preflight.md) plus [complete 16,204-character NONCANON S05 V1 prose](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V1-WORKING.md) have been committed. Actual NEXT: independent first-reader post-draft literary gate, then S01–S05 source/custody/voice join and an evidenced surgical revision if necessary. S06 and S07 remain preflight only; the real cat may cross an actual home coffin only after lawful release. Older next-action text below is history; no new author decision or canon chapter is claimed.
 
 
