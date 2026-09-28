@@ -2,7 +2,7 @@
 
 > **D-023 author-feedback revision, noncanon.** V1 preserved separately. Literary and safety reviews of V2 are still pending; no new supernatural law or author-approved final prose is claimed.
 
-Lan Anh vừa đưa được chiếc xe qua cổng thì người dựng bạt ở ngoài đã gọi cô quay lại. Anh ta đang đứng giữa sân, một tay giữ cuộn dây điện, tay kia trỏ lên chỗ mái hiên, hỏi có thể buộc tạm vào cái móc sắt trên tường không. Từ sáng đến giờ anh đã hỏi hai người, người nào cũng bảo đợi cụ Cổn quyết. Ông thì ở đâu không thấy.
+Lan Anh vừa đưa được chiếc xe qua cổng thì người dựng bạt ở ngoài đã gọi cô quay lại. Anh ta đang đứng giữa sân, một tay giữ cuộn dây điện, tay kia trỏ lên chỗ mái hiên, hỏi có thể buộc tạm vào cái móc sắt trên tường không. Anh ta bảo vừa hỏi hai người, người nào cũng nói phải đợi cụ Cổn quyết. Lan Anh nhìn vào gian trước, lúc ấy vẫn chưa thấy cụ đâu.
 
 Cô dựng xe sát gốc cau. Cái túi đựng đồ vừa đi chợ về nặng trĩu một bên tay lái, quai đã được cô Lan buộc thêm dây cho khỏi đứt mà đến nhà vẫn trượt xuống gần chạm bánh. Lan Anh phải gỡ từng vòng dây, cất mũ bảo hiểm lên yên xe rồi mới nói với anh dựng bạt rằng cái móc ấy trước kia treo dây phơi, cô không dám chắc chịu nổi cả tấm bạt lúc có gió. Anh ta ngẩng lên ngắm một lúc, bảo đúng là không nên buộc, nhưng nếu không được chỗ ấy thì phải đóng thêm cọc ở mép sân. Hai người còn đang nhìn khoảng gạch trống thì cụ Cổn từ gian chính bước ra, tay cầm cuốn sổ cũ và một chiếc điện thoại.
 
@@ -74,7 +74,7 @@ Toàn nhấc cây bút, viết thêm một dòng vào danh sách, nhưng mới �
 
 Toàn đưa tay sờ phần băng ở cổ. Anh đẩy chai nước còn lại sang phía cô, nhìn xuống tờ quảng cáo bị viết kín một bên, rồi bảo những thứ cô chưa mua để anh nhờ người lấy, chiều cô đừng đi đâu nữa. Ngoài sân, anh dựng bạt gọi đến lần thứ ba, lần này to hơn. Toàn đứng dậy đáp vọng ra, tiện tay nhấc hai chai nước theo. Ra đến cửa anh mới quay lại dặn đừng nhắc tên người đặt trước mặt ông.
 
-Lan Anh nhìn theo. Cái cô muốn biết không phải tại sao anh sợ bà Mến kể chuyện; ở xóm có tang, nhà nào chẳng ngại người ta thêm mắm thêm muối. Nhưng cô không hiểu vì sao anh không hề hỏi chiếc đài có hình thù ra sao, lại chỉ muốn biết ai đã trông thấy tờ phiếu và có ai nhắc tên người mua hay chưa. Cô mở ảnh thêm một lần, định phóng vào cái tên Vũ Thị Thoa rồi thôi. Màn hình hiện ra danh sách đồ còn thiếu cô viết trong điện thoại từ ngoài chợ; hai gói túi rác nằm trên bàn vẫn chưa ai cất vào bếp. Cô cầm chúng đứng dậy.
+Lan Anh đợi anh ra khỏi gian trước rồi kéo tờ danh sách về phía mình. Điện thoại còn mở tấm ảnh chụp phiếu mùng mười; cô khóa màn hình, nhét máy vào túi áo trước khi người dựng bạt chạy vào hỏi chỗ lấy thêm nước. Hai gói túi rác cô mang từ chợ về vẫn nằm bên chân bàn. Cô cầm chúng đứng dậy.
 
 Đến lúc cô mang đồ ra gian trước thì cụ Cổn đang nói chuyện với một người bên dịch vụ. Ông kéo ghế cho người ta ngồi, lấy trong túi áo ra mảnh giấy ghi số điện thoại và tên người cần liên hệ, nhờ họ kiểm lại từng phần đã thỏa thuận. Ông không hẹn giờ làm lễ. Ông bảo nhà còn phải đợi thông tin bên xử lý vụ việc, khi nào được phép đưa người về thì mới tính tiếp giờ giấc, nhưng sân bạt, bàn ghế, nước và chỗ cho họ hàng đến trước không thể đợi đến lúc ấy mới lo.
 
@@ -136,4 +136,4 @@ Lan Anh cùng người phụ bếp cuộn riêng tấm đệm bẩn. Vệt đỏ
 
 Đến khi tấm đệm cuối cùng được mang ra, Lan Anh mới nhớ bát cơm ông dặn vẫn còn nguyên trong nồi. Cô rửa tay ở bồn bên cửa bếp, bưng bát ra ngồi trên chiếc ghế thấp, chưa ăn được hai miếng đã có người gọi hỏi túi cốc mang về từ chợ để đâu. Cô chỉ chiếc thùng sát bàn, nhờ người ta mở trước phần đã mua và đợi chuyến hàng chiều gửi nốt. Cái điện thoại trong túi áo rung một lần. Cô tưởng Hảo gọi báo đồ, nhưng chỉ là tin nhắn của người họ hàng hỏi giờ về viếng.
 
-Lan Anh gõ một câu trả lời rồi dừng. Trong nhà đã có chỗ kê thêm ghế, đệm đang phơi ngoài sân, đồ ăn cũng có người nhận gọi mua; từng ấy việc làm được cả khi chưa ai đưa ra một giờ hẹn chắc chắn. Cô đặt điện thoại úp xuống cạnh bát cơm, bảo người họ hàng cứ chờ nhà báo sau, rồi cúi ăn tiếp trước khi cơm nguội.
+Lan Anh gõ câu nhắn người họ hàng cứ đợi nhà báo giờ rồi đặt điện thoại xuống cạnh bát. Chị phụ bếp từ sân sau gọi vào bảo vỏ tấm đệm vừa tháo được nhưng vệt bẩn vẫn còn, hỏi có cần mang ra vò thêm không. Lan Anh đáp cứ để riêng, tối phải lấy tấm khác cho khách nằm, rồi cầm đũa ăn tiếp. Ngoài sân có tiếng người kéo dây bạt căng qua cọc mới đóng; cửa bếp lại được mở để một người bê nốt thùng nước vào.
