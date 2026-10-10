@@ -1,6 +1,6 @@
 ---
 name: "Đặng Việt Long"
-role: supporting
+role: minor
 age: 42
 status: alive
 relationships:
@@ -8,10 +8,7 @@ relationships:
     type: professional-acquaintance
   - character: vu-con
     type: village-clan-elder
-  - character: vu-van-cuong
-    type: investigation-subject (deceased)
 locations:
-  - cuong-household-funeral
   - xom-trai
 tags:
   - police-investigator
@@ -20,21 +17,13 @@ tags:
   - recurring-law-enforcement
 ---
 
-# Đặng Việt Long (Công an Long)
+# Đặng Việt Long
 
-## Role
+## Role — D-008 scope
 
-A 42-year-old police officer participating in the authorized investigation of Cường’s death, with local knowledge around Chợ Bến and xóm Trại. His precise post/assignment must fit the 2026 organization; do not identify him as district police. See the mechanics research note before naming ranks or powers.
+Nhân vật công an42 tuổi được giữ làm hồ sơ cho khả năng sử dụng khác của series; **không giữ vai trò điều tra Case Zero hiện hành**. Không viết cảnh lấy lời khai, khám nghiệm, thu điện thoại, DNA hoặc Long giải thích hung thủ như điều kiện của plot.
 
-In Case Zero under D-001 post-reset:
-
-- Coordinates preservation and appropriate professional handling after the household reports the death. Scene examination does not wait for a funeral.
-- The phone is located, documented and collected in the first professional examination; analysis can take time. He does not abandon it behind a seal for days.
-- Distinguishes visible nail cleanliness from forensic sample findings. Neither alone excludes Toàn.
-- Source of inquiry into votive shop (D-005): Long's visit to bà Lan's shop is spurred entirely by public trade rumors at Chợ Bến crossroads (where bà Lan attempted to deliver the radio labeled "Vũ Văn Cường" on the morning of the 14th and Lan Anh refused) combined with Cường's suspicious neck trauma. It is NOT initiated by any report or confession from the Vũ family.
-- Administrative inquiry into Thoa uses authorized channels, limited old records and oral testimony. Lack of a death entry is not evidence she is alive.
-- Shares only information he may legitimately disclose; Khanh has no general police-database or seized-phone access.
-- Does not announce supernatural guilt as a legal conclusion. Physical evidence, witness claims and the reader’s supernatural experience are separate.
+Case Zero được khám phá qua trải nghiệm bị ám, quan hệ, ký ức và việc đời thường. Giữ hồ sơ không có nghĩa giữ appearance hoặc giao nhiệm vụ cho Khanh. Nếu author sau này đưa Long vào một phạm vi cụ thể, cần quyết định mới và research nghiệp vụ phù hợp, không khôi phục nhánh cũ tự động.
 
 ## Core traits
 
@@ -56,11 +45,3 @@ Referred to in narration as `Long`, `anh Long`, or `cán bộ Long`. Addressed b
 ## Voice
 
 Measured, low-pitched, calm and authoritative; speaks in concise, precise investigative terms without emotional exaggeration.
-
-## Evidential boundaries — D-002
-
-The phone has already been collected when Thủy asks about it; no early-arrival retrieval loophole is necessary. Post-scuffle speech establishes only that the speaker could speak at that point, not medical exclusion of earlier injury. There is no 1996 audio proof to recover. Testimony, remains and corroborated details have separate provenance and limits; do not fast-forward all examinations and legal outcomes into one climactic night.
-
-## D-016 — Source-sensitive investigative dialogue
-
-Long's questions change with the listener: patient and concrete about payment, handwriting and original handoff with busy shopkeeper bà Lan, precise with colleagues about dates/source and pointed when a witness contradicts an earlier account. He should not sound like Khanh's dry banter, Cổn's entitlement or a generic interrogation transcript. One answer may be short when it serves purpose, never from a universal minimal-reply style. S07 publicly acquired Chợ Bến rumor gives a lead, not ghost proof: Long separately confirms recipient identity beyond a common “Cường” and does not deputize Khanh to access a seized phone. See [Voice Bible](../plot/case-zero-voice-and-dialogue-bible-v1.md).

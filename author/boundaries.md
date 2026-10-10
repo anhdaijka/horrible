@@ -39,12 +39,11 @@ A chapter may be quiet, funny or domestic, but the early novel must maintain a d
 - **Do not give Khanh unearned forensic knowledge or an answer-dumping monologue.** Local inference from available facts is allowed in any phase.
 - **Do not place Khanh unnaturally at private scenes between suspects.** If a scene is private to Vũ family members or suspects with no plausible reason for Khanh's presence → choose objective or an appropriate limited POV (see DIR-03).
 
-## POV boundary (DIR-03, DIR-05)
+## POV boundary — D-008
 
-- The novel uses rotating focalization: Khanh is the recurring anchor; an appropriate participant's limited POV, objective observation or community oral voice may carry a scene when it belongs there. Do not allocate scenes to satisfy percentages.
-- **Off-POV scenes (Cinematic Fly-on-the-wall) cannot contain private interior thought or explanatory confession.** They are strictly observational — behavior, speech, space, physical evidence only.
-- **Rotating POV chapters** (Thủy/Toàn/Lan Anh/Cổn limited 3rd) are allowed only when they deepen supernatural dread or crime concealment from the inside. Do not use them to explain the mystery to the reader.
-- **Anti-Omnipresent Protagonist:** Never fabricate a pretext to put Khanh behind a bush or around a corner to witness a private confrontation. If the scene requires witnessing private suspects → choose objective or an appropriate limited POV.
+Khanh anchors recurring experience; narrator may widen, summarize, retrospect, enter the chosen limited viewpoint or transition to another. Objective camera is optional, not the mode of all scenes without Khanh. No numeric allocations or prohibition of all exposition/interiority.
+
+Observed facts stay true; POV interpretation can mislead fairly. No objective false innocence, false innocent interiority or deletion of knowledge being directly thought about. Select scope/distance/time fairly. A late narrative return may confirm planted cause; no unseeded major motive. Do not force Khanh to witness private scenes.
 
 ## Supernatural boundaries
 
@@ -115,22 +114,17 @@ The series may expand geographically and thematically, including Japan, but shou
 
 Expansion should deepen fear, culture and consequence rather than simply increase supernatural power levels.
 
-## Case Zero — firewall và hiện trường hậu reset (D-002, 2026-09-17)
+## Case Zero — current boundaries (D-008)
 
-- P1–P6 trong arc/ma trận thay các lịch chương cũ. G6a mới mở sự thật Thoa chết; G6b trách nhiệm 1996; G6c người đặt đơn/hung thủ siêu nhiên. Không để “inverted mystery” mở lời giải từ đầu.
-- Tên Thoa có thể xuất hiện ở P1; trước G6a, cô là người mất tích có thể còn sống. Không bảo đảm độc giả tin cô sống và không cấm họ tự nghi ngờ.
-- Sau Cường chết, haunting gia đình P2–P4 tập trung vào Cường. Đơn hàng trước cái chết có nguồn Thoa nhưng chưa định danh cho độc giả.
-- Trùng tang là cách diễn giải của một bộ phận gia đình/cộng đồng; Thắng và Cổn ban đầu có thể phủ nhận. Không narrator-certified doctrine hoặc yêu cầu toàn làng cùng tin.
-- Không dùng góc cổ 180°, móng sạch, một timestamp hoặc tiếng gãy xương để kết luận pháp y vượt chứng cứ.
-- Không hàng đợi Zalo, máy kẹt qua nhiều ngày hay gia đình tự miễn khám nghiệm. Tang và hiện trường theo DIR-04 đã sửa.
-- Không tái lập nữ trộm giống mặt, cúc bay đến chân, máy cassette kể toàn bộ vụ án hoặc cảnh ảnh đổi mặt + vỗ vai.
-- D-002 chọn Cổn sống, các lựa chọn nói thật có giá và Thủy quyết định với radio. Cơ chế Cường rút lui còn phải thiết kế; không tự thêm tử vong, mức án, quyền đất hoặc số phận vĩnh viễn của linh hồn.
+- People believe Cường's hanging is suicide; narrator does not certify the mistaken conclusion. Stress is real, not a medical diagnosis or proof of intent.
+- Thắng deliberately kills; reader-facing companion/friend first, late reveal. Motive is work/financial pressure, separate from Thoa/pond land. Help and fear can be real.
+- Thoa1996 backbone remains, independent of murder2026. No mandatory living-recipient ghost order, Thoa execution, clean-nail erasure or G6a–G6c certification route.
+- Real Cường haunting persists, memory fragmented across everyday matters and reveal. No ghost reporter, selective last-minute lucidity or perfect supernatural justice.
+- Lan Anh discovers hanging and calls help promptly; Toàn has prior scuffle; Thủy has real work shift. No fake-alibi burglary/oil/handprint branch. Character concealment grows from blame/relations/fear, not forensic suspect lineup.
+- Discovery uses experience, relations, memory/work and fair narration. Long/police/autopsy/DNA/camera are not engine, prerequisites or pending readiness gates. Retired technical proposals do not resurrect themselves as research work.
+- Exact times/routes/room, sums/supporting-character names, manifestations and end-state not chosen remain open. No automatic extra death, sentence, land allocation or permanent exorcism.
+- Past candidates/approved packets stay preserved but stale for the new design. Source sync does not canonize prose.
 
-## D-002 supersession guards
+## Source and workflow guard
 
-- No attempt by Thủy to retrieve the phone before restriction; she learns it is already collected.
-- No 1996 audio-evidence tape, protected-container recovery requirement or magical confession substitute.
-- A post-scuffle voice recording does not medically exclude earlier injury contribution.
-- No mandatory animal, insect-silence, cold, all-senses or fragmented-fear-dialogue checklist.
-- No default rule that paper offerings retained through Rằm attract spirits.
-- Development outcomes are approved design, not events already experienced in a canonized chapter. Current chapter count remains zero.
+D-008 (2026-10-07 / CZ-20261007) supersedes conflicting September D-001–D-024 mechanisms, opening allocation and packet readiness. Historical decisions/artifacts are receipts, not active sources. Compatible voice/register choices remain valid. First light plot preflight, then author beat sequence, then agent development; do not substitute a selected engine for literary intent. Routine execution freedom remains, new material choices alone need author action. Manuscript count stays zero.

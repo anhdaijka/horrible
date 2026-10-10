@@ -39,6 +39,8 @@ Contemporary Northern Vietnam. The opening story world is a fictional semi-urban
 
 | Name | Type | Status | File |
 |------|------|--------|------|
-| Custom Paper Cassette Radio | Object | uncollected | [custom-paper-cassette-radio](artifacts/custom-paper-cassette-radio.md) |
-| Votive Shop Ledger | Object | active | [votive-shop-ledger](artifacts/votive-shop-ledger.md) |
-| Bính Tý Niên Tạp Ký | Object | active | [binh-ty-nien-tap-ky](artifacts/binh-ty-nien-tap-ky.md) |
+| Custom Paper Cassette Radio | Object | unknown / prior design retired | [custom-paper-cassette-radio](artifacts/custom-paper-cassette-radio.md) |
+| Votive Shop Ledger | Object | unknown / not manuscript state | [votive-shop-ledger](artifacts/votive-shop-ledger.md) |
+| Bính Tý Niên Tạp Ký | Object | unknown / not manuscript state | [binh-ty-nien-tap-ky](artifacts/binh-ty-nien-tap-ky.md) |
+
+D-008: no manuscript object mutations. Ghost-order/refusal/custody and Chapter5 record discovery are superseded. Retained locations/dossiers do not force police or every artifact into current Case Zero.

@@ -2,11 +2,9 @@
 
 > Author-approved creative constitution after the opening reset. This supersedes the earlier `normal-first / ambiguity-preferred` interpretation that produced discarded prototypes. Newer direct author instructions and `author/directives/` still outrank this file when they are more specific.
 
-## Case Zero implementation — D-002 (2026-09-17)
+## Case Zero implementation — D-008 (2026-10-07)
 
-Case Zero uses **asymmetric horror mystery**: readers can see more of the living suspects' conduct without knowing Thoa's death or executioner identity before the gates. The active arc/matrix use P1–P6; references below to late Act III/IV mean the convergence function, not inherited chapter numbers. New opening prose must be planned from the reset state.
-
-The order reclaims Thoa's erased name and announces Cường's death. Human accountability is established by converging sources; supernatural confirmation for readers is not a substitute for forensic proof. No technical mechanism may stand in for research.
+Current Case Zero begins with a death believed to be suicide: Cường found hanged, actually murdered by Thắng. Real haunting continues; hidden1996 Thoa tragedy is independent and can misdirect reader attention. Everyday relationships, memory/work and flexible narration carry discovery; no police/forensic engine or mandatory order for the living. Late return to the death confirms already-seeded cause without requiring Khanh to prove every part. See current arc/decisions; former order/P1–P6/G6 gates are superseded.
 
 ## Premise
 
@@ -104,10 +102,10 @@ The narrator should create **questions**, not answer future questions prematurel
 
 Horrible dùng **Rotating Focalization / Multi-POV** — không phải Limited 3rd POV thuần túy:
 
-1. **Khanh Main Anchor POV**: close 3rd limited và là điểm trở về quen thuộc. Khanh là Cognitive Bridge (mắt xích nhận thức), không phải investigator. Anh thu nhận mảnh vụn đời thường tự nhiên, có quyền suy luận cục bộ theo thông tin thực biết và chọn cách giữ tính nguyên vẹn của sổ đơn.
+1. **Khanh Main Anchor POV**: điểm trở về quen thuộc, có suy nghĩ và đời sống riêng; narrator có thể gần hoặc xa theo scope rõ. Anh suy luận từ phần thực biết, không investigator hoặc người giữ mandatory ghost-order ledger.
 2. **Rotating POV người trong cuộc**: limited 3rd sâu vào Thủy/Toàn/Lan Anh/Cổn khi cảnh thực sự thuộc về trải nghiệm riêng của họ.
 3. **Cinematic Off-POV Fly-on-the-wall**: khách quan, không có interior thought, không confession, dùng khi quan sát phục vụ cảnh tốt hơn interior access. Không cân POV bằng tỷ lệ số học.
-4. **Community Lore & Oral**: Thắng, Mai, bà cụ Tứ, công an Long — tiếng nói cộng đồng.
+4. **Community Lore & Oral**: Thắng, Mai, bà cụ Tứ, gia đình/khách/hàng xóm có quan hệ thật — tiếng nói cộng đồng. Long không là kênh khám phá Case Zero hiện hành.
 
 **Anti-Omnipresent Protagonist (guard cứng):** Tuyệt đối cấm ép Khanh có mặt gượng tạo tại cảnh riêng tư giữa ngư phạm (nấp sau bụi tre, đi ngang qua đúng lúc tống tiền, ẩu đả). Nếu cảnh là riêng tư giữa gia đình Vũ → chọn objective hoặc limited POV phù hợp, không giấu suy nghĩ thiếu công bằng.
 

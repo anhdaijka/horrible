@@ -13,7 +13,7 @@ relationships:
   - character: vu-thi-thuy
     type: paternal-aunt
   - character: nguyen-minh-khanh
-    type: never-met-prior-to-plot
+    type: village-acquaintance
   - character: dao-van-sang
     type: business-prey
 locations:
@@ -31,17 +31,21 @@ tags:
 
 # Vũ Văn Toàn
 
-## Role
+## Role — D-008
 
-The 30-year-old eldest son and lineage heir of the deceased Vũ Văn Cường, and eldest grandson of Trưởng tộc Vũ Cổn. He is married to Lan Anh. Toàn works as a dump-truck driver transporting sand and construction materials around the district.
+Con Cường, cháu Cổn, 30 tuổi, lái xe ben, chồng Lan Anh. Nợ xe/gambling/đất gây sức ép thật; không trở thành hung thủ2026 vì có động cơ gia đình. Giữ tình cảm thật với bố và xung đột cùng tồn tại.
 
-In Case Zero (**D-050**, **D-054**, **DIR-01**, **D-058**, **D-060**, **D-005**):
-- **Financial Desperation & Land Scheme:** Drowning in massive debts (over a billion VND) from truck installments and illicit gambling/land speculation, Toàn desperately sought to seize the multi-billion-dong lotus pond plot before the district's road project commenced.
-- **Violent Scuffle & Fatal Guilt (22:35 – 22:45 Night of 13th):** Cornered by debt deadlines, Toàn confronted Cường at the foot of the stairs to demand the land deed (*sổ đỏ*). Cường furiously refused, cursing him. A violent physical struggle erupted; Cường fiercely gouged his fingernails into Toàn's neck and tore his work shirt before Toàn shoved him backward and stormed outside to smoke in his sand truck cabin (parked ~200m away at the sand lot).
-- **Body discovery and concealment:** Toàn returns around 23:05–23:10, finds his father unresponsive, and checks his hands in fear of leaving traces. Their unnerving cleanliness is not a visual DNA test. He calls Lan Anh, who calls for help; privately he admits pushing Cường and shows his torn shirt/wounds. He omits the earlier fight in his first public account. Lan Anh hides the shirt; ordinary dressing covers the wounds before mourning clothes exist. She destroys the shirt later during funeral pressure, leaving a fragment through an imperfect burn. See D-001 post-reset and DIR-04 for the chain; no inherited Chapter 6 staging.
-- **Gag order on the name Thoa (D-005):** Toàn strictly forbids Lan Anh from mentioning the name Thoa to anyone, including police and neighbors. He is terrified that police looking into family history will uncover that Aunt Thoa actually died in 1996, and that an exhaustive criminal investigation will expose his scuffle and the neck scratches.
-- **Inferiority complex and hostile suspicion toward Khanh (D-005):** A rough, debt-ridden dump-truck driver with little schooling, Toàn carries deep bitterness and inferiority toward Khanh (former elite specialized-school student, software engineer for a Japanese firm). Furthermore, Lan Anh in her youth had admired/had feelings for Khanh (a past detail she once shared with Toàn). Toàn therefore views Khanh with persistent jealousy and guarded hostility, suspecting Khanh is poking into the votive radio order at his mother's shop, and is prone to defensive sarcasm and surveillance toward Khanh.
-- **The C-03 Clean-Nails Psychological Spiral (D-005):** Having fled the scuffle terrified that forensics would find his skin/DNA under Cường's nails, Toàn remembers the unnervingly clean appearance of Cường's fingernails when he returned. This is his visual impression, NOT a result proving no skin tissue, DNA or gouge debris was present. Rather than relieving him, this uncanny impossibility induces cold terror: either an unseen supernatural power cleaned the scene to save him for a worse retribution, or an unknown third party was there, finished Cường, and sanitized the body. This pushes Toàn's nerves to the brink of unhinged paranoia in P3–P5.
+## Night13 and concealment
+
+Toàn đòi sổ đỏ, xô xát với Cường, bị cào/xé áo rồi rời đi. Cuộc giết do Thắng về sau, không do cú xô và không Thoa. Lan Anh là người phát hiện Cường treo cổ trong nhà; bỏ nhánh Toàn tìm thi thể, kiểm tra móng sạch rồi gọi cô từ buồng sau. Exact time/distance/location chưa khóa theo nền mới.
+
+Toàn giấu cuộc xô xát, sợ bị gia đình/dư luận quy đã dồn cha tới chết, sau còn sợ cha ám mình. Lan Anh biết phần anh kể, che cho chồng bằng việc giấu/hủy áo trong hướng loyalty đã duyệt; không police/DNA trap. Nếu prose dùng đốt/fragment, phải có cơ hội/custody đời thường nhất quán, không mandatory clue. Không ma xóa móng hoặc áo đã cháy lại được thu nguyên.
+
+Toàn biết một phần bí mật Thoa đã chết; nguồn/độ sâu phải khóa trước cảnh dùng. Anh cấm Lan Anh nhắc chuyện vì sợ gia đình bị phơi bày, không phụ thuộc đơn hàng ma/điều tra cảnh sát. Không tự biết chiến dịch Thủy, tài chính Thắng hoặc whole1996 truth.
+
+## Relationship trajectory
+
+Mặc cảm học vấn/tài chính và việc Lan Anh từng để ý Khanh có thể gây thù địch; không xác nhận affair. Anh yêu cầu vợ xác nhận điều không chứng kiến; cô từ chối và chịu hậu quả. Mẹ anh chết khi anh đã trưởng thành, tên/năm/nguyên nhân chưa khóa. Kết cục hôn nhân, thương tích cuối và tài sản không tự thêm. Haunting được khám phá từ scene ecology, không old stair/call signature.
 
 ## Core traits
 
@@ -63,33 +67,3 @@ Referred to in narration and dialogue as `Toàn`, `anh Toàn`, or `thằng Toàn
 ## Voice
 
 His speech depends on listener and situation. Under pressure he may become defensive or hurried, but may also speak plainly, cooperate or try to maintain ordinary family life. No mandatory guttural voice, stammer or fragment pattern. His relationship with his father and wife should affect choices, not merely vocal effects.
-
-## Family and moral pressure — D-002
-
-His mother died years before 2026, after he became an adult; her name, exact date and cause are not locked.
-
-**D-010 pregnancy development:** author approved developing the direction that Toàn's future mother was **already pregnant when Cường's summer-1996 wedding was being arranged**. Exact wedding month, gestational stage, Toàn birthday, 2026 lunar-month setting and the mother's knowledge/stance are NOT yet locked. Ensure his stated age ~30 is compatible with the later chosen calendar; he bears no responsibility for crimes committed before his birth. His mother's later ordinary death is not a hidden murder link. His father’s real affection makes grief and anger coexist.
-
-He asks Lan Anh to support an account containing something she did not witness. Her refusal becomes a consequential break in his assumed entitlement to loyalty. D-006 removes the old later-scene manifestation lock involving a familiar call/stairway escalation; future haunting behavior must be discovered afresh from each chapter's ecology and must not disclose the concealed fight early.
-
-A 2026 recording of Cường speaking after the scuffle cannot medically rule out a contribution from earlier injuries. Objective supernatural cause, Toàn’s fear and investigators’ conclusions remain distinct.
-
-## D-011: Intergenerational stakes and reveal firewall
-
-The planned pregnancy-before-Cường-wedding 1996 explains the **story Cổn tells Toàn** about family sacrifice; it does not blame unborn Toàn for Thoa's death. D-014 approves an **early-August 1996 birth**, so Toàn is 30 during the lunar seventh-month 2026 murder; the specific birthday (e.g. Aug6) remains open. Toàn has only **bounded inherited knowledge** Thoa died/was concealed, with the precise source still to design; he did not witness the blow, burial or Thoa's spectral murder. Before G6a do not enter a deceptively truncated Toàn close POV suppressing the death fact. His authentic father's affection and his own 2026 debt/assault coexist with fear. After G6b Lan Anh refuses to swear to an unwitnessed fight; the late Cường haunting crisis tests whether Toàn will actually protect her despite their conflict. A later prearranged daylight return for Lan Anh's belongings is an approved V1 *finale premise*, while exact rear-room threat/rescue and permanent marriage outcome are scene gates.
-
-## D-012 — Author-approved clean-nail psychological sequence
-
-Toàn sincerely believes he did not kill his father and is initially stunned by finding the body. He then remembers that Cường had clawed his neck during their earlier fight and checks his father's fingernails for visible traces. Finding none gives him a **brief moment of relief** before a much more frightening question occurs to him: might a spirit have intervened for some ulterior purpose, or might another living person have killed his father and tidied the scene? Let this relief-to-terror sequence recur psychologically across the volume rather than making him instantly certain of a ghost. **Author-only truth:** Thoa's ghost deliberately removes the visible traces in question through supernatural intervention after killing Cường. The exact means and motive remain to be staged at G6c, not an assertion of universally negative laboratory DNA findings or legal acquittal. Toàn remains responsible for his actual fight, omissions, and pressure on Lan Anh.
-
-## D-014 — Family misinformation and consequential rescue
-
-On mùng9 of lunar July 2026 (Aug21), Toàn and Cường go to view the real pond-side drainage/land access situation, where Cường dismisses Thủy's decades of work and her voice in decisions about benefits. Newly freed ghost Thoa directly observes/hears their **real conversation**, a spectral fact withheld from the pre-G6a narrative; Toàn does not know she is there. His bounded inherited knowledge of Thoa's actual death bars an early close POV pretending she is a living land-claimant. Other outsiders may credibly suspect precisely that as a **false human theory**. After G6c, during Lan Anh's planned **daylight** collection of belongings he chooses to assist an active rescue against a visibly embodied independent ghost Cường from the already-established rear room/side passage, using the prior kitchen side exit and workable storeroom window. He sustains a meaningful **nonfatal shoulder injury** affecting truck driving and debt; exact diagnosis/open relationship outcome not predeclared. The real leap of Cường-hated neighbor cat across the home coffin does not produce quỷ nhập tràng or create ghost Cường.
-
-## D-015 — The threatened land deed, secret of Thoa's death and one-sided jealousy of Khanh
-
-Toàn **has never met, interacted with or seen Khanh face to face** before the novel's current action. Through widespread village stories he knows Khanh's school reputation and his Japanese-company career, including his 3-year Japan onsite posting, and he knows Lan Anh **studied 1–2 district-high-school cohorts above Khanh and once adored him**. He projects shame, jealousy and possessiveness onto a man who is not actively competing for his wife; **do NOT imply Khanh and Lan Anh are secretly still in love**. Toàn has acquired **some genuine prior information that his aunt Thoa died in 1996**, with the exact source and degree of detail still to be earned on-page. **He strategically used this information to blackmail/pressure Cường to hand over the sổ đỏ** under his real commercial debts; the father does NOT simply hand it over and this pressure feeds their approved night13 actual scuffle. Owning a book is not automatically lawful ownership of land. In the earlier mùng9 pond visit newly freed ghost Thoa secretly overhears Cường dismiss Thủy's current contribution/benefit, but Toàn does not know she was there. On mùng14 Lan Anh relays the actual customer **Vũ Thị Thoa** and intended recipient **Vũ Văn Cường** are recorded at **Khanh's mother bà Lan's Chợ Bến paper shop**; it is **only then** that Toàn's TWO anxieties converge: loss of monopoly over the 1996 secret he used against his father and jealous fear that his wife disclosed family matters to Khanh. His overly defensive/hostile behavior toward Khanh should be **subsequently earned** and the men's FIRST actual encounter must not be treated as an old acquaintance reunion. Khanh/bà Lan genuinely lack this history and father-in-law identification at purchase; xóm Trại far from the shop has three different people named Cường. Toàn's fake belief that Thoa is a LIVING land claimant is forbidden; he knows she is dead at his bounded information level. His brief relief on seeing no visible nail scraps, then dread, and his later separate Cường-ghost rescue/shoulder cost remain unchanged D-012/14.
-
-## D-016 — Distinct guarded/controlling voice, no copy-paste banter
-
-Toàn's speech should track two separate pressures **after Lan Anh reveals the S03 radio/shop connection**: he knows PART of aunt Thoa's death and used it to press Cường for the **sổ đỏ**, and he envies a successful old school crush of his wife, Khanh, whom he has **never met**. This may produce targeted questions, topic control, selective tenderness and defensiveness, not perpetual shouting or sarcastic one-line zingers. His anxiety does NOT certify any current Lan Anh–Khanh romance or knowledge of ghosts. In conversation with his wife he can ask what actually happened at the shop but does not acquire details she doesn't know. Distinguish his power/control from Cổn's generational authority and bà Lan's familiar motherly bluntness. See [Voice Bible](../plot/case-zero-voice-and-dialogue-bible-v1.md).

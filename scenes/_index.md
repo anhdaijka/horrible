@@ -5,6 +5,8 @@ story: horrible
 
 # Scenes
 
+> **Historical September plot basis.** These scene approvals/variants are preserved as receipts; they are not approved CH-01 beats or manuscript canon for CZ-20261007 / D-008 (2026-10-07). Read [current Case Zero](../author/case-zero-current.md). The prose files remain unchanged; no automatic transfer to the hanging/human-murder design is authorized.
+
 ## Registry
 
 | Chapter | Scene | Title | POV | Status | File |

@@ -38,12 +38,10 @@ Khanh is neither a ghost hunter nor a chosen medium. He checks ordinary causes b
 - Khanh remains a working software engineer without a confirmed chosen-one role or combat power system.
 - Grandfather is a gateway into history and local spiritual experience, not the final answer to the universe.
 - Oral ghost stories told by ordinary people are a core narrative channel and may frighten the reader before Khanh can verify anything.
-- Narrative mode is **Rotating Focalization / Multi-POV** (DIR-03, DIR-05): Khanh Main Anchor POV (~50–60%) + Rotating POV suspects/family (~25%) + Cinematic Off-POV fly-on-the-wall (~15%) + Community Lore oral. Off-POV may not expose private thoughts or confession. Khanh is a Cognitive Bridge, not an investigator.
+- Narrative mode allows flexible storytelling and clearly transitioned viewpoints: Khanh is the recurring anchor; interiority, wider narration, summary, retrospection, oral voice and objective observation can combine without percentages. Facts stay true even when viewpoint interpretation is wrong. Khanh is an ordinary participant, not an investigator.
 
 ## Volume 1
 
-Working thematic title: **Những chuyện tưởng đã kết thúc**.
+Working thematic title: **Những chuyện tưởng đã kết thúc**. Case Zero is the active opening arc; the old order-premise title is not mandatory. **0 chapters canonized.** D-008 (2026-10-07) synchronizes author-approved design: Cường found hanged and believed to have killed himself, actually murdered by Thắng; continuing real Cường haunting; independent hidden Thoa tragedy; late reveal through everyday sources and flexible narrator. No police/forensic discovery engine or ghost-order prerequisite.
 
-Case Zero — `Đơn hàng cho người chưa chết` — is the active opening arc. **Repository is in pre-draft state. No chapters canonized (full reset 2026-09-16).** Current Case Zero authority comes from the newest direct author instruction, `author/directives/`, `author/decisions.md`, continuity/character registries, verified research and the active arc plan in that order.
-
-D-002 (2026-09-17), following the author’s “Duyệt toàn bộ theo đề xuất”, approves the 36 brainstorm recommendations and revised CH-01 structure. P1–P6 still govern revelation. CH-01 preflight is READY / APPROVED DESIGN; no prose or manuscript canon has been created. The next authorized workflow is drafting from that preflight, not resurrecting any rejected opening.
+Current next workflow: lightweight plot-following preflight → author supplies beat sequence → development/packet within intent. Older CH-01-v6/B10 materials remain preserved, stale for this design and not a READY writing authorization. Read author/session-state.md and the active arc before work.

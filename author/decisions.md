@@ -1,5 +1,7 @@
 # Author Decision Log — Horrible
 
+> **CURRENT CASE ZERO AUTHORITY: D-008 (2026-10-07), source key CZ-20261007.** This date-qualified receipt at the end of the log supersedes conflicting September plot/packet decisions, including D-024 (2026-09-29). A separate September history also used the label D-008 (2026-09-25): numeric ID order and Git commit order do not establish authorial recency. Read [current Case Zero](case-zero-current.md) first. Earlier receipts and accepted prose retain their historical acceptance; they are not current chapter beats or manuscript authority for the changed design. Compatible voice/register decisions remain valid.
+
 > Post-reset log từ 2026-09-16. D-001–D-060 của giai đoạn trước nằm trong `development/horrible/decisions-archive.md`; không nhầm với D-001 hậu reset dưới đây.
 
 ## D-001 — Case Zero: tái cấu trúc sau phản biện (2026-09-17)
@@ -397,3 +399,26 @@ Cross-chat entry: [CHATGPT_SESSION.md](../CHATGPT_SESSION.md), [chat-memory/case
 Approved V2 realizes the existing D-023 default narrator/village `cụ Cổn`, Cổn–Thủy father/daughter `thầy/con` (mother `u` only when relevant), consequential patriarchal control with real care, and stronger physical/social horror grounded in a REAL neighbor black cat and its prey. Approval is of THIS scene execution. It does not turn the animal into an occult vector, move the objectively required later real coffin leap before lawful body return, move independent Cường H1 earlier, or approve unrelated S02/S03 editorial variants.
 
 **Current gate:** AUTHOR-ACCEPTED V2 PROSE; independent first-reader literary PASS, separate fresh safety PASS, cross-scene S01–S05 join, and integrated manuscript/canon promotion remain unfinished. The same assistant that composed/revised V2 cannot assert an independent blind first reading. Preserve exact V2 as approved; any change prompted by review must be versioned and get appropriate author acceptance rather than silently overwriting V2. Continue under D-021's coordinated later batch approval and existing D-014 boundaries.
+
+
+## D-008 — Case Zero mới, POV và workflow theo beat của author (2026-10-07)
+
+**AUTHOR APPROVAL: APPROVED DESIGN + AUTHORIZED REPOSITORY SYNC.** Nguồn là cuộc trao đổi audit tiếp nối “Audit canon và workflow”, 2026-10-06–07: author duyệt hướng Thắng/động cơ ngoài Thoa và B-v2; “Duyệt toàn bộ theo đề xuất” chốt cuộc hẹn khách hôm sau và chứng cứ hội tụ. Sau đó author sửa rõ rằng mọi người tin treo cổ tự sát và không muốn công an/khám nghiệm làm trục; “xác nhận” chốt hướng mới. Cuối cùng author xác nhận phạm vi đồng bộ canon, hồ sơ/timeline, POV, workflow và session-state vào repo, thay giới hạn “Do not edit files” ban đầu. Không là yêu cầu viết prose, canonize, commit hoặc push.
+
+### Quyết định hiện hành
+
+- Lan Anh phát hiện Cường treo cổ trong nhà; gia đình/cộng đồng tin tự sát do stress/bất hòa. Sự thật là Thắng chủ động giết rồi dựng hiện trường, đã nghĩ tới giết nhưng còn thương lượng; không tai nạn rồi cover-up.
+- Nguồn khám phá là bị ám, ký ức, quan hệ và việc đời thường. Bỏ Long/police/autopsy/DNA/forensic/camera engine và các blood-evidence proposals. Nghi án mạng hình thành sau, thay lựa chọn cũ nhận ra án mạng sớm; Thắng vẫn lộ muộn.
+- Thoa1996 backbone giữ: forced marriage, Cường đánh/xô và bỏ mặc, Thủy tìm chị đã chết nhưng không thấy cú đánh, Cổn ra lệnh che giấu. Bi kịch riêng mở từ giữa sâu về cuối, khiến cách hiểu trả thù/xung đột gia đình hấp dẫn. Thắng chưa biết truth này khi gây án. Không Thoa giết2026, xóa móng hay mandatory order cho người sống; radio có thể giữ kỷ vật.
+- Cường haunting thật và còn sau reveal; tách ham muốn khỏi nhận biết/ký ức đứt đoạn. Không ổn định đủ kể tên hung thủ; giới hạn xuyên đời thường, không selective amnesia. Không instant exorcism/perfect justice.
+- Cường đã giúp vốn/dụng cụ và khách; Thắng nhận quá khả năng, chuyển tiền ứng bù việc cũ, giấu thiếu hụt. Cường định gặp khách hôm sau làm rõ tiền ứng/tiến độ. Thắng muốn tách/thu xếp; chịu trách nhiệm cho choice, không motive đất/Thoa. Vợ/người làm cùng/khách có agency và tri thức hữu hạn; Sơn là tên làm việc, vợ chưa đặt tên.
+- Thắng reader-facing là bạn đồng hành/social anchor; công khai second visit sớm, kể rời khi Cường sống và làm Khanh tưởng đã thu xếp. Giúp đỡ/tình bạn/fear có phần thật. Không suspect lineup hoặc mastermind dẫn mọi Thoa discovery.
+- Người kể được linh hoạt giữa close/wide narration, summary, retrospection, oral, rotating limited và objective mode khi chọn; không tỷ lệ/camera-only mọi off-Khanh. Dữ kiện thật, diễn giải POV có thể sai. Không false innocence/interiority hoặc né knowledge trực tiếp. Late return đêm chết có thể xác nhận cause đã gieo. Nguyễn Ngọc Ngạn là craft reference chính, không style copy.
+- Toàn xô xát và sợ bị quy dồn cha tự sát; Lan Anh che chồng rồi từ chối chứng thực điều không thấy. Thủy có dọa thật/ca làm thật, agency lên tiếng; Cổn sống, giữ danh tiếng/quyền kể, không auto redemption. Lỗi người sống/bi kịch Thoa có hậu quả riêng.
+- Workflow: **lightweight plot-following preflight → author beat sequence → agent development inside intent → bounded writing/reviews when requested**. Không engine tự chọn thay beat, questionnaire hoặc approval lại điều đã chốt.
+
+### Supersession và readiness
+
+D-008 (2026-10-07) thay phần xung đột của các D-001–D-024 thuộc cơ sở thiết kế tháng 9, directives/packets, gồm order/refusal/custody, opening mùng14→CH02mùng10, Thoa execution, giây22:54:32, clean nails, police trap và stale READY. Decision log cũ giữ để truy vết; drafts/tests giữ nguyên bytes, không active context cho nền mới hoặc manuscript canon. Không sửa/xóa unaccepted prose hay phục dựng deleted attempts.
+
+Exact giờ/phòng/routes, số tiền/công trình/identity hỗ trợ, manifestations, trạng thái cuối Thắng/Thoa và hậu quả cụ thể chưa được chốt. New author beats chưa có. Không thêm blood/DNA readiness gate. Approval design không xác minh nghiệp vụ/văn hóa hoặc chất lượng prose. Các nguồn thay đổi chỉ là design baseline; chapter count vẫn zero. Xem current arc, timeline và matrix.

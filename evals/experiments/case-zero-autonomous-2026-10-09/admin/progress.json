@@ -1,6 +1,6 @@
 {
   "status": "PAUSED_BY_AUTHOR",
-  "phase": "PAUSED_FOR_CHAT_MODE_HANDOFF",
+  "phase": "PAUSED_FOR_AUTHOR_LED_CH01",
   "launch_date": "2026-10-09",
   "paused_at": "2026-10-10",
   "pause_after_chapter": "CH-02",
@@ -20,7 +20,7 @@
   "safety_review_complete": false,
   "final_reading_copy_ready": false,
   "canonized": false,
-  "next_action": "New Chat mode: read current author/session-state.md and perform lightweight preflight for the author's requested CH-01 starting point, reconciling the latest repository authority first; then wait for the author's beat sequence. Keep this A–Z experiment paused and do not continue CH-03 or promote its drafts.",
+  "next_action": "Author remains in the current session and prepares official CH-01 under CZ-20261007 / D-008 (2026-10-07). Perform lightweight preflight, then wait for author beats. This A–Z trial stays paused; do not continue CH-03 or promote its drafts. September D-024 is not a newer plot authority than the October author replacement.",
   "planned_chapters": 26,
   "working_word_target": 122200
 }

@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — D-022 house action-blocking dry run (S05, S06, S12, S32, S35–S37)
 
 **Status: conceptually spatially coherent PRODUCTION TRIAL on the existing [house-space V1](case-zero-house-space-and-setpieces-v1.md), NOT measured architecture, exact finished horror text, legal-body-release promise or new occult physics.** Every line of sight and human route below must be checked against one fixed practical ground-floor diagram/approximate passage widths in the eventual manuscript. Do not substitute hidden doors or a different house when the ghost arrives.

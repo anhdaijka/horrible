@@ -1,6 +1,6 @@
 ---
 name: "Lê Văn Thắng"
-role: minor
+role: supporting
 age: 27
 status: alive
 relationships:
@@ -8,6 +8,10 @@ relationships:
     type: high-school-classmate
   - character: vu-van-cuong
     type: distant-in-law-relative
+  - character: vo-le-van-thang
+    type: spouse
+  - character: son-nguoi-lam-cung-thang
+    type: work-colleague
 locations:
   - market-crossroads
   - cuong-household-funeral
@@ -20,11 +24,23 @@ tags:
 
 # Lê Văn Thắng
 
-## Role
+## Role — D-008 / internal spoilers
 
-Khanh's former high school classmate from the district high school (trường huyện). Thắng represents the grounded, ordinary trajectory of rural youth who stayed behind: married early, has a child, and works as a technician at the glass and aluminum workshop near the market crossroads.
+Bạn học cũ của Khanh, thợ nhôm kính 27 tuổi có vợ con. Vai trò reader-facing là người bạn đồng hành, social anchor và người giúp việc tang; không giới thiệu bằng suspect dossier. Quan hệ họ xa qua hôn nhân giữ nguyên: maternal cousin-aunt là chị/em dâu Cường; không tự mở thành tuyến huyết thống mới.
 
-In the funeral-pressure phase, Thắng helps with practical tasks (chairs, tea, visitors) because his maternal cousin-aunt is Cường’s sister-in-law. His exact entrance and actions need a new preflight; the rejected chapter is not authority.
+## Author truth and work pressure
+
+Thắng là người giết Cường, không tai nạn. Đã nghĩ tới việc ấy nhưng còn tìm giải pháp trong cuộc gặp cuối; khi thương lượng thất bại anh lựa chọn giết, sau đó tạo hiện trường treo cổ giả tự sát. Không biết bí mật Thoa khi gây án; motive không là trả thù1996 hoặc giành đất đầm.
+
+Cường từng cho vay mua dụng cụ, giới thiệu khách. Khi nhận việc riêng Thắng nhận quá khả năng, chuyển một phần tiền ứng bù thiếu hụt việc trước, che mức thiếu với vợ. Cường thúc khoản mình và dùng quan hệ giúp đỡ gây sức ép. Cường định gặp khách hôm sau để làm rõ tiền ứng/tiến độ. Thắng muốn tách ra/thu xếp nhưng phải chịu trách nhiệm cho sai lầm và việc giết; Cường không gây ra mọi thất bại của anh.
+
+Thắng thừa nhận sớm quay lại lần hai, kể mình rời khi Cường còn sống và khiến Khanh tưởng việc đã thu xếp. Reveal muộn tái nghĩa nguồn đời thường; không police interrogation/DNA. Số tiền, tên khách, công trình, exact time và phòng chưa khóa.
+
+## Friendship, fear and knowledge
+
+Thắng có tình bạn thật, giúp thật và sợ hồn Cường thật vì không biết người chết còn nhận ra/nhớ gì. Không biến mọi hành vi tử tế thành cover-up hoặc cho anh dàn xếp toàn bộ phát hiện Thoa. Giữ đời vợ con, nghề và lựa chọn độc lập.
+
+Trước reveal ưu tiên cách anh được Khanh/người khác trải nghiệm hoặc khoảng cách kể phù hợp. Không nội tâm giả vô tội, không né đáp án trong suy nghĩ đang trực tiếp về tội. Đoạn trở lại đêm chết muộn có thể dùng trải nghiệm thật sau khi clues/motive đã gieo. Vợ và [người làm cùng](son-nguoi-lam-cung-thang.md) có agency, không toàn tri. Xem [vợ Thắng](vo-le-van-thang.md).
 
 ## Core traits
 

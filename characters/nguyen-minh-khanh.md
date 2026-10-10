@@ -21,7 +21,7 @@ relationships:
   - character: lan-anh
     type: village-acquaintance
   - character: vu-van-toan
-    type: only-heard-about-before-plot
+    type: village-acquaintance
 locations:
   - family-votive-shop
   - market-crossroads
@@ -97,18 +97,6 @@ Do not turn his internal voice into constant polished analysis. Let thought move
 
 Fear does not require a fixed checklist of breath, heartbeat and muscle tension. It can appear as delay, avoidance, irritation, calling out to someone, turning on a light, doing a task faster than necessary or pretending he was not frightened.
 
-## Case Zero agency — D-002
+## Case Zero agency — D-008
 
-Khanh’s concrete stake is the family shop and integrity of its order record. Rumors, customers, family ties and work demands push him to choose whether to preserve and accurately describe what was recorded. He is not licensed to alter or withhold evidence. He can reason about local facts he knows, ask questions and revise assumptions without becoming the case investigator. Ordinary warmth, his family and his platonic friendship with Mai remain living counterweights, not filler or a mandatory romance.
-
-## D-011: Khanh has a life outside solving Case Zero
-
-The V1 volume preserves mother–son shop obligations, separate ongoing Japan-facing engineering work (a specific incident may involve misattributed session logs and Khanh owning his own rushed review) and platonic Mai friendship. He is neither selected medium nor freelance police technician, and the software case must have a real workplace outcome independent of ghost clues. S01 opens **mùng14 morning in bà Lan's close limited POV**, with Khanh present for ordinary shop work; the same-scene A/B candidate ends before public Chợ Bến collision. Future private Long evidence and actual 1996 truth stay outside his legitimate early access. See [approved V1 treatment](../chat-memory/case-zero/07_VOLUME_TREATMENT_V1.md) and [opening candidate card](../plot/case-zero-opening-ab-scene-card-v1.md).
-
-## D-015 — Approved precise Japan trajectory and social knowledge limits
-
-Khanh (27) attended the **district high school**. Lan Anh was **1–2 school cohorts above him**, openly liked him in adolescence, and married Toàn after university; this local history is known to bà Lan/Khanh, but it does **NOT** imply Lan Anh still loves him. Khanh first worked **1–2 years for a Japanese company in Vietnam**, then spent **3 years onsite in Japan**. At the mùng14 2026 opening he has **just come home for a few weeks' holiday**, still handles actual Japan-facing remote obligations, and expects to return to **the company's inner-Hanoi office** afterward, not live at home indefinitely. Khanh has **NEVER met or spoken face to face with Toàn before the novel's present**; Toàn may have heard of his career and school reputation, but this is unreciprocated jealousy, not an old rivalry. Khanh/bà Lan know Lan Anh's distant xóm Trại in-laws only through fragments, especially older patriarch Cổn's authoritarian reputation; they **do NOT know** father-in-law Vũ Văn Cường's actual name/surname, his living status mùng10 or the 1996 secret. Their shop is at far-off busy Chợ Bến, not Cường's next-door neighbor. Khanh should not personally deduce from an invoice for “Vũ Văn Cường” that it belongs to Lan Anh's family before the **S03** encounter and proper verification. Do not make him a modern technical detective or secret love interest without separately earned events. See [D-015 order/relationship guard](../plot/case-zero-d015-opening-social-and-order-logic.md).
-
-## D-016 — Adult-son voice, not schoolboy obedience
-
-Khanh may comfortably retain **con/mẹ** while speaking as a **27-year-old employed adult** with independent scheduling and actual responsibility to his Japanese-company colleagues. He can set a real limit, propose a workable compromise and *do a task* instead of trading automatic clever replies or always seeking permission. At home he can be relaxed, teasing, tired or lazy, but he isn't a permanent sarcastic IT hero or an endlessly deferential adolescent. He responds differently to his mother, a customer, colleagues and, LATER, never-before-met Toàn. His mother sometimes naturally calls him **mày**, which needn't signify hostility. Voice must arise from work, family affection and finite information, not a copied banter rhythm. See [Voice Bible](../plot/case-zero-voice-and-dialogue-bible-v1.md).
+Khanh đến qua quan hệ, công việc tiệm, Lan Anh và Thắng. Ban đầu làm một việc hữu hạn; trải nghiệm đáng sợ và nhu cầu bảo vệ người quen khiến anh quay lại. Không nhiệm vụ phá án, police access hoặc ghim vào sổ đơn Thoa đã bỏ. Tò mò cạnh tranh với việc IT, dự định về Hà Nội, sự ngại và ranh giới gia đình; có thể trì hoãn hoặc hiểu sai rồi sửa khi dữ kiện đời thường không khớp. Author có thể cho reader biết nhiều hơn anh bằng POV/khung kể rõ.

@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — D-022 toàn tập: bản tích hợp trước giai đoạn viết văn xuôi canon
 
 **Ngày biên soạn:** 26/09/2026. **Trạng thái:** production design V1, đề xuất thao tác/địa hình, **không tự cấp quyền đổi canon D-011–21**. Tác giả đã giao rà soát và tự tổ chức trước rồi mới gom phần cần duyệt thành một đợt. Tài liệu này gom quyết định từ năm mạch truyện, sơ đồ 39 cảnh, ba bản S01–S03 đã biên tập, S04–S07 tiền kỳ, và bộ ràng buộc hồi cố/G6a–c.

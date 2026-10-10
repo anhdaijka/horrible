@@ -4,9 +4,9 @@
 >
 > **REFERENCE-ONLY CRAFT LIBRARY.** Do not load this whole file for preflight, generation, review or revision. Facts, relationships, reveal boundaries and explicit author decisions must be read from their active authority sources. A named section here may be consulted only after a demonstrated craft problem, and its examples remain optional hypotheses—not packet requirements, regression tests or automatic reasons to rewrite natural prose.
 
-## Case Zero routing — D-002 (2026-09-17)
+## Case Zero routing — D-008 (2026-10-07)
 
-Use P1–P6 and G6a–G6c in the current arc/matrix. Later-act language means convergence, not a numbered chapter plan. The authoritative mechanisms are the revised DIR-02/DIR-04: radio-as-memory without a 1996 recording, local 2026 phone recording, competent scene handling, uncertain first identification and distinct evidential limits. No rejected scene or old chapter example is mandatory staging.
+The current arc/decisions own the apparent-suicide human murder, separate Thoa tragedy, ongoing Cường haunting and late companion-Thắng reveal. Former P1–P6/G6a–G6c, ghost order and forensic convergence are retired. This library is optional craft reference, not a packet or readiness source. Nguyen Ngoc Ngan is the author-selected primary storytelling reference; use narrative confidence/lived context/horror freedom without copying style.
 
 ## 1. Language and register
 
@@ -41,50 +41,13 @@ Do not use bare `Lan`, `Hùng`, `Nhân`, `Thủy` in manuscript narration merely
 
 This rule does not apply mechanically to YAML, registries or planning documents.
 
-## 3. POV Architecture — Rotating Focalization (DIR-03, DIR-05)
+## 3. POV Architecture — flexible storytelling (DIR-03 / D-008)
 
-Horrible không dùng Limited 3rd POV thuần túy qua Khanh. Cấu trúc chính thức:
+Khanh is the recurring anchor, not sole camera or mandatory witness. The narrator may move between close interiority, wider social context, summary, retrospection, oral testimony and clearly transitioned focalization. An objective scene is optional; its observational constraint does not govern every scene without Khanh. No POV percentages, fixed amount of clues per chapter or compulsory objective interludes.
 
-**1. Khanh Main Anchor POV** — close 3rd limited and the recurring home perspective.
+Keep observable facts true; POV evaluations can be wrong or incomplete. Reader attention may follow Khanh's trust in Thắng and concerns about the family. Do not certify innocence objectively, invent innocent private thoughts or hide the known answer inside direct crime interiority. Select another distance/POV/time when needed. A late return to the death may confirm seeded cause through truthful narrator/Thắng experience; it cannot import an unseeded major motive.
 
-- Khanh là **Cognitive Bridge** (mắt xích nhận thức), không phải investigator.
-- Trong từng chương anh chỉ thu nhận một vài mảnh vụn rời rạc phát sinh tự nhiên trong sinh hoạt đời thường, bất an thoáng qua, rồi tiếp tục.
-- **Cho phép suy luận cục bộ từ điều thực biết.** Không ép Khanh ngu đi để giữ bí mật; cấm suy luận vượt nguồn và mớm toàn bộ đáp án.
-- Narrator sở hữu **storyteller authority** (foreshadow, frame, withhold, compress) mà không trở thành omniscient về private thoughts của người khác.
-
-**2. Rotating POV — người trong cuộc** — limited 3rd sâu when the scene belongs to that person's private experience.
-
-- Vào Thủy / Toàn / Lan Anh / Cổn khi họ đối diện với nỗi kinh hoàng tâm linh riêng tư hoặc hành vi che giấu tội lỗi từ bên trong.
-- Mục đích: đào sâu dread và động cơ con người — không để giải thích bí ẩn cho độc giả.
-- **Rotating POV không được phép là cánh cửa confession hoặc exposition hé cấu trúc.**
-
-**3. Cinematic Off-POV — Fly-on-the-wall** — khách quan hoàn toàn when observation rather than interior access serves the scene.
-
-- Quan sát thuần túy: hành vi, lời nói, không gian, vật chứng vật lý.
-- **Tuyệt đối cấm interior thought, cấm confession giải thích.**
-- Chọn objective hoặc limited POV phù hợp khi Khanh không có mặt; không cân cảnh bằng tỷ lệ số học.
-
-**4. Community Lore & Oral** — Tiếng nói cộng đồng.
-
-- Thắng, Mai, bà cụ Tứ, công an Long, khách hàng, hàng xóm.
-- Khẩu truyền, tin đồn, nhân chứng — không phải narrator authority.
-
----
-
-**Anti-Omnipresent Protagonist Guard — quy tắc cứng:**
-
-Tuyệt đối cấm ép Khanh có mặt gượng tạo tại cảnh riêng tư (nấp sau bụi tre, đi ngang qua đúng lúc tống tiền, ẩu đả — bất kỳ cách nào mà author phải brace lý do giả tạo). Nếu cảnh đó quan trọng để độc giả biết → chọn objective hoặc limited POV của người hiện diện. Limited POV không được né suy nghĩ thật bằng “chuyện ấy” để giấu đáp án.
-
-The narrator may:
-
-- foreshadow consequence;
-- frame a detail as something later remembered;
-- let the reader become uneasy before Khanh;
-- compress unimportant time;
-- withhold a reveal fairly;
-- linger on an ordinary detail because the story knows it will matter.
-
-The narrator must not spoil future logic by explaining what characters do not yet know.
+Khanh need not prove everything, receive official evidence or attend private scenes. Narrator freedom and fair reveal boundaries coexist. Oral stories may have their own pleasure/horror without becoming clues. Composition remains in 04-drafting.md.
 
 ## 4. Genre promise
 
@@ -154,13 +117,9 @@ The real prohibition is **generic use without specificity**.
 
 A dark staircase is weak if it is only dark because this is horror. It can be strong if the reader knows who normally uses it, what sound those steps make, and what is now wrong.
 
-### 6.1 Nghiêm cấm Jumpscare rẻ tiền & Ảo giác kịch trường (Absolute Ban on Cheap Jumpscares)
+### 6.1 Earned horror
 
-Kinh dị của tác phẩm phải là **nỗi sợ hữu cơ, thấm đẫm tâm lý và logic trinh thám hiện thực**. Tuyệt đối nghiêm cấm:
-
-- **Ảo giác kịch trường giật gân (Theatrical phantom scares):** Khuôn mặt nhân vật bỗng nhiên biến dạng nhe răng cười ma dại hay trừng trừng mắt quỷ rồi chớp mắt biến mất không để lại dấu vết; bóng ma nhảy bổ ra thét vào mặt nhân vật chỉ để tạo một cú giật mình vô nghĩa.
-- **Tiếng động giật gân vô cớ (Acoustic cheap shots):** Những âm thanh chát chúa được ném vào chỉ để dọa độc giả mà không có căn nguyên trong không gian hay manh mối logic.
-- **Hù dọa tùy tiện (Arbitrary spooking):** Mọi sự sai lệch kỳ quái, rợn người phải bắt nguồn từ **hiện thực vật lý, phản ứng tâm lý sang chấn, sự câm lặng ngột ngạt của nghi lễ, hoặc sự biến dạng tinh vi của nhận thức**. Nỗi sợ phải khiến người đọc rùng mình ngẫm nghĩ, chứ không phải giật mình cười trừ vì một màn ảo thuật vụng về của tác giả.
+Direct ghosts, disturbing bodies, anticipation and sudden events are allowed when specific to people/place/experience. Avoid empty theatrical resets that erase consequence. Physical realism and cultural research do not require fictional supernatural events to have mundane causes. No mandatory rhythm, sensory quota or rule that every scare must be a detective clue.
 
 ## 7. Suspense vs leakage
 
@@ -273,7 +232,7 @@ Sometimes the frightening part is that it looks exactly like a normal person who
 
 ### 12.1 Thương tích và cảm giác sai lệch
 
-Cho phép body horror khi cảnh cần; chọn chi tiết có sức nặng thay vì tăng gore để chứng minh thể loại. Với Case Zero, thương tích cổ nghiêm trọng không khóa góc 180° hoặc mức phá hủy cơ thể chưa được duyệt. Cái chết trước va đập là sự thật tác giả, không là điều người dự tang nhìn ra bằng mắt.
+Cho phép body horror khi cảnh cần; chọn chi tiết có sức nặng thay vì tăng gore để chứng minh thể loại. Case Zero hiện dùng thi thể treo trong nhà và haunting sau chết; không kế thừa cổ bẻ/gãy trước va đập hoặc hình thể đặc trưng của nhánh cũ. Chi tiết vật lý mới phụ thuộc scene design đã duyệt, không phải mô tả chuyên môn do người dự tang tự biết.
 
 Dữ liệu chuyên môn cần đúng nguồn. Không miêu tả “không có ADN” từ quan sát móng tay; không biến tiếng động trong bản ghi thành chẩn đoán.
 
@@ -283,7 +242,7 @@ Dị tượng có thể trực diện, nhưng không dùng ảnh thờ biến d�
 
 Nhân vật có thể lảng tránh khi có lý do xã hội; không bắt mọi câu trả lời phải ngập ngừng. Người làng có thể nhận ra Khanh ngay hoặc phải hỏi tùy mức quen và thời gian xa nhau. Không đặt quy trình nhận mặt cố định.
 
-Nét họ Vũ trong CCTV tạo khả năng nhận nhầm, không sao chép chính xác khuôn mặt Thủy hoặc xác nhận danh tính bằng độ nét không tồn tại.
+Nhận diện có phạm vi theo điều người trong cảnh thực sự thấy và biết. Case Zero không còn mystery người mua Thoa qua CCTV; không dùng ví dụ nhánh cũ như fact phải gieo.
 
 ## 13. Dialogue
 
@@ -561,7 +520,7 @@ Nghề gia đình và đồ làm theo đơn nối đời sống người sống 
 
 ### 28.3 Âm thanh và động vật — DIR-06
 
-Có thể dùng động vật, sự im lặng hoặc nhiệt độ khi cảnh có lý do; vắng chúng không là lỗi review. Không xem phản ứng con vật là phép kiểm chứng ma, không lấy cú/quạ/bướm làm điềm tang được narrator chứng nhận. Giọng gọi quen giữa ban ngày và thói quen vâng lời là hướng đặc trưng của Cường. Tránh jump scare rẻ, không cấm hiện hồn trực tiếp.
+Có thể dùng động vật, sự im lặng hoặc nhiệt độ khi cảnh có lý do; vắng chúng không là lỗi review. Không xem phản ứng con vật là phép kiểm chứng ma, không lấy cú/quạ/bướm làm điềm tang được narrator chứng nhận. Giọng gọi và thói quen vâng lời không phải signature bắt buộc của Cường. Tránh jump scare rẻ, không cấm hiện hồn trực tiếp.
 
 ## 29. Ám ảnh dài hơi và đời sống
 
@@ -573,7 +532,7 @@ Cộng đồng có người tử tế, người tò mò, người tránh phiền
 
 ### 29.2 Khanh có việc phải chọn, không bắt buộc mắc bẫy nghi lễ
 
-Ở Case Zero, điểm vướng cụ thể là tiệm gia đình và sổ đơn: bảo vệ tính nguyên vẹn của ghi chép trước lời đồn, khách hàng, quan hệ và áp lực công việc. Anh không được sửa hồ sơ hoặc gánh quyền điều tra chuyên môn.
+Ở Case Zero, việc tiệm, quan hệ với Lan Anh/Thắng, trải nghiệm bị ám và nhu cầu bảo vệ người quen có thể kéo Khanh vào. Anh có dự định/công việc riêng, không nhận nhiệm vụ phá án hoặc phụ thuộc một sổ đơn Thoa đã bị bỏ. Hành động phát triển theo chuỗi beat của author và phần anh thực biết.
 
 Bẫy tâm linh, phạm kỵ và cảm giác bị lây nhiễm chỉ dùng khi thiết kế cảnh thực sự cần; không bắt anh thành vật hiến tế qua một động tác vụn.
 
@@ -603,25 +562,13 @@ Chỉ dùng khi thiết kế đã duyệt cần cảm giác một hành động 
 - Người sợ được nói câu hoàn chỉnh, hỏi rõ hoặc hành động thực dụng. Limited POV được có suy nghĩ tự nhiên; objective không đọc suy nghĩ.
 - Không dùng thuật ngữ tâm lý như chẩn đoán y khoa đối với nhân vật khi chưa có căn cứ.
 
-## 31. Kinh dị trinh thám: Nghệ thuật gieo mầm hoài nghi & Giá trị đọc lại (Detective-Horror Synergy: Fair Clues, Anti-Jumpscare & High Re-read Value)
+## 31. Mystery, attention and reread — D-008
 
-Sức mạnh và đẳng cấp lớn nhất của *Horrible* nằm ở sự giao thoa hoàn hảo giữa **Kinh dị tâm linh (Spiritual Horror)** và **Cấu trúc trinh thám suy luận (Fair-play Detective Mystery)**. Người đọc không chỉ thưởng thức nỗi sợ, mà còn bị cuốn vào một trò chơi trí tuệ đầy nghi kỵ.
+The reader can accept apparent suicide, grow absorbed in a real family tragedy and overlook another meaning of already-visible work/relationship detail. Significant facts remain accurate; later context changes interpretation. No every-detail clue rule, technique quota or mandatory reveal spotlight.
 
-### 31.1 Hai lớp ý nghĩa
+Thắng is experienced as a friend/companion whose help and fear can be real. Family wrongdoing and Thoa's tragedy remain consequential after he is revealed. Seed the work pressure, second visit and unresolved issue before a late narrative return. Do not require police, forensic certification or ghost testimony to make the reader understand author truth.
 
-Manh mối quan trọng có nghĩa lúc đầu và nghĩa hồi tố. Một dị tượng, chi tiết môi trường hoặc hành vi động vật vẫn được tồn tại vì tác dụng cảm giác riêng. Không yêu cầu mọi cảnh có clue hoặc mọi ma đều được giải thích thành cơ học đời thường.
-
-### 31.2 Quyền tự suy luận
-
-Độc giả ghép phần các POV cung cấp. Khanh có thể suy nghĩ từng việc hợp lý mà không tự nhận vai điều tra viên. Không dùng định kiến “anh chưa đến hồi suy luận” để bắt anh bỏ qua điều hiển nhiên.
-
-Case Zero giữ Thoa sau cổng G6a/G6c. Các nghi phạm người sống bị bác bỏ từng giả thuyết cụ thể; điều này không tự chứng minh ma. Lời khai, vật chứng, sự thật tác giả và trải nghiệm siêu nhiên của người đọc phải tách mức khẳng định.
-
-### 31.3 Giá trị đọc lại
-
-Tên Thoa trên đơn, radio cá nhân, việc giấu áo và ký ức mất tích được tái nghĩa sau reveal. Không lấy những ví dụ hoặc scene sequence của chương đã reset làm nghĩa vụ triển khai. Không dùng băng năm 1996 để giải án. Radio giữ ký ức cá nhân; lời chứng cần đối chiếu độc lập và kết thúc cần trả giá con người.
-
-Ma trận hiện hành ghi rõ phase, nguồn tri thức và điều từng clue không thể chứng minh.
+Reread value and literary quality need actual prose/reader response, not just a completed matrix. Old ghost-order/clean-nail/radio-refusal examples have no current plotting authority.
 
 ## 32. Craft guidance after the character-workflow reform
 

@@ -1,33 +1,26 @@
 # Writing brief — <chapter>
-AUTHOR_GATE: PENDING | APPROVED
-Approval basis:
+
+Design status: READY | AWAITING_AUTHOR_BEATS | AWAITING_AUTHOR_CHOICE
+Authority / approval basis:
 Character context: character-context.md
 Scene ecology: scene-ecology.md
 
-> Writer-facing orientation. This file should make the chapter feel like a situation to inhabit, not a spec to execute.
+## Author beat sequence and intent
 
-## Story situation
-Write 2–4 cohesive paragraphs describing the life already underway, the disturbance entering it, and the broad change in pressure. Describe simultaneous human reality rather than a sequence of beats.
+Record the supplied sequence and approval basis in the author's own terms. Preserve consequential order and intended meaning. Rough arrows are acceptable. If absent, do not invent a route; return to the light preflight. Do not expose internal clue-engineering or prescribe paragraph-sized steps.
 
-A good section should still make human sense if the later mystery payoff is temporarily ignored.
+## Situation to inhabit
 
-## Reader pressure
-State the broad experience, question or emotional pressure the chapter should leave with the reader. Include the **dread vector** when horror matters: what ordinary assumption, category, relationship, space or routine should become less trustworthy, and what unresolved pressure should remain even when characters return to practical life.
+Describe the concrete life underway, disturbance and people affected. Use enough space to make the situation imaginable. No required paragraph count or agent-invented beat sequence; the supplied author sequence remains binding.
 
-Do not prescribe a craft technique, scare cadence, character reaction quota or evidence-delivery route. Reader pressure may persist even when the POV character is distracted, skeptical or busy.
+## Intended experience and scope
 
-## Concrete reality needed
-Project only practical, verified or author-approved facts the Writer genuinely needs in order to imagine the place, work, objects and immediate circumstances. Prefer concrete reality over abstract labels.
+What should this chapter let the reader experience? State the entry/exit scope and approved outcome without scripting the route.
 
-## Non-negotiable locks
-List the minimum chronology, reveal, relationship, supernatural and durable end-state facts that must remain true.
+## Material locks
 
-Keep this section short. A lock is a rail, not a requested line, reaction, question or scene order. Do not duplicate knowledge that belongs only in character-context.
+Only indispensable chronology, POV, reveal, relationship, supernatural and durable end-state boundaries. Established facts remain true even when not shown on page.
 
-## Open composition space
-State what the Writer genuinely owns: local activity, timing, narrative distance, scene/summary balance, dialogue tactics and length, silence, incidental people, humor, misunderstanding, connective narration, interiority and small non-durable inventions.
+## Open execution and missing context
 
-People act from their present lives and obligations. Information may emerge without becoming the subject of pursuit.
-
-## Reveal edge / still unknown
-Name only the truths that must remain unrevealed or unresolved by chapter end. Do not hide a clue route or QA checklist here.
+Identify what remains open only when scope could be misunderstood. Do not repeat the Writer contract. Resolve missing established facts through targeted sources; ask only for new material choices.

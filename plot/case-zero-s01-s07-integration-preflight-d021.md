@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — S01→S07 integration preflight after D-021 editorial pass
 
 **Status:** Working integration specification; author delegated preparation without intermediate approval turns, not blanket canonization of newly created text. Binding D-011–20 and D-018 S01 original still govern. Literary cuts S01/S02 and developed S03 V3 are linked below.

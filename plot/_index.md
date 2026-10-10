@@ -6,6 +6,8 @@ structure: serialized-volume
 
 # Plot Structure
 
+> **Current Case Zero: CZ-20261007 / D-008 (2026-10-07).** Read [current authority](../author/case-zero-current.md). September Case Zero scene maps, order/forensic gates and production packets remain historical source-dependent material, not the current CH-01 route. Compatible craft/register choices are retained separately.
+
 ## Story Structure
 
 **Model:** Long-form serialized volumes with case arcs, ordinary-life breathing space and a slow macro-pattern mystery.
@@ -14,7 +16,7 @@ structure: serialized-volume
 
 | Name | Type | Status | File |
 |------|------|--------|------|
-| Case Zero — Đơn hàng cho người chưa chết | subplot | planned | [case-zero-don-hang-cho-nguoi-chua-chet](arcs/case-zero-don-hang-cho-nguoi-chua-chet.md) |
+| Case Zero | subplot | planned | [case-zero-don-hang-cho-nguoi-chua-chet](arcs/case-zero-don-hang-cho-nguoi-chua-chet.md) |
 | Volume 1 — Những chuyện tưởng đã kết thúc | main | planned | [volume-01-nhung-chuyen-tuong-da-ket-thuc](arcs/volume-01-nhung-chuyen-tuong-da-ket-thuc.md) |
 
 ## Theme Tracking

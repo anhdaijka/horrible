@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — D-017: Cổn–Thủy approved VOICE reference (revised Test 3 V2)
 
 > **D-023 NOTICE (2026-09-28):** The APPROVED dialogue sample below is preserved verbatim as HISTORICAL evidence of the elder's deliberate rhythm and daughter's bounded agency, not as a register model. New manuscripts use narrator/village `cụ Cổn` and daughter-to-father `thầy/con` instead of the sample's `bố/con`. `U` refers to a mother, never to Cổn. Do not silently copy this test as a real chapter or change its already-approved wording.

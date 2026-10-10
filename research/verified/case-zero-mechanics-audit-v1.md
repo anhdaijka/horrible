@@ -1,5 +1,7 @@
 # Case Zero — Giới hạn nghiệp vụ và vật liệu (2026-09-17)
 
+> **D-008 STATUS NOTE (2026-10-07): HISTORICAL / CONDITIONAL RESEARCH.** Current Case Zero does not use the mandatory ghost order or police/forensic discovery engine. The sources/limits below remain research history, not active plot facts or preflight prerequisites. Consult only a relevant concrete claim actually selected in a new author beat.
+
 Status: **PARTIALLY VERIFIED / OPEN SCENE-SPECIFIC GATES**. Nghiên cứu hỗ trợ thiết kế; cập nhật phạm vi theo D-002, không phải canon hoặc báo cáo pháp y. Không coi việc nằm trong `verified/` là mọi chi tiết đã xác minh.
 
 ## Đã đối chiếu nguồn

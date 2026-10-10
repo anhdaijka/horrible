@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — Volume scene architecture V2 (D-022 working integration)
 
 > **D-023 register/horror update (2026-09-28):** Active naming is `cụ Cổn`; Thủy's direct father address is `thầy/con` (`u` = mother when relevant). [S05 V2](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/S05-V2-D023-WORKING.md) is a complete noncanon revision after author feedback, stronger in patriarchal cost and REAL cat's physical/societal horror without occult causation. Its fresh literary+safety reviews are pending, and the approved actual coffin-crossing cat event remains AFTER legitimate body release in later S06/funeral work. Original D-018 S01 unchanged; prior V2 volume architecture is still only working scene functions.

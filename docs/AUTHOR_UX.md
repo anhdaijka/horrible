@@ -31,11 +31,18 @@ If Dataview is missing, the note remains usable as plain Markdown links and comm
 
 A practical desktop layout:
 
-1. Antigravity: chapter/scene file in editor.
-2. Antigravity: agent conversation beside it.
+1. Codex: chapter/scene file in editor.
+2. Codex: agent conversation beside it.
 3. Obsidian: `Home.md` / character / continuity notes.
 4. Terminal: `npm run story:check` and Git diff.
 
 ## When a dashboard becomes slow
 
 First inspect query scope. Avoid queries like `FROM ""` over the entire vault when a folder path is enough. Split giant dashboards into focused notes before adding caches or databases.
+
+
+## Author-led chapter work — D-008
+
+Ask for a light preflight first: where this part follows the main plot, fixed facts, viewpoint/reveal limits and any actual open choice. Then give your sequence in ordinary language, for example `việc ở tiệm → tới nhà → gặp người quen → về`. The agent supplies transitions, speech, lived context and horror inside that route; it does not choose a replacement plot or ask a mandatory questionnaire.
+
+If you already provide beats with the request, the agent proceeds within them. Broad design approval is not prose acceptance. Read session-state for current Case Zero authority; older ghost-order packets are preserved but stale.

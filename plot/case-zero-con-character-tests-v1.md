@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — Cổn's three character trials before one fresh 2026 wrongdoing
 
 **2026-09-26. D-011 approved Cổn's relational contradictions and late narrative functions, not any precisely staged new scene or new 2026 wrongdoing.** This is an author-reviewable character *causal test*, not a villain dossier, diagnosis, mandatory dialogue, or finished prose. Cổn survived and must lose sole control of his family's story. His love for son/grandson can be real while his deliberate 1996 coercion/coverup remains fully his responsibility.

@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — Cường's autonomous haunting: scene ecology & horror architecture V1
 
 **D-011 V1 treatment APPROVED at plot level; actual paranormal scene forms below PROPOSED and subject to targeted author approval.** No generic curse timetable, fixed creature physics, exorcism formula, "trùng tang" as absolute doctrine, recycled calling voice/stairway/wet-footstep test material, new random extra death, or séance that reveals 1996. The old examples in Treatment V1—heavy bed and looping kitchen route—are NOT mandatory effects. This replaces an empty "we need scarier scenes" request with a **scene-by-scene physical and relational design audit**.

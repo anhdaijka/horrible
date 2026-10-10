@@ -10,7 +10,7 @@ This file is a **compact router**. Canonical detail lives in `.agents/rules/*`, 
 
 Priority: newest explicit author instruction → current repository authority → chat memory/summaries → generic knowledge.
 
-Before consequential story work, read `author/session-state.md` and only role-needed sources. Do not silently canonize, retcon, resurrect rejected/reset material, or treat examples/brainstorms as authority.
+Before consequential story work, read `author/session-state.md`, then `author/case-zero-current.md` for Case Zero (CZ-20261007 / D-008 dated 2026-10-07), and only role-needed sources. October author replacement supersedes conflicting September plot, irrespective of numeric decision IDs or Git order. Do not silently canonize, retcon, resurrect rejected/reset material, or treat examples/brainstorms as authority.
 
 If author replaces X → Y, keep Y; audit downstream canon, chronology, reveal, knowledge, relationships, objects, promises, supernatural rules and chapter allocation. Ask only unresolved collateral choices, then sync authority. Stop only for a genuine unresolved AUTHOR-DESIGN choice.
 
@@ -42,9 +42,7 @@ Do not combine phases unless explicitly ordered.
 
 ## Preflight
 
-Current authority → divergent `discovery-slate.md` → provisional engines → mandatory Q1–Q8 → classify → canon-impact audit → reconcile only unresolved collateral → sync durable changes → readiness audit → Writer packet. No prose.
-
-Q1–Q8 cover purpose/pacing; scope/chronology/presentation; POV/firewall; characters/relationships/life; horror; reader-detective clues/reveals; motifs/future obligations; ending/carry-forward.
+Follow `.agents/rules/03-planning.md`: lightweight plot-following preflight → author supplies beat sequence → develop inside that intent → bounded Writer packet when writing is requested. If beats are absent, record AWAITING_AUTHOR_BEATS; do useful source work without choosing the route or writing prose. No mandatory Q1–Q8 or agent-selected replacement engine. Ask only unresolved consequential choices; approved choices remain approved.
 
 Classify as `CONFIRM_EXISTING`, `CHAPTER_DESIGN`, `CANON_DELTA`, `EXPLICIT_SUPERSEDE`.
 

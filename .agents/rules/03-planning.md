@@ -1,6 +1,6 @@
 # Planning — author beats first
 
-Read session-state, current author decisions and the minimum relevant sources under 02-context.md. In Case Zero, D-008 replaces the former ghost-order/procedural design. Planning checks the main plot and supplies enough life for writing without choosing the author's literary route for them.
+Read session-state, `author/case-zero-current.md`, current author decisions and the minimum relevant sources under 02-context.md. In Case Zero, D-008 (2026-10-07 / CZ-20261007) replaces the former ghost-order/procedural design; distinguish it from the older September receipt with the same numeric label. Planning checks the main plot and supplies enough life for writing without choosing the author's literary route for them.
 
 ## 1. Lightweight plot-following preflight
 

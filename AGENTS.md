@@ -4,7 +4,7 @@
 
 ## Startup and authority
 
-1. Read `author/session-state.md` first. Exception: a fresh literary reviewer with an exact workspace reads locator-only `candidate.md` and the full prose before state or diagnosis.
+1. Read `author/session-state.md` first, then `author/case-zero-current.md` for Case Zero source authority (CZ-20261007). Exception: a fresh literary reviewer with an exact workspace reads locator-only `candidate.md` and the full prose before state or diagnosis.
 2. The author's newest direct instruction outranks repository documents. Current source outranks memory, summaries and historical artifacts.
 3. Use `.agents/rules/02-context.md` for role-specific context. Generated bibles are navigation aids; authority remains in current `author/`, `continuity/`, `plot/`, `characters/` and `research/verified/`.
 4. Do not silently canonize, retcon or convert development material into manuscript authority. Case Zero currently follows D-008 (2026-10-07) and the active arc: apparent suicide, human murder, independent Thoa tragedy, ongoing Cường haunting, late Thắng reveal. No police/forensic discovery engine or mandatory ghost order; older dependent packets are stale for this design.

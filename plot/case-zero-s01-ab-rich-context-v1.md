@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # CASE ZERO — S01 A-only safe richer-context pack V1
 
 **Run ID:** S01-AB-20260926-D015-V1. **This file is supplied to Writer A ONLY, AFTER the exact complete immutable common card** [S01 common](case-zero-s01-ab-frozen-common-v1.md), which must precede it verbatim. It is a bounded *author-approved living-context* supplement and neither alters the common scene conditions nor adds a supernatural clue. Writer B must NEVER receive this pack. If a change is made here, record new run suffix; don't silently adjust B's card.

@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — D-014: Thoa còn sống? Mèo đen thật; quỷ nhập tràng không xảy ra
 
 **2026-09-26 · AUTHOR-APPROVED dramatic design D-014.** Companion to the now-approved [human-night timeline packet](case-zero-next-human-gate-v1.md), [Cổn/late Cường climax](case-zero-con-and-late-climax-lock-packet-v1.md), [D-014 decision](../author/decisions.md) and D-011–13. This is a reveal-and-scene guard, **not finished prose or a verified statement of uniform Vietnamese funeral custom**.

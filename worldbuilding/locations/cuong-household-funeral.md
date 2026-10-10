@@ -9,7 +9,6 @@ notable-characters:
   - vu-van-toan
   - lan-anh
   - dang-van-binh
-  - dang-viet-long
   - dao-van-sang
   - le-van-thang
 tags:
@@ -19,12 +18,11 @@ tags:
 status: contested
 ---
 
+
 # Nhà Cường / không gian tang gia
 
-## Description
+## Current function — D-008
 
-Nhà của Cường là nơi xảy ra sự kiện đêm 13, sau đó trở thành không gian gia đình chuẩn bị tang trong khi các bước xử lý chuyên môn diễn ra. Địa điểm gồm khu sinh hoạt phía sau và cầu thang trong chuỗi sự kiện đã được duyệt; sơ đồ, lối tiếp cận và chi tiết hiện trường chỉ được khóa ở preflight sau khi kiểm chứng.
+Lan Anh finds Cường hanging inside his house on night13; people believe suicide. The home remains a space of family life, obligations, concealment and real Cường haunting. It is not a police-controlled evidence-room plot engine.
 
-## Story function
-
-Đây là nơi tách bạch khám hiện trường, sự che giấu của người sống, áp lực tang gia và haunting của Cường. Chuẩn bị tang không xác nhận thi thể đã được bàn giao hay nhập quan.
+Exact death/discovery room, position of the scuffle, routes and sightlines are not locked by the old staircase death. Keep one consistent lived layout once new author beats require it; do not invent new exits at the moment of escape. A preparation scene does not itself certify any particular ritual or legal timetable.

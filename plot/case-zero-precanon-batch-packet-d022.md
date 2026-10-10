@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — D-022 consolidated pre-canon production packet
 
 > **D-023 REGISTER VARIANTS:** [S01–S05 naming audit](../revisions/chapter-work/CASEZERO-S05-D022-WORKING/D023-CROSSSCENE-NAME-AUDIT.md) found only S02 (1) and S03 (3) old `ông Cổn` references in previous working candidates; no changes needed in approved S01 or S04 V3. Preserved the old candidate files and saved [S02 register-only V2](../revisions/chapter-work/CASEZERO-S01-S03-D021-EDITORIAL-PASS/S02-D023-REGISTER-V2.md) and [S03 register-only V4](../revisions/chapter-work/CASEZERO-S01-S03-D021-EDITORIAL-PASS/S03-D023-REGISTER-V4.md), both NONCANON. No added scene events or changed author-approved original prose.

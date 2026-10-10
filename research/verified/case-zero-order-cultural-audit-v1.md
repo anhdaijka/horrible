@@ -1,5 +1,7 @@
 # Case Zero Cultural Audit v2 — `Đơn hàng cho người chưa chết`
 
+> **D-008 STATUS NOTE (2026-10-07): HISTORICAL / CONDITIONAL RESEARCH.** Current Case Zero does not use the mandatory ghost order or police/forensic discovery engine. The sources/limits below remain research history, not active plot facts or preflight prerequisites. Consult only a relevant concrete claim actually selected in a new author beat.
+
 Status: research-grounded adaptation note. Research evidence, **not story canon**.
 
 Purpose: preserve real votive-shop logic while preventing cultural facts from leaking or overriding the story's reveal structure.

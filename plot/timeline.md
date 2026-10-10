@@ -3,56 +3,27 @@ type: timeline
 story: horrible
 ---
 
-# Story Timeline
+# Story Timeline — D-008
 
-> Objective chronology under D-002/D-008/D-010/D-011/D-012/D-013/D-014, retaining non-conflicting D-001 facts. T-H1/B-I are current design approaches; D-014 chooses the month-seven calendar, mùng6/8/9 human sequence, one current-ledger photo by Thủy and true fictional factory night shift; exact birthday, specific dialogue, route and prose chapter architecture remain OPEN. P1–P6 in the clue matrix control presentation, not occurrence.
+> Chronology khách quan của thiết kế đã duyệt; không phải thứ tự kể, số chương hoặc state từ prose canonized. [Arc hiện hành](arcs/case-zero-don-hang-cho-nguoi-chua-chet.md) và [D-008](../author/decisions.md) thay các mốc xung đột cũ.
 
-| When | Event | Presentation constraint |
+| Khi | Sự thật thiết kế | Phạm vi / thứ tự kể |
 |---|---|---|
-| Before summer-1996 wedding (exact months OPEN) | **D-010/D-014:** Toàn's future mother was already pregnant during wedding preparations; Toàn is born early August 1996, making him 30 by lunar mùng13 2026; exact birth day/wedding date not fixed | Family-specific pressure, not a universal marriage custom or an excuse for harming Thoa |
-| Summer 1996, afternoon | Forced-marriage dispute; Cường strikes/shoves Thoa; fatal head injury and abandonment | G6b reconstruction from independent sources; no cassette audio evidence |
-| Same night | Thủy finds her sister dead; Cổn orders concealment; Cường helps | Thủy knows discovery, not the earlier blow; no tape evidence of the crime |
-| Afterward, 1996 | Under cover of an ordinary minor repair to the old brick drainage mouth at the pond edge, the outside specialist places a small flat fired ceramic/tile anchor **deep behind old brickwork**, spatially separate from Thoa's burial site; the real rite binds her spirit to the burial region | D-013: Bình only carries supplies/handles exterior repair; no final anchor insertion, corpse, blow or grave knowledge. Grandfather refused an opaque prior request. Exact form/mark and rite details open. |
-| Following decades | Thủy works to repay imposed debts through different jobs; by 2026 works at Yên Phong | Do not backdate present industrial employer to 1996 |
-| Several years before 2026 | Cường’s wife / Toàn’s mother dies after Toàn reaches adulthood | Background death approved D-002; name, year and cause unset, no crime/twist connection |
-| Mùng 8 tháng Bảy âm 2026 (20 August; author-approved D-014) | Publicly surveyed, useful drainage/bank works dismantle the **previously untouched brick mouth** and disturb/break the protected ceramic/tile anchor; Thoa can finally move beyond the pond region | Old repairs/dredging in the other parts never exposed the anchor; no body is uncovered by the outlet works. Labour/transport disruption can have independent Chợ Bến cost (S02). |
-| Mùng 8 to noon 13 | Thủy's threat campaign against Cường | Revealed piecemeal P3–P5 |
-| Morning mùng 10 | Freed spirit Thoa intentionally places a custom paper red radio order under her own name for **living** Cường, whom she has decided will die | Revisited P1; ghost identity and intent withheld until G6c; no special lunar-day power. |
-| Before the fatal window (date/time OPEN) | **D-008:** Thủy makes a concealed suspicious visit to Cường's house, then returns to her factory sufficiently early for a TRUE multi-source alibi when he dies | Earlier action, trace, witnesses, transport and exact hour remain design gates; no murder-time entry or forged alibi |
-| 22:35–22:45 night 13 | Toàn/Cường scuffle; Toàn leaves for truck | Reconstructed P5 |
-| Around 22:54 | After independent human conflicts have left Cường alone, he misattributes Thoa's real supernatural presence to Thủy's human scares, makes a local recording, and Thoa fatally attacks before later impact | 22:54:32 internal author anchor only; no day-13 occult activation, predictive spirit master plan, fixed file length or medical precision. |
-| Between Thoa's attack and Toàn's return | Thoa intentionally causes the **visible traces Toàn expects beneath Cường's nails** to disappear through a supernatural intervention | Author truth D-012; precise mechanism and motive remain a G6c gate; not proof that all forensic DNA vanished. |
-| 23:05–23:10 | Toàn discovers body, remembers father clawed his neck, checks nails; sees no expected trace and briefly feels relief, then deep terror; calls Lan Anh | He sincerely believes he did not kill Cường. He does NOT know who intervened; supernatural or human alternative remains open to him. Reader-facing full explanation deferred to G6c. |
-| Immediately afterward | Lan Anh calls for help; Toàn conceals earlier fight; shirt hidden, ordinary bandage covers wounds | Rescue/reporting not delayed overnight; family does not stage body |
-| Same night, after notification | Thủy leaves work with recorded departure and witnesses, travels home; Cổn/household notified | Sources support she was at work during death window |
-| First examination | Authorized staff examine/preserve scene and collect phone | No multi-day abandoned phone |
-| After the phone has been collected | Thủy asks insistently and learns of collection from someone who knows; fears threats being recovered and tries to influence household accounts | No attempted retrieval; her domestic haunting occurs independently of evidence custody |
-| Morning 14 | News of Cường's death reaches the votive shop through local social traffic; the mùng-10 custom order is recontextualized | CH-01 P1; oral body description remains attributed testimony, not forensic finding |
-| Later morning 14 | Bà Lan/Khanh bring the finished paper radio to Chợ Bến; Lan Anh publicly refuses it; market witnesses carry the strange story onward | D-005 source for later gossip reaching Long; Lan Anh does not know the 1996 Thoa truth |
-| After the refusal | The paper radio returns to the family votive shop's custody | CH-01-v6 approved carry-forward state; no invented disposal/ritual rule |
-| Morning 14 onward | Lan Anh buys/prepares funeral goods; body handling and release precede encoffining | Funeral preparation is not permission to interfere with examination |
-| Later, funeral-pressure phase | Lan Anh destroys hidden shirt; fragment found through practical cleanup | No old chapter number; no full shirt later confiscated |
-| P5–P6 story-present | Alibis/evidence converge, pond search, identification, independently checked details and accounts confronted | Multiple scenes and sufficient procedural time; no same-evening all-purpose laboratory result |
+| Hè 1996 | Ép gả Thoa để lo cưới Cường; Cường đánh/xô, Thoa ngã chấn thương đầu và bị bỏ mặc | Không băng ghi âm; chi tiết y khoa chưa khóa |
+| Đêm đó | Thủy tìm chị đã chết, cầu xin; Cổn chỉ đạo giấu, Cường tham gia | Thủy không chứng kiến cú đánh; nhân chứng chỉ biết phần mình |
+| Sau đó và nhiều năm | Chuyện bỏ theo trai/xóa tên; gánh nợ và nghĩa vụ bị đẩy lên Thủy | Không backdate nhà máy Yên Phong hiện tại về 1996 |
+| Những năm trước 2026 | Mẹ Toàn chết sau khi con trưởng thành | Không khóa tên, năm, nguyên nhân hoặc thêm vụ giết người |
+| Trước đêm 13 | Tranh chấp lợi ích và Thủy dọa Cường; công việc/tài chính Thắng gặp khủng hoảng | Hai xung đột độc lập; Thắng chưa biết sự thật Thoa |
+| Trước / trong ngày 13 | Cường định gặp khách hôm sau về tiền ứng và tiến độ | Chưa khóa cách hẹn hoặc giờ; không dùng dự định tương lai làm bằng chứng không thể tự sát |
+| Ngày 13 | Thủy gặp Cường rồi đi ca làm thật | Bỏ nhánh cô trộm sổ đỏ/giả ngoại phạm; giờ chi tiết cần đối chiếu |
+| Đầu tối 13 | Thắng gặp Cường lần đầu, rời khi chưa thu xếp hết | Một cuộc gặp có thể biết sớm |
+| Tối 13 | Lan Anh có việc thăm mẹ đã hẹn; Toàn xô xát với Cường rồi rời đi | Không mặc định giờ cũ 22:35–45, quãng đường 200m hoặc vị trí từng bản |
+| Muộn hơn 13 | Thắng quay lại; thương lượng thất bại; cố ý giết Cường rồi tạo hiện trường treo cổ | Author truth; loại thao tác/phòng/vật và giờ chưa khóa; Thoa không giết |
+| Sau đó 13 | Lan Anh trở về phát hiện thi thể treo trong nhà, gọi trợ giúp ngay | Lan Anh là người phát hiện; không Toàn tìm xác trước rồi gọi cô từ buồng sau |
+| Sau phát hiện | Gia đình/cộng đồng tin tự sát; Toàn giấu xô xát, Lan Anh che cho chồng | Sợ bị quy đã dồn cha tới chết và bị ông ám; không police evidence trap |
+| Tang và đời sống sau chết | Hồn Cường tiếp tục ám; người sống có việc, nghĩa vụ và lựa chọn riêng | Không cần điều tra cảnh sát hoặc giám định để kích hoạt truyện |
+| Giữa tới cuối arc | Bi kịch Thoa mở dần; đời sống công việc và quan hệ đổi nghĩa | Không các gate cũ đơn hàng/CCTV/nhận dạng trước tiết lộ bắt buộc |
+| Muộn | Các nguồn đời thường hội tụ, reveal Thắng; có thể trở lại đêm chết bằng khung kể rõ | Reveal xác nhận điều đã gieo, không thay bằng đáp án pháp y cuối |
+| Sau reveal | Hậu quả người sống và haunting có diễn biến riêng | Không tự khóa bắt giữ, mức án, chết thêm, đất hoặc phép trừ ma |
 
-**D-011 approves the overall V1 event sequence, NOT each expressly optional date:** verified seventh-lunar-month candidate maps mùng 10/13/14 to **2026-08-22/25/26**; the calendar option and Toàn's exact birth in early August 1996 still require targeted approval. Keep text using relative lunar dates until chosen. The 22:00–06:00 fictional factory shift is a test schedule, with night-shift rest/breaks and a person-observed work interval around ~22:54 to design; clock-in alone does not establish continuous presence. Cổn's new 2026 event and paranormal mechanisms are detail gates, not existing objective history.
-
-Mùng 10 precedes night 13 by three calendar dates. Use the dates in prose, not “four days before death.” The order is learned of on the 14th, which is a different interval.
-
-Flashback, CCTV lookback and testimony may present earlier events later. No chapter boundaries or rejected scene sequence are implied.
-
-D-002 developmental beats: Thủy previously sought help and attempted independent living; exact chronology/people remain to be placed before using them as evidence. D-004/D-006 presentation: CH-01 opens morning 14 and ends with a short domestic horror coda whose concrete manifestation is chapter-designed, not locked to the old calling-voice test; CH-02 is wholly a mùng 10 flashback in bà Lan limited POV and does not return to day 14. Event chronology remains mùng 10 order → night 13 death → morning 14 discovery. The paper radio is made after the order; never already completed at ordering time.
-
-## D-012 — Causal return clarification
-
-1996 effective burial-area binding → disturbance of the *previously undisturbed* structure before mùng10 2026 → Thoa able to leave burial region. 2026 land exclusion of Thủy plus old attack/cover-up give her own revenge motive → mùng10 paid pre-death radio order → night13 Cường alone due to **separate** human crises, not a magic date → Thoa fatal attack and supernatural intervention in visible fingernail traces → Toàn's brief relief turns into lasting dread. Do not allow the chronology to become evidence that Bình knew the grave, Thoa staged all suspect visits, or investigators can certify a ghost. Lunar month/solar dates and specific ritual material remain OPEN.
-
-**D-013 reveal placement:** S02 natural market-route disturbance references the already-cut old outlet; S13 Bình's independent paid-job visit can observe the earlier survey and make a bounded Cường probe (first words still open); G6a identification and distinct G6b human corroboration must stand on ordinary independent material/people; G6c alone confirms the actual magic of the broken tile for readers. A newly freed Thoa must observe or hear a genuine current exclusion of Thủy after the rupture, without knowing every historical family transaction. Exact 2026 lunar month, specific mùng8 versus 9 and object design remain scene-level choices.
-
-## D-014 — Approved date and reader-misdirection overlay
-
-- **1996 early August:** Toàn born early August (specific day not locked), already conceived before the rushed summer wedding; old wedding financing and its later distinct household obligations cannot be written as an unchanged thirty-year enforceable loan.
-- **Seventh lunar month 2026:** mùng6 **Aug18** Bình sees public survey during separate paid work, asks Cường only about 1996 exterior drain repair; mùng8 **Aug20** works cut the off-grave D-013 tile/brick-drain anchor and release Thoa without exposing her bones; mùng9 **Aug21** Cường/Toàn inspect access and Cường rejects Thủy's current land benefit, which newly free spirit Thoa personally observes but stays out of early reader POV; mùng10 **Aug22** actual paid radio order for living Cường; mùng13 **Aug25** and mùng14 **Aug26** as previously lunar-relative.
-- **Mùng13 daylight:** Thủy's mùng8–noon13 fake intimidation is human, mùng13 ~14–16 she photographs **one disputed PRESENT household-account ledger entry over Cường's objection**, hides the meeting, reaches fictional Yên Phong 22–06 night shift early and works alongside real colleagues through ~22:54. After discovery/news she gets permission to leave. Bình comes to the house and leaves **before** Toàn–Cường ~22:35–45 fight. Real ghost Thoa kills Cường ~22:54 and causes expected visible nail scraps to disappear; Toàn's immediate relief turns to fear; police first collect Cường's phone formally.
-- **Funeral/vigil once body legitimately released and coffin in home (exact hour/open/closed status still staging):** the same black neighbor cat Cường hated **ACTUALLY leaps over his coffin** when oversight lapses. This event becomes the family's greatest fear and escalates blame/superstition, **but corpse never reanimates and quỷ nhập tràng never occurs**. Any concern about trùng tang belongs to fearful living characters. Cat is unrelated to the actual independently haunting spirit Cường and unrelated to Thoa's binding/murder. The earlier suggestion that an omitted thỉnh hương linh rite actually strengthened Cường's ghost remains **UNAPPROVED**.
-- **After G6a identity but before complete G6b:** Cổn falsely discredits Thủy's genuine after-death rainy-night discovery account by pointing to her separately real 2026 fake scares. Later G6c briefly confirms ghost Thoa's order/attack to reader only; subsequent daylight Lan Anh belongings visit triggers separate embodied ghost Cường storeroom/side-passage danger. Practical known kitchen exit and established large shuttered window enable active rescue; Toàn sustains a significant nonfatal shoulder injury disrupting truck work. Exact setpiece movements and clinical diagnosis open, ghost visibly withdraws with no universal banishment rule.
-- **Reader reveal:** before G6a, outsiders may plausibly believe living Thoa returned over land, pre-paid threatening radio, killed Cường and fled. Toàn/Thủy/Cổn do not get fake interior belief; G6a repudiates living theory, G6b earns human crime account and G6c discloses ghost truth. See [D-014](../author/decisions.md).
+Giữ quan hệ ngày mùng13/mùng14 khi hữu ích; ngày mùng10 không còn sự kiện đơn hàng bắt buộc. Exact clock, nguồn xác nhận Cường hoạt động sau xô xát, vị trí Cổn và tuyến về nhà cần thiết kế trước prose phụ thuộc chúng. Không dùng timestamp hoặc còn nói như kết luận y khoa. Cause có thể được kể sau consequence, nhưng chronology nội bộ phải nhất quán.

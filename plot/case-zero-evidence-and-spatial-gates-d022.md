@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — D-022 physical staging, evidence chain, and rumor-source audit
 
 **STATUS: PRODUCTION PREFLIGHT / WRITER-SELECTABLE MICRO-STAGING, NOT NEW CANON.** Read with [39-scene V2 architecture](case-zero-volume-scene-map-v2-d022-working.md) and already-existing [house-space V1](case-zero-house-space-and-setpieces-v1.md); do **not** invent a replacement house. The user asked that we consolidate review work and avoid serial approvals. Decisions marked **SELECTED FOR TRIAL** may be tested in literary prose, but original D-018 S01 and D-011–21 gates take precedence.

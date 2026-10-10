@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — S04 preflight: Một bà khách mùng mười
 
 **Status:** scene design for later manuscript prose, NOT authored S04 and NOT new magic canon. The user delegated planning/review without per-scene approvals; keep D-011–20 knowledge gates and [D-021 S01–S07 integration](case-zero-s01-s07-integration-preflight-d021.md) binding.

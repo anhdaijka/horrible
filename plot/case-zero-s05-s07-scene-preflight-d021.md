@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — S05–S07 focused pre-canon scene preflight after D-021
 
 **Status:** editorial/structural working packet to move forward after S01–S03 cleanup and S04's deferred mùng10 shop recollection. No newly invented action here is manuscript canon unless already covered by D-011–20. The user asked to complete necessary scene work without per-scene rubber-stamp approvals and later coordinate one batch gate.

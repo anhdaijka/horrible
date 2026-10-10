@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — Chợ Bến / Yên Phong independent mini-arc packets
 
 **2026-09-26. D-011 approved the V1 treatment's two independently meaningful side-story STRANDS. The specific people, losses, incidents and resolutions here are SCENE PROPOSALS, not fixed author canon or official socioeconomic research.** They should not become a didactic relay where every subplot exists to teach the reader unreliable testimony.

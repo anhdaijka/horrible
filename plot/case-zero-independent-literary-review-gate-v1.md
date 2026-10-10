@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — Independent Literary Review Gate V1 (D-020)
 
 **Authority:** [Author decision D-020](../author/decisions.md). Effective for S03 V2 and every new Case Zero prose scene; this is a CRAFT GATE, not a new plot event.

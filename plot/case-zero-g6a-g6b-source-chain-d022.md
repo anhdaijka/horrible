@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — D-022 G6a/G6b evidence provenance, without supernatural shortcut
 
 **Production-facing design, not a claim of actual gathered evidence or additional canon witness.** This explicitly resolves the **causal search trigger** left implicit in [scene map V1](case-zero-volume-scene-map-v1.md): competent human inquiry cannot uncover Thoa's secret grave simply because Bình remembers **exterior drain repair** or workers broke an **OFF-GRAVE tile**. Read with [V2 S26–S30](case-zero-volume-scene-map-v2-d022-working.md) and [D-022 evidence gate](case-zero-evidence-and-spatial-gates-d022.md).

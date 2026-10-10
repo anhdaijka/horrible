@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — House geography and physically staged horror setpieces V1
 
 **2026-09-26; D-011 author-approved volume, physical floor plan and exact ghost actions still CANDIDATES.** Use this before locking HA–HD or writing any household horror. It tests whether S06, S12, S32 and S36 can actually happen without arbitrary new doors, impossible witness sight lines or a ghost that suddenly becomes omniscient. Do NOT use prior discarded calling-voice, staircase or test-manifestation staging.

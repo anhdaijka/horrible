@@ -2,7 +2,7 @@
 
 Ngày: 2026-10-09 (Asia/Saigon).
 
-Trạng thái: **PAUSED BY AUTHOR — 2026-10-10**, sau khi có bản nháp CH-01 và CH-02. Author đã xác nhận khởi chạy ngày 2026-10-09; sau đó yêu cầu tạm dừng thử viết tự chủ A–Z, đặt công việc tiếp theo về bước chuẩn bị CH-01 cho Chat mode, giữ checkpoint và push main. Bản thử vẫn là tài liệu phát triển, không phải canon. Số chương/số từ và review thực tế nằm trong `admin/progress.json`.
+Trạng thái: **PAUSED BY AUTHOR — 2026-10-10**, sau khi có bản nháp CH-01 và CH-02. Author đã xác nhận khởi chạy ngày 2026-10-09; sau đó yêu cầu tạm dừng, giữ checkpoint và push main. Ý định chuyển Chat mode sau đó đã được author hủy: hiện viết cùng agent trong phiên này từ CH-01 theo beat author vừa cung cấp. Bản A–Z vẫn dừng, là tài liệu phát triển, không phải canon. Số chương/số từ và review thực tế nằm trong `admin/progress.json`.
 
 ## 1. Brief và phạm vi
 
@@ -106,4 +106,4 @@ Ngày 2026-10-10, author yêu cầu dừng bản thử A–Z sau CH-02 và chuy�
 
 Điểm khởi động tiếp theo là **chuẩn bị CH-01 theo workflow author-led hiện hành**: preflight nhẹ theo nguồn/canon D-008, trả lại vị trí plot, sự thật cố định, điểm nhìn/giới hạn reveal và những lựa chọn thật sự còn mở; sau đó đợi author đưa beat CH-01. Không yêu cầu author duyệt lại D-008. Không nhập prose CH-01/02 của thử nghiệm này vào manuscript chính thức nếu author chưa yêu cầu.
 
-Author trực tiếp yêu cầu lưu thay đổi liên quan, push main và cung cấp handoff cho phiên Chat mode mới. Phần công việc tự chủ A–Z được giữ làm checkpoint có thể tiếp tục theo yêu cầu sau này, nhưng hiện đang dừng.
+Author ban đầu yêu cầu lưu checkpoint/push/handoff; sau đó cùng ngày hủy việc chuyển Chat mode và yêu cầu viết từ đầu ngay trong phiên này. CH-01 chính thức được chuẩn bị theo chuỗi beat mới của author; không tiếp tục trial A–Z. Nguồn CZ-20261007 / D-008 (2026-10-07) của trial không bị quyết định tháng 9 thay thế chỉ vì Git history đưa chúng về sau. Phần công việc tự chủ A–Z giữ làm checkpoint, hiện đang dừng.

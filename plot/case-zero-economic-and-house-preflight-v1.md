@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — Family finance and physical-house preflight V1
 
 **D-011 approved Treatment V1. This supplement is a DRAFT WORKING MODEL, not proof of title, new canon debt amounts, approved floor plan or final horror mechanism.** It resolves two known treatment weaknesses before prose: an unexplained unchanged thirty-year wedding loan, and a late ghost rescue that would otherwise happen in a magically convenient room.

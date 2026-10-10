@@ -1,3 +1,5 @@
+> **HISTORICAL SEPTEMBER PLOT BASIS — superseded in conflicts by CZ-20261007 / D-008 (2026-10-07).** Read [current Case Zero](../author/case-zero-current.md) and [session-state](../author/session-state.md). This preserved document does not choose the new CH-01 beats or reinstate the ghost-order, stairs-death, police/forensic or G6 route. Compatible voice/register observations may remain usable; old scene events and readiness do not transfer automatically.
+
 # Case Zero — 1996–2026 causal/economic ledger and night-13 preflight V1
 
 **Status 2026-09-26:** Working design under D-011 author-approved *Volume Treatment V1*. Dates, exact acts, witnesses, employer and economic transaction specifics in this file are **candidate**, not automatically new canon. Preserve D-008 true Thủy night-shift alibi, core 1996 fatal shove/abandonment/coverup, and G6a/G6b/G6c evidence/reveal divisions. Companion [volume scene map](case-zero-volume-scene-map-v1.md). Do not paste this planning ledger into a fresh Writer trial.
