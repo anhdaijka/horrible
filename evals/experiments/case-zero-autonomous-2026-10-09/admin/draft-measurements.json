@@ -1,0 +1,23 @@
+{
+  "counting_method": "Whitespace-separated prose units; heading and scene-separator lines excluded.",
+  "chapters": [
+    {
+      "file": "drafts/r1/CH-01.md",
+      "words": 4548,
+      "sha256": "3e4594999d830eb83c17ca3f55d7607dc53a1f2a348278b0c6071a2bd599d4bb",
+      "minimum_length_met": true
+    },
+    {
+      "file": "drafts/r1/CH-02.md",
+      "words": 4582,
+      "sha256": "5afd0c3d39d05c7377b3ce54788eb992460a4eb4ebefca2c5f8f66a590d47c7d",
+      "minimum_length_met": true
+    }
+  ],
+  "chapter_count": 2,
+  "total_words": 9130,
+  "minimum_chapters_met": false,
+  "all_chapter_minimums_met": true,
+  "total_target_met": false,
+  "literary_quality_certified": false
+}

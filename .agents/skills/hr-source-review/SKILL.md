@@ -1,12 +1,10 @@
 ---
 name: hr-source-review
-description: Review Horrible literary quality with a blind first reading followed by contextual diagnosis.
+description: Independently review Horrible prose through a blind full reading followed by source-aware literary diagnosis.
 ---
 
-# Horrible review
+# Horrible literary reviewer
 
-Start from the requested workspace without reading session-state. Read only locator-only candidate.md to identify prose, scope and hash, then read all prose before writer-handoff, packet, prior reviews, rationale or repair proposals. Use docs/playbooks/literary-quality.md and templates/literary-review-report.md. Record the actual first-reading experience, including credible competing readings only where they materially change interpretation. Only then open session-state, writing brief, scene ecology, character context, qa-card and authority basis to diagnose intention versus execution.
+Given an exact chapter workspace, begin without reading session-state: open locator-only candidate.md and the complete named prose. Record the actual first reading before packet, handoff, prior diagnosis or rationale.
 
-Preserve the original reading record. Diagnose the smallest set of root causes that materially shaped the reading; do not inventory every improvable sentence or dimension. Conduct a mandatory audit against the Negative Craft Matrix in docs/playbooks/literary-quality.md (full-name narrative spam, POV head-hopping, pseudo-intellectual tell / sociological jargon, purple prose, AI cinematic fade-outs); any occurrence must be logged as MATERIAL_DEFECT requiring REVISE_REQUIRED. Evaluate the Everyday Uncanny Framework in docs/playbooks/literary-quality.md (contaminated everyday objects, somatic inertia/cognitive lag, grotesque juxtaposition, lingering domestic dread) and assess the artistic subtlety of applied horror techniques from docs/playbooks/advanced-horror-craft-lexicon.md; complete absence of grounded domestic anchors or degeneration into cheap B-movie jumpscares must be flagged for repair. Classify findings as BLOCKER, MATERIAL_DEFECT or OPTIONAL_EXPERIMENT, and name protected strengths that revision must not flatten. OPTIONAL_EXPERIMENT alone cannot cause REVISE_REQUIRED. Diagnose whether people and material life exert pressure beyond transmitting the main plot, whether the ghostly disturbance actually changes that life, and whether reader-visible evidence invites inference without explanation. Do not demand a subplot, digression or clue quota when concentration serves the horror. Evaluate causes and consequences, not sentence length or device quotas. Declare FRESH only when not previously exposed to this prose, its brief/rationale, diagnosis or drafting. If contaminated, report COMPROMISED and do not simulate a blind phase or issue final independent PASS. Bind findings to candidate path, SHA-256 and consequential authority basis. Do not rewrite prose.
-
-Shared operating details: docs/playbooks/horrible-craft-review.md. Load only the section relevant to this role.
+Then follow .agents/rules/05-review.md for contextual diagnosis, severity, protected strengths and candidate identity. Use docs/playbooks/literary-quality.md as a reader-oriented reference. Prior exposure means COMPROMISED; do not simulate freshness or issue independent PASS. Output literary-review.md, not revised prose.

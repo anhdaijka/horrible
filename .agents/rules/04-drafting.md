@@ -1,102 +1,29 @@
-# Drafting
+# Writer composition contract
 
-Verify from the handoff that the design gate is current, not AWAITING_AUTHOR or superseded. A stale packet is not writing authorization. Drafting has two context-separated phases.
+Write the approved author beat sequence as lived narrative. Treat the packet as story material and boundaries, with room to discover how the scene unfolds. Preserve the sequence, purpose and literary intent; local composition freedom does not authorize a replacement plot.
 
-## Generative pass — source boundary
+## Generation
 
-Read story sources only from:
+Read the bounded sources in 02-context.md. Enter the people, their present concerns, relationships and circumstances. Let choices, attention and ongoing activity give the scene its shape. Preserve the approved ghost-horror experience and information boundaries.
 
-- writing-brief.md;
-- scene-ecology.md;
-- character-context.md;
-- relevant accepted preceding prose;
-- explicitly named safe lived-context excerpts.
+You own rhythm, sentence and paragraph length, dialogue duration, silence, local action, micro-order, narrative distance within approved POV, scene/summary balance and interiority. Use the space the experience needs. Operational instructions to be concise do not govern manuscript prose.
 
-Do not preload discovery/preflight reasoning, QA, Failure Memory, rejected prose/engines, reviews, regression history, full authority files, style bibles or generic craft lexicons. The role contract itself remains active; this boundary limits story/audit sources, not the positive composition prior below.
+The author's consequential beat order remains binding. Inside it, the brief's destination does not prescribe wording, paragraph shape, transitions or local micro-order. Develop or discard local possibilities as needed. Small non-durable details, incidental interactions, temporary mistakes and ordinary kindness need no approval. They need not become clues or subplots. Existing facts, material reveals, outcomes and durable relationships/state remain binding.
 
-## Composition model — sustained narrative movement
+Retrieve missing established context through a targeted safe source. A new material design choice goes to the author; do not invent canon to fill the gap. Complete generation before opening QA or prior diagnosis.
 
-The primary first-pass generative unit is a **sustained narrative movement**: a continuous stretch of lived experience organized by one or more continuing carriers such as practical activity, social floor, physical route, viewpoint attention, relationship pressure or an unresolved local concern.
+## Narrator and attention
 
-A movement is larger than a beat, spoken turn or paragraph and smaller than a whole scene. It can contain several actions, interruptions, lines of speech, thoughts, memories, sensory impressions, bits of summary and changes of local emphasis while still remaining the same movement.
+Use the approved narrator scope: close interiority, wider storytelling, summary, retrospection, oral accounts, clearly transitioned focalization and objective observation can combine. A scene without Khanh does not automatically require camera-only prose. POV proportions and camera mode are not quotas.
 
-Before prose, silently hold the situation as a whole: what people were already doing, what work remains unfinished, who currently has social initiative, what the viewpoint is only half attending to, what pressures keep returning, and where the disturbance touches that life. Do not expose this preparation as an outline.
+Observable facts remain true; a viewpoint's interpretation can be mistaken or incomplete. Let significance lag availability inside ongoing activity, conversation and relationship. Do not make every detail a clue or pause to explain its future meaning. True friendship, ordinary help and independent ghost horror remain possible.
 
-Generate from the continuing movement rather than from the next packet fact or micro-event. The useful compositional question is: **what is still happening here, and what would genuinely reorient it?** Keep at least one carrier continuous across local events so the episode accumulates lived duration instead of restarting after each line.
+Select distance/POV fairly: do not assert innocence objectively, invent innocent private thoughts or suppress the known answer in a scene directly thinking about the concealed crime. A late return to the event may confirm and deepen already-seeded cause, never supply an unseeded major motive. Follow the packet's reveal limits and author beats.
 
-A movement yields when its organizing center actually changes: a practical activity is displaced or completed, a social purpose or floor changes substantially, attention is genuinely captured elsewhere, time or location is reoriented, or the disturbance materially changes what people can keep doing. A paragraph break, gesture, question, new fact, customer arrival or speaker change may occur inside the same movement.
+## Self-edit and handoff
 
-Carry residue forward. Unfinished work, an unanswered remark, embarrassment, irritation, a remembered detail, an object still in the way or a thought not pursued can remain active after the prose has moved on. Continuity is created by what persists as much as by what newly happens.
+Read the whole result for its actual experience: believable people, intelligible movement, rhythm, voice and intended horror. Revise at the necessary scale within approved design. No prescribed technique, sentence length, plot-density target or requirement to display every input on the page.
 
-The packet is a reference field. Story locks become silent rails once drafting starts; they are not checkpoints to demonstrate. A raw first pass must already stand on its own as storytelling rather than depending on QA to supply narrative life.
+Then use qa-card.md and targeted sources to repair consequential factual/continuity problems. Keep effective ambiguity and ordinary nonreaction where they create no contradiction. Record new durable obligations as candidate deltas.
 
-## Reveal distribution and reader inference
-
-Important facts do not automatically become scene centers. A hard clue, name, date, object mismatch or disturbing testimony may enter while work continues, be noticed only partly, sit beside unrelated concerns, or become meaningful after another movement has already begun. Do not isolate each plot-relevant fact with a pause, a follow-up question, a reaction beat and an explanatory thought merely because the reader needs access to it.
-
-Let significance lag behind availability when the lived situation supports it. The reader may connect facts before the viewpoint does, or may keep a mismatch active while the viewpoint moves on. Preserve fair presentation without turning revelation into a staircase of increasingly explicit prompts and answers.
-
-Close-third interiority is lived cognition, not author commentary on the designed effect. A character may think concretely, rationalize, dismiss, remember, associate or fail to finish a thought. Avoid converting the packet's reader-pressure logic into polished thematic explanations such as why an ordinary thing is frightening, why normality now feels wrong, or what the morning has "become" when material/social consequence already makes that shift legible. Interpretation is available when the character genuinely owns it; explanatory closure is not required.
-
-## Mode flow inside a movement
-
-Scene, summary, connective narration, interiority, direct speech and indirect speech are available on a sliding scale inside the same movement. Shift among them according to the viewpoint's lived attention and the duration the material needs.
-
-Paragraphs are rhetorical and attentional subdivisions, not units of plot progress. One movement may occupy one paragraph or several. A paragraph may carry multiple linked actions, perceptions, thoughts and lines of speech; another may pause on one image or association without implying that the scene has reset.
-
-Narration remains inside ongoing life. It can summarize a stretch of work, stay with a speaker while somebody else only half listens, follow an association, compress routine repetitions, explain familiar context, linger, skip time, or return to a topic later. It need not become a gesture-or-interpretation separator after each spoken line.
-
-Sentence and paragraph length are consequences of movement, voice and pressure, not targets. Manuscript prose does not inherit chat-response concision.
-
-## Conversation inside the movement
-
-Conversation is a substructure of the larger lived movement. Generate it from relationship, social purpose, current floor ownership and competing activity rather than from alternating response slots.
-
-A speaker may hold the floor across several sentences or several local turns while working, remembering, complaining, instructing, correcting themselves, circling a point or changing subject. Research on ordinary conversation supports larger discourse units in which a primary speaker can sustain the floor beyond a single turn-constructional unit; treat that as a normal possibility, not an exceptional flourish.
-
-A listener may give only a continuer, answer one part, answer through action, interrupt late, misunderstand, let something pass, or return after another subject has intervened. Short adjacency pairs remain natural when the relationship and pressure produce them, but they do not define the scale of the prose.
-
-Floor continuity is not a synonym for longer lines. Before yielding social initiative, ask whether another person has actually taken the floor or merely acknowledged, interrupted for work, or supplied a small response inside the same person's larger movement. A speaker may continue across narration, physical work and another person's brief insertion without being split into reply-slot transactions.
-
-Let one stretch of speech serve several purposes at once. Plot-relevant information may enter through gossip, work, complaint, memory, correction or social friction and remain partially unattended. Nobody owes the reader an immediate follow-up question, clean answer or interpretation.
-
-Familiarity does not require continuous successful banter. A tease may be ignored, a joke may fail, a complaint may receive no useful answer, two people may speak past each other, and a topic may die without a punchline. Preserve social residue rather than optimizing conversation for entertaining completion; repeated neat setup-and-return patterns can be as artificial as short adjacency-pair volleys.
-
-Narration and talk can share the same movement for as long as the social situation remains continuous. Do not allocate packet information across speakers or construct revelation as a ladder of prompts and answers.
-
-Forms of address and reference must follow the packet's actual relationship, gender/generation/status and established register. Do not manufacture locality by importing generic rural-speech classifiers, kinship terms, diminutives or honorific habits that the packet does not support. When exact wording is genuinely open, prefer a neutral natural reference that preserves known relations rather than inventing social facts.
-
-## Ordinary life, human causality and horror
-
-The chapter's ordinary processes do not exist merely to service plot facts. Work, food, money, errands, boredom, affection, status, inconvenience and dead time may continue through important information and may have local beginnings and endings of their own.
-
-Consequential behavior must have a sufficient cause inside the person's life at that moment. Use the counterfactual silently: if the later mystery payoff disappeared, would this action still make sense now? If not, rebuild the local situation rather than adding explanatory motivation. The reader may notice more than the characters pursue.
-
-Preserve approved purpose/outcome, chronology, relationships, durable state, knowledge/reveal order, verified reality and supernatural boundaries. Those are rails, not prose prompts.
-
-Let horror deform an established movement rather than automatically switching the prose into a separate effects sequence. An anomaly gains force when it alters work, attention, social behavior, space or expectation that already had continuity.
-
-Treat **dread pressure as residue carried by the movement**, not as the frequency of overt supernatural events. Once an approved fact or manifestation has made an ordinary category less stable, do not automatically restore the previous neutral baseline merely because characters resume work, joke, change topic or move location. The POV may stop thinking about it while the reader-visible object, obligation, route, social risk or mismatch remains materially active.
-
-Sustain horror through changed meaning and consequence before inventing another effect. A mundane object can remain disturbing because its ownership, timing, use or social place no longer fits; an ordinary route can remain disturbing because practical movement has been changed; testimony can remain disturbing because it has not been certified or discharged. This pressure may coexist with humor, commerce, food and family life.
-
-Prefer **consequence-borne dread** over explanation-borne dread. Once wrongness is available, let ordinary handling expose it through custody, placement, inconvenience, etiquette, money, route choice, work responsibility, spatial obstruction or social risk when those consequences belong to the ecology. The narrator does not need to restate why the situation is uncanny after the concrete world has already changed. Humor or resumed routine may continue inside that altered condition without erasing it.
-
-Do not compensate for weak dread by adding micro-scares, mandatory callbacks, ominous adjectives, bodily fear symptoms, shortened sentences, reaction beats or investigative behavior. Do not invent extra supernatural manifestations merely to keep the tone "horror." Preserve the sustained-movement, conversational-floor, human-causality and ecology-de-beating contracts while carrying approved wrongness forward.
-
-## Self-edit phase
-
-Only after a complete draft exists:
-
-1. open qa-card.md;
-2. open named hard-source excerpts only as needed;
-3. inspect the actual draft for truth/reveal/custody/continuity defects;
-4. diagnose demonstrated literary defects before consulting any matching Failure Memory entry.
-
-Self-edit must repair the prose that exists, not add visible compliance. Preserve prior candidates and record consequence-bearing deltas outside prose.
-
-Independent literary PASS belongs to review.
-
-## Handoff
-
-Write clean prose only. Keep locator-only candidate identity separate from writer-handoff/findings. Preserve previous candidates before replacement and update session-state to the actual next operation.
+Preserve versions. Deliver prose separately from locator-only candidate.md and writer-handoff.md. Compute actual SHA-256 and record scope and authority basis. Self-edit evidence, deltas and uncertainties belong in the handoff, not the blind locator. Self-edit grants neither independent review nor canon status.

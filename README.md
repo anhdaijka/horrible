@@ -1,6 +1,6 @@
 # Novel OS
 
-A free-first, agent-native operating system for writing long-form fiction with **Antigravity + Gemini**, **Story Skills**, selected fiction craft skills, **Markdown/YAML**, **Obsidian**, and **Git**.
+A free-first, agent-native operating system for writing long-form fiction with **Codex + OpenAI models**, **Story Skills**, selected fiction craft skills, **Markdown/YAML**, **Obsidian**, and **Git**.
 
 Novel OS is intentionally **not** a custom agent framework. It composes existing open tools and keeps the novel itself portable.
 
@@ -11,14 +11,14 @@ Novel OS is intentionally **not** a custom agent framework. It composes existing
 - **Author decides.** AI can propose, draft, review, and recommend; it cannot silently canonize or retcon.
 - **One source of truth.** Canon lives in the repository, not in chat memory or a second app database.
 - **Draft is not canon.** Drafted details become canon only after author approval and state update.
-- **Deterministic checks first.** Story Skills validates references, continuity, promises, questions, knowledge/object state, and other machine-checkable constraints before LLM interpretation.
+- **Checks at relevant boundaries.** Validate structured state after accepted changes; use prose reading and author response for literary judgments.
 - **Model agnostic.** The work remains Markdown/YAML + Git even if the agent/model changes later.
 
 ## Stack
 
 ### Core
 
-- Google Antigravity / Gemini as the main agent runtime
+- Codex with current OpenAI models as the main agent runtime (AGENTS.md owns routing)
 - [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) for story state + deterministic continuity
 - Selected skills from [jwynia/agent-skills](https://github.com/jwynia/agent-skills) for fiction craft
 - Markdown + YAML as canonical data
@@ -45,10 +45,12 @@ See [`docs/STACK.md`](docs/STACK.md).
 
 - Git
 - Node.js 18+ (20+ recommended)
-- Antigravity or another Agent Skills-compatible agent
+- Codex or another compatible agent host
 - Obsidian is recommended but not required
 
 ## Quick start
+
+Horrible is already initialized. Its current state is in author/session-state.md. The initialization commands below are for a new project, not a reset of this manuscript.
 
 ```bash
 git clone https://github.com/anhdaijka/novel-os.git
@@ -68,14 +70,13 @@ Then run:
 
 ```bash
 npm run tooling:check
-npm run gemini:check
 npm run workflow:check
 npm run story:check
 npm run story:doctor
 npm run story:next
 ```
 
-Open the repository root as both your Antigravity workspace and Obsidian vault.
+Open the repository root as both your Codex workspace and Obsidian vault.
 
 ## Author UX
 
@@ -95,7 +96,7 @@ Use it selectively for prose polish after story/continuity issues are resolved.
 
 ## Daily chapter loop
 
-1. **Discovery-led preflight** — diverge through distinct scene engines, select for lived motion + ghost-horror pressure + reader-detective opportunity, then verify only consequence-bearing causal hinges.
+1. **Author-led preparation** — lightweight plot/source preflight → author beat sequence → agent development inside literary intent. Verify relevant causal hinges, preserving human life, ghost horror and reader interpretation; do not select a replacement route before author beats.
 2. **Author gate** only when a material choice remains open.
 3. **Draft in two contexts** — complete the generative pass from brief, scene ecology, character context and accepted prose; only then open the separate QA card for self-edit. Keep locator-only candidate identity separate from writer handoff and deltas.
 4. **Literary review** — read only locator + prose first, then record contextual diagnosis; use the [literary standard](docs/playbooks/literary-quality.md).
@@ -104,8 +105,7 @@ Use it selectively for prose polish after story/continuity issues are resolved.
 7. **Fresh dual review** after meaningful changes.
 8. **Canon diff + author acceptance** for the exact candidate.
 9. **Promote and validate** durable story state.
-10. **Validate again**.
-11. **Commit** the accepted transition.
+10. **Commit** meaningful accepted transitions when requested; do not repeat unchanged validation.
 
 Full workflow: [`docs/WORKFLOW.md`](docs/WORKFLOW.md).
 
@@ -122,7 +122,7 @@ The automated fixture covers artifact/state transitions across three chapters, i
 
 ## Performance / stress testing
 
-Novel OS does not claim to control Gemini latency or guarantee prose quality. The deterministic/core layer is measurable and runs locally after bootstrap. See [`docs/PERFORMANCE.md`](docs/PERFORMANCE.md).
+Novel OS does not claim to control model latency or guarantee prose quality. The deterministic/core layer is measurable and runs locally after bootstrap. See [`docs/PERFORMANCE.md`](docs/PERFORMANCE.md).
 
 ```bash
 npm run stress:test
@@ -170,19 +170,19 @@ rejected/     rejected ideas that agents must not resurrect
 revisions/    review/revision working material
 templates/    chapter/review/canon/research templates
 exports/      disposable generated outputs
-.agents/      Antigravity rules + locally installed skills
+.agents/      agent rules + locally installed skills
 ```
 
 Do not create a second character database, lore database, or continuity database in another app.
 
-## First Antigravity prompt
+## First Codex prompt
 
 After bootstrap + story initialization:
 
 ```text
 Act as the Narrative Director for this repository.
-Read AGENTS.md, the workspace rules, story.md, and the current Story Skills state.
-Run the deterministic story checks before making narrative recommendations.
+Read author/session-state.md, AGENTS.md, and the sources relevant to the next task.
+Run structural checks only when the proposed action needs them.
 Do not draft prose yet.
 Tell me the current project state, unresolved setup work, and the safest next authoring action.
 ```

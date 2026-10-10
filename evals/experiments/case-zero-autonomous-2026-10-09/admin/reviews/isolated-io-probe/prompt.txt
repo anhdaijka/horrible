@@ -1,0 +1,1 @@
+This is a file-access check, not a manuscript review. Read sample.txt completely using a local file tool, compute its SHA256, and write io-check.md inside this working directory recording the exact text and hash. Do not inspect any other directory or source. Final response names the report and honestly states any tool/sandbox limitation.

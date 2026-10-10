@@ -1,0 +1,6 @@
+{"type":"thread.started","thread_id":"01a11e16-e61a-7da1-bcc2-c36320d6e543"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Under-development features enabled: skip_host_skill_discovery. Under-development features are incomplete and may behave unpredictably. To suppress this warning, set `suppress_unstable_features_warning = true` in C:\\Users\\Administrator\\.codex\\config.toml."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"error","message":"Exceeded skills context budget. All skill descriptions were removed and 36 additional skills were not included in the model-visible skills list."}}
+{"type":"item.completed","item":{"id":"item_2","type":"agent_message","text":"Chưa tạo được `io-check.md`: công cụ đọc tệp bị chính sách chặn, và sandbox chỉ cho phép đọc, không cho ghi.\n\nTôi chưa đọc được `sample.txt` hay tính SHA256; không kiểm tra thư mục hoặc nguồn nào khác."}}
+{"type":"turn.completed","usage":{"input_tokens":22106,"cached_input_tokens":10752,"cache_write_input_tokens":0,"output_tokens":212,"reasoning_output_tokens":22}}

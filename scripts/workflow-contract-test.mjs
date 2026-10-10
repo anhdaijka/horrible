@@ -2,19 +2,30 @@ import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { spawnSync } from 'node:child_process';
 import { applyCreativityFirewall, cleanManagedSkillDirectory } from './lib/skill-install-policy.mjs';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 
-function requireText(relativePath, required, forbidden = []) {
-  const source = readFileSync(join(root, relativePath), 'utf8');
-  for (const value of required) {
-    if (!source.includes(value)) throw new Error(`${relativePath} is missing workflow contract text: ${value}`);
-  }
-  for (const value of forbidden) {
-    if (source.includes(value)) throw new Error(`${relativePath} leaks blind-review content: ${value}`);
-  }
+// File identity and installation behavior only. No prose/instruction phrase assertions.
+const routes = ['preflight', 'write', 'review', 'safety', 'revise', 'canonize'];
+const roles = ['preflight', 'writer', 'review', 'safety', 'revision'];
+for (const file of [
+  'AGENTS.md', 'author/session-state.md',
+  ...routes.map((role) => `.agents/workflows/hr-${role}.md`),
+  ...roles.map((role) => `.agents/skills/hr-source-${role}/SKILL.md`),
+  ...['02-context', '03-planning', '04-drafting', '05-review'].map((rule) => `.agents/rules/${rule}.md`)
+]) {
+  if (!existsSync(join(root, file))) throw new Error(`Missing active route/source: ${file}`);
+}
+
+const resetTargets = [
+  'development/horrible/opening-design-dialogue-v2.md',
+  'development/horrible/opening-order-recognition-design.md',
+  'explorations/craft/horrible-dialogue-prose-2026-09-17.md',
+  ...[2, 3, 4, 5].map((version) => `revisions/chapter-work/CH-01-v${version}`)
+];
+for (const target of resetTargets) {
+  if (existsSync(join(root, target))) throw new Error(`Removed CH-01 target restored: ${target}`);
 }
 
 const temp = mkdtempSync(join(tmpdir(), 'horrible-workflow-'));
@@ -40,46 +51,11 @@ try {
   if (existsSync(join(skills, 'hr-source-review', 'agents', 'openai.yaml'))) throw new Error('Creativity firewall changed a project-owned role skill.');
   if (!firewall.explicitOnly.includes('dialogue') || !firewall.preserved.includes('hr-source-review')) throw new Error('Creativity firewall classified fixture skills incorrectly.');
 
-  requireText('templates/candidate.md', ['This file is a blind-review locator', 'authority-basis ID'], ['Writer self-edit:', 'Literary review:', 'Next action:']);
-  requireText('.agents/skills/hr-source-review/SKILL.md', ['without reading session-state', 'locator-only candidate.md', 'COMPROMISED']);
-  requireText('.agents/rules/03-planning.md', ['divergent discovery before convergence', 'reader-detective field', 'Author approval and packet readiness are different claims', 'credible counter-reading', 'Classify invention by consequence']);
-  requireText('.agents/rules/02-context.md', ['Writer context has two phases', 'scene-ecology.md', 'Do not read discovery-slate.md', 'Upstream skills are explicit-only']);
-  requireText('.agents/skills/hr-source-writer/SKILL.md', ['For the generative pass', 'scene-ecology.md', 'ghost-horror experience', 'After the complete generative draft exists']);
-  requireText('.agents/skills/hr-source-preflight/SKILL.md', ['create `discovery-slate.md`', 'reader-detective field', 'scene-ecology.md', 'truth readiness and creative readiness']);
-  requireText('templates/discovery-slate.md', ['Life already moving', 'Divergent scene engines', 'plot delivery swallowing the scene']);
-  requireText('templates/scene-ecology.md', ['affordance field', 'Horror intrusion', 'Reader-detective affordances', 'Local invention license']);
-  requireText('templates/writing-brief.md', ['Scene ecology: scene-ecology.md', 'Reader-detective field', 'chapter-local life']);
-  requireText('templates/qa-card.md', ['not part of the generative writer context', 'Ordinary silence']);
-  requireText('templates/literary-review-report.md', ['OPTIONAL_EXPERIMENT', 'protected strengths']);
-  requireText('.agents/skills/hr-source-safety/SKILL.md', ['Lack of an on-page question', 'incompatible later action/state']);
-  requireText('scripts/bootstrap.mjs', ['applyCreativityFirewall', 'upstream skill(s) set to explicit-only']);
-  requireText('.agents/rules/05-review.md', ['changed decision/source dependency', 'mechanism-level regression test']);
-  requireText('.agents/workflows/hr-canonize.md', ['consequential authority basis', 'no affected stale dependency']);
-  requireText('prompts/session/export-manuscript.md', ['explicitly authorized typo/format correction', 'review/approval workflow']);
-  requireText('evals/horrible-workflow-regressions.md', ['Failure case', 'Valid contrast case', 'Blind-review contamination', 'Creativity firewall routing', 'Generative context separation', 'Safety and ordinary nonreaction', 'Review triage', 'Discovery before convergence', 'Scene ecology versus plot delivery', 'Ghost-horror and reader-detective contract']);
-  requireText('GEMINI.md', ['Fail-closed startup', 'Mandatory routing', 'Non-negotiable phase boundaries', 'Machine-enforced guard', 'MUST NOT write directly to `chapters/`']);
-  requireText('.gemini/settings.json', ['"disableYoloMode": true', '"disableAlwaysAllow": true', 'horrible-workflow-session-guard', 'horrible-workflow-turn-guard', 'horrible-workflow-write-guard', 'horrible-workflow-replace-guard', 'horrible-workflow-shell-guard']);
-  requireText('.gemini/hooks/workflow-guard.mjs', ['auditGeminiWorkflow', 'exitCode = 2']);
-
-  const safeHook = spawnSync(process.execPath, ['.gemini/hooks/workflow-guard.mjs', 'tool'], {
-    cwd: root,
-    input: JSON.stringify({ tool_name: 'write_file', tool_input: { file_path: 'notes/safe.md' } }),
-    encoding: 'utf8'
-  });
-  if (safeHook.status !== 0) throw new Error(`Gemini guard rejected an unrelated write: ${safeHook.stderr}`);
-
-  const blockedHook = spawnSync(process.execPath, ['.gemini/hooks/workflow-guard.mjs', 'tool'], {
-    cwd: root,
-    input: JSON.stringify({ tool_name: 'write_file', tool_input: { file_path: 'revisions/chapter-work/CH-01-v5/draft.md' } }),
-    encoding: 'utf8'
-  });
-  if (blockedHook.status !== 2 || !blockedHook.stderr.includes('protected historical/reset target')) {
-    throw new Error('Gemini guard did not hard-block restoration of a deleted CH-01 artifact.');
-  }
-
   console.log(JSON.stringify({
     result: 'pass',
-    scope: 'deterministic workflow contract and isolated bootstrap-clean policy',
+    scope: 'route presence, removed CH-01 targets, isolated skill installation policy',
+    runtimeMutationProtection: false,
+    semanticComplianceGuaranteed: false,
     literaryQualityCertified: false
   }, null, 2));
 } finally {

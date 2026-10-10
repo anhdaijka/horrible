@@ -1,14 +1,11 @@
-# Character-grounded chapter workflow
+# Chapter workflow
 
-1. Discovery-led design before preflight: diverge through materially different scene engines, select for lived motion + horror pressure + reader-detective opportunity, then resolve only material author decisions. Stop at AWAITING_AUTHOR if needed.
-2. After resolution, prepare internal discovery-slate.md + preflight.md; generative writing-brief.md + scene-ecology.md + spoiler-safe character-context.md; and separate qa-card.md. Keep rejected engines, regression/safety material and reader-detective clue checklists out of generative files. Ecology carries processes/pressures, not optional beats.
-3. Writer: complete a generative pass from brief/ecology/context/accepted prose only; character behavior must have sufficient in-world motive independent of clue delivery. The reader may notice patterns no character pursues. Then open qa-card.md for self-edit, classify consequence-bearing deltas, and record locator-only candidate identity in candidate.md plus phase evidence in writer-handoff.md.
-4. Literary review: read candidate locator and prose before session-state, handoff, packet or prior findings; then perform contextual diagnosis. Compromised context cannot issue independent PASS.
-5. Safety review: verify facts, knowledge and only material implications whose failure creates a contradictory action, obligation or later state; ordinary nonreaction is allowed. Share genuine relational/causal defects with literary revision.
-6. Revision: may proceed on explicit author feedback or the available reviews when requested, but records missing lanes and cannot promote. Rebuild execution at the scale needed; prose and audit stay separate.
-7. Recheck the revised candidate and affected authority dependencies. Earlier PASS cannot transfer to changed bytes or a changed consequential basis.
-8. Canonize only after complete-chapter scope, independent literary PASS, safety PASS, explicit acceptance of the exact candidate and approved durable-state diff tied to that identity/basis.
+1. Lightweight source/plot check under 03-planning.md; show only relevant fixed facts, intended scope/experience, POV limits and unresolved material choices.
+2. Author supplies the beat sequence. If already supplied, proceed without asking again. Develop inside that route and compile a bounded packet only when writing is requested.
+3. Write and self-edit under 04-drafting.md; keep generation separate from QA.
+4. Independent literary reading and separate safety review under 05-review.md; revise as needed and renew affected reviews.
+5. Author accepts the exact complete candidate and durable-state diff; promote only matching approved prose/state, update continuity/registries and validate.
 
-For a demonstrated recurring craft failure, a bounded scene trial can calibrate a named repair hypothesis before a whole-chapter rewrite. Record what the trial did and did not establish before scaling. It is optional outside that situation, non-canon, and never a mandatory extra approval gate for ordinary chapters.
+An approval of broad design is not an author beat sequence or prose acceptance. A rough arrow sequence is sufficient when its intent is clear; agent supplies execution, not an unsolicited replacement plot. Scene trials are optional non-canon experiments, not a prerequisite.
 
-Preserve prior drafts and snapshot the actual working-tree workflow before broad redesign. A Git base does not capture uncommitted instructions. No new plot outcome is implied by a workflow change.
+Preserve candidates and actual working-tree instructions before broad workflow changes. D-008 marks prior Case Zero packets/tests source-dependent and stale for the new design without editing their bytes. Workflow tests check structure/install/reset behavior, not obedience, meaning or literary quality.

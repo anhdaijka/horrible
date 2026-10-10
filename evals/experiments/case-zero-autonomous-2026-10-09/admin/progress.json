@@ -1,0 +1,26 @@
+{
+  "status": "PAUSED_BY_AUTHOR",
+  "phase": "PAUSED_FOR_CHAT_MODE_HANDOFF",
+  "launch_date": "2026-10-09",
+  "paused_at": "2026-10-10",
+  "pause_after_chapter": "CH-02",
+  "scope": "Case Zero only",
+  "target_words": [
+    110000,
+    150000
+  ],
+  "minimum_chapters": 20,
+  "minimum_prose_words_per_chapter": 4000,
+  "drafted_chapters": 2,
+  "draft_word_count": 9130,
+  "reviewed_chapters": 0,
+  "contextual_editorial_chapters": 2,
+  "clean_context_prefix_read_through_chapter": 2,
+  "full_candidate_review_complete": false,
+  "safety_review_complete": false,
+  "final_reading_copy_ready": false,
+  "canonized": false,
+  "next_action": "New Chat mode: read current author/session-state.md and perform lightweight preflight for the author's requested CH-01 starting point, reconciling the latest repository authority first; then wait for the author's beat sequence. Keep this A–Z experiment paused and do not continue CH-03 or promote its drafts.",
+  "planned_chapters": 26,
+  "working_word_target": 122200
+}
