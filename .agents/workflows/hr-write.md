@@ -1,7 +1,7 @@
 ---
-description: Write and self-edit a Horrible chapter from its approved packet.
+description: Writing and self-edit for Horrible.
 ---
 
-# /hr-write <chapter>
+# /hr-write
 
-Follow .agents/skills/hr-source-writer/SKILL.md. The composition contract is .agents/rules/04-drafting.md. Use the requested workspace/version and preserve existing candidates.
+Follow `docs/WORKFLOW.md`, section "Writing and self-edit". Preserve current story authority. This alias adds no extra packet, report or approval requirement.

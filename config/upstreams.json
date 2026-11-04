@@ -3,7 +3,8 @@
     "repo": "danjdewhurst/story-skills",
     "url": "https://github.com/danjdewhurst/story-skills.git",
     "commit": "d0dd40f30c0484f9e6886f7ad12123d19a2f61e5",
-    "copy": "skills"
+    "copy": "skills",
+    "cliSha256": "143539e07946f1a4159b05853002007de6950b5be6f01938e11a712c86fbb749"
   },
   "jwynia": {
     "repo": "jwynia/agent-skills",

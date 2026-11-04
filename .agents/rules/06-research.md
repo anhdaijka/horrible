@@ -1,13 +1,3 @@
-# Research Rule
+# 06-research
 
-External research belongs under `research/` until the author promotes it into canon.
-
-For research notes, distinguish:
-- verified fact
-- source
-- date/context
-- uncertainty or dispute
-- useful story implication
-- what must not be inferred
-
-Never turn a source claim into an in-world fact automatically. Never fabricate citations, precise historical details, or scientific facts to fill gaps.
+Compatibility route. Read `docs/WORKFLOW.md` for the actual task and `AGENTS.md` for source authority. This file adds no separate requirements. Historical text was preserved before the approved 2026-11-03 simplification.

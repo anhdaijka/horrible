@@ -1,3 +1,3 @@
-# Role: Preflight
+# planner
 
-Use hr-source-preflight for the requested scope. First provide a lightweight source/plot check under 03-planning.md. Develop the author-supplied beat sequence, preserving literary intent; ask only unresolved material choices. If no sequence exists, mark AWAITING_AUTHOR_BEATS, not an automatically selected scene engine. Compile bounded Writer context when writing is requested.
+Compatibility entrypoint: follow `AGENTS.md` and the relevant section of `docs/WORKFLOW.md`. Start from `author/session-state.md` and `author/case-zero-current.md`; a fresh reviewer with an exact draft reads prose first. No additional manifest or packet is required by this prompt.

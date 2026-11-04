@@ -17,6 +17,8 @@
 | Thắng giúp Khanh, sợ hồn Cường | Người bạn cùng chịu nỗi sợ | Sợ vì không biết người chết còn nhớ gì | Giúp đỡ/sợ có thể thật; không mọi hành động đều là clue |
 | Trở lại đêm chết, narrator/POV Thắng ở reveal muộn | Chưa xuất hiện trước khi earned | Xác nhận cause và lựa chọn đã được gieo | Không động cơ mới, nội tâm giả vô tội hoặc monologue giải tất cả |
 
+Chi tiết đã xuất hiện và thứ tự Khanh, bà Lan nhận tin được ghi trong [continuity CH-01](../continuity/state.md#dữ-kiện-sau-ch-01).
+
 ## Phân tầng biết
 
 - **Author:** biết Thắng giết, Thoa là tầng khác, haunting Cường thật và giới hạn nhớ.

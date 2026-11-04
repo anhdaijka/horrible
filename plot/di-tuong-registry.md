@@ -19,7 +19,7 @@ Preflight không được đọc các nguồn đó để tìm ý tưởng, remix
 
 | ID | Mechanism / manifestation signature | Nguồn canon hoặc author ban | Trạng thái |
 |---|---|---|---|
-| — | Chưa có manifestation nào được canonize hoặc bị tác giả cấm trong manuscript hiện hành | — | OPEN |
+| CH01-BEN | Trong lời bà Vân kể, bà gặp người mang mặt và giọng Hường trong căn nhà tưởng còn nguyên. Người đánh cá thấy bà dưới nước cạnh nền nhà đã sạt. Hường về sau nói mình ở tỉnh khác. | [CH-01 — Người đợi ở bến](../chapters/chapter-01.md) | Đã xuất hiện dưới dạng lời kể, cơ chế chưa xác lập |
 
 ## Quy tắc cho Preflight
 

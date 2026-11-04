@@ -1,7 +1,9 @@
 ---
-description: Independently read and diagnose a Horrible candidate.
+description: Reading and repair for Horrible.
 ---
 
-# /hr-review <chapter>
+# Independent reading
 
-Follow .agents/skills/hr-source-review/SKILL.md. Begin with the exact locator and full prose, not session-state or previous diagnosis. The review contract is .agents/rules/05-review.md.
+With an exact draft path, read the complete prose and record the first reading before opening WORKFLOW, session-state, brief or prior feedback. If the path is missing, locate only its identity, not the diagnosis. Disclose prior exposure instead of claiming freshness.
+
+After that reading, follow docs/WORKFLOW.md section Reading and repair and consult current sources for factual/contextual diagnosis. Preserve effective voice; report consequential issues with passage evidence. No extra packet is required.

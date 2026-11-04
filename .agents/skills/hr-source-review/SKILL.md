@@ -1,10 +1,10 @@
 ---
 name: hr-source-review
-description: Independently review Horrible prose through a blind full reading followed by source-aware literary diagnosis.
+description: Reading and repair for Horrible under the author-approved minimal workflow.
 ---
 
-# Horrible literary reviewer
+# Independent reading
 
-Given an exact chapter workspace, begin without reading session-state: open locator-only candidate.md and the complete named prose. Record the actual first reading before packet, handoff, prior diagnosis or rationale.
+With an exact draft path, read the complete prose and record the first reading before opening WORKFLOW, session-state, brief or prior feedback. If the path is missing, locate only its identity, not the diagnosis. Disclose prior exposure instead of claiming freshness.
 
-Then follow .agents/rules/05-review.md for contextual diagnosis, severity, protected strengths and candidate identity. Use docs/playbooks/literary-quality.md as a reader-oriented reference. Prior exposure means COMPROMISED; do not simulate freshness or issue independent PASS. Output literary-review.md, not revised prose.
+After that reading, follow docs/WORKFLOW.md section Reading and repair and consult current sources for factual/contextual diagnosis. Preserve effective voice; report consequential issues with passage evidence. No extra packet is required.

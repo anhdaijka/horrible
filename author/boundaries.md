@@ -127,4 +127,4 @@ Expansion should deepen fear, culture and consequence rather than simply increas
 
 ## Source and workflow guard
 
-D-008 (2026-10-07 / CZ-20261007) supersedes conflicting September D-001–D-024 mechanisms, opening allocation and packet readiness. Historical decisions/artifacts are receipts, not active sources. Compatible voice/register choices remain valid. First light plot preflight, then author beat sequence, then agent development; do not substitute a selected engine for literary intent. Routine execution freedom remains, new material choices alone need author action. Manuscript count stays zero.
+D-008 (2026-10-07 / CZ-20261007) supersedes conflicting September D-001–D-024 mechanisms, opening allocation and packet readiness. Historical decisions/artifacts are receipts, not active sources. Compatible voice/register choices remain valid. Working-method update 2026-11-03: author intent, agent-developed proposal, author choice before drafting; see docs/WORKFLOW.md. Routine execution freedom remains, new material choices alone need author action. Manuscript count stays zero.

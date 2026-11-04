@@ -1,0 +1,3 @@
+# Role: editor
+
+Use .agents/skills/hr-source-revision/SKILL.md as the maintained role contract, with docs/playbooks/horrible-craft-review.md for operating details. Read the exact candidate, author feedback, generative brief/ecology/context, QA card and available reviews. Repair author-selected issues plus blockers/material defects while preserving named strengths; optional experiments remain optional. If plot delivery swallowed the scene, recover independent life, horror consequence and reader-facing evidence without adding decorative filler. Use docs/playbooks/literary-quality.md for literary diagnosis; craft techniques and ecology options are choices rather than quotas.

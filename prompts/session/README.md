@@ -1,14 +1,3 @@
-# Session Prompts
+# README
 
-These are copy/paste operational prompts for Antigravity. They orchestrate the existing role prompts and rules; they do not replace them.
-
-Suggested daily order:
-
-1. `start-session.md`
-2. `plan-next-chapter.md` when planning is needed
-3. Writer role after author approval
-4. `review-current-chapter.md`
-5. `canonize-approved.md` after explicit author approval
-6. `end-session.md`
-
-For exploratory writing, use the Writer role with `PROVISIONAL DRAFT — NOT CANON` rather than bypassing the author gate.
+Compatibility entrypoint: follow `AGENTS.md` and the relevant section of `docs/WORKFLOW.md`. Start from `author/session-state.md` and `author/case-zero-current.md`; a fresh reviewer with an exact draft reads prose first. No additional manifest or packet is required by this prompt.

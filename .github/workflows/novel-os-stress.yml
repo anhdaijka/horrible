@@ -28,7 +28,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Install pinned skills locally
+      - name: Install optional structural and export CLI
         run: npm run bootstrap -- --clean
       - name: Run mechanical stress fixture
         run: npm run stress:test

@@ -22,7 +22,7 @@ jobs:
             echo "initialized=false" >> "$GITHUB_OUTPUT"
             echo "story.md does not exist yet; Novel OS template checks are skipped."
           fi
-      - name: Install pinned Story Skills locally
+      - name: Install optional structural CLI for requested checks
         if: steps.story.outputs.initialized == 'true'
         run: npm run bootstrap -- --clean
       - name: Validate schema

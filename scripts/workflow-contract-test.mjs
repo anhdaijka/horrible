@@ -1,8 +1,9 @@
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { applyCreativityFirewall, cleanManagedSkillDirectory } from './lib/skill-install-policy.mjs';
+import { requireStoryCli } from './lib/story-cli.mjs';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 
@@ -10,12 +11,40 @@ const root = fileURLToPath(new URL('..', import.meta.url));
 const routes = ['preflight', 'write', 'review', 'safety', 'revise', 'canonize'];
 const roles = ['preflight', 'writer', 'review', 'safety', 'revision'];
 for (const file of [
-  'AGENTS.md', 'author/session-state.md',
+  'AGENTS.md', 'docs/WORKFLOW.md', 'author/session-state.md', 'author/case-zero-current.md',
   ...routes.map((role) => `.agents/workflows/hr-${role}.md`),
   ...roles.map((role) => `.agents/skills/hr-source-${role}/SKILL.md`),
   ...['02-context', '03-planning', '04-drafting', '05-review'].map((rule) => `.agents/rules/${rule}.md`)
 ]) {
   if (!existsSync(join(root, file))) throw new Error(`Missing active route/source: ${file}`);
+}
+
+// Verify local routes without installing any optional CLI or authoring skill.
+for (const file of [
+  ...routes.map((role) => `.agents/workflows/hr-${role}.md`),
+  ...roles.map((role) => `.agents/skills/hr-source-${role}/SKILL.md`)
+]) {
+  const references = readFileSync(join(root, file), 'utf8').match(/(?:docs\/WORKFLOW\.md|\.agents\/(?:rules|skills|workflows)\/[\w./-]+\.md)/g) ?? [];
+  for (const reference of references) {
+    if (!existsSync(join(root, reference))) throw new Error(`Broken route in ${file}: ${reference}`);
+  }
+}
+
+const settings = JSON.parse(readFileSync(join(root, '.gemini/settings.json'), 'utf8'));
+if (settings.hooks && Object.keys(settings.hooks).length) throw new Error('Retired Gemini hooks are still configured.');
+if (settings.security?.disableYoloMode !== true || settings.security?.disableAlwaysAllow !== true) {
+  throw new Error('Gemini security preferences were lost.');
+}
+
+// Installed optional skills, if present, must not silently join the writing route.
+for (const entry of readdirSync(join(root, '.agents/skills'), { withFileTypes: true })) {
+  if (!entry.isDirectory() || entry.name.startsWith('hr-source-')) continue;
+  const directory = join(root, '.agents/skills', entry.name);
+  if (!existsSync(join(directory, 'SKILL.md'))) continue;
+  const policy = join(directory, 'agents/openai.yaml');
+  if (!existsSync(policy) || !/^\s*allow_implicit_invocation:\s*false\s*$/m.test(readFileSync(policy, 'utf8'))) {
+    throw new Error(`Optional upstream skill is not explicit-only: ${entry.name}`);
+  }
 }
 
 const resetTargets = [
@@ -30,6 +59,12 @@ for (const target of resetTargets) {
 
 const temp = mkdtempSync(join(tmpdir(), 'horrible-workflow-'));
 try {
+  try {
+    requireStoryCli(temp);
+    throw new Error('Fresh workspace unexpectedly contains an installed CLI.');
+  } catch (error) {
+    if (error.code !== 'NOVEL_OS_STORY_CLI_MISSING') throw error;
+  }
   const skills = join(temp, '.agents', 'skills');
   mkdirSync(join(skills, 'hr-source-review'), { recursive: true });
   mkdirSync(join(skills, 'dialogue'), { recursive: true });
@@ -53,7 +88,7 @@ try {
 
   console.log(JSON.stringify({
     result: 'pass',
-    scope: 'route presence, removed CH-01 targets, isolated skill installation policy',
+    scope: 'local routes without bootstrap, retired hook configuration, explicit-only optional skills, preserved project roles',
     runtimeMutationProtection: false,
     semanticComplianceGuaranteed: false,
     literaryQualityCertified: false

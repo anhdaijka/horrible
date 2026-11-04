@@ -1,3 +1,5 @@
-# Role: reviewer
+# Independent reading
 
-Use .agents/skills/hr-source-review/SKILL.md as the maintained role contract, with docs/playbooks/horrible-craft-review.md for operating details. Given an exact workspace, begin with locator-only candidate.md and prose; do not read session-state, handoff, packet or prior findings before recording the first reading. Afterward diagnose a prioritized set of root causes, protect what already works and classify optional experiments separately from material defects. Use docs/playbooks/literary-quality.md after the blind record; craft techniques are choices rather than quotas.
+With an exact draft path, read the complete prose and record the first reading before opening WORKFLOW, session-state, brief or prior feedback. If the path is missing, locate only its identity, not the diagnosis. Disclose prior exposure instead of claiming freshness.
+
+After that reading, follow docs/WORKFLOW.md section Reading and repair and consult current sources for factual/contextual diagnosis. Preserve effective voice; report consequential issues with passage evidence. No extra packet is required.

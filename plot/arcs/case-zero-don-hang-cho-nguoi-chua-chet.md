@@ -21,7 +21,7 @@ acts: []
 
 # Case Zero — thiết kế hiện hành
 
-> **APPROVED DESIGN / NOT MANUSCRIPT CANON — D-008, 2026-10-07.** Đọc [quyết định](../../author/decisions.md) và [session-state](../../author/session-state.md). Giữ đường dẫn cũ để bảo toàn liên kết; tên “Đơn hàng cho người chưa chết” không còn là premise hoặc tên arc bắt buộc. Không chương nào được canonize.
+> **APPROVED DESIGN / NOT MANUSCRIPT CANON — D-008, 2026-10-07.** Đọc [quyết định](../../author/decisions.md) và [session-state](../../author/session-state.md). Giữ đường dẫn cũ để bảo toàn liên kết; tên “Đơn hàng cho người chưa chết” không còn là premise hoặc tên arc bắt buộc. [CH-01 — Người trong làng](../../chapters/chapter-01.md) đã canonize. Dữ kiện đã xuất hiện xem [continuity](../../continuity/state.md).
 
 ## Lõi câu chuyện đã duyệt
 
@@ -71,6 +71,6 @@ Người kể được tóm lược, hồi tưởng, kể rộng về cộng đ�
 - Số tiền, khách hàng, công trình, ngày/cách phát sinh nghĩa vụ; tên/tuổi vợ Thắng và tên chính thức của Sơn.
 - Dữ kiện cụ thể đủ nâng đỡ reveal: dùng nguồn đời thường, giữ phạm vi người biết; chưa có một vật hay câu thoại được chứng nhận tự giải án.
 - Manifestation mới, mức hậu quả cụ thể, cách Cường rút lui; trạng thái cuối của Thắng/Thoa, quan hệ vợ chồng và quyền tài sản chưa tự được khóa.
-- Chuỗi beat và phân chương do author cung cấp sau preflight nhẹ. Không mặc định quay lại CH-01 mùng14/CH-02 đơn mùng10.
+- Theo duyệt quy trình ngày 03/11/2026, agent đề xuất chuỗi diễn biến từ ý đồ tác giả; tác giả chọn trước khi viết. Không mặc định quay lại CH-01 mùng14/CH-02 đơn mùng10.
 
 Những đề xuất pháp y/DNA/dấu máu sau này đã bị hướng mới thay thế; không lấy chúng làm gate còn thiếu. Không nhập ngược đơn hàng, giây 22:54:32, móng tay được ma xóa, Thủy trộm rồi giả ngoại phạm, Bình rắc tro duy nhất hoặc tape 1996 vào thiết kế hiện hành. Giữ phần không xung đột: Thủy có ca làm thật, Toàn xô xát thật, nhân vật có agency và không bỗng biết trọn bí mật.

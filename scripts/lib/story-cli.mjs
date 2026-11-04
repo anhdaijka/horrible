@@ -10,7 +10,7 @@ export function requireStoryCli(root) {
   const cli = storyCliPath(root);
   if (!existsSync(cli)) {
     const error = new Error(
-      'Pinned local Story Skills CLI is not installed. Run `npm run bootstrap` first.'
+      'Optional structural/export CLI is not installed. Run `npm run bootstrap` for CLI commands. Reading and writing fiction do not require it.'
     );
     error.code = 'NOVEL_OS_STORY_CLI_MISSING';
     throw error;

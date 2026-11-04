@@ -48,7 +48,7 @@ for (const path of requiredFiles) {
 }
 
 const cli = storyCliPath(root);
-record('local-story-cli', existsSync(cli), existsSync(join(root, 'story.md')) ? 'error' : 'warning', existsSync(cli) ? cli : 'Run `npm run bootstrap` to install pinned skills locally');
+record('local-story-cli', existsSync(cli), 'warning', existsSync(cli) ? cli : 'Optional validation/export CLI absent. Writing needs no bootstrap; install only for CLI operations.');
 
 if (existsSync(join(root, 'story.md')) && existsSync(cli)) {
   try {

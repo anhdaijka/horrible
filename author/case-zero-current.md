@@ -29,6 +29,6 @@ Phần giọng/nhân vật không xung đột tiếp tục dùng: danh xưng cô
 
 ## Công việc hiện tại
 
-Author ngày 10/10 đã chọn tiếp tục viết cùng agent **trong phiên hiện tại, từ CH-01**. Thử nghiệm A–Z vẫn paused; giữ CH-01/02 thử đúng bytes, không tự nhập vào manuscript. Preflight nhẹ → author đưa beat → phát triển trong ý đồ → viết khi packet đủ. **AUTHOR_BEATS_RECEIVED:** shop/laptop → chuyện ma được kể dài tự nhiên → Khanh thấy tin treo cổ trên mạng → mẹ/khách chưa biết → người xóm Trại thuật cái chết/cái xác và phản ứng Lan Anh, Toàn, gia đình. Beat receipt ở workspace CH-01 mới được trỏ từ session-state; không lấy đường mở đầu tháng 9 làm thay thế.
+[CH-01 — Người trong làng](../chapters/chapter-01.md) là chương chính thức từ ngày 04/11/2026. [Continuity](../continuity/state.md) ghi các dữ kiện đã được duyệt cùng chương. Xem [trạng thái phiên](session-state.md) và [quy trình](../docs/WORKFLOW.md) cho phần tiếp theo.
 
-Giờ/phòng/hành trình, số tiền/công trình/khách, tên chính thức nhân vật hỗ trợ, manifestation và hậu quả cuối còn mở ở mức thiết kế. Chỉ cần hỏi khi beat đòi một lựa chọn mới có hậu quả. Không mở lại canon đã duyệt. Manuscript chính thức vẫn 0 chương canonized.
+Giờ/phòng/hành trình, số tiền/công trình/khách, các nhân vật hỗ trợ chưa được đặt tên, manifestation và hậu quả cuối chưa chốt vẫn là lựa chọn mở. Thử nghiệm A–Z vẫn paused.

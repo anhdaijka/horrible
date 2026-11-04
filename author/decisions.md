@@ -422,3 +422,37 @@ Approved V2 realizes the existing D-023 default narrator/village `cụ Cổn`, C
 D-008 (2026-10-07) thay phần xung đột của các D-001–D-024 thuộc cơ sở thiết kế tháng 9, directives/packets, gồm order/refusal/custody, opening mùng14→CH02mùng10, Thoa execution, giây22:54:32, clean nails, police trap và stale READY. Decision log cũ giữ để truy vết; drafts/tests giữ nguyên bytes, không active context cho nền mới hoặc manuscript canon. Không sửa/xóa unaccepted prose hay phục dựng deleted attempts.
 
 Exact giờ/phòng/routes, số tiền/công trình/identity hỗ trợ, manifestations, trạng thái cuối Thắng/Thoa và hậu quả cụ thể chưa được chốt. New author beats chưa có. Không thêm blood/DNA readiness gate. Approval design không xác minh nghiệp vụ/văn hóa hoặc chất lượng prose. Các nguồn thay đổi chỉ là design baseline; chapter count vẫn zero. Xem current arc, timeline và matrix.
+
+
+## Workflow approval — 2026-11-03 (process only)
+
+Author selected collaboration B: author gives intent; agent develops proposed events for author choice before writing. Priorities: deep psychology/relationships, story organization, narration/dialogue. Reported failures: meaningless details, illogical behavior, rambling, false dialogue, shallow treatment; specifically the current CH-01 shop ghost story feels contrived, fragmented and not frightening. References: Bóng người dưới trăng; Ngôi mộ bên sông. Author prefers Gemini's prose voice while noting logic errors.
+
+Author approved preserving latest plot decisions and rebuilding Novel OS as a minimal working system. Explicit approval message: “duyệt”, following the seven-step plan. Sole operating process: docs/WORKFLOW.md. No plot revision, new prose acceptance or automatic continuation of A–Z was approved. Any new embedded-story direction still requires author choice before writing the trial.
+
+
+## Writer selection and approved trial — 2026-11-03
+
+Author approved the 20261103-v2 embedded-story brief (“Duyệt brief”), then superseded the Gemini writer preference: “Không lấy Gemini viết nữa, giờ dùng Codex hoặc chatGPT làm writer chính, bạn viết luôn đi”. Codex/ChatGPT is now primary writer. Approval covers writing the selected trial; it is not acceptance of the resulting prose or promotion into canon. Latest plot decisions remain unchanged.
+
+
+## Embedded story approval — 2026-11-04
+
+Author approved “Người đợi ở bến” with “Duyệt, khá hay và tự nhiên đó”. Exact prose: `revisions/chapter-work/CH-01-CZ20261007-20261103-v2/draft-v2.md`, SHA-256 `5ddad1a74c7f143ae04cca1b0672afa6eb8f7b61ef345a9940720eaaa52da418`. Scope: embedded story prose for CH-01. The assembled chapter awaits its own review and acceptance.
+
+
+## Canon acceptance CH-01 — 2026-11-04
+
+Author replied “Duyệt” to the request to accept exact CH-01 v2 and the durable facts in the reviewed [brief](../revisions/chapter-work/CH-01-CZ20261007-20261103-v2/brief.md). Independent literary and factual checks completed for the v2 candidate, SHA-256 `22bcbf863c5a02ee046a4c8911602392e22f9a9918790429e1493df56641968c`. Promoted to [CH-01 — Người trong làng](../chapters/chapter-01.md), with accepted facts recorded in [continuity](../continuity/state.md).
+
+
+## CH-02 direction and horror craft preference — 2026-11-04
+
+The author replied “Duyệt” to [Qua cửa buồng](../revisions/chapter-work/CH-02-CZ20261007-20261104-v1/brief.md). The apparition takes place the following evening in the couple’s room. Lan Anh was first to discover Cường’s body the previous night, and Toàn arrived afterward. Their reaction to the apparition is fear, withdrawal and doubt about what they saw, followed by fear of entering their own home. The accepted direction is ready to draft.
+
+Carry this preference into subsequent horror scenes. Give ordinary people credible fear and uncertainty when the dead appear. Let that fear change where they can go, whom they ask for help and what they can bring themselves to do. Grief can coexist with fear. A character approaching or trying to retain a spirit requires a specific motive and a believable progression. Emphasize the intrusion across the boundary of the living and the dead.
+
+
+## Chapter scale and CH-02 expansion — 2026-11-04
+
+Author replied “Duyệt” to the CH-01 scale as the chapter default (around 6,900 Story Skills word-count units, working range 6,500–7,500) and to the three interwoven CH-02 threads. Chapters work from reader knowledge, feeling and open questions. Slow burn develops through causal or horror stories alongside the main movement, followed by changes in what characters can bring themselves to do. See [workflow](../docs/WORKFLOW.md) and [CH-02 brief](../revisions/chapter-work/CH-02-CZ20261007-20261104-v1/brief.md). This approval selects direction and chapter scale.

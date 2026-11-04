@@ -532,7 +532,7 @@ Cộng đồng có người tử tế, người tò mò, người tránh phiền
 
 ### 29.2 Khanh có việc phải chọn, không bắt buộc mắc bẫy nghi lễ
 
-Ở Case Zero, việc tiệm, quan hệ với Lan Anh/Thắng, trải nghiệm bị ám và nhu cầu bảo vệ người quen có thể kéo Khanh vào. Anh có dự định/công việc riêng, không nhận nhiệm vụ phá án hoặc phụ thuộc một sổ đơn Thoa đã bị bỏ. Hành động phát triển theo chuỗi beat của author và phần anh thực biết.
+Ở Case Zero, việc tiệm, quan hệ với Lan Anh/Thắng, trải nghiệm bị ám và nhu cầu bảo vệ người quen có thể kéo Khanh vào. Anh có dự định/công việc riêng, không nhận nhiệm vụ phá án hoặc phụ thuộc một sổ đơn Thoa đã bị bỏ. Hành động phát triển theo hướng diễn biến tác giả đã chọn và phần anh thực biết.
 
 Bẫy tâm linh, phạm kỵ và cảm giác bị lây nhiễm chỉ dùng khi thiết kế cảnh thực sự cần; không bắt anh thành vật hiến tế qua một động tác vụn.
 

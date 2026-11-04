@@ -42,6 +42,6 @@ Khanh is neither a ghost hunter nor a chosen medium. He checks ordinary causes b
 
 ## Volume 1
 
-Working thematic title: **Những chuyện tưởng đã kết thúc**. Case Zero is the active opening arc; the old order-premise title is not mandatory. **0 chapters canonized.** D-008 (2026-10-07) synchronizes author-approved design: Cường found hanged and believed to have killed himself, actually murdered by Thắng; continuing real Cường haunting; independent hidden Thoa tragedy; late reveal through everyday sources and flexible narrator. No police/forensic discovery engine or ghost-order prerequisite.
+Working thematic title: **Những chuyện tưởng đã kết thúc**. Case Zero is the active opening arc; the old order-premise title is not mandatory. **1 chapter canonized.** [CH-01 — Người trong làng](chapters/chapter-01.md). D-008 (2026-10-07) synchronizes author-approved design: Cường found hanged and believed to have killed himself, actually murdered by Thắng; continuing real Cường haunting; independent hidden Thoa tragedy; late reveal through everyday sources and flexible narrator. No police/forensic discovery engine or ghost-order prerequisite.
 
-Current next workflow: lightweight plot-following preflight → author supplies beat sequence → development/packet within intent. Older CH-01-v6/B10 materials remain preserved, stale for this design and not a READY writing authorization. Read author/session-state.md and the active arc before work.
+Current next workflow: author intent → agent proposes a direction → author chooses before drafting. Older CH-01-v6/B10 materials remain preserved, stale for this design and not a READY writing authorization. Read author/session-state.md and the active arc before work.

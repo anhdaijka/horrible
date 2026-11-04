@@ -1,3 +1,15 @@
-# Chapter preparation router
+# Chapter brief
 
-For Horrible, use templates/discovery-slate.md for internal divergence, templates/chapter-preflight.md for internal authority, templates/writing-brief.md + templates/scene-ecology.md + templates/character-context.md for generation, and templates/qa-card.md for post-generation verification. This older entrypoint routes to those templates; it must not introduce a second checklist, leak rejected engines/QA into generative context or impose a physical-detail, subplot or clue quota.
+Author intent and scope:
+
+Proposed direction, causal/relationship reasoning and any material choice:
+
+Author-selected direction and approval basis:
+
+People, situation and relevant sources needed to write:
+
+Necessary knowledge/reveal boundaries:
+
+Draft version / review / acceptance record when applicable:
+
+Use only sections needed for the task. Do not duplicate this brief into several packets.

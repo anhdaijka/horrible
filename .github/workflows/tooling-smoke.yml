@@ -46,15 +46,28 @@ jobs:
         run: npm run tooling:check
       - name: Detect optional capabilities
         run: npm run capabilities
-      - name: Install pinned skills
-        run: npm run bootstrap -- --clean
-      - name: Check Horrible workflow contracts and preserved project skills
+      - name: Check writing routes without optional bootstrap
         run: npm run workflow:check
-      - name: Run Novel OS doctor
-        run: npm run os:doctor
-      - name: Verify core Story Skill
-        shell: bash
-        run: test -f .agents/skills/story-init/SKILL.md
-      - name: Verify selected craft skill
+      - name: Install optional structural and export CLI
+        run: npm run bootstrap -- --clean
+      - name: Verify structural-only default
+        run: node --input-type=module -e "import { existsSync } from 'node:fs'; if (!existsSync('.agents/skills/story-maintenance/scripts/story.js') || existsSync('.agents/skills/story-maintenance/SKILL.md') || existsSync('.agents/skills/story-sense/SKILL.md')) process.exit(1);"
+      - name: Check scene fallback and export packages in an isolated fixture
+        run: npm run story-cli:test
+      - name: Check preserved project roles after installation
+        run: npm run workflow:check
+
+  optional-craft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install explicitly requested craft skills
+        run: npm run bootstrap -- --clean --with-craft-skills
+      - name: Verify opt-in skill is installed
         shell: bash
         run: test -f .agents/skills/story-sense/SKILL.md
+      - name: Check optional skills stay explicit-only
+        run: npm run workflow:check

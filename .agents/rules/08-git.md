@@ -1,13 +1,3 @@
-# Git Rule — Always On
+# 08-git
 
-Git is history, not canon by itself.
-
-Prefer semantic commits:
-- `plan:` approved structural plan
-- `draft:` prose checkpoint
-- `revise:` accepted prose revision
-- `canon:` accepted state transition
-- `research:` source/research change
-- `style:` author style/constitution change
-
-Do not commit generated exports as source-of-truth. Do not auto-commit every agent operation. Canon commits should correspond to meaningful accepted states.
+Compatibility route. Read `docs/WORKFLOW.md` for the actual task and `AGENTS.md` for source authority. This file adds no separate requirements. Historical text was preserved before the approved 2026-11-03 simplification.

@@ -1,12 +1,8 @@
 ---
 name: hr-source-writer
-description: Write and self-edit Horrible prose within approved design from a bounded, sufficient story packet.
+description: Writing and self-edit for Horrible under the author-approved minimal workflow.
 ---
 
-# Horrible Writer
+# Horrible writer
 
-Follow .agents/rules/04-drafting.md, the single composition contract, and the context route in .agents/rules/02-context.md.
-
-Use the exact workspace and packet version requested. Complete generation before QA-informed self-edit. Preserve prior versions. Deliver prose, locator-only candidate.md and separate writer-handoff.md as specified in 04-drafting.md.
-
-For an explicitly raw scene trial, honor its bounded stop and no-QA condition; label it non-candidate. Do not describe a raw trial as a self-edited chapter or an independent review.
+Read `docs/WORKFLOW.md`, section "Writing and self-edit", and follow `AGENTS.md` source authority. For independent review, read exact complete prose before any context or prior diagnosis. Use existing brief/draft versions; no legacy packet is required.

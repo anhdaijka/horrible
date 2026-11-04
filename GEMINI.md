@@ -1,7 +1,3 @@
-# Optional Gemini adapter
+# Horrible — Gemini
 
-OpenAI models are the default for this repository. Use Gemini only when the author chooses it.
-
-Follow current AGENTS.md and its role routes. There is no separate Gemini creative contract. Legacy per-turn workflow hooks and gemini:check were retired on 2026-09-23; their historical snapshot is not active configuration.
-
-The retained .gemini/settings.json contains security preferences only. Review and author-acceptance boundaries apply regardless of host.
+For independent review with an exact draft, read and record the complete prose first, before any state, workflow or feedback. For other tasks read AGENTS.md, author/session-state.md and author/case-zero-current.md. Follow docs/WORKFLOW.md for the actual task. Codex/ChatGPT is the current author-selected primary writer; Gemini is used only if the author selects it again. A fresh independent reviewer reads the exact prose first. Preserve approved plot and existing drafts. No bootstrap or historical marker hook is needed for writing.

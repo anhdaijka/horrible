@@ -1,27 +1,17 @@
 # Session State — Horrible
 
-## Current work — write together from CH-01, 2026-10-10
+## Current work — 2026-11-03
 
-Author no longer wants to move to Chat mode; continue in this session from preparation of CH-01. The autonomous A–Z trial remains **PAUSED BY AUTHOR** after two experimental draft chapters. Do not resume CH-03 or import either draft into official prose without direct instruction. Keep the drafts/candidates and their bytes intact.
+Author approved the minimal-workflow redesign after audit and clarification. `docs/WORKFLOW.md` now owns process: author intent → agent proposal → author choice → Codex/ChatGPT writing/self-edit → independent literary/factual reading → exact author acceptance. The author no longer has to supply every beat. Latest plot decisions remain unchanged.
 
-**AUTHOR_BEATS_RECEIVED — CH-01, 2026-10-10.** Author supplied: bà Lan/Khanh at the shop with laptop → extended village ghost-story conversation among mother/customers → Khanh sees viral local hanging/suicide news online → asks; mother/customers do not know → a customer from xóm Trại recounts Cường's death/body and the family's distress. Preserve order, natural sustained storytelling and attention to Lan Anh/Toàn/family emotion. Next: complete the bounded packet and write/self-edit the chapter. Workspace: `revisions/chapter-work/CH-01-CZ20261007-20261010-v1/`. No repeated canon approval. Roles route through `.agents/rules/02-context.md`, `03-planning.md` and `04-drafting.md`.
+Author priorities: deep psychology/relationships, story organization, natural narration/dialogue. Specific CH-01 feedback: the embedded shop ghost story is contrived, fragmented and not frightening. References selected: Bóng người dưới trăng; Ngôi mộ bên sông. The author subsequently selected Codex/ChatGPT as primary writer, explicitly replacing the earlier Gemini preference.
 
-## Current Case Zero authority
+Current chapter: [CH-01 — Người trong làng](../chapters/chapter-01.md), canonized on 2026-11-04 after the author accepted exact v2 and the durable facts in its brief. Approved prose SHA-256 `22bcbf863c5a02ee046a4c8911602392e22f9a9918790429e1493df56641968c`. The independent literary and factual review is recorded in the [chapter brief](../revisions/chapter-work/CH-01-CZ20261007-20261103-v2/brief.md).
 
-Read [Case Zero current](case-zero-current.md), source key **CZ-20261007 / D-008 (2026-10-07)**. Then load only the relevant [arc](../plot/arcs/case-zero-don-hang-cho-nguoi-chua-chet.md), [timeline](../plot/timeline.md), [knowledge matrix](../plot/case-zero-clue-and-epistemic-matrix.md), character profiles and verified research.
+Current source: `author/case-zero-current.md`, CZ-20261007 / D-008 dated 2026-10-07. **1 canonized chapter, 6924 Story Skills word-count units.** [Continuity](../continuity/state.md) records the approved facts. October decisions outrank conflicting September receipts regardless of Git order. Removed/rejected openings and historical prototypes are not current writing examples.
 
-Cường is found hanged, believed suicide, actually deliberately murdered by Thắng. Thoa is a separate concealed 1996 family tragedy; no mandatory ghost order or Thoa killing Cường. Real Cường haunting persists with fragmented memory. Thắng reads initially as Khanh's companion and is revealed late. Discovery grows from haunting, relations, memory/work and ordinary life; no police/autopsy/forensic discovery engine. Flexible narration, honest observed facts and potentially mistaken POV interpretation are approved.
+Current working draft: CH-02 “Qua cửa buồng” at `revisions/chapter-work/CH-02-CZ20261007-20261104-v1/draft-v4.md`, 7008 Story Skills word-count units, SHA-256 `821393312953f56c9f420ec3d75aebb82a2e0a43dd13938125e8eee48d013d4a`. The author approved CH-01 scale as the default (around 6,900, working range 6,500–7,500) and the three CH-02 threads. The expanded chapter is self-edited and ready for author reading. The [brief](../revisions/chapter-work/CH-02-CZ20261007-20261104-v1/brief.md) records reader outcomes and proposed durable facts. The A–Z experiment remains PAUSED BY AUTHOR.
 
-## Source repair — 2026-10-10
+Snapshot before redesign: `D:/Documents/Others/Composer/horrible-before-simplification-20261103-214732/` (workspace.zip + SHA-256 manifest). Earlier operational documents are also preserved under `revisions/workflow-archive/20261103-before-minimal/` for explicit audit only.
 
-The previous push mistakenly prioritized September remote history over the author's October 7 replacement. It left the approved October source sync in stash while routing back to D-024 (2026-09-29). This is a source-integration error, not a reversal of author approval. The October sources are now restored; September receipts remain historical where they conflict. There are two date-distinct D-008 labels in the log: always qualify by date. Git commit count/order and numeric decision ID do not establish authorial recency.
-
-The earlier Chat mode handoff, `CHATGPT_SESSION.md` and September `chat-memory/case-zero/` files are **not active context for this session**. Author explicitly stopped that handoff work. Start here and at `author/case-zero-current.md`; do not import their old plot or stale next actions. Compatible voice/register decisions are retained in current sources.
-
-## Manuscript and preservation
-
-**0 canonized chapters; 0 official manuscript words.** Earlier scene acceptances S01/S05 and editorial variants were for the September plot basis; their prose is preserved, not automatically accepted for the October design. Historical CH-01-v6/C3/B10/M04/M04-R1 stay preserved and are not current Writer examples. No removed opening is recovered.
-
-The A–Z trial at `evals/experiments/case-zero-autonomous-2026-10-09/` has CH-01 and CH-02 drafts, 9,130 whitespace-counted prose units total. No whole-story literary/safety PASS or author acceptance. See its `admin/progress.json`; the author-led CH-01 task starts separately.
-
-Canonization still requires exact complete-chapter acceptance, independent literary PASS, safety PASS and an approved durable-state diff. Preparation/source repair adds none of those. Current manifestations must be reasoned from the supplied beat's ecology, then checked against `plot/di-tuong-registry.md` and current canonized prose.
+Delivery status: current edits and CH-01 workspace are local and uncommitted until an actual commit/push is reported. A remote clone does not yet include this redesign or the candidate workspace.

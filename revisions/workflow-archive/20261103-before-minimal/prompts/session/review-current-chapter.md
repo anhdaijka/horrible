@@ -1,0 +1,3 @@
+# Review current candidate
+
+Given the exact workspace, run hr-source-review without reading session-state first: locator-only candidate.md and full prose, then record actual first reading. Only afterward open handoff, generative packet, qa-card, prior reviews and session-state for a prioritized contextual diagnosis. Separate BLOCKER/MATERIAL_DEFECT from OPTIONAL_EXPERIMENT and protect strengths. Run hr-source-safety against the same candidate bytes and consequential authority basis; do not require visible reactions. Record exact identity, source freshness and real independence; update handoff after both lanes.

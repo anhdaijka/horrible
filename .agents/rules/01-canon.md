@@ -1,18 +1,3 @@
-# Canon — Always On
+# 01-canon
 
-Repository canon outranks chat memory and model assumptions.
-
-Priority:
-1. explicit current author decision
-2. current `author/decisions.md`, applicable author directives and current author boundaries
-3. approved manuscript facts consistent with structured continuity state
-4. current project operating rules for process questions
-5. optional style/craft guidance
-6. provisional notes
-7. model/chat memory
-
-Story Skills schemas describe storage and continuity mechanics; they do not override a current author decision or make optional craft advice binding. When two repository sources conflict, prefer the newer explicit decision and report the unresolved conflict instead of silently merging them.
-
-Draft prose is not automatically canon. Research is not canon. Rejected material is not inspiration unless explicitly requested.
-
-When required canon is absent, flag the gap. Do not invent durable facts merely to make a draft easier.
+Compatibility route. Read `docs/WORKFLOW.md` for the actual task and `AGENTS.md` for source authority. This file adds no separate requirements. Historical text was preserved before the approved 2026-11-03 simplification.

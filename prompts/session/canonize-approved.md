@@ -1,3 +1,3 @@
-# Canonize approved candidate
+# canonize-approved
 
-Follow .agents/workflows/hr-canonize.md. Verify complete-chapter scope, candidate SHA-256 and consequential authority basis across literary PASS, safety PASS, canon diff and explicit author acceptance. Apply only the approved durable diff; validate and update all active handoff surfaces.
+Compatibility entrypoint: follow `AGENTS.md` and the relevant section of `docs/WORKFLOW.md`. Start from `author/session-state.md` and `author/case-zero-current.md`; a fresh reviewer with an exact draft reads prose first. No additional manifest or packet is required by this prompt.
